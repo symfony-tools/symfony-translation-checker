@@ -14,7 +14,7 @@
             <ul class="navbar-nav mr-auto">
                 {% for v in availableVersions %}
                 <li class="nav-item{% if v == version %} active{% endif %}">
-                    <a class="nav-link" href="{{ path('index', {version: v}) }}.html">{{ v }}</a>
+                    <a class="nav-link" href="{{ path('index', {version: v}) }}{% if v != default_version %}.html{% endif %}">{{ v }}</a>
                 </li>
                 {% endfor %}
             </ul>
@@ -106,8 +106,8 @@
         &lt;target&gt;This password has been leaked in a data breach, it must not be used. Please use another password.&lt;/target&gt;
     &lt;/trans-unit&gt;
     &lt;trans-unit id="94"&gt;
-        &lt;source&gt;This value should be between &#123;&#123; min &#125;&#125; and &#123;&#123; max &#125;&#126;.&lt;/source&gt;
-        &lt;target&gt;This value should be between &#123;&#123; min &#125;&#125; and &#123;&#123; max &#125;&#126;.&lt;/target&gt;
+        &lt;source&gt;This value should be between &#123;&#123; min &#125;&#125; and &#123;&#123; max &#125;&#125;.&lt;/source&gt;
+        &lt;target&gt;This value should be between &#123;&#123; min &#125;&#125; and &#123;&#123; max &#125;&#125;.&lt;/target&gt;
     &lt;/trans-unit&gt;
             </code></pre>
 
@@ -127,8 +127,8 @@
         &lt;target&gt;Det här lösenordet har läckt ut vid ett dataintrång, det får inte användas. Använd ett annat lösenord.&lt;/target&gt;
     &lt;/trans-unit&gt;
     &lt;trans-unit id="94"&gt;
-        &lt;source&gt;This value should be between &#123;&#123; min &#125;&#125; and &#123;&#123; max &#125;&#126;.&lt;/source&gt;
-        &lt;target&gt;Detta värde bör ligga mellan &#123;&#123; min &#125;&#125; och &#123;&#123; max &#125;&#126;.&lt;/target&gt;
+        &lt;source&gt;This value should be between &#123;&#123; min &#125;&#125; and &#123;&#123; max &#125;&#125;.&lt;/source&gt;
+        &lt;target&gt;Detta värde bör ligga mellan &#123;&#123; min &#125;&#125; och &#123;&#123; max &#125;&#125;.&lt;/target&gt;
     &lt;/trans-unit&gt;
             </code></pre>
 

@@ -62,3 +62,6 @@ jobs:
           git commit -m "Update data files"
           git push
           echo "::endgroup::"
+
+
+#    - aws s3 sync ./public/static s3://${ASSET_BUCKET:-happyr-assets}/$REVERSE_DOMAIN/static --profile default --cache-control max-age=31449600,immutable
