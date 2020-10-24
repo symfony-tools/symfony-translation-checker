@@ -42,6 +42,7 @@ jobs:
           cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/5.x.json
 
       - name: Commit & push the new files
+        id: commit_push
         run: |
           echo "::group::git status"
           cd source
@@ -51,6 +52,7 @@ jobs:
           git add -N .
           if [[ $(git diff --numstat | wc -l) -eq 0 ]]; then
             echo "No changes found. Exiting."
+            run: echo "::set-output name=publish::false"
             exit 0;
           fi
 
@@ -62,6 +64,7 @@ jobs:
           git commit -m "Update data files"
           git push
           echo "::endgroup::"
+          run: echo "::set-output name=publish::true"
 
       - name: Build website
         run: |
@@ -69,6 +72,7 @@ jobs:
           bin/console app:build-website
 
       - name: Deploy website
+        if: ${{ github.event_name == 'push' || steps.commit_push.outputs.publish == 'true' }}
         uses: ItsKarma/aws-cli@v1.70.0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
