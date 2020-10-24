@@ -52,7 +52,7 @@ jobs:
           git add -N .
           if [[ $(git diff --numstat | wc -l) -eq 0 ]]; then
             echo "No changes found. Exiting."
-            run: echo "::set-output name=publish::false"
+            echo "::set-output name=publish::false"
             exit 0;
           fi
 
@@ -64,7 +64,7 @@ jobs:
           git commit -m "Update data files"
           git push
           echo "::endgroup::"
-          run: echo "::set-output name=publish::true"
+          echo "::set-output name=publish::true"
 
       - name: Build website
         run: |
