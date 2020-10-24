@@ -63,5 +63,14 @@ jobs:
           git push
           echo "::endgroup::"
 
+      - name: Build website
+        run: |
+          cd source
+          bin/console app:build-website
 
-#    - aws s3 sync ./public/static s3://${ASSET_BUCKET:-happyr-assets}/$REVERSE_DOMAIN/static --profile default --cache-control max-age=31449600,immutable
+      - name: Deploy website
+        uses: chrislennon/action-aws-cli@v1.1
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: aws s3 sync ./source/build s3://symfony-translations.nyholm.tech --profile default --cache-control max-age=7200
