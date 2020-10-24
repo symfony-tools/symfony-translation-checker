@@ -1,3 +1,6 @@
-#index:
-#    path: /
-#    controller: App\Controller\DefaultController::index
+index:
+    path: /{version}
+    controller: App\Controller\StartpageController::index
+    methods: GET
+    defaults:
+        version: '%default_version%'

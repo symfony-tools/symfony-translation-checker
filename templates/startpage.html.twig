@@ -1,0 +1,54 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+        <a class="navbar-brand" href="#">Symfony Translation stats</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse"
+                data-target="#navbarsExampleDefault"
+                aria-controls="navbarsExampleDefault" aria-expanded="false"
+                aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav mr-auto">
+                {% for v in availableVersions %}
+                <li class="nav-item{% if v == version %} active{% endif %}">
+                    <a class="nav-link" href="{{ path('index', {version: v}) }}">{{ v }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </nav>
+
+    <main role="main" class="container" style="margin-top: 5rem">
+
+        <h1>Bootstrap starter template</h1>
+        <p class="lead">Use this document as a way to quickly start any new
+            project.<br> All you get is this text and a mostly barebones
+            HTML document.</p>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Language</th>
+                    {% for component, rows in data['English (en)'] %}
+                    <th>{{ component }}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for locale, rows in data %}
+                    <tr>
+                        <td>{{ locale }}</td>
+                        {% for missing in rows %}
+                        <td>{{ missing }}</td>
+                        {% endfor %}
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+    </main><!-- /.container -->
+
+{% endblock %}
