@@ -1,0 +1,64 @@
+name: Generate data files
+
+on:
+  schedule:
+    - cron: '0 6,15 * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Generate
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up PHP
+        uses: shivammathur/setup-php@2.1.2
+        with:
+          php-version: 7.4
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          path: 'source'
+
+      - name: Checkout Symfony repo
+        run: git clone -–depth 2 https://github.com/symfony/symfony symfony
+
+      - name: Download dependencies
+        run: |
+          cd source
+          composer install --no-interaction --optimize-autoloader
+
+      - name: Generate data files
+        run: |
+          WORKDIR=$(pwd)
+          cd $WORKDIR/symfony && git checkout 3.4
+          cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/3.4.json
+          cd $WORKDIR/symfony && git checkout 4.4
+          cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/4.4.json
+          cd $WORKDIR/symfony && git checkout 5.x
+          cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/5.x.json
+
+      - name: Commit & push the new files
+        run: |
+          echo "::group::git status"
+          cd source
+          git status
+          echo "::endgroup::"
+
+          git add -N .
+          if [[ $(git diff --numstat | wc -l) -eq 0 ]]; then
+            echo "No changes found. Exiting."
+            exit 0;
+          fi
+
+          git config --local user.email "tobias.nyhlm@gmail.com"
+          git config --local user.name "Tobias Nyholm"
+
+          echo "::group::git push"
+          git add .
+          git commit -m "Update data files"
+          git push
+          echo "::endgroup::"
