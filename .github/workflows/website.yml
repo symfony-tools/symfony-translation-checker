@@ -24,7 +24,7 @@ jobs:
           path: 'source'
 
       - name: Checkout Symfony repo
-        run: git clone -–depth 2 https://github.com/symfony/symfony symfony
+        run: git clone --depth 2 https://github.com/symfony/symfony symfony
 
       - name: Download dependencies
         run: |
