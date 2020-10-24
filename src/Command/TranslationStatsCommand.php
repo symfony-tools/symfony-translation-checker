@@ -10,7 +10,6 @@ use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Finder\Finder;
-use Symfony\Component\Messenger\MessageBusInterface;
 use Symfony\Component\Translation\Loader\XliffFileLoader;
 
 class TranslationStatsCommand  extends Command
@@ -67,7 +66,6 @@ class TranslationStatsCommand  extends Command
                 foreach ($meta as $source => $data) {
                     $definedIds[$name][$locale][] = $data['id'];
                 }
-                $x = 2;
             }
         }
 
