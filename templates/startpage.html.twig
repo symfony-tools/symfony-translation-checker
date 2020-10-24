@@ -67,6 +67,16 @@
             copy the translations from English. Then translate the &lt;target&gt;.
         </p>
 
+        <p>
+            The translation files for the different components are located here:
+        </p>
+
+        <ul>
+            {% for name, path in componentPaths %}
+            <li><b>{{ name }}</b> - {{ path }}</li>
+            {% endfor %}
+        </ul>
+
         <p>Here is an example of the validator.sv.xlf file:</p>
 
         <pre><code>

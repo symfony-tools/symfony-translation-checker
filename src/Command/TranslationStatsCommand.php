@@ -5,6 +5,7 @@ declare(strict_types=1);
 
 namespace App\Command;
 
+use App\Service\PathProvider;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
@@ -16,6 +17,15 @@ class TranslationStatsCommand  extends Command
 {
     protected static $defaultName = 'app:trans-stats';
 
+    private PathProvider $pathProvider;
+
+    public function __construct(PathProvider $pathProvider)
+    {
+        $this->pathProvider = $pathProvider;
+        parent::__construct();
+    }
+
+
     protected function configure()
     {
         $this->addArgument('path', InputArgument::REQUIRED, 'Path to Symfony src');
@@ -24,17 +34,8 @@ class TranslationStatsCommand  extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $paths = [
-            'Form Component'=>'src/Symfony/Component/Form/Resources/translations',
-            'Security Core'=>'src/Symfony/Component/Security/Core/Resources/translations',
-            'Validator Component'=>'src/Symfony/Component/Validator/Resources/translations',
-        ];
-
-        $sourceNames = [
-            'Form Component'=>'validators.en.xlf',
-            'Security Core'=>'security.en.xlf',
-            'Validator Component'=>'validators.en.xlf',
-        ];
+        $paths = $this->pathProvider->getComponentPaths();
+        $sourceNames = $this->pathProvider->getSourceNames();
 
         $validIds = [];
         $definedIds = [];
