@@ -19,9 +19,9 @@ class TranslationStatsCommand  extends Command
 
     private PathProvider $pathProvider;
 
-    public function __construct(PathProvider $pathProvider)
+    public function __construct(PathProvider $dataProvider)
     {
-        $this->pathProvider = $pathProvider;
+        $this->pathProvider = $dataProvider;
         parent::__construct();
     }
 

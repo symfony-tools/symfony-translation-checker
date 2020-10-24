@@ -14,7 +14,7 @@
             <ul class="navbar-nav mr-auto">
                 {% for v in availableVersions %}
                 <li class="nav-item{% if v == version %} active{% endif %}">
-                    <a class="nav-link" href="{{ path('index', {version: v}) }}">{{ v }}</a>
+                    <a class="nav-link" href="{{ path('index', {version: v}) }}.html">{{ v }}</a>
                 </li>
                 {% endfor %}
             </ul>

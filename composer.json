@@ -15,7 +15,8 @@
         "symfony/twig-bundle": "5.1.*",
         "symfony/yaml": "5.1.*",
         "twig/extra-bundle": "^2.12|^3.0",
-        "twig/twig": "^2.12|^3.0"
+        "twig/twig": "^2.12|^3.0",
+        "wyrihaximus/html-compress": "^4.0"
     },
     "require-dev": {
     },

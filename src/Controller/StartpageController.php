@@ -25,6 +25,10 @@ class StartpageController extends AbstractController
 
     public function index($version)
     {
+        if (substr($version, -5) === '.html') {
+            $version = substr($version, 0, -5);
+        }
+
         try {
             $data = $this->dataProvider->getData($version);
         } catch (InvalidVersionException $e) {
