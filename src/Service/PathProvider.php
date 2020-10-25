@@ -29,4 +29,15 @@ class PathProvider
     {
         return sprintf('%s/%s', $this->getComponentPaths()[$component], $this->getSourceNames($locale)[$component]);
     }
+
+
+    public function getComponentName(string $code): string
+    {
+        return [
+            'SecurityCore' => 'Security Core',
+            'Validator' => 'Validator Component',
+            'Form' => 'Form Component',
+        ][$code];
+    }
+
 }

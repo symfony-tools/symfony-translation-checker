@@ -37,11 +37,16 @@ class StartpageController extends AbstractController
 
         $versionsAvailable = $this->dataProvider->getAvailableVersions();
 
+        $componentPaths = [];
+        foreach ($this->pathProvider->getComponentPaths() as $code => $path) {
+            $componentPaths[$this->pathProvider->getComponentName($code)] = $path;
+        }
+
         return $this->render('startpage.html.twig', [
             'version' => $version,
             'data' => $data,
             'availableVersions' => $versionsAvailable,
-            'componentPaths' => $this->pathProvider->getComponentPaths(),
+            'componentPaths' => $componentPaths,
         ]);
     }
 }

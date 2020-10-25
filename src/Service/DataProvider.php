@@ -65,7 +65,7 @@ class DataProvider
                 $output[$language][$componentCode] = new MissingTranslation(
                     $this->pathProvider->getPath($componentCode, $locale),
                     $count,
-                    $this->getComponentName($componentCode),
+                    $this->pathProvider->getComponentName($componentCode),
                     $locale,
                     $language,
                     $available[$name]
@@ -83,15 +83,6 @@ class DataProvider
         $str = Languages::getName($locale, 'en');
 
         return sprintf('%s (%s)', $str, $locale);
-    }
-
-    private function getComponentName(string $code): string
-    {
-        return [
-            'SecurityCore' => 'Security Core',
-            'Validator' => 'Validator Component',
-            'Form' => 'Form Component',
-        ][$code];
     }
 
 
