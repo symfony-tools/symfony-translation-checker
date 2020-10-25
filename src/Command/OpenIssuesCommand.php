@@ -14,8 +14,8 @@ use Symfony\Component\Console\Output\OutputInterface;
 class OpenIssuesCommand extends Command
 {
     protected static $defaultName = 'app:open-issues';
-    private const REPO_ORG = 'symfony';
-    private const REPO_NAME = 'symfony';
+    public const REPO_ORG = 'symfony';
+    public const REPO_NAME = 'symfony';
 
     private DataProvider $dataProvider;
     private Client $github;
@@ -33,6 +33,9 @@ class OpenIssuesCommand extends Command
     {
         foreach ($this->getMissingLanguages() as $language => $branches) {
             $this->createIssue($language, $branches);
+
+            // Avoid rate limits
+            sleep(3);
         }
 
         return 0;

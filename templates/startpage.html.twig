@@ -39,16 +39,21 @@
             <thead>
                 <tr>
                     <th>Language</th>
-                    {% for component, rows in data['English (en)'] %}
-                    <th style="width: 20%">{{ component }}</th>
+                    {% for component in data['English (en)'] %}
+                    <th style="width: 20%">{{ component.componentName }}</th>
                     {% endfor %}
                 </tr>
             </thead>
             <tbody>
-                {% for locale, rows in data %}
+                {% for componentCollection in data %}
                     <tr>
-                        <td>{{ locale }}</td>
-                        {% for model in rows %}
+                        <td>
+                            {{ componentCollection.language }}
+                            {% if componentCollection.issue is not null %}
+                                (<a href="{{ componentCollection.issue }}">Issue</a>)
+                            {% endif %}
+                        </td>
+                        {% for model in componentCollection %}
                             {% set percentage = model.percentDone %}
                         <td>
                             <div class="progress">

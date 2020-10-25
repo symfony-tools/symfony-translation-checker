@@ -23,6 +23,9 @@ class MissingTranslation
         $this->totalCount = $totalCount;
     }
 
+
+
+
     public function getFile(): string
     {
         return $this->file;
