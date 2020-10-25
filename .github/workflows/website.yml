@@ -65,6 +65,8 @@ jobs:
           echo "::set-output name=publish::true"
 
       - name: Build website
+        env:
+          GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
         run: |
           cd source
           bin/console app:build-website

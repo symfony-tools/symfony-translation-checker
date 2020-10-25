@@ -3,9 +3,9 @@ name: Open issues
 on:
   schedule:
     - cron: '0 5,6,7,8,9 * * 1'
-  push:
-    branches:
-      - master
+#  push:
+#    branches:
+#      - master
 
 jobs:
   build:
