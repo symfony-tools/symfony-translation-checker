@@ -25,4 +25,6 @@ jobs:
         run: composer install --no-interaction --optimize-autoloader
 
       - name: Open issues
+        env:
+          GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
         run: bin/console app:open-issues
