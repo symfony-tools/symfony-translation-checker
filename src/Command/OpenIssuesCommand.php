@@ -72,10 +72,11 @@ TXT;
             $this->github->issues()->create(self::REPO_ORG, self::REPO_NAME, $params);
         } elseif (1 === $issues['total_count'] && 'Nyholm' === $issues['items'][0]['user']['login']) {
             // Issue exists, lets update it
-            $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issues['items'][0]['number'], $params);
+            $updatedAt = new \DateTime($issues['items'][0]['updated_at']);
+            if ($updatedAt < new \DateTime('-10days')) {
+                $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issues['items'][0]['number'], $params);
+            }
         }
-
-        $x = 2;
     }
 
     private function getIssueTitle(string $language): string
