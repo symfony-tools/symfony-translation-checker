@@ -2,18 +2,13 @@
 
 declare(strict_types=1);
 
-
 namespace App\Command;
 
 use App\Service\DataProvider;
-use App\Service\PathProvider;
 use Symfony\Component\Console\Command\Command;
-use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Filesystem\Filesystem;
-use Symfony\Component\Finder\Finder;
-use Symfony\Component\Translation\Loader\XliffFileLoader;
 
 class BuildWebsiteCommand extends Command
 {
@@ -26,7 +21,6 @@ class BuildWebsiteCommand extends Command
         $this->dataProvider = $dataProvider;
         parent::__construct();
     }
-
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {

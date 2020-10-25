@@ -2,7 +2,6 @@
 
 declare(strict_types=1);
 
-
 namespace App\Controller;
 
 use App\Exception\InvalidVersionException;
@@ -22,10 +21,9 @@ class StartpageController extends AbstractController
         $this->dataProvider = $dataProvider;
     }
 
-
     public function index($version)
     {
-        if (substr($version, -5) === '.html') {
+        if ('.html' === substr($version, -5)) {
             $version = substr($version, 0, -5);
         }
 

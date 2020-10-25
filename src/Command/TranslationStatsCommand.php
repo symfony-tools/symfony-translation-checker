@@ -2,7 +2,6 @@
 
 declare(strict_types=1);
 
-
 namespace App\Command;
 
 use App\Service\PathProvider;
@@ -13,7 +12,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\Translation\Loader\XliffFileLoader;
 
-class TranslationStatsCommand  extends Command
+class TranslationStatsCommand extends Command
 {
     protected static $defaultName = 'app:trans-stats';
 
@@ -25,12 +24,10 @@ class TranslationStatsCommand  extends Command
         parent::__construct();
     }
 
-
     protected function configure()
     {
         $this->addArgument('path', InputArgument::REQUIRED, 'Path to Symfony src');
     }
-
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
@@ -70,7 +67,8 @@ class TranslationStatsCommand  extends Command
             }
         }
 
-        $output->writeln(json_encode(['available'=>$validIds, 'defined'=>$definedIds], JSON_PRETTY_PRINT));
+        $output->writeln(json_encode(['available' => $validIds, 'defined' => $definedIds], \JSON_PRETTY_PRINT));
+
         return 0;
     }
 }

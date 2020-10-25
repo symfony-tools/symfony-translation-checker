@@ -2,25 +2,20 @@
 
 declare(strict_types=1);
 
-
 namespace App\Command;
 
 use App\Model\MissingTranslation;
 use App\Service\DataProvider;
-use App\Service\PathProvider;
 use Github\Client;
 use Symfony\Component\Console\Command\Command;
-use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
-use Symfony\Component\Finder\Finder;
-use Symfony\Component\Translation\Loader\XliffFileLoader;
 
 class OpenIssuesCommand extends Command
 {
     protected static $defaultName = 'app:open-issues';
-    private const REPO_ORG='symfony';
-    private const REPO_NAME='symfony';
+    private const REPO_ORG = 'symfony';
+    private const REPO_NAME = 'symfony';
 
     private DataProvider $dataProvider;
     private Client $github;
@@ -46,14 +41,13 @@ class OpenIssuesCommand extends Command
     }
 
     /**
-     * @param string $language
      * @param MissingTranslation[] $missingTranslations
-    */
+     */
     private function createIssue(string $language, array $missingTranslations): void
     {
         $files = '';
         foreach ($missingTranslations as $missingTranslation) {
-            $files.= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $this->prTargetBranch, $missingTranslation->getFile()).PHP_EOL;
+            $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $this->prTargetBranch, $missingTranslation->getFile()).\PHP_EOL;
         }
 
         $body = <<<TXT
@@ -69,20 +63,16 @@ NOTE: If you want to work on this issue, add a comment to assign it to yourself 
 
 TXT;
 
-
-
-
         $params = [
             'title' => $this->getIssueTitle($language),
             'labels' => ['Missing translations', 'Help wanted', 'Good first issue'],
             'body' => $body,
         ];
 
-
         $issues = $this->github->search()->issues(sprintf('repo:%s/%s "%s" is:open', self::REPO_ORG, self::REPO_NAME, $this->getIssueTitle($language)));
-        if ($issues['total_count'] === 0) {
+        if (0 === $issues['total_count']) {
             $this->github->issues()->create(self::REPO_ORG, self::REPO_NAME, $params);
-        } elseif($issues['total_count'] === 1 && $issues['items'][0]['user']['login'] === 'Nyholm') {
+        } elseif (1 === $issues['total_count'] && 'Nyholm' === $issues['items'][0]['user']['login']) {
             // Issue exists, lets update it
             $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issues['items'][0]['number'], $params);
         }
@@ -107,7 +97,6 @@ TXT;
                 }
             }
         }
-
 
         return $localesWithMissing;
     }

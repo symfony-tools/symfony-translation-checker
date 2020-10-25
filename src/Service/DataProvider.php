@@ -2,9 +2,7 @@
 
 declare(strict_types=1);
 
-
 namespace App\Service;
-
 
 use App\Exception\InvalidVersionException;
 use App\Model\MissingTranslation;
@@ -28,7 +26,7 @@ class DataProvider
         }
 
         $file = $this->dataPath.sprintf('/%s.json', $version);
-        $data = json_decode(file_get_contents($file), true, 512, JSON_THROW_ON_ERROR);
+        $data = json_decode(file_get_contents($file), true, 512, \JSON_THROW_ON_ERROR);
 
         $missing = [];
         $available = [];
@@ -84,7 +82,6 @@ class DataProvider
 
         return sprintf('%s (%s)', $str, $locale);
     }
-
 
     public function getAvailableVersions(): array
     {
