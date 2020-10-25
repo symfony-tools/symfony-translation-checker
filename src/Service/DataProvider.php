@@ -7,6 +7,7 @@ namespace App\Service;
 use App\Command\OpenIssuesCommand;
 use App\Exception\InvalidVersionException;
 use App\Model\ComponentCollection;
+use App\Model\GithubIssue;
 use App\Model\MissingTranslation;
 use Github\Client;
 use Symfony\Component\Intl\Languages;
@@ -31,23 +32,21 @@ class DataProvider
         }
 
         $data = $this->prepareData($version);
-        $paginator  = new \Github\ResultPager($this->github);
-        $issues = $paginator->fetchAll($this->github->search(), 'issues', [sprintf('repo:%s/%s "Missing translations for" is:open', OpenIssuesCommand::REPO_ORG, OpenIssuesCommand::REPO_NAME)]);
+        $paginator = new \Github\ResultPager($this->github);
+        $issues = $paginator->fetchAll($this->github->search(), 'issues', [sprintf('repo:%s/%s "%s" is:open', OpenIssuesCommand::REPO_ORG, OpenIssuesCommand::REPO_NAME, OpenIssuesCommand::getIssueTitle())]);
         foreach ($issues as $issue) {
             foreach ($data as $language => $componentCollection) {
                 if ($issue['title'] === sprintf('Missing translations for %s', $componentCollection->getLanguage())) {
-                    $componentCollection->setIssue($issue['html_url']);
+                    $componentCollection->setIssue(GithubIssue::create($issue));
                 }
             }
         }
-
 
         return $data;
     }
 
     private function prepareData(string $version): array
     {
-
         $file = $this->dataPath.sprintf('/%s.json', $version);
         $data = json_decode(file_get_contents($file), true, 512, \JSON_THROW_ON_ERROR);
 

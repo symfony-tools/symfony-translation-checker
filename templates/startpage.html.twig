@@ -50,7 +50,7 @@
                         <td>
                             {{ componentCollection.language }}
                             {% if componentCollection.issue is not null %}
-                                (<a href="{{ componentCollection.issue }}">Issue</a>)
+                                (<a href="{{ componentCollection.issue.htmlUrl }}">Issue</a>)
                             {% endif %}
                         </td>
                         {% for model in componentCollection %}

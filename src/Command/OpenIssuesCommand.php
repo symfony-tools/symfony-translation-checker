@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace App\Command;
 
-use App\Model\MissingTranslation;
+use App\Model\ComponentCollection;
 use App\Service\DataProvider;
 use Github\Client;
 use Symfony\Component\Console\Command\Command;
@@ -33,21 +33,15 @@ class OpenIssuesCommand extends Command
     {
         foreach ($this->getMissingLanguages() as $language => $branches) {
             $this->createIssue($language, $branches);
-
-            // Avoid rate limits
-            sleep(3);
         }
 
         return 0;
     }
 
-    /**
-     * @param MissingTranslation[] $missingTranslations
-     */
-    private function createIssue(string $language, array $missingTranslations): void
+    private function createIssue(string $language, ComponentCollection $componentCollection): void
     {
         $files = '';
-        foreach ($missingTranslations as $missingTranslation) {
+        foreach ($componentCollection as $missingTranslation) {
             $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $this->prTargetBranch, $missingTranslation->getFile()).\PHP_EOL;
         }
 
@@ -70,20 +64,21 @@ TXT;
             'body' => $body,
         ];
 
-        $issues = $this->github->search()->issues(sprintf('repo:%s/%s "%s" is:open', self::REPO_ORG, self::REPO_NAME, $this->getIssueTitle($language)));
-        if (0 === $issues['total_count']) {
+        $issue = $componentCollection->getIssue();
+        if (null === $issue) {
             $this->github->issues()->create(self::REPO_ORG, self::REPO_NAME, $params);
-        } elseif (1 === $issues['total_count'] && 'Nyholm' === $issues['items'][0]['user']['login']) {
+        } elseif ('Nyholm' === $issue->getUser() && $issue->getUpdatedAt() < new \DateTime('-10days')) {
             // Issue exists, lets update it
-            $updatedAt = new \DateTime($issues['items'][0]['updated_at']);
-            if ($updatedAt < new \DateTime('-10days')) {
-                $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issues['items'][0]['number'], $params);
-            }
+            $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issues['items'][0]['number'], $params);
         }
     }
 
-    private function getIssueTitle(string $language): string
+    public static function getIssueTitle(?string $language = null): string
     {
+        if (null === $language) {
+            return 'Missing translations for';
+        }
+
         return sprintf('Missing translations for %s', $language);
     }
 
@@ -92,11 +87,9 @@ TXT;
         $localesWithMissing = [];
 
         $data = $this->dataProvider->getData($this->prTargetBranch);
-        foreach ($data as $language => $components) {
-            foreach ($components as $component) {
-                if ($component->getMissingCount() > 0) {
-                    $localesWithMissing[$language][] = $component;
-                }
+        foreach ($data as $language => $componentsCollection) {
+            if ($componentsCollection->hasMissingTranslationStrings()) {
+                $localesWithMissing[$language] = $componentsCollection;
             }
         }
 

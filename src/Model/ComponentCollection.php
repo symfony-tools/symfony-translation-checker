@@ -7,7 +7,7 @@ namespace App\Model;
 class ComponentCollection implements \Countable, \Iterator
 {
     private array $data;
-    private ?string $issue;
+    private ?GithubIssue $issue;
     private int $cursor;
     private string $language;
 
@@ -19,12 +19,23 @@ class ComponentCollection implements \Countable, \Iterator
         $this->language = $language;
     }
 
-    public function getIssue(): ?string
+    public function hasMissingTranslationStrings(): bool
+    {
+        foreach ($this->data as $item) {
+            if ($item->getMissingCount() > 0) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    public function getIssue(): ?GithubIssue
     {
         return $this->issue;
     }
 
-    public function setIssue(?string $issue): void
+    public function setIssue(GithubIssue $issue): void
     {
         $this->issue = $issue;
     }

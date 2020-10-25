@@ -23,9 +23,6 @@ class MissingTranslation
         $this->totalCount = $totalCount;
     }
 
-
-
-
     public function getFile(): string
     {
         return $this->file;
@@ -58,10 +55,10 @@ class MissingTranslation
 
     public function getPercentDone(): int
     {
-        if ($this->totalCount === 0) {
+        if (0 === $this->totalCount) {
             return 0;
         }
 
-        return (int) round(100*($this->totalCount-$this->missingCount) / $this->totalCount);
+        return (int) round(100 * ($this->totalCount - $this->missingCount) / $this->totalCount);
     }
 }
