@@ -1,4 +1,4 @@
-name: Generate data files
+name: Open issues
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Generate
+    name: Open issues
     runs-on: ubuntu-latest
 
     steps:

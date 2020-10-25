@@ -19,7 +19,7 @@ use Symfony\Component\Translation\Loader\XliffFileLoader;
 class OpenIssuesCommand extends Command
 {
     protected static $defaultName = 'app:open-issues';
-    private const REPO_ORG='nyholm';
+    private const REPO_ORG='symfony';
     private const REPO_NAME='symfony';
 
     private DataProvider $dataProvider;
