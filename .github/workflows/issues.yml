@@ -1,0 +1,28 @@
+name: Generate data files
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Generate
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up PHP
+        uses: shivammathur/setup-php@2.1.2
+        with:
+          php-version: 7.4
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Download dependencies
+        run: composer install --no-interaction --optimize-autoloader
+
+      - name: Open issues
+        run: bin/console app:open-issues
