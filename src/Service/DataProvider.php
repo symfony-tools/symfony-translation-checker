@@ -31,8 +31,9 @@ class DataProvider
         }
 
         $data = $this->prepareData($version);
-        $issues = $this->github->search()->issues(sprintf('repo:%s/%s "Missing translations for" is:open', OpenIssuesCommand::REPO_ORG, OpenIssuesCommand::REPO_NAME));
-        foreach ($issues['items'] as $issue) {
+        $paginator  = new \Github\ResultPager($this->github);
+        $issues = $paginator->fetchAll($this->github->search(), 'issues', [sprintf('repo:%s/%s "Missing translations for" is:open', OpenIssuesCommand::REPO_ORG, OpenIssuesCommand::REPO_NAME)]);
+        foreach ($issues as $issue) {
             foreach ($data as $language => $componentCollection) {
                 if ($issue['title'] === sprintf('Missing translations for %s', $componentCollection->getLanguage())) {
                     $componentCollection->setIssue($issue['html_url']);
