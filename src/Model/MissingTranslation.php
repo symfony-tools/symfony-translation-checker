@@ -52,4 +52,13 @@ class MissingTranslation
     {
         return $this->totalCount;
     }
+
+    public function getPercentDone(): int
+    {
+        if ($this->totalCount === 0) {
+            return 0;
+        }
+
+        return (int) round(100*($this->totalCount-$this->missingCount) / $this->totalCount);
+    }
 }

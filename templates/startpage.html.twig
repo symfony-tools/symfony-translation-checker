@@ -40,7 +40,7 @@
                 <tr>
                     <th>Language</th>
                     {% for component, rows in data['English (en)'] %}
-                    <th>{{ component }}</th>
+                    <th style="width: 20%">{{ component }}</th>
                     {% endfor %}
                 </tr>
             </thead>
@@ -49,7 +49,19 @@
                     <tr>
                         <td>{{ locale }}</td>
                         {% for model in rows %}
-                        <td>{{ model.missingCount }}</td>
+                            {% set percentage = model.percentDone %}
+                        <td>
+                            <div class="progress">
+                              <div class="progress-bar progress-bar-striped {% if percentage == 100 %}bg-success{% elseif percentage > 90 %}bg-warning{% else %}bg-danger{% endif %}"
+                                   role="progressbar"
+                                   style="width: {{ percentage }}%"
+                                   aria-valuenow="{{ model.missingCount }}"
+                                   aria-valuemin="{{ model.missingCount }}"
+                                   aria-valuemax="{{ model.getTotalCount }}">
+                                  {{ percentage }}%
+                              </div>
+                            </div>
+                        </td>
                         {% endfor %}
                     </tr>
                 {% endfor %}
