@@ -31,11 +31,27 @@ class OpenIssuesCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        foreach ($this->getMissingLanguages() as $language => $branches) {
-            $this->createIssue($language, $branches);
+        foreach ($this->dataProvider->getData($this->prTargetBranch) as $language => $componentsCollection) {
+            if ($componentsCollection->hasMissingTranslationStrings()) {
+                $this->createIssue($language, $componentsCollection);
+            } else {
+                $this->closeIssue($componentsCollection);
+            }
         }
 
         return 0;
+    }
+
+    private function closeIssue(ComponentCollection $componentCollection)
+    {
+        $issue = $componentCollection->getIssue();
+        if (null === $issue) {
+            // No issue exists
+            return;
+        } elseif ('Nyholm' === $issue->getUser()) {
+            // Issue exists, lets update it
+            $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issue->getNumber(), ['state'=>'closed']);
+        }
     }
 
     private function createIssue(string $language, ComponentCollection $componentCollection): void
@@ -69,7 +85,7 @@ TXT;
             $this->github->issues()->create(self::REPO_ORG, self::REPO_NAME, $params);
         } elseif ('Nyholm' === $issue->getUser() && $issue->getUpdatedAt() < new \DateTime('-10days')) {
             // Issue exists, lets update it
-            $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issues['items'][0]['number'], $params);
+            $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issue->getNumber(), $params);
         }
     }
 
@@ -82,17 +98,4 @@ TXT;
         return sprintf('Missing translations for %s', $language);
     }
 
-    private function getMissingLanguages(): array
-    {
-        $localesWithMissing = [];
-
-        $data = $this->dataProvider->getData($this->prTargetBranch);
-        foreach ($data as $language => $componentsCollection) {
-            if ($componentsCollection->hasMissingTranslationStrings()) {
-                $localesWithMissing[$language] = $componentsCollection;
-            }
-        }
-
-        return $localesWithMissing;
-    }
 }
