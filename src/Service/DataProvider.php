@@ -7,17 +7,19 @@ namespace App\Service;
 
 
 use App\Exception\InvalidVersionException;
+use App\Model\MissingTranslation;
 use Symfony\Component\Intl\Languages;
 
 class DataProvider
 {
     private string $dataPath;
+    private PathProvider $pathProvider;
 
-    public function __construct(string $dataPath)
+    public function __construct(string $dataPath, PathProvider $pathProvider)
     {
         $this->dataPath = $dataPath;
+        $this->pathProvider = $pathProvider;
     }
-
 
     public function getData(string $version): array
     {
@@ -56,20 +58,40 @@ class DataProvider
             }
         }
 
-        $translated = $this->translate($missing);
-        ksort($translated);
-        return $translated;
-    }
-
-    private function translate(array $data): array
-    {
         $output = [];
-        foreach ($data as $locale => $rows) {
-            $str = Languages::getName($locale, 'en');
-            $output[sprintf('%s (%s)', $str, $locale)] = $rows;
+        foreach ($missing as $locale => $components) {
+            foreach ($components as $componentCode => $count) {
+                $language = $this->getLanguageName($locale);
+                $output[$language][$componentCode] = new MissingTranslation(
+                    $this->pathProvider->getPath($componentCode, $locale),
+                    $count,
+                    $this->getComponentName($componentCode),
+                    $locale,
+                    $language,
+                    $available[$name]
+                );
+            }
         }
 
+        ksort($output);
+
         return $output;
+    }
+
+    private function getLanguageName(string $locale): string
+    {
+        $str = Languages::getName($locale, 'en');
+
+        return sprintf('%s (%s)', $str, $locale);
+    }
+
+    private function getComponentName(string $code): string
+    {
+        return [
+            'SecurityCore' => 'Security Core',
+            'Validator' => 'Validator Component',
+            'Form' => 'Form Component',
+        ][$code];
     }
 
 

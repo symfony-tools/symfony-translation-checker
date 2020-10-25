@@ -10,18 +10,23 @@ class PathProvider
     public function getComponentPaths(): array
     {
         return [
-            'Form Component'=>'src/Symfony/Component/Form/Resources/translations',
-            'Security Core'=>'src/Symfony/Component/Security/Core/Resources/translations',
-            'Validator Component'=>'src/Symfony/Component/Validator/Resources/translations',
+            'Form'=>'src/Symfony/Component/Form/Resources/translations',
+            'SecurityCore'=>'src/Symfony/Component/Security/Core/Resources/translations',
+            'Validator'=>'src/Symfony/Component/Validator/Resources/translations',
         ];
     }
 
-    public function getSourceNames(): array
+    public function getSourceNames(string $locale = 'en'): array
     {
         return [
-            'Form Component'=>'validators.en.xlf',
-            'Security Core'=>'security.en.xlf',
-            'Validator Component'=>'validators.en.xlf',
+            'Form'=>sprintf('validators.%s.xlf', $locale),
+            'SecurityCore'=>sprintf('security.%s.xlf', $locale),
+            'Validator'=>sprintf('validators.%s.xlf', $locale),
         ];
+    }
+
+    public function getPath(string $component, string $locale): string
+    {
+        return sprintf('%s/%s', $this->getComponentPaths()[$component], $this->getSourceNames($locale)[$component]);
     }
 }

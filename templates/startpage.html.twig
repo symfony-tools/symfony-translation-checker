@@ -10,6 +10,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
+        {#
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav mr-auto">
                 {% for v in availableVersions %}
@@ -19,11 +20,12 @@
                 {% endfor %}
             </ul>
         </div>
+         #}
     </nav>
 
     <main role="main" class="container">
 
-        <h1>Symfony Translation status for branch {{ version }}</h1>
+        <h1>Symfony Translation status</h1>
         <p class="lead">
             This page shows you an overview over missing translations in Symfony.<br>
             If you speak a language with missing translations, I would LOVE if you
@@ -46,8 +48,8 @@
                 {% for locale, rows in data %}
                     <tr>
                         <td>{{ locale }}</td>
-                        {% for missing in rows %}
-                        <td>{{ missing }}</td>
+                        {% for model in rows %}
+                        <td>{{ model.missingCount }}</td>
                         {% endfor %}
                     </tr>
                 {% endfor %}
@@ -62,9 +64,10 @@
         </p>
 
         <p>
-            First, pick the lowest branch that you see have missing translations.
-            Maybe check 3.4 och 4.4. Then, for each missing translation in your language,
-            copy the translations from English. Then translate the &lt;target&gt;.
+            Check out the lowest supported branch. That is currently <b>{{ pr_target_branch }}</b>.
+            All new translations will always go to that branch.
+            Then, for each missing translation in your language, copy the translations
+            from English. Then translate the &lt;target&gt;.
         </p>
 
         <p>

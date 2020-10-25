@@ -3,4 +3,4 @@ index:
     controller: App\Controller\StartpageController::index
     methods: GET
     defaults:
-        version: '%default_version%'
+        version: '%pr_target_branch%'

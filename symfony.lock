@@ -1,6 +1,21 @@
 {
+    "clue/stream-filter": {
+        "version": "v1.5.0"
+    },
     "jalle19/php-yui-compressor": {
         "version": "1.0.1"
+    },
+    "knplabs/github-api": {
+        "version": "2.6",
+        "recipe": {
+            "repo": "github.com/symfony/recipes-contrib",
+            "branch": "master",
+            "version": "2.6",
+            "ref": "a7d5781e4a8e84f1c238c43e4c9bb806f01d8a3f"
+        },
+        "files": [
+            "config/packages/github_api.yaml"
+        ]
     },
     "linkorb/jsmin-php": {
         "version": "1.0.0"
@@ -17,11 +32,44 @@
     "nervo/yuicompressor": {
         "version": "2.4.8"
     },
+    "nyholm/psr7": {
+        "version": "1.0",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "master",
+            "version": "1.0",
+            "ref": "7c0a9352a57376f04f5444e74565102c3a23d0c7"
+        },
+        "files": [
+            "config/packages/nyholm_psr7.yaml"
+        ]
+    },
     "patchwork/jsqueeze": {
         "version": "v2.0.5"
     },
     "php": {
         "version": "7.4"
+    },
+    "php-http/cache-plugin": {
+        "version": "1.7.1"
+    },
+    "php-http/client-common": {
+        "version": "2.3.0"
+    },
+    "php-http/discovery": {
+        "version": "1.12.0"
+    },
+    "php-http/httplug": {
+        "version": "2.2.0"
+    },
+    "php-http/message": {
+        "version": "1.9.1"
+    },
+    "php-http/message-factory": {
+        "version": "v1.0.2"
+    },
+    "php-http/promise": {
+        "version": "1.1.0"
     },
     "psr/cache": {
         "version": "1.0.1"
@@ -31,6 +79,15 @@
     },
     "psr/event-dispatcher": {
         "version": "1.0.0"
+    },
+    "psr/http-client": {
+        "version": "1.0.1"
+    },
+    "psr/http-factory": {
+        "version": "1.0.1"
+    },
+    "psr/http-message": {
+        "version": "1.0.1"
     },
     "psr/log": {
         "version": "1.1.3"
@@ -115,6 +172,9 @@
             "src/Kernel.php"
         ]
     },
+    "symfony/http-client": {
+        "version": "v5.1.7"
+    },
     "symfony/http-client-contracts": {
         "version": "v2.3.1"
     },
@@ -125,6 +185,9 @@
         "version": "v5.1.7"
     },
     "symfony/intl": {
+        "version": "v5.1.7"
+    },
+    "symfony/options-resolver": {
         "version": "v5.1.7"
     },
     "symfony/polyfill-intl-grapheme": {
