@@ -33,8 +33,6 @@ class OpenIssuesCommand extends Command
     {
         foreach ($this->getMissingLanguages() as $language => $branches) {
             $this->createIssue($language, $branches);
-
-            return 0;
         }
 
         return 0;
