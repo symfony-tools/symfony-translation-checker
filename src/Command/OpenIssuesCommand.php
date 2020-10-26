@@ -61,10 +61,11 @@ class OpenIssuesCommand extends Command
             $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $this->prTargetBranch, $missingTranslation->getFile()).\PHP_EOL;
         }
 
+        $targetBranch = $this->prTargetBranch;
         $body = <<<TXT
 Hello,
 
-There are some missing translation for $language. These should be added in branch 3.4. 
+There are some missing translation for $language. These should be added in branch $targetBranch. 
 See https://github.com/symfony/symfony/issues/38710 for details and [this page](https://symfony-translations.nyholm.tech/#pr) for an example.
 
 These are the files that should be updated: 
