@@ -1,9 +1,9 @@
 name: Open issues
 
 on:
+  # Must be after we update the sources (build website) .
   schedule:
-    - cron: '0 5,7,8,9 * * 1'
-    - cron: '0 5 * * *'
+    - cron: '10 6,8 * * *'
 
 #  push:
 #    branches:
