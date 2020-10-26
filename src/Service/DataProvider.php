@@ -89,7 +89,7 @@ class DataProvider
                     $this->pathProvider->getComponentName($componentCode),
                     $locale,
                     $language,
-                    $available[$name]
+                    $available[$componentCode]
                 );
             }
             $output[$language] = new ComponentCollection($collectionData, $language);
