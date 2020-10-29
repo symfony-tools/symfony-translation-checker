@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Command;
 
 use App\Model\ComponentCollection;
+use App\Model\MissingTranslation;
 use App\Service\DataProvider;
 use Github\Client;
 use Symfony\Component\Console\Command\Command;
@@ -57,8 +58,11 @@ class OpenIssuesCommand extends Command
     private function createIssue(string $language, ComponentCollection $componentCollection): void
     {
         $files = '';
+        /** @var MissingTranslation $missingTranslation */
         foreach ($componentCollection as $missingTranslation) {
-            $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $this->prTargetBranch, $missingTranslation->getFile()).\PHP_EOL;
+            if ($missingTranslation->getMissingCount() > 0) {
+                $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $this->prTargetBranch, $missingTranslation->getFile()) . \PHP_EOL;
+            }
         }
 
         $targetBranch = $this->prTargetBranch;
