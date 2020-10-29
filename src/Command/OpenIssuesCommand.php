@@ -88,7 +88,7 @@ TXT;
         $issue = $componentCollection->getIssue();
         if (null === $issue) {
             $this->github->issues()->create(self::REPO_ORG, self::REPO_NAME, $params);
-        } elseif ('Nyholm' === $issue->getUser() && $issue->getUpdatedAt() < new \DateTime('-10days')) {
+        } elseif ('Nyholm' === $issue->getUser() && $body !== $issue->getBody()) {
             // Issue exists, lets update it
             $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issue->getNumber(), $params);
         }

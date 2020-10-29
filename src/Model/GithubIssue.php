@@ -9,6 +9,7 @@ class GithubIssue
     private int $number;
     private string $htmlUrl;
     private string $user;
+    private string $body;
     private \DateTimeImmutable $updatedAt;
 
     public static function create(array $data): self
@@ -18,6 +19,7 @@ class GithubIssue
         $model->htmlUrl = (string) $data['html_url'];
         $model->user = (string) $data['user']['login'];
         $model->updatedAt = new \DateTimeImmutable($data['updated_at']);
+        $model->body = (string) $data['body'];
 
         return $model;
     }
@@ -40,5 +42,10 @@ class GithubIssue
     public function getUser(): string
     {
         return $this->user;
+    }
+
+    public function getBody(): string
+    {
+        return $this->body;
     }
 }
