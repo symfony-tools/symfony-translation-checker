@@ -29,7 +29,6 @@ jobs:
       - name: Download dependencies
         run: |
           cd source
-          echo "Token:|${{ secrets.CUSTOM_GITHUB_TOKEN }}|"
           composer install --no-interaction --optimize-autoloader
 
       - name: Generate data files
