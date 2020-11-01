@@ -69,6 +69,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
         run: |
           cd source
+          echo "Token:|${{ secrets.CUSTOM_GITHUB_TOKEN }}|"
           bin/console app:build-website
 
       - name: Deploy website
