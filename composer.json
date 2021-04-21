@@ -2,7 +2,7 @@
     "type": "project",
     "license": "proprietary",
     "require": {
-        "php": ">=7.2.5",
+        "php": ">=7.4.5",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "knplabs/github-api": "^2.15",
@@ -24,6 +24,9 @@
     "require-dev": {
     },
     "config": {
+        "platform": {
+            "php": "7.4.14"
+        },
         "optimize-autoloader": true,
         "preferred-install": {
             "*": "dist"

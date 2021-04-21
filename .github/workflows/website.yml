@@ -34,10 +34,10 @@ jobs:
       - name: Generate data files
         run: |
           WORKDIR=$(pwd)
-          cd $WORKDIR/symfony && git checkout 3.4
-          cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/3.4.json
           cd $WORKDIR/symfony && git checkout 4.4
           cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/4.4.json
+          cd $WORKDIR/symfony && git checkout 5.2
+          cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/5.2.json
 
       - name: Commit & push the new files
         id: commit_push
