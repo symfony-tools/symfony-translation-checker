@@ -88,9 +88,14 @@ TXT;
         $issue = $componentCollection->getIssue();
         if (null === $issue) {
             $this->github->issues()->create(self::REPO_ORG, self::REPO_NAME, $params);
-        } elseif (in_array($issue->getUser(), ['Nyholm', 'carsonbot']) && $body !== $issue->getBody()) {
-            // Issue exists, lets update it
-            $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issue->getNumber(), $params);
+        } elseif (in_array($issue->getUser(), ['Nyholm', 'carsonbot'])) {
+            if ($body !== $issue->getBody()) {
+                // Issue exists, lets update it
+                $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issue->getNumber(), $params);
+            } elseif ($issue->getUpdatedAt() < new \DateTimeImmutable('-5days')) {
+                // TODO ping people
+            }
+
         }
     }
 
