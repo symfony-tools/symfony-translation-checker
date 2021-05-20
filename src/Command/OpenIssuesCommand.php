@@ -49,8 +49,8 @@ class OpenIssuesCommand extends Command
         if (null === $issue) {
             // No issue exists
             return;
-        } elseif ('Nyholm' === $issue->getUser()) {
-            // Issue exists, lets update it
+        } elseif (in_array($issue->getUser(), ['Nyholm', 'carsonbot'])) {
+            // Issue exists, lets close it
             $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issue->getNumber(), ['state'=>'closed']);
         }
     }
@@ -88,7 +88,7 @@ TXT;
         $issue = $componentCollection->getIssue();
         if (null === $issue) {
             $this->github->issues()->create(self::REPO_ORG, self::REPO_NAME, $params);
-        } elseif ('Nyholm' === $issue->getUser() && $body !== $issue->getBody()) {
+        } elseif (in_array($issue->getUser(), ['Nyholm', 'carsonbot']) && $body !== $issue->getBody()) {
             // Issue exists, lets update it
             $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issue->getNumber(), $params);
         }

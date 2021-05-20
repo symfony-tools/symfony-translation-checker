@@ -54,8 +54,8 @@ jobs:
             exit 0;
           fi
 
-          git config --local user.email "tobias.nyhlm@gmail.com"
-          git config --local user.name "Tobias Nyholm"
+          git config --local user.email "noreply@github.com"
+          git config --local user.name "GitHub Bot"
 
           echo "::group::git push"
           git add .
