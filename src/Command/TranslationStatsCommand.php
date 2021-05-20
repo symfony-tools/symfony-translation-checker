@@ -65,7 +65,11 @@ class TranslationStatsCommand extends Command
                     $definedIds[$name][$locale][] = $data['id'];
                 }
             }
+            ksort($definedIds[$name]);
         }
+
+        ksort($validIds);
+        ksort($definedIds);
 
         $output->writeln(json_encode(['available' => $validIds, 'defined' => $definedIds], \JSON_PRETTY_PRINT));
 
