@@ -1,6 +1,8 @@
 {
+    "name": "symfony-tools/symfony-translation-checker",
+    "description": "Helping Symfony's maintainers with coordinating the work on translation files",
     "type": "project",
-    "license": "proprietary",
+    "license": "MIT",
     "require": {
         "php": ">=7.4.5",
         "ext-ctype": "*",
