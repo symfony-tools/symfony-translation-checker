@@ -4,7 +4,7 @@ if (!file_exists(__DIR__.'/src')) {
     exit(0);
 }
 
-return PhpCsFixer\Config::create()
+return (new PhpCsFixer\Config())
     ->setRules([
         '@Symfony' => true,
         'php_unit_dedicate_assert' => ['target' => '5.6'],
@@ -16,8 +16,9 @@ return PhpCsFixer\Config::create()
     ])
     ->setRiskyAllowed(true)
     ->setFinder(
-        PhpCsFixer\Finder::create()
+        (new PhpCsFixer\Finder())
             ->in(__DIR__.'/src')
 
     )
+    ->setCacheFile('.php-cs-fixer.cache')
 ;

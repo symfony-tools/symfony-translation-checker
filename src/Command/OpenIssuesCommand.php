@@ -51,7 +51,7 @@ class OpenIssuesCommand extends Command
             return;
         } elseif (in_array($issue->getUser(), ['Nyholm', 'carsonbot'])) {
             // Issue exists, lets close it
-            $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issue->getNumber(), ['state'=>'closed']);
+            $this->github->issues()->update(self::REPO_ORG, self::REPO_NAME, $issue->getNumber(), ['state' => 'closed']);
         }
     }
 
@@ -61,7 +61,7 @@ class OpenIssuesCommand extends Command
         /** @var MissingTranslation $missingTranslation */
         foreach ($componentCollection as $missingTranslation) {
             if ($missingTranslation->getMissingCount() > 0) {
-                $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $this->prTargetBranch, $missingTranslation->getFile()) . \PHP_EOL;
+                $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $this->prTargetBranch, $missingTranslation->getFile()).\PHP_EOL;
             }
         }
 
@@ -95,7 +95,6 @@ TXT;
             } elseif ($issue->getUpdatedAt() < new \DateTimeImmutable('-5days')) {
                 // TODO ping people
             }
-
         }
     }
 
@@ -107,5 +106,4 @@ TXT;
 
         return sprintf('Missing translations for %s', $language);
     }
-
 }
