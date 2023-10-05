@@ -14,9 +14,9 @@ jobs:
 
     steps:
       - name: Set up PHP
-        uses: shivammathur/setup-php@2.1.2
+        uses: shivammathur/setup-php@2
         with:
-          php-version: 7.4
+          php-version: 8.2
 
       - name: Checkout code
         uses: actions/checkout@v2
@@ -34,10 +34,12 @@ jobs:
       - name: Generate data files
         run: |
           WORKDIR=$(pwd)
-          cd $WORKDIR/symfony && git checkout 4.4
-          cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/4.4.json
-          cd $WORKDIR/symfony && git checkout 5.2
-          cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/5.2.json
+          cd $WORKDIR/symfony && git checkout 5.4
+          cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/5.4.json
+          cd $WORKDIR/symfony && git checkout 6.4
+          cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/6.4.json
+          cd $WORKDIR/symfony && git checkout 7.0
+          cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/7.0.json
 
       - name: Commit & push the new files
         id: commit_push

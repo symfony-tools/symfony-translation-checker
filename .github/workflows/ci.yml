@@ -11,9 +11,18 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - name: Checkout code
-              uses: actions/checkout@v2
-            - name: PHP-CS-Fixer
-              uses: docker://oskarstark/php-cs-fixer-ga:3.0.0
-              with:
-                  args: --diff --dry-run
+          - name: Checkout code
+            uses: actions/checkout@v2
+
+          - name: Setup PHP
+            uses: shivammathur/setup-php@v2
+            with:
+              php-version: 8.1
+              coverage: none
+              tools: php-cs-fixer:3.34, cs2pr
+
+          - name: Display PHP-CS-Fixer version
+            run: php-cs-fixer --version
+
+          - name: PHP-CS-Fixer
+            run: php-cs-fixer fix --dry-run --format=checkstyle | cs2pr
