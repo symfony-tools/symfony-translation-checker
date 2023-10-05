@@ -8,5 +8,5 @@ services:
     Github\HttpClient\Builder:
         arguments:
             - '@?Http\Client\HttpClient'
-            - '@?Http\Message\RequestFactory'
-            - '@?Http\Message\StreamFactory'
+            - '@?Psr\Http\Message\RequestFactoryInterface'
+            - '@?Psr\Http\Message\StreamFactoryInterface'
