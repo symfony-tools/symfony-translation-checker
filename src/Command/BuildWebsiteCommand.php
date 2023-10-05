@@ -5,15 +5,15 @@ declare(strict_types=1);
 namespace App\Command;
 
 use App\Service\DataProvider;
+use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Filesystem\Filesystem;
 
+#[AsCommand(name: 'app:build-website')]
 class BuildWebsiteCommand extends Command
 {
-    protected static $defaultName = 'app:build-website';
-
     private DataProvider $dataProvider;
 
     public function __construct(DataProvider $dataProvider)

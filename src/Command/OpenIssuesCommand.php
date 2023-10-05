@@ -8,13 +8,14 @@ use App\Model\ComponentCollection;
 use App\Model\MissingTranslation;
 use App\Service\DataProvider;
 use Github\Client;
+use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
+#[AsCommand(name: 'app:open-issues')]
 class OpenIssuesCommand extends Command
 {
-    protected static $defaultName = 'app:open-issues';
     public const REPO_ORG = 'symfony';
     public const REPO_NAME = 'symfony';
 
@@ -98,7 +99,7 @@ TXT;
         }
     }
 
-    public static function getIssueTitle(?string $language = null): string
+    public static function getIssueTitle(string $language = null): string
     {
         if (null === $language) {
             return 'Missing translations for';
