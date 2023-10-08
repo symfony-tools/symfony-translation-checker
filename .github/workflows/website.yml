@@ -2,8 +2,7 @@ name: Generate data files
 
 on:
   schedule:
-    #- cron: '1 6,12,18 * * *'
-    - cron: '15 * * * *'
+    - cron: '40 6,12,18 * * *'
   push:
     branches:
       - master

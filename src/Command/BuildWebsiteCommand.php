@@ -42,6 +42,11 @@ class BuildWebsiteCommand extends Command
         foreach ($pages as $file => $url) {
             $request = \Symfony\Component\HttpFoundation\Request::create($domain.$url);
             $response = $kernel->handle($request);
+            if ($response->getStatusCode() !== 200) {
+                $output->writeln('Response is not 200');
+                return 1;
+            }
+
             $compressedHtml = $parser->compress($response->getContent());
             file_put_contents($outputDir.'/'.$file, $compressedHtml);
         }
