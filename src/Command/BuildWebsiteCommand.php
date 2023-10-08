@@ -42,8 +42,9 @@ class BuildWebsiteCommand extends Command
         foreach ($pages as $file => $url) {
             $request = \Symfony\Component\HttpFoundation\Request::create($domain.$url);
             $response = $kernel->handle($request);
-            if ($response->getStatusCode() !== 200) {
+            if (200 !== $response->getStatusCode()) {
                 $output->writeln('Response is not 200');
+
                 return 1;
             }
 
