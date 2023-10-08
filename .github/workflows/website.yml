@@ -3,7 +3,7 @@ name: Generate data files
 on:
   schedule:
     #- cron: '1 6,12,18 * * *'
-    - cron: '1 * * * *'
+    - cron: '15 * * * *'
   push:
     branches:
       - master
@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Set up PHP
-        uses: shivammathur/setup-php@2
+        uses: shivammathur/setup-php@v2
         with:
           php-version: 8.2
 

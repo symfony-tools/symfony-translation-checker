@@ -3,8 +3,7 @@ name: Open issues
 on:
   # Must be after we update the sources (build website) .
   schedule:
-    #- cron: '11 6,8 * * *'
-    - cron: '11 * * * *'
+    - cron: '51 6,8 * * *'
 
 #  push:
 #    branches:
@@ -17,7 +16,7 @@ jobs:
 
     steps:
       - name: Set up PHP
-        uses: shivammathur/setup-php@2
+        uses: shivammathur/setup-php@v2
         with:
           php-version: 8.2
 
