@@ -17,7 +17,7 @@ use Symfony\Component\Translation\Loader\XliffFileLoader;
 final class TranslationStatsCommand extends Command
 {
     public function __construct(
-        private PathProvider $dataProvider
+        private PathProvider $pathProvider
     ) {
         parent::__construct();
     }
