@@ -19,16 +19,12 @@ final class OpenIssuesCommand extends Command
     public const REPO_ORG = 'symfony';
     public const REPO_NAME = 'symfony';
 
-    private DataProvider $dataProvider;
-    private Client $github;
-    private string $prTargetBranch;
-
-    public function __construct(DataProvider $dataProvider, Client $github, string $prTargetBranch)
-    {
-        $this->dataProvider = $dataProvider;
-        $this->github = $github;
+    public function __construct(
+        private DataProvider $dataProvider,
+        private Client $github,
+        private string $prTargetBranch
+    ) {
         parent::__construct();
-        $this->prTargetBranch = $prTargetBranch;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)

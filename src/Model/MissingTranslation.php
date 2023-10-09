@@ -6,21 +6,14 @@ namespace App\Model;
 
 class MissingTranslation
 {
-    private string $file;
-    private int $missingCount;
-    private string $componentName;
-    private string $locale;
-    private string $language;
-    private int $totalCount;
-
-    public function __construct(string $file, int $missingCount, string $componentName, string $locale, string $language, int $totalCount)
-    {
-        $this->file = $file;
-        $this->missingCount = $missingCount;
-        $this->componentName = $componentName;
-        $this->locale = $locale;
-        $this->language = $language;
-        $this->totalCount = $totalCount;
+    public function __construct(
+        private string $file,
+        private int $missingCount,
+        private string $componentName,
+        private string $locale,
+        private string $language,
+        private int $totalCount
+    ) {
     }
 
     public function getFile(): string
