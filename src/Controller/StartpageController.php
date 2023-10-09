@@ -23,7 +23,7 @@ class StartpageController extends AbstractController
 
     public function index($version)
     {
-        if ('.html' === substr($version, -5)) {
+        if (str_ends_with($version, '.html')) {
             $version = substr($version, 0, -5);
         }
 
