@@ -9,8 +9,11 @@ use App\Service\DataProvider;
 use App\Service\PathProvider;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\Attribute\AsController;
+use Symfony\Component\Routing\Annotation\Route;
 
-final class StartpageController extends AbstractController
+#[AsController]
+final class StartpageController
 {
     public function __construct(
         private PathProvider $pathProvider,
@@ -18,7 +21,15 @@ final class StartpageController extends AbstractController
     ) {
     }
 
-    public function index($version): Response
+    #[Route(
+        path:'/{version}',
+        name: 'startpage',
+        methods: ['GET'],
+        defaults: [
+            'version' => '%pr_target_branch%'
+        ],
+    )]
+    public function __invoke(string $version): Response
     {
         if (str_ends_with($version, '.html')) {
             $version = substr($version, 0, -5);
