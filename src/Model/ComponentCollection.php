@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace App\Model;
 
 /**
- * @implements \Iterator<int, GithubIssue>
+ * @implements \Iterator<int, MissingTranslation>
  */
 class ComponentCollection implements \Countable, \Iterator
 {
@@ -47,7 +47,7 @@ class ComponentCollection implements \Countable, \Iterator
         return $this->language;
     }
 
-    public function current(): GithubIssue
+    public function current(): MissingTranslation
     {
         return $this->data[$this->cursor];
     }
