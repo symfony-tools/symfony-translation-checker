@@ -12,7 +12,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Filesystem\Filesystem;
 
 #[AsCommand(name: 'app:build-website')]
-class BuildWebsiteCommand extends Command
+final class BuildWebsiteCommand extends Command
 {
     private DataProvider $dataProvider;
 

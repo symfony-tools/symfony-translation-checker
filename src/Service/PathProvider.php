@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace App\Service;
 
-class PathProvider
+final class PathProvider
 {
     public function getComponentPaths(): array
     {

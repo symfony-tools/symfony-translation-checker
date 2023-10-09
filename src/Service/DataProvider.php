@@ -12,7 +12,7 @@ use App\Model\MissingTranslation;
 use Github\Client;
 use Symfony\Component\Intl\Languages;
 
-class DataProvider
+final class DataProvider
 {
     private string $dataPath;
     private PathProvider $pathProvider;
