@@ -33,8 +33,6 @@ class StartpageController extends AbstractController
             return new Response('Not Found', 404);
         }
 
-        $versionsAvailable = $this->dataProvider->getAvailableVersions();
-
         $componentPaths = [];
         foreach ($this->pathProvider->getComponentPaths() as $code => $path) {
             $componentPaths[$this->pathProvider->getComponentName($code)] = $path;
@@ -43,7 +41,7 @@ class StartpageController extends AbstractController
         return $this->render('startpage.html.twig', [
             'version' => $version,
             'data' => $data,
-            'availableVersions' => $versionsAvailable,
+            'availableVersions' => $this->dataProvider->getAvailableVersions(),
             'componentPaths' => $componentPaths,
         ]);
     }
