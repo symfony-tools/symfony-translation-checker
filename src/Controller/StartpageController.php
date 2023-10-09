@@ -21,7 +21,7 @@ class StartpageController extends AbstractController
         $this->dataProvider = $dataProvider;
     }
 
-    public function index($version)
+    public function index($version): Response
     {
         if ('.html' === substr($version, -5)) {
             $version = substr($version, 0, -5);
