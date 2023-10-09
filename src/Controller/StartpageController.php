@@ -29,7 +29,7 @@ class StartpageController extends AbstractController
 
         try {
             $data = $this->dataProvider->getData($version);
-        } catch (InvalidVersionException $e) {
+        } catch (InvalidVersionException) {
             return new Response('Not Found', 404);
         }
 
