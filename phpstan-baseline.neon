@@ -1,0 +1,11 @@
+parameters:
+	ignoreErrors:
+		-
+			message: "#^Method App\\\\Model\\\\ComponentCollection\\:\\:next\\(\\) with return type void returns false but should not return anything\\.$#"
+			count: 1
+			path: src/Model/ComponentCollection.php
+
+		-
+			message: "#^Method App\\\\Model\\\\ComponentCollection\\:\\:next\\(\\) with return type void returns mixed but should not return anything\\.$#"
+			count: 1
+			path: src/Model/ComponentCollection.php

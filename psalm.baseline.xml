@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files psalm-version="5.15.0@5c774aca4746caf3d239d9c8cadb9f882ca29352">
+  <file src="src/Command/TranslationStatsCommand.php">
+    <UnusedVariable>
+      <code>$source</code>
+      <code>$source</code>
+    </UnusedVariable>
+  </file>
+  <file src="src/Model/ComponentCollection.php">
+    <MethodSignatureMustProvideReturnType>
+      <code>count</code>
+      <code>current</code>
+      <code>key</code>
+      <code>next</code>
+      <code>rewind</code>
+      <code>valid</code>
+    </MethodSignatureMustProvideReturnType>
+    <MissingTemplateParam>
+      <code>\Iterator</code>
+    </MissingTemplateParam>
+  </file>
+  <file src="src/Service/DataProvider.php">
+    <UnusedForeachValue>
+      <code>$rows</code>
+    </UnusedForeachValue>
+    <UnusedVariable>
+      <code>$language</code>
+    </UnusedVariable>
+  </file>
+</files>
