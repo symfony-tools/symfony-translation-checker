@@ -43,13 +43,13 @@ final class BuildWebsiteCommand extends Command
             if (200 !== $response->getStatusCode()) {
                 $output->writeln('Response is not 200');
 
-                return 1;
+                return Command::FAILURE;
             }
 
             $compressedHtml = $parser->compress($response->getContent());
             file_put_contents($outputDir.'/'.$file, $compressedHtml);
         }
 
-        return 0;
+        return Command::SUCCESS;
     }
 }
