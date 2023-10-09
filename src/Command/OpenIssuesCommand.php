@@ -14,7 +14,7 @@ use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
 #[AsCommand(name: 'app:open-issues')]
-class OpenIssuesCommand extends Command
+final class OpenIssuesCommand extends Command
 {
     public const REPO_ORG = 'symfony';
     public const REPO_NAME = 'symfony';

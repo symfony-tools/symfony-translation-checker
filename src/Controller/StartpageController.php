@@ -10,7 +10,7 @@ use App\Service\PathProvider;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 
-class StartpageController extends AbstractController
+final class StartpageController extends AbstractController
 {
     private PathProvider $pathProvider;
     private DataProvider $dataProvider;

@@ -14,7 +14,7 @@ use Symfony\Component\Finder\Finder;
 use Symfony\Component\Translation\Loader\XliffFileLoader;
 
 #[AsCommand(name: 'app:trans-stats')]
-class TranslationStatsCommand extends Command
+final class TranslationStatsCommand extends Command
 {
     private PathProvider $pathProvider;
 
