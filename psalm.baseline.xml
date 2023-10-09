@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <files psalm-version="5.15.0@5c774aca4746caf3d239d9c8cadb9f882ca29352">
+  <file src="src/Command/OpenIssuesCommand.php">
+    <UnnecessaryVarAnnotation>
+      <code>MissingTranslation</code>
+    </UnnecessaryVarAnnotation>
+  </file>
   <file src="src/Command/TranslationStatsCommand.php">
     <UnusedVariable>
       <code>$source</code>

@@ -12,6 +12,9 @@ class ComponentCollection implements \Countable, \Iterator
     private ?GithubIssue $issue;
     private int $cursor;
 
+    /**
+     * @param MissingTranslation[] $data
+     */
     public function __construct(
         private array $data,
         private string $language
