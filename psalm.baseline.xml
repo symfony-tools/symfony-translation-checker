@@ -6,19 +6,6 @@
       <code>$source</code>
     </UnusedVariable>
   </file>
-  <file src="src/Model/ComponentCollection.php">
-    <MethodSignatureMustProvideReturnType>
-      <code>count</code>
-      <code>current</code>
-      <code>key</code>
-      <code>next</code>
-      <code>rewind</code>
-      <code>valid</code>
-    </MethodSignatureMustProvideReturnType>
-    <MissingTemplateParam>
-      <code>\Iterator</code>
-    </MissingTemplateParam>
-  </file>
   <file src="src/Service/DataProvider.php">
     <UnusedForeachValue>
       <code>$rows</code>
