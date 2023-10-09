@@ -4,6 +4,9 @@ declare(strict_types=1);
 
 namespace App\Model;
 
+/**
+ * @implements \Iterator<int, GithubIssue>
+ */
 class ComponentCollection implements \Countable, \Iterator
 {
     private ?GithubIssue $issue;
@@ -44,37 +47,32 @@ class ComponentCollection implements \Countable, \Iterator
         return $this->language;
     }
 
-    public function current()
+    public function current(): GithubIssue
     {
         return $this->data[$this->cursor];
     }
 
-    public function next()
+    public function next(): void
     {
         ++$this->cursor;
-        if ($this->valid()) {
-            return $this->data[$this->cursor];
-        }
-
-        return false;
     }
 
-    public function key()
+    public function key(): int
     {
         return $this->cursor;
     }
 
-    public function valid()
+    public function valid(): bool
     {
         return isset($this->data[$this->cursor]);
     }
 
-    public function rewind()
+    public function rewind(): void
     {
         $this->cursor = 0;
     }
 
-    public function count()
+    public function count(): int
     {
         return count($this->data);
     }
