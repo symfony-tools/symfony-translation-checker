@@ -41,7 +41,7 @@ class OpenIssuesCommand extends Command
             }
         }
 
-        return 0;
+        return Command::SUCCESS;
     }
 
     private function closeIssue(ComponentCollection $componentCollection)

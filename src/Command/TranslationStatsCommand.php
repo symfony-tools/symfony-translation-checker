@@ -73,6 +73,6 @@ class TranslationStatsCommand extends Command
 
         $output->writeln(json_encode(['available' => $validIds, 'defined' => $definedIds], \JSON_PRETTY_PRINT));
 
-        return 0;
+        return Command::SUCCESS;
     }
 }
