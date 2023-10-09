@@ -6,17 +6,16 @@ namespace App\Model;
 
 class ComponentCollection implements \Countable, \Iterator
 {
-    private array $data;
     private ?GithubIssue $issue;
     private int $cursor;
-    private string $language;
 
-    public function __construct(array $data, string $language)
-    {
+    public function __construct(
+        private array $data,
+        private string $language
+    ) {
         $this->issue = null;
         $this->cursor = 0;
         $this->data = array_values($data);
-        $this->language = $language;
     }
 
     public function hasMissingTranslationStrings(): bool

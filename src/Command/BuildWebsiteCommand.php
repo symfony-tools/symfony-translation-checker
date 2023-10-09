@@ -14,11 +14,9 @@ use Symfony\Component\Filesystem\Filesystem;
 #[AsCommand(name: 'app:build-website')]
 class BuildWebsiteCommand extends Command
 {
-    private DataProvider $dataProvider;
-
-    public function __construct(DataProvider $dataProvider)
-    {
-        $this->dataProvider = $dataProvider;
+    public function __construct(
+        private DataProvider $dataProvider
+    ) {
         parent::__construct();
     }
 

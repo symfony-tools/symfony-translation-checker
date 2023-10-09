@@ -12,13 +12,10 @@ use Symfony\Component\HttpFoundation\Response;
 
 class StartpageController extends AbstractController
 {
-    private PathProvider $pathProvider;
-    private DataProvider $dataProvider;
-
-    public function __construct(PathProvider $pathProvider, DataProvider $dataProvider)
-    {
-        $this->pathProvider = $pathProvider;
-        $this->dataProvider = $dataProvider;
+    public function __construct(
+        private PathProvider $pathProvider,
+        private DataProvider $dataProvider
+    ) {
     }
 
     public function index($version)

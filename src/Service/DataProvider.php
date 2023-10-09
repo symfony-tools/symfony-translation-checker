@@ -14,15 +14,11 @@ use Symfony\Component\Intl\Languages;
 
 class DataProvider
 {
-    private string $dataPath;
-    private PathProvider $pathProvider;
-    private Client $github;
-
-    public function __construct(string $dataPath, PathProvider $pathProvider, Client $github)
-    {
-        $this->dataPath = $dataPath;
-        $this->pathProvider = $pathProvider;
-        $this->github = $github;
+    public function __construct(
+        private string $dataPath,
+        private PathProvider $pathProvider,
+        private Client $github
+    ) {
     }
 
     public function getData(string $version): array
