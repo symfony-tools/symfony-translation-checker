@@ -17,7 +17,7 @@ jobs:
           php-version: 8.2
 
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Download dependencies
         run: composer install --no-interaction --optimize-autoloader
