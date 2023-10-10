@@ -2,3 +2,7 @@ twig:
     default_path: '%kernel.project_dir%/templates'
     globals:
         pr_target_branch: '%pr_target_branch%'
+
+when@test:
+    twig:
+        strict_variables: true
