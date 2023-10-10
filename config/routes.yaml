@@ -4,3 +4,9 @@ index:
     methods: GET
     defaults:
         version: '%pr_target_branch%'
+
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: App\Controller
+    type: attribute
