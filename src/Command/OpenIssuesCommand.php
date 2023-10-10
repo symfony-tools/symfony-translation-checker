@@ -72,7 +72,8 @@ See https://github.com/symfony/symfony/issues/38710 for details and [this page](
 These are the files that should be updated: 
 $files
 
-NOTE: If you want to work on this issue, add a comment to assign it to yourself and let others know that this is already taken.
+> [!NOTE]
+> If you want to work on this issue, add a comment to assign it to yourself and let others know that this is already taken.
 
 TXT;
 
