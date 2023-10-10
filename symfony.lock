@@ -114,12 +114,12 @@
         "version": "5.0.3"
     },
     "phpunit/phpunit": {
-        "version": "10.4",
+        "version": "4.7",
         "recipe": {
             "repo": "github.com/symfony/recipes",
-            "branch": "main",
-            "version": "9.6",
-            "ref": "7364a21d87e658eb363c5020c072ecfdc12e2326"
+            "branch": "master",
+            "version": "4.7",
+            "ref": "fc18a41d910bd168b6d83b09330d3dd892ddbcdd"
         },
         "files": [
             ".env.test",
@@ -302,6 +302,21 @@
     },
     "symfony/options-resolver": {
         "version": "v5.1.7"
+    },
+    "symfony/phpunit-bridge": {
+        "version": "6.3",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "main",
+            "version": "6.3",
+            "ref": "01dfaa98c58f7a7b5a9b30e6edb7074af7ed9819"
+        },
+        "files": [
+            ".env.test",
+            "bin/phpunit",
+            "phpunit.xml.dist",
+            "tests/bootstrap.php"
+        ]
     },
     "symfony/polyfill-intl-grapheme": {
         "version": "v1.19.0"
