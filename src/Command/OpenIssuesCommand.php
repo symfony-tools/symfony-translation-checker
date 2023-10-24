@@ -66,8 +66,14 @@ final class OpenIssuesCommand extends Command
         $body = <<<TXT
 Hello,
 
-There are some missing translation for $language. These should be added in branch $targetBranch. 
-See https://github.com/symfony/symfony/issues/38710 for details and [this page](https://symfony-translations.nyholm.tech/#pr) for an example.
+There are some missing $language translations and we are looking for a **native** speaker to help us out. 
+
+Here is a [short example](https://symfony-translations.nyholm.tech/#pr) of what you need to do. There are 4 rules: 
+
+1. You must be a $language native speaker
+2. You must look at the existing translations and follow the same "style" or "tone"
+3. You must make your PR to branch $targetBranch
+4. You must use the correct indentation (number of spaces)
 
 These are the files that should be updated: 
 $files
