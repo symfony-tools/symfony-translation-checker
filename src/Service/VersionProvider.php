@@ -2,12 +2,11 @@
 
 namespace App\Service;
 
-class VersionProvider
+final class VersionProvider
 {
     public function getLowestSupportedVersion(): string
     {
-        $releases = $this->getReleases();
-        $versions = $releases['supported_versions'];
+        $versions = $this->getSupportedVersion();
         usort($versions, fn ($a, $b) => version_compare($a, $b));
 
         return $versions[0];
@@ -20,11 +19,9 @@ class VersionProvider
         return $releases['supported_versions'];
     }
 
-    private function getReleases()
+    private function getReleases(): array
     {
         $response = file_get_contents('https://symfony.com/releases.json');
-        $data = json_decode($response, true, flags: \JSON_THROW_ON_ERROR);
-
-        return $data;
+        return json_decode($response, true, flags: \JSON_THROW_ON_ERROR);
     }
 }
