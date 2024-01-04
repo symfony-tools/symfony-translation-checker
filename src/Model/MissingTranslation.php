@@ -26,6 +26,9 @@ class MissingTranslation
         return count($this->missingTranslations);
     }
 
+    /**
+     * @return array<int, array{id: int, source: string}>
+     */
     public function getMissingTranslations(): array
     {
         return $this->missingTranslations;

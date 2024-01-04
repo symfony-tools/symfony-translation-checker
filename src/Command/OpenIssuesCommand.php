@@ -61,6 +61,9 @@ final class OpenIssuesCommand extends Command
         foreach ($componentCollection as $missingTranslation) {
             if ($missingTranslation->getMissingCount() > 0) {
                 $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $targetBranch, $missingTranslation->getFile()).\PHP_EOL;
+                foreach ($missingTranslation->getMissingTranslations() as $missing) {
+                    $files .= sprintf('  - %d: %s', $missing['id'], $missing['source']).\PHP_EOL;
+                }
             }
         }
 
