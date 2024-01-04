@@ -9,18 +9,6 @@
                 aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-
-        {#
-        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-            <ul class="navbar-nav mr-auto">
-                {% for v in availableVersions %}
-                <li class="nav-item{% if v == version %} active{% endif %}">
-                    <a class="nav-link" href="{{ path('index', {version: v}) }}{% if v != default_version %}.html{% endif %}">{{ v }}</a>
-                </li>
-                {% endfor %}
-            </ul>
-        </div>
-         #}
     </nav>
 
     <main role="main" class="container">
@@ -82,7 +70,7 @@
 
         <p>
             Before you begin, make a comment on the related issue to tell others
-            that you started working on it. Now, check out branch <b>{{ pr_target_branch }}</b>,
+            that you started working on it. Now, check out branch <b>{{ version }}</b>,
             that is the lowest supported branch.
             All new translations should always go to that branch.
             Then, for each missing translation in your language, copy the translations
