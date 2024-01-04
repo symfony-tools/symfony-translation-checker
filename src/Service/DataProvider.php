@@ -34,7 +34,7 @@ final class DataProvider
         $paginator = new \Github\ResultPager($this->github);
         $issues = $paginator->fetchAll($this->github->search(), 'issues', [sprintf('repo:%s/%s "%s" is:open', OpenIssuesCommand::REPO_ORG, OpenIssuesCommand::REPO_NAME, OpenIssuesCommand::getIssueTitle())]);
         foreach ($issues as $issue) {
-            foreach ($data as $language => $componentCollection) {
+            foreach ($data as $componentCollection) {
                 if ($issue['title'] === sprintf('Missing translations for %s', $componentCollection->getLanguage())) {
                     $componentCollection->setIssue(GithubIssue::create($issue));
                 }

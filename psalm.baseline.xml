@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<files psalm-version="5.15.0@5c774aca4746caf3d239d9c8cadb9f882ca29352">
+<files psalm-version="5.18.0@b113f3ed0259fd6e212d87c3df80eec95a6abf19">
   <file src="src/Command/OpenIssuesCommand.php">
     <UnnecessaryVarAnnotation>
       <code>MissingTranslation</code>
     </UnnecessaryVarAnnotation>
-  </file>
-  <file src="src/Command/TranslationStatsCommand.php">
-    <UnusedVariable>
-      <code>$source</code>
-      <code>$source</code>
-    </UnusedVariable>
-  </file>
-  <file src="src/Service/DataProvider.php">
-    <UnusedForeachValue>
-      <code>$rows</code>
-    </UnusedForeachValue>
-    <UnusedVariable>
-      <code>$language</code>
-    </UnusedVariable>
   </file>
 </files>
