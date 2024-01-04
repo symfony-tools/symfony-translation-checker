@@ -16,6 +16,7 @@ class VersionProvider
     public function getSupportedVersions(): array
     {
         $releases = $this->getReleases();
+
         return $releases['supported_versions'];
     }
 
