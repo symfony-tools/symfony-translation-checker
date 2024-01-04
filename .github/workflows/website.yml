@@ -34,9 +34,9 @@ jobs:
       - name: Generate data files
         run: |
           WORKDIR=$(pwd)
-          php bin/console app:supported-versions
+          cd $WORKDIR/source && php bin/console app:supported-versions
           
-          for version in $(php bin/console app:supported-versions); do
+          for version in $(cd $WORKDIR/source && php bin/console app:supported-versions); do
               echo $version
               cd $WORKDIR/symfony && git checkout $version
               cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/$version.json
