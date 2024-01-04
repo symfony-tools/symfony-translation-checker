@@ -21,6 +21,9 @@ final class DataProvider
     ) {
     }
 
+    /**
+     * @return array<string, ComponentCollection>
+     */
     public function getData(string $version): array
     {
         if (!in_array($version, $this->getAvailableVersions())) {
@@ -31,7 +34,7 @@ final class DataProvider
         $paginator = new \Github\ResultPager($this->github);
         $issues = $paginator->fetchAll($this->github->search(), 'issues', [sprintf('repo:%s/%s "%s" is:open', OpenIssuesCommand::REPO_ORG, OpenIssuesCommand::REPO_NAME, OpenIssuesCommand::getIssueTitle())]);
         foreach ($issues as $issue) {
-            foreach ($data as $language => $componentCollection) {
+            foreach ($data as $componentCollection) {
                 if ($issue['title'] === sprintf('Missing translations for %s', $componentCollection->getLanguage())) {
                     $componentCollection->setIssue(GithubIssue::create($issue));
                 }
@@ -41,6 +44,9 @@ final class DataProvider
         return $data;
     }
 
+    /**
+     * @return array<string, ComponentCollection>
+     */
     private function prepareData(string $version): array
     {
         $file = $this->dataPath.sprintf('/%s.json', $version);
@@ -49,7 +55,7 @@ final class DataProvider
         $missing = [];
         $available = [];
         foreach ($data['available'] as $name => $rows) {
-            $available[$name] = count($rows);
+            $available[$name] = array_keys($rows);
         }
 
         // Init all locales
@@ -60,17 +66,18 @@ final class DataProvider
             }
         }
 
-        // Init missing
-        foreach ($data['available'] as $name => $rows) {
-            foreach (array_keys($locales) as $locale) {
-                $missing[$locale][$name] = $available[$name];
-            }
-        }
-
-        foreach ($data['defined'] as $name => $localeData) {
-            foreach ($localeData as $locale => $rows) {
-                // Flip the data so it makes sense to print
-                $missing[$locale][$name] = $available[$name] - count($rows);
+        // Init $missing for each locale
+        foreach (array_keys($locales) as $locale) {
+            foreach ($data['available'] as $name => $rows) {
+                $missing[$locale][$name] = [];
+                foreach ($rows as $id => $translation) {
+                    if (!isset($data['defined'][$name][$locale][$id])) {
+                        $missing[$locale][$name][$id] = [
+                            'id' => $id,
+                            'source' => $translation['source'],
+                        ];
+                    }
+                }
             }
         }
 
@@ -78,14 +85,14 @@ final class DataProvider
         foreach ($missing as $locale => $components) {
             $language = $this->getLanguageName($locale);
             $collectionData = [];
-            foreach ($components as $componentCode => $count) {
+            foreach ($components as $componentCode => $rows) {
                 $collectionData[] = new MissingTranslation(
                     $this->pathProvider->getPath($componentCode, $locale),
-                    $count,
+                    $rows,
                     $this->pathProvider->getComponentName($componentCode),
                     $locale,
                     $language,
-                    $available[$componentCode]
+                    count($available[$componentCode]),
                 );
             }
             $output[$language] = new ComponentCollection($collectionData, $language);

@@ -57,10 +57,16 @@ final class OpenIssuesCommand extends Command
     private function createIssue(string $language, ComponentCollection $componentCollection, string $targetBranch): void
     {
         $files = '';
+        $details = '';
         /** @var MissingTranslation $missingTranslation */
         foreach ($componentCollection as $missingTranslation) {
             if ($missingTranslation->getMissingCount() > 0) {
-                $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $targetBranch, $missingTranslation->getFile()).\PHP_EOL;
+                $link = sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $targetBranch, $missingTranslation->getFile());
+                $files .= $link.\PHP_EOL;
+                $details .= $link.\PHP_EOL;
+                foreach ($missingTranslation->getMissingTranslations() as $missing) {
+                    $details .= sprintf('  - %d: %s', $missing['id'], $missing['source']).\PHP_EOL;
+                }
             }
         }
 
@@ -78,6 +84,11 @@ Here is a [short example](https://symfony-translations.nyholm.tech/#pr) of what 
 
 These are the files that should be updated: 
 $files
+
+<details>
+<summary>Show strings not translated</summary>
+$details
+</details>
 
 > [!NOTE]
 > If you want to work on this issue, add a comment to assign it to yourself and let others know that this is already taken.

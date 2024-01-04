@@ -41,9 +41,9 @@ final class TranslationStatsCommand extends Command
         foreach ($paths as $name => $path) {
             $validIds[$name] = [];
             $catalogue = $loader->load($rootPath.'/'.$path.'/'.$sourceNames[$name], 'en');
-            $meta = $catalogue->getMetadata();
+            $meta = $catalogue->getMetadata() ?? [];
             foreach ($meta as $source => $data) {
-                $validIds[$name][] = $data['id'];
+                $validIds[$name][$data['id']] = ['id' => $data['id'], 'source' => $source];
             }
         }
 
@@ -58,9 +58,13 @@ final class TranslationStatsCommand extends Command
                 $locale = substr($basename, strrpos($basename, '.') + 1);
                 $definedIds[$name][$locale] = [];
                 $catalogue = $loader->load($file->getPathname(), $locale);
-                $meta = $catalogue->getMetadata();
+                $meta = $catalogue->getMetadata() ?? [];
+                $messages = $catalogue->all()['messages'] ?? [];
                 foreach ($meta as $source => $data) {
-                    $definedIds[$name][$locale][] = $data['id'];
+                    $definedIds[$name][$locale][$data['id']] = [
+                        'id' => $data['id'],
+                        'trans' => $messages[$source] ?? '',
+                    ];
                 }
             }
             ksort($definedIds[$name]);
