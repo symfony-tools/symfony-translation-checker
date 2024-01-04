@@ -7,6 +7,7 @@ namespace App\Controller;
 use App\Exception\InvalidVersionException;
 use App\Service\DataProvider;
 use App\Service\PathProvider;
+use App\Service\VersionProvider;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 
@@ -14,16 +15,14 @@ final class StartpageController extends AbstractController
 {
     public function __construct(
         private PathProvider $pathProvider,
-        private DataProvider $dataProvider
+        private DataProvider $dataProvider,
+        private VersionProvider $versionProvider
     ) {
     }
 
-    public function index($version): Response
+    public function index(): Response
     {
-        if (str_ends_with($version, '.html')) {
-            $version = substr($version, 0, -5);
-        }
-
+        $version = $this->versionProvider->getLowestSupportedVersion();
         try {
             $data = $this->dataProvider->getData($version);
         } catch (InvalidVersionException) {

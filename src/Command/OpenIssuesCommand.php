@@ -7,6 +7,7 @@ namespace App\Command;
 use App\Model\ComponentCollection;
 use App\Model\MissingTranslation;
 use App\Service\DataProvider;
+use App\Service\VersionProvider;
 use Github\Client;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
@@ -22,16 +23,17 @@ final class OpenIssuesCommand extends Command
     public function __construct(
         private DataProvider $dataProvider,
         private Client $github,
-        private string $prTargetBranch
+        private VersionProvider $versionProvider
     ) {
         parent::__construct();
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        foreach ($this->dataProvider->getData($this->prTargetBranch) as $language => $componentsCollection) {
+        $targetBranch = $this->versionProvider->getLowestSupportedVersion();
+        foreach ($this->dataProvider->getData($targetBranch) as $language => $componentsCollection) {
             if ($componentsCollection->hasMissingTranslationStrings()) {
-                $this->createIssue($language, $componentsCollection);
+                $this->createIssue($language, $componentsCollection, $targetBranch);
             } else {
                 $this->closeIssue($componentsCollection);
             }
@@ -52,17 +54,16 @@ final class OpenIssuesCommand extends Command
         }
     }
 
-    private function createIssue(string $language, ComponentCollection $componentCollection): void
+    private function createIssue(string $language, ComponentCollection $componentCollection, string $targetBranch): void
     {
         $files = '';
         /** @var MissingTranslation $missingTranslation */
         foreach ($componentCollection as $missingTranslation) {
             if ($missingTranslation->getMissingCount() > 0) {
-                $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $this->prTargetBranch, $missingTranslation->getFile()).\PHP_EOL;
+                $files .= sprintf('- [%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $targetBranch, $missingTranslation->getFile()).\PHP_EOL;
             }
         }
 
-        $targetBranch = $this->prTargetBranch;
         $body = <<<TXT
 Hello,
 
