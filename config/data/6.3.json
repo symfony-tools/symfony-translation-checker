@@ -206,6 +206,10 @@
             "19": {
                 "id": "19",
                 "source": "Too many failed login attempts, please try again in %minutes% minute."
+            },
+            "20": {
+                "id": "20",
+                "source": "Too many failed login attempts, please try again in %minutes% minutes."
             }
         },
         "Validator": {
@@ -1719,140 +1723,6 @@
                 "128": {
                     "id": "128",
                     "trans": "Pros\u00edm zadejte platn\u00fd t\u00fdden."
-                }
-            },
-            "cy": {
-                "28": {
-                    "id": "28",
-                    "trans": "This form should not contain extra fields."
-                },
-                "29": {
-                    "id": "29",
-                    "trans": "The uploaded file was too large. Please try to upload a smaller file."
-                },
-                "30": {
-                    "id": "30",
-                    "trans": "The CSRF token is invalid. Please try to resubmit the form."
-                },
-                "99": {
-                    "id": "99",
-                    "trans": "This value is not a valid HTML5 color."
-                },
-                "100": {
-                    "id": "100",
-                    "trans": "Please enter a valid birthdate."
-                },
-                "101": {
-                    "id": "101",
-                    "trans": "The selected choice is invalid."
-                },
-                "102": {
-                    "id": "102",
-                    "trans": "The collection is invalid."
-                },
-                "103": {
-                    "id": "103",
-                    "trans": "Please select a valid color."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "Please select a valid country."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "Please select a valid currency."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "Please choose a valid date interval."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Please enter a valid date and time."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Please enter a valid date."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Please select a valid file."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The hidden field is invalid."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "Please enter an integer."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "Please select a valid language."
-                },
-                "113": {
-                    "id": "113",
-                    "trans": "Please select a valid locale."
-                },
-                "114": {
-                    "id": "114",
-                    "trans": "Please enter a valid money amount."
-                },
-                "115": {
-                    "id": "115",
-                    "trans": "Please enter a number."
-                },
-                "116": {
-                    "id": "116",
-                    "trans": "The password is invalid."
-                },
-                "117": {
-                    "id": "117",
-                    "trans": "Please enter a percentage value."
-                },
-                "118": {
-                    "id": "118",
-                    "trans": "The values do not match."
-                },
-                "119": {
-                    "id": "119",
-                    "trans": "Please enter a valid time."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Please select a valid timezone."
-                },
-                "121": {
-                    "id": "121",
-                    "trans": "Please enter a valid URL."
-                },
-                "122": {
-                    "id": "122",
-                    "trans": "Please enter a valid search term."
-                },
-                "123": {
-                    "id": "123",
-                    "trans": "Please provide a valid phone number."
-                },
-                "124": {
-                    "id": "124",
-                    "trans": "The checkbox has an invalid value."
-                },
-                "125": {
-                    "id": "125",
-                    "trans": "Please enter a valid email address."
-                },
-                "126": {
-                    "id": "126",
-                    "trans": "Please select a valid option."
-                },
-                "127": {
-                    "id": "127",
-                    "trans": "Please select a valid range."
-                },
-                "128": {
-                    "id": "128",
-                    "trans": "Please enter a valid week."
                 }
             },
             "da": {
@@ -8357,10 +8227,6 @@
                 "18": {
                     "id": "18",
                     "trans": "Ongeldige of vervalde aanmeldskakel."
-                },
-                "19": {
-                    "id": "19",
-                    "trans": "Too many failed login attempts, please try again in %minutes% minute."
                 }
             },
             "ar": {
@@ -8434,6 +8300,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "\u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u062c\u062f\u0627 \u0645\u0646 \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629\u060c \u064a\u0631\u062c\u0649 \u0627\u0639\u0627\u062f\u0629 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0628\u0639\u062f %minutes% \u062f\u0642\u064a\u0642\u0629."
+                },
+                "20": {
+                    "id": "20",
                     "trans": "\u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u062c\u062f\u0627 \u0645\u0646 \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629\u060c \u064a\u0631\u062c\u0649 \u0627\u0639\u0627\u062f\u0629 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0628\u0639\u062f %minutes% \u062f\u0642\u064a\u0642\u0629."
                 }
             },
@@ -8509,6 +8379,10 @@
                 "19": {
                     "id": "19",
                     "trans": "H\u0259ddind\u0259n art\u0131q u\u011fursuz giri\u015f c\u0259hdi, l\u00fctf\u0259n %minutes% d\u0259qiq\u0259 \u0259rzind\u0259 yenid\u0259n yoxlay\u0131n."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "H\u0259ddind\u0259n art\u0131q u\u011fursuz giri\u015f c\u0259hdi, l\u00fctf\u0259n %minutes% d\u0259qiq\u0259 \u0259rzind\u0259 yenid\u0259n yoxlay\u0131n."
                 }
             },
             "be": {
@@ -8583,6 +8457,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0417\u0430\u043d\u0430\u0434\u0442\u0430 \u0448\u043c\u0430\u0442 \u043d\u044f\u045e\u0434\u0430\u043b\u044b\u0445 \u0441\u043f\u0440\u043e\u0431 \u0443\u0432\u0430\u0445\u043e\u0434\u0443 \u045e \u0441\u0456\u0441\u0442\u044d\u043c\u0443, \u043f\u0430\u0441\u043f\u0440\u0430\u0431\u0443\u0439\u0446\u0435 \u0441\u043f\u0440\u043e\u0431\u0443 \u043f\u0440\u0430\u0437 %minutes% \u0445\u0432\u0456\u043b\u0456\u043d\u0443."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0417\u0430\u043d\u0430\u0434\u0442\u0430 \u0448\u043c\u0430\u0442 \u043d\u044f\u045e\u0434\u0430\u043b\u044b\u0445 \u0441\u043f\u0440\u043e\u0431 \u0443\u0432\u0430\u0445\u043e\u0434\u0443 \u045e \u0441\u0456\u0441\u0442\u044d\u043c\u0443, \u043f\u0430\u0441\u043f\u0440\u0430\u0431\u0443\u0439\u0446\u0435 \u0441\u043f\u0440\u043e\u0431\u0443 \u043f\u0440\u0430\u0437 %minutes% \u0445\u0432\u0456\u043b\u0456\u043d."
                 }
             },
             "bg": {
@@ -8657,6 +8535,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0422\u0432\u044a\u0440\u0434\u0435 \u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438 \u043e\u043f\u0438\u0442\u0438 \u0437\u0430 \u0432\u0445\u043e\u0434, \u043c\u043e\u043b\u044f \u043e\u043f\u0438\u0442\u0430\u0439\u0442\u0435 \u043e\u0442\u043d\u043e\u0432\u043e \u0441\u043b\u0435\u0434 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0422\u0432\u044a\u0440\u0434\u0435 \u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438 \u043e\u043f\u0438\u0442\u0438 \u0437\u0430 \u0432\u0445\u043e\u0434, \u043c\u043e\u043b\u044f \u043e\u043f\u0438\u0442\u0430\u0439\u0442\u0435 \u043e\u0442\u043d\u043e\u0432\u043e \u0441\u043b\u0435\u0434 %minutes% \u043c\u0438\u043d\u0443\u0442\u0438."
                 }
             },
             "bs": {
@@ -8730,6 +8612,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minuta."
+                },
+                "20": {
+                    "id": "20",
                     "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minuta."
                 }
             },
@@ -8805,6 +8691,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Massa intents d'inici de sessi\u00f3 fallits, torneu-ho a provar en %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Massa intents d'inici de sessi\u00f3 fallits, torneu-ho a provar en %minutes% minuts."
                 }
             },
             "cs": {
@@ -8879,80 +8769,10 @@
                 "19": {
                     "id": "19",
                     "trans": "P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minutu."
-                }
-            },
-            "cy": {
-                "1": {
-                    "id": "1",
-                    "trans": "An authentication exception occurred."
                 },
-                "2": {
-                    "id": "2",
-                    "trans": "Authentication credentials could not be found."
-                },
-                "3": {
-                    "id": "3",
-                    "trans": "Authentication request could not be processed due to a system problem."
-                },
-                "4": {
-                    "id": "4",
-                    "trans": "Invalid credentials."
-                },
-                "5": {
-                    "id": "5",
-                    "trans": "Cookie has already been used by someone else."
-                },
-                "6": {
-                    "id": "6",
-                    "trans": "Not privileged to request the resource."
-                },
-                "7": {
-                    "id": "7",
-                    "trans": "Invalid CSRF token."
-                },
-                "9": {
-                    "id": "9",
-                    "trans": "No authentication provider found to support the authentication token."
-                },
-                "10": {
-                    "id": "10",
-                    "trans": "No session available, it either timed out or cookies are not enabled."
-                },
-                "11": {
-                    "id": "11",
-                    "trans": "No token could be found."
-                },
-                "12": {
-                    "id": "12",
-                    "trans": "Username could not be found."
-                },
-                "13": {
-                    "id": "13",
-                    "trans": "Account has expired."
-                },
-                "14": {
-                    "id": "14",
-                    "trans": "Credentials have expired."
-                },
-                "15": {
-                    "id": "15",
-                    "trans": "Account is disabled."
-                },
-                "16": {
-                    "id": "16",
-                    "trans": "Account is locked."
-                },
-                "17": {
-                    "id": "17",
-                    "trans": "Too many failed login attempts, please try again later."
-                },
-                "18": {
-                    "id": "18",
-                    "trans": "Invalid or expired login link."
-                },
-                "19": {
-                    "id": "19",
-                    "trans": "Too many failed login attempts, please try again in %minutes% minute."
+                "20": {
+                    "id": "20",
+                    "trans": "P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minut."
                 }
             },
             "da": {
@@ -9027,6 +8847,10 @@
                 "19": {
                     "id": "19",
                     "trans": "For mange fejlede login fors\u00f8g, pr\u00f8v igen om %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "For mange fejlede login fors\u00f8g, pr\u00f8v igen om %minutes% minutter."
                 }
             },
             "de": {
@@ -9101,6 +8925,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Zu viele fehlgeschlagene Anmeldeversuche, bitte versuchen Sie es in einer Minute noch einmal."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Zu viele fehlgeschlagene Anmeldeversuche, bitte versuchen Sie es in %minutes% Minuten noch einmal."
                 }
             },
             "el": {
@@ -9175,6 +9003,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u03a0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03ad\u03c2 \u03b1\u03c0\u03bf\u03c4\u03c5\u03c7\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc\u03c0\u03b5\u03b9\u03c1\u03b5\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2, \u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03be\u03b1\u03bd\u03b1\u03b4\u03bf\u03ba\u03b9\u03bc\u03ac\u03c3\u03c4\u03b5 \u03c3\u03b5 %minutes% \u03bb\u03b5\u03c0\u03c4\u03cc."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u03a0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03ad\u03c2 \u03b1\u03c0\u03bf\u03c4\u03c5\u03c7\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc\u03c0\u03b5\u03b9\u03c1\u03b5\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2, \u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03be\u03b1\u03bd\u03b1\u03b4\u03bf\u03ba\u03b9\u03bc\u03ac\u03c3\u03c4\u03b5 \u03c3\u03b5 %minutes% \u03bb\u03b5\u03c0\u03c4\u03ac."
                 }
             },
             "en": {
@@ -9249,6 +9081,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Too many failed login attempts, please try again in %minutes% minute."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Too many failed login attempts, please try again in %minutes% minutes."
                 }
             },
             "es": {
@@ -9323,6 +9159,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Demasiados intentos fallidos de inicio de sesi\u00f3n, int\u00e9ntelo de nuevo en %minutes% minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Demasiados intentos fallidos de inicio de sesi\u00f3n, int\u00e9ntelo de nuevo en %minutes% minutos."
                 }
             },
             "et": {
@@ -9396,6 +9236,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "Liiga palju eba\u00f5nnestunud autentimise katseid, palun proovi uuesti %minutes% minuti p\u00e4rast."
+                },
+                "20": {
+                    "id": "20",
                     "trans": "Liiga palju eba\u00f5nnestunud autentimise katseid, palun proovi uuesti %minutes% minuti p\u00e4rast."
                 }
             },
@@ -9471,6 +9315,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Saioa hasteko huts gehiegi egin dira, saiatu berriro minutu %minutes% geroago."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Saioa hasteko huts gehiegi egin dira, saiatu berriro %minutes% minututan."
                 }
             },
             "fa": {
@@ -9544,6 +9392,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "\u062a\u0644\u0627\u0634\u200c\u0647\u0627\u06cc \u0646\u0627\u0645\u0648\u0641\u0642 \u0632\u06cc\u0627\u062f\u06cc \u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f \u0635\u0648\u0631\u062a \u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u062a\u060c \u0644\u0637\u0641\u0627\u064b %minutes% \u062f\u0642\u06cc\u0642\u0647 \u062f\u06cc\u06af\u0631 \u062f\u0648\u0628\u0627\u0631\u0647 \u0627\u0645\u062a\u062d\u0627\u0646 \u06a9\u0646\u06cc\u062f."
+                },
+                "20": {
+                    "id": "20",
                     "trans": "\u062a\u0644\u0627\u0634\u200c\u0647\u0627\u06cc \u0646\u0627\u0645\u0648\u0641\u0642 \u0632\u06cc\u0627\u062f\u06cc \u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f \u0635\u0648\u0631\u062a \u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u062a\u060c \u0644\u0637\u0641\u0627\u064b %minutes% \u062f\u0642\u06cc\u0642\u0647 \u062f\u06cc\u06af\u0631 \u062f\u0648\u0628\u0627\u0631\u0647 \u0627\u0645\u062a\u062d\u0627\u0646 \u06a9\u0646\u06cc\u062f."
                 }
             },
@@ -9619,6 +9471,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Liian monta ep\u00e4onnistunutta kirjautumisyrityst\u00e4, yrit\u00e4 uudelleen %minutes% minuutin kuluttua."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Liian monta ep\u00e4onnistunutta kirjautumisyrityst\u00e4, yrit\u00e4 uudelleen %minutes% minuutin kuluttua."
                 }
             },
             "fr": {
@@ -9693,6 +9549,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Plusieurs tentatives de connexion ont \u00e9chou\u00e9, veuillez r\u00e9essayer dans %minutes% minute."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Plusieurs tentatives de connexion ont \u00e9chou\u00e9, veuillez r\u00e9essayer dans %minutes% minutes."
                 }
             },
             "gl": {
@@ -9767,6 +9627,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Demasiados intentos de inicio de sesi\u00f3n errados, por favor, t\u00e9nteo de novo en %minutes% minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Demasiados intentos de inicio de sesi\u00f3n errados, por favor, t\u00e9nteo de novo en %minutes% minutos."
                 }
             },
             "he": {
@@ -9841,6 +9705,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e0\u05d9\u05e1\u05d9\u05d5\u05e0\u05d5\u05ea \u05db\u05e0\u05d9\u05e1\u05d4 \u05db\u05d5\u05e9\u05dc\u05d9\u05dd, \u05d0\u05e0\u05d0 \u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1 \u05d1\u05d5\u05d3 %minutes% \u05d3\u05e7\u05d4."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e0\u05d9\u05e1\u05d9\u05d5\u05e0\u05d5\u05ea \u05db\u05e0\u05d9\u05e1\u05d4 \u05db\u05d5\u05e9\u05dc\u05d9\u05dd, \u05d0\u05e0\u05d0 \u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1 \u05d1\u05d5\u05d3 %minutes% \u05d3\u05e7\u05d5\u05ea."
                 }
             },
             "hr": {
@@ -9915,6 +9783,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, molim poku\u0161ajte ponovo za %minutes% minutu."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, molim poku\u0161ajte ponovo za %minutes% minutu.|Previ\u0161e neuspjelih poku\u0161aja prijave, molim poku\u0161ajte ponovo za %minutes% minute.|Previ\u0161e neuspjelih poku\u0161aja prijave, molim poku\u0161ajte ponovo za %minutes% minuta."
                 }
             },
             "hu": {
@@ -9988,6 +9860,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "T\u00fal sok sikertelen bejelentkez\u00e9si k\u00eds\u00e9rlet, k\u00e9rj\u00fck pr\u00f3b\u00e1lja \u00fajra %minutes% perc m\u00falva."
+                },
+                "20": {
+                    "id": "20",
                     "trans": "T\u00fal sok sikertelen bejelentkez\u00e9si k\u00eds\u00e9rlet, k\u00e9rj\u00fck pr\u00f3b\u00e1lja \u00fajra %minutes% perc m\u00falva."
                 }
             },
@@ -10063,6 +9939,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0544\u0578\u0582\u057f\u0584\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u0561\u0576\u0570\u0561\u057b\u0578\u0572 \u0583\u0578\u0580\u0571\u0565\u0580: \u053d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u056f\u0580\u056f\u056b\u0576 \u0583\u0578\u0580\u0571\u0565\u056c %minutes \u0580\u0578\u057a\u0565:"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0544\u0578\u0582\u057f\u0584\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u0561\u0576\u0570\u0561\u057b\u0578\u0572 \u0583\u0578\u0580\u0571\u0565\u0580: \u053d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u056f\u0580\u056f\u056b\u0576 \u0583\u0578\u0580\u0571\u0565\u056c %minutes \u0580\u0578\u057a\u0565:"
                 }
             },
             "id": {
@@ -10136,6 +10016,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "Terlalu banyak percobaan login yang salah, silahkan coba lagi dalam %minutes% menit."
+                },
+                "20": {
+                    "id": "20",
                     "trans": "Terlalu banyak percobaan login yang salah, silahkan coba lagi dalam %minutes% menit."
                 }
             },
@@ -10211,6 +10095,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Troppi tentativi di login falliti, riprova tra %minutes% minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Troppi tentativi di login falliti, riprova tra %minutes% minuti."
                 }
             },
             "ja": {
@@ -10284,6 +10172,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "\u30ed\u30b0\u30a4\u30f3\u8a66\u884c\u56de\u6570\u304c\u591a\u3059\u304e\u307e\u3059\u3002%minutes%\u5206\u5f8c\u306b\u518d\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002"
+                },
+                "20": {
+                    "id": "20",
                     "trans": "\u30ed\u30b0\u30a4\u30f3\u8a66\u884c\u56de\u6570\u304c\u591a\u3059\u304e\u307e\u3059\u3002%minutes%\u5206\u5f8c\u306b\u518d\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002"
                 }
             },
@@ -10359,6 +10251,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Zu vill fehlgeschloen Loginversich, w. e. g. prob\u00e9iert nach am %minutes% Minutt."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Zu vill fehlgeschloen Loginversich, w. e. g. prob\u00e9iert nach an %minutes% Minutten."
                 }
             },
             "lt": {
@@ -10433,6 +10329,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Per daug nepavykusi\u0173 prisijungimo bandym\u0173, pabandykite dar kart\u0105 po %minutes% minut\u0117s."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Per daug nepavykusi\u0173 prisijungimo bandym\u0173, pabandykite dar kart\u0105 po %minutes% minut\u0117s.|Per daug nepavykusi\u0173 prisijungimo bandym\u0173, pabandykite dar kart\u0105 po %minutes% minu\u010di\u0173.|Per daug nepavykusi\u0173 prisijungimo bandym\u0173, pabandykite dar kart\u0105 po %minutes% minu\u010di\u0173."
                 }
             },
             "lv": {
@@ -10507,6 +10407,10 @@
                 "19": {
                     "id": "19",
                     "trans": "P\u0101r\u0101k daudz nesekm\u012bgu autentifik\u0101cijas m\u0113\u0123in\u0101jumu, l\u016bdzu m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016btes."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "P\u0101r\u0101k daudz nesekm\u012bgu autentifik\u0101cijas m\u0113\u0123in\u0101jumu, l\u016bdzu m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016bt\u0113m."
                 }
             },
             "mk": {
@@ -10581,6 +10485,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u041f\u0440\u0435\u043c\u043d\u043e\u0433\u0443 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438 \u043e\u0431\u0438\u0434\u0438 \u0437\u0430 \u043d\u0430\u0458\u0430\u0432\u0443\u0432\u0430\u045a\u0435, \u043e\u0431\u0438\u0434\u0435\u0442\u0435 \u0441\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u041f\u0440\u0435\u043c\u043d\u043e\u0433\u0443 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438 \u043e\u0431\u0438\u0434\u0438 \u0437\u0430 \u043d\u0430\u0458\u0430\u0432\u0443\u0432\u0430\u045a\u0435, \u043e\u0431\u0438\u0434\u0435\u0442\u0435 \u0441\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0438."
                 }
             },
             "mn": {
@@ -10651,10 +10559,6 @@
                 "18": {
                     "id": "18",
                     "trans": "\u0411\u0443\u0440\u0443\u0443 \u044d\u0441\u0432\u044d\u043b \u0445\u0443\u0433\u0430\u0446\u0430\u0430 \u043d\u044c \u0434\u0443\u0443\u0441\u0441\u0430\u043d \u043d\u044d\u0432\u0442\u0440\u044d\u0445 \u0437\u0430\u043c."
-                },
-                "19": {
-                    "id": "19",
-                    "trans": "Too many failed login attempts, please try again in %minutes% minute."
                 }
             },
             "my": {
@@ -10728,6 +10632,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "Too many failed login attempts, please try again in %minutes% minute."
+                },
+                "20": {
+                    "id": "20",
                     "trans": "Login \u1040\u1004\u103a\u101b\u1014\u103a\u1000\u103c\u102d\u102f\u1038\u1005\u102c\u1038\u1019\u103e\u102f\u1019\u103b\u102c\u1038\u101c\u103d\u1014\u103a\u1038\u1015\u102b\u101e\u100a\u103a\u104a \u1000\u103b\u1031\u1038\u1007\u1030\u1038\u1015\u103c\u102f\u104d \u1014\u1031\u102c\u1000\u103a %minutes% \u1019\u103e\u1011\u1015\u103a\u1019\u1036\u1000\u103c\u102d\u102f\u1038\u1005\u102c\u1038\u1015\u102b\u104b"
                 }
             },
@@ -10803,6 +10711,10 @@
                 "19": {
                     "id": "19",
                     "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutt."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutter."
                 }
             },
             "nl": {
@@ -10877,6 +10789,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Te veel onjuiste inlogpogingen, probeer het opnieuw over %minutes% minuut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Te veel onjuiste inlogpogingen, probeer het opnieuw over %minutes% minuten."
                 }
             },
             "nn": {
@@ -10951,6 +10867,10 @@
                 "19": {
                     "id": "19",
                     "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutt."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutter."
                 }
             },
             "no": {
@@ -11025,6 +10945,10 @@
                 "19": {
                     "id": "19",
                     "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutt."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutter."
                 }
             },
             "pl": {
@@ -11098,6 +11022,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie po up\u0142ywie %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
                     "trans": "Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie po up\u0142ywie %minutes% minut."
                 }
             },
@@ -11173,6 +11101,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Demasiadas tentativas de login, tente novamente num minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Demasiadas tentativas de login, tente novamente em %minutes% minutos."
                 }
             },
             "pt_BR": {
@@ -11247,6 +11179,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Muitas tentativas de login inv\u00e1lidas, por favor, tente novamente em um minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Muitas tentativas de login inv\u00e1lidas, por favor, tente novamente em %minutes% minutos."
                 }
             },
             "ro": {
@@ -11321,6 +11257,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Prea multe \u00eencerc\u0103ri nereu\u0219ite, \u00eencearc\u0103 din nou \u00een %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Prea multe \u00eencerc\u0103ri nereu\u0219ite, \u00eencearc\u0103 din nou \u00een %minutes% minute."
                 }
             },
             "ru": {
@@ -11395,6 +11335,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0421\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0443\u0434\u0430\u0447\u043d\u044b\u0445 \u043f\u043e\u043f\u044b\u0442\u043e\u043a \u0432\u0445\u043e\u0434\u0430 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0443, \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u0447\u0435\u0440\u0435\u0437 %minutes% \u043c\u0438\u043d\u0443\u0442\u0443."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0421\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0443\u0434\u0430\u0447\u043d\u044b\u0445 \u043f\u043e\u043f\u044b\u0442\u043e\u043a \u0432\u0445\u043e\u0434\u0430 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0443, \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u0447\u0435\u0440\u0435\u0437 %minutes% \u043c\u0438\u043d."
                 }
             },
             "sk": {
@@ -11469,6 +11413,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie. Sk\u00faste to znova o %minutes% min\u00fatu."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie. Sk\u00faste to znova o %minutes% min\u00fat."
                 }
             },
             "sl": {
@@ -11543,6 +11491,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Preve\u010d neuspelih poskusov prijave, poskusite znova \u010dez %minutes% minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Preve\u010d neuspelih poskusov prijave, poskusite znova \u010dez %minutes% minut."
                 }
             },
             "sq": {
@@ -11617,6 +11569,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Shum\u00eb p\u00ebrpjekje t\u00eb d\u00ebshtuara p\u00ebr identifikim; provo s\u00ebrish pas %minutes% minut\u00eb."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Shum\u00eb p\u00ebrpjekje t\u00eb d\u00ebshtuara p\u00ebr identifikim; provo s\u00ebrish pas %minutes% minuta."
                 }
             },
             "sr_Cyrl": {
@@ -11691,6 +11647,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043c\u043e\u043b\u0438\u043c \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043c\u043e\u043b\u0438\u043c \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430."
                 }
             },
             "sr_Latn": {
@@ -11765,6 +11725,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, molim poku\u0161ajte ponovo za %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, molim poku\u0161ajte ponovo za %minutes% minuta."
                 }
             },
             "sv": {
@@ -11839,6 +11803,10 @@
                 "19": {
                     "id": "19",
                     "trans": "F\u00f6r m\u00e5nga misslyckade inloggningsf\u00f6rs\u00f6k, f\u00f6rs\u00f6k igen om %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "F\u00f6r m\u00e5nga misslyckade inloggningsf\u00f6rs\u00f6k, f\u00f6rs\u00f6k igen om %minutes% minuter."
                 }
             },
             "th": {
@@ -11913,6 +11881,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e23\u0e30\u0e1a\u0e1a\u0e25\u0e49\u0e21\u0e40\u0e2b\u0e25\u0e27\u0e21\u0e32\u0e01\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b \u0e42\u0e1b\u0e23\u0e14\u0e25\u0e2d\u0e07\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e19 %minutes% \u0e19\u0e32\u0e17\u0e35"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e23\u0e30\u0e1a\u0e1a\u0e25\u0e49\u0e21\u0e40\u0e2b\u0e25\u0e27\u0e21\u0e32\u0e01\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b \u0e42\u0e1b\u0e23\u0e14\u0e25\u0e2d\u0e07\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e19 %minutes% \u0e19\u0e32\u0e17\u0e35"
                 }
             },
             "tl": {
@@ -11984,8 +11956,8 @@
                     "id": "18",
                     "trans": "Inbalido o nagexpire na ang link para makapaglogin."
                 },
-                "19": {
-                    "id": "19",
+                "20": {
+                    "id": "20",
                     "trans": "Napakaraming nabigong mga pagtatangka sa pag-login, pakisubukan ulit sa% minuto% minuto."
                 }
             },
@@ -12061,6 +12033,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u00c7ok fazla ba\u015far\u0131s\u0131z giri\u015f denemesi, l\u00fctfen %minutes% dakika sonra tekrar deneyin."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u00c7ok fazla ba\u015far\u0131s\u0131z giri\u015f denemesi, l\u00fctfen %minutes% dakika sonra tekrar deneyin."
                 }
             },
             "uk": {
@@ -12135,6 +12111,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0417\u0430\u0431\u0430\u0433\u0430\u0442\u043e \u043d\u0435\u0432\u0434\u0430\u043b\u0438\u0445 \u0441\u043f\u0440\u043e\u0431 \u0432\u0445\u043e\u0434\u0443. \u0411\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0441\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0437\u043d\u043e\u0432\u0443 \u0447\u0435\u0440\u0435\u0437 %minutes% \u0445\u0432\u0438\u043b\u0438\u043d\u0443."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0417\u0430\u0431\u0430\u0433\u0430\u0442\u043e \u043d\u0435\u0432\u0434\u0430\u043b\u0438\u0445 \u0441\u043f\u0440\u043e\u0431 \u0432\u0445\u043e\u0434\u0443. \u0411\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0441\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0437\u043d\u043e\u0432\u0443 \u0447\u0435\u0440\u0435\u0437 %minutes% \u0445\u0432."
                 }
             },
             "ur": {
@@ -12208,6 +12188,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "\u0645\u0646\u0679 \u0628\u0627\u062f %minutes% \u0644\u0627\u06af \u0627\u0646 \u06a9\u06cc \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u0646\u0627\u06a9\u0627\u0645 \u06a9\u0648\u0634\u0634\u06cc\u06ba \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u060c \u0628\u0631\u0627\u06d3 \u06a9\u0631\u0645 \u062f\u0648\u0628\u0627\u0631\u06be \u06a9\u0648\u0634\u064a\u0634 \u06a9\u0631\u064a\u06ba "
+                },
+                "20": {
+                    "id": "20",
                     "trans": "\u0645\u0646\u0679 \u0628\u0627\u062f %minutes% \u0644\u0627\u06af \u0627\u0646 \u06a9\u06cc \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u0646\u0627\u06a9\u0627\u0645 \u06a9\u0648\u0634\u0634\u06cc\u06ba \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u060c \u0628\u0631\u0627\u06d3 \u06a9\u0631\u0645 \u062f\u0648\u0628\u0627\u0631\u06be \u06a9\u0648\u0634\u064a\u0634 \u06a9\u0631\u064a\u06ba "
                 }
             },
@@ -12283,6 +12267,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Kirish uchun muvaffaqiyatsiz urinishlar, %minutes% daqiqadan so'ng qayta urinib ko'ring."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Kirish uchun muvaffaqiyatsiz urinishlar, %minutes% daqiqadan so'ng qayta urinib ko'ring."
                 }
             },
             "vi": {
@@ -12356,6 +12344,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "Qu\u00e1 nhi\u1ec1u l\u1ea7n th\u1eed \u0111\u0103ng nh\u1eadp kh\u00f4ng th\u00e0nh c\u00f4ng, vui l\u00f2ng th\u1eed l\u1ea1i sau %minutes% ph\u00fat."
+                },
+                "20": {
+                    "id": "20",
                     "trans": "Qu\u00e1 nhi\u1ec1u l\u1ea7n th\u1eed \u0111\u0103ng nh\u1eadp kh\u00f4ng th\u00e0nh c\u00f4ng, vui l\u00f2ng th\u1eed l\u1ea1i sau %minutes% ph\u00fat."
                 }
             },
@@ -12431,6 +12423,10 @@
                 "19": {
                     "id": "19",
                     "trans": "\u767b\u5165\u5931\u8d25\u7684\u6b21\u6570\u8fc7\u591a\uff0c\u8bf7\u5728%minutes%\u5206\u949f\u540e\u518d\u8bd5\u3002"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u767b\u5165\u5931\u8d25\u7684\u6b21\u6570\u8fc7\u591a\uff0c\u8bf7\u5728%minutes%\u5206\u949f\u540e\u518d\u8bd5\u3002"
                 }
             },
             "zh_TW": {
@@ -12504,6 +12500,10 @@
                 },
                 "19": {
                     "id": "19",
+                    "trans": "\u767b\u9304\u5931\u6557\u7684\u6b21\u6578\u904e\u591a\uff0c\u8acb\u5728%minutes%\u5206\u9418\u5f8c\u518d\u8a66\u3002"
+                },
+                "20": {
+                    "id": "20",
                     "trans": "\u767b\u9304\u5931\u6557\u7684\u6b21\u6578\u904e\u591a\uff0c\u8acb\u5728%minutes%\u5206\u9418\u5f8c\u518d\u8a66\u3002"
                 }
             }
@@ -12866,10 +12866,6 @@
                     "id": "92",
                     "trans": "Hierdie waarde is nie 'n geldige tydsone nie."
                 },
-                "93": {
-                    "id": "93",
-                    "trans": "This password has been leaked in a data breach, it must not be used. Please use another password."
-                },
                 "94": {
                     "id": "94",
                     "trans": "Hierdie waarde moet tussen {{ min }} en {{ max }} wees."
@@ -12909,42 +12905,6 @@
                 "103": {
                     "id": "103",
                     "trans": "Die waarde van die netmasker moet tussen {{ min }} en {{ max }} wees."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "ar": {
@@ -13375,14 +13335,6 @@
                 "110": {
                     "id": "110",
                     "trans": "\u0627\u0645\u062a\u062f\u0627\u062f \u0627\u0644\u0645\u0644\u0641 \u063a\u064a\u0631 \u0635\u062d\u064a\u062d ({{ extension }}). \u0627\u0644\u0627\u0645\u062a\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u062d \u0628\u0647\u0627 \u0647\u064a {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "az": {
@@ -13813,14 +13765,6 @@
                 "110": {
                     "id": "110",
                     "trans": "Fayl\u0131n uzant\u0131s\u0131 yanl\u0131\u015fd\u0131r ({{ extension }}). \u0130caz\u0259 veril\u0259n uzant\u0131lar {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "T\u0259sbit edil\u0259n simvol \u015fifrl\u0259m\u0259si yanl\u0131\u015fd\u0131r. ({{ detected }}). \u0130caz\u0259 veril\u0259n \u015fifrl\u0259m\u0259l\u0259r bunlard\u0131r: {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "Bu MAC \u00fcnvan\u0131 yanl\u0131\u015fd\u0131r."
                 }
             },
             "be": {
@@ -14247,18 +14191,6 @@
                 "109": {
                     "id": "109",
                     "trans": "\u0412\u044b\u043a\u0430\u0440\u044b\u0441\u0442\u0430\u043d\u043d\u0435 \u0441\u0445\u0430\u0432\u0430\u043d\u044b\u0445 \u043d\u0430\u043a\u043b\u0430\u0434\u0437\u0435\u043d\u044b\u0445 \u0441\u0456\u043c\u0432\u0430\u043b\u0430\u045e \u043d\u0435 \u0434\u0430\u0437\u0432\u0430\u043b\u044f\u0435\u0446\u0446\u0430."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "bg": {
@@ -14685,18 +14617,6 @@
                 "109": {
                     "id": "109",
                     "trans": "\u0418\u0437\u043f\u043e\u043b\u0437\u0432\u0430\u043d\u0435\u0442\u043e \u043d\u0430 \u0441\u043a\u0440\u0438\u0442\u0438 \u043d\u0430\u0441\u043b\u043e\u0436\u0435\u043d\u0438 \u0441\u0438\u043c\u0432\u043e\u043b\u0438 \u043d\u0435 \u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u0435\u043d\u043e."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "\u0420\u0430\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0435\u0442\u043e \u043d\u0430 \u0444\u0430\u0439\u043b\u0430 \u0435 \u043d\u0435\u0432\u0430\u043b\u0438\u0434\u043d\u043e ({{ extension }}). \u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u0442\u0435 \u0440\u0430\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u044f \u0441\u0430 {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "\u041e\u0442\u043a\u0440\u0438\u0442\u043e\u0442\u043e \u043a\u043e\u0434\u0438\u0440\u0430\u043d\u0435 \u043d\u0430 \u0437\u043d\u0430\u0446\u0438\u0442\u0435 \u0435 \u043d\u0435\u0432\u0430\u043b\u0438\u0434\u043d\u043e ({{ detected }}). \u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u0442\u0435 \u043a\u043e\u0434\u0438\u0440\u0430\u043d\u0438\u044f \u0441\u0430 {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "\u041d\u0435\u0432\u0430\u043b\u0438\u0434\u0435\u043d MAC \u0430\u0434\u0440\u0435\u0441."
                 }
             },
             "bs": {
@@ -15123,18 +15043,6 @@
                 "109": {
                     "id": "109",
                     "trans": "Upotreba skrivenih preklapaju\u0107ih znakova nije dozvoljena."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "ca": {
@@ -15561,18 +15469,6 @@
                 "109": {
                     "id": "109",
                     "trans": "No es permet l'\u00fas de car\u00e0cters superposats ocults."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "cs": {
@@ -15999,18 +15895,6 @@
                 "109": {
                     "id": "109",
                     "trans": "Pou\u017eit\u00ed skryt\u00fdch p\u0159ekr\u00fdvaj\u00edc\u00edch znak\u016f nen\u00ed povoleno."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "P\u0159\u00edpona souboru je neplatn\u00e1 ({{ extension }}). Povolen\u00e9 p\u0159\u00edpony jsou {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "Zji\u0161t\u011bn\u00e9 k\u00f3dov\u00e1n\u00ed znak\u016f je neplatn\u00e9 ({{ detected }}). Povolen\u00e1 k\u00f3dov\u00e1n\u00ed jsou {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "Tohle nen\u00ed platn\u00e1 MAC adresa."
                 }
             },
             "cy": {
@@ -16341,114 +16225,6 @@
                 "85": {
                     "id": "85",
                     "trans": "Nid yw'r Cod Adnabod Busnes (BIC) hwn yn gysylltiedig ag IBAN {{ iban }}."
-                },
-                "86": {
-                    "id": "86",
-                    "trans": "This value should be valid JSON."
-                },
-                "87": {
-                    "id": "87",
-                    "trans": "This collection should contain only unique elements."
-                },
-                "88": {
-                    "id": "88",
-                    "trans": "This value should be positive."
-                },
-                "89": {
-                    "id": "89",
-                    "trans": "This value should be either positive or zero."
-                },
-                "90": {
-                    "id": "90",
-                    "trans": "This value should be negative."
-                },
-                "91": {
-                    "id": "91",
-                    "trans": "This value should be either negative or zero."
-                },
-                "92": {
-                    "id": "92",
-                    "trans": "This value is not a valid timezone."
-                },
-                "93": {
-                    "id": "93",
-                    "trans": "This password has been leaked in a data breach, it must not be used. Please use another password."
-                },
-                "94": {
-                    "id": "94",
-                    "trans": "This value should be between {{ min }} and {{ max }}."
-                },
-                "95": {
-                    "id": "95",
-                    "trans": "This value is not a valid hostname."
-                },
-                "96": {
-                    "id": "96",
-                    "trans": "The number of elements in this collection should be a multiple of {{ compared_value }}."
-                },
-                "97": {
-                    "id": "97",
-                    "trans": "This value should satisfy at least one of the following constraints:"
-                },
-                "98": {
-                    "id": "98",
-                    "trans": "Each element of this collection should satisfy its own set of constraints."
-                },
-                "99": {
-                    "id": "99",
-                    "trans": "This value is not a valid International Securities Identification Number (ISIN)."
-                },
-                "100": {
-                    "id": "100",
-                    "trans": "This value should be a valid expression."
-                },
-                "101": {
-                    "id": "101",
-                    "trans": "This value is not a valid CSS color."
-                },
-                "102": {
-                    "id": "102",
-                    "trans": "This value is not a valid CIDR notation."
-                },
-                "103": {
-                    "id": "103",
-                    "trans": "The value of the netmask should be between {{ min }} and {{ max }}."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "da": {
@@ -16875,18 +16651,6 @@
                 "109": {
                     "id": "109",
                     "trans": "At bruge skjulte overlejringstegn er ikke tilladt."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "Udvidelsen til filen er ugyldig ({{ extension }}). De tilladte udvidelser er {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "Det registrerede tegns\u00e6t er ugyldigt ({{ detected }}). De tilladte tegns\u00e6t er {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "Dette er ikke en gyldig MAC-adresse."
                 }
             },
             "de": {
@@ -17755,14 +17519,6 @@
                 "110": {
                     "id": "110",
                     "trans": "\u0397 \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03c7\u03b5\u03af\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 ({{ extension }}). \u039f\u03b9 \u03b5\u03c0\u03b9\u03c4\u03c1\u03b5\u03c0\u03c4\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03b5\u03c0\u03b5\u03ba\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "\u0397 \u03ba\u03c9\u03b4\u03b9\u03ba\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03ae\u03c1\u03c9\u03bd \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b9\u03c7\u03bd\u03b5\u03cd\u03c4\u03b7\u03ba\u03b5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 ({{ detected }}). \u039f\u03b9 \u03b5\u03c0\u03b9\u03c4\u03c1\u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03ba\u03c9\u03b4\u03b9\u03ba\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 MAC."
                 }
             },
             "en": {
@@ -18631,14 +18387,6 @@
                 "110": {
                     "id": "110",
                     "trans": "La extensi\u00f3n del archivo no es v\u00e1lida ({{ extension }}). Las extensiones permitidas son {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "et": {
@@ -19073,10 +18821,6 @@
                 "111": {
                     "id": "111",
                     "trans": "Tuvastatud teksti kodeering on vigane ({{ detected }}). Lubatud kodeeringud on {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "eu": {
@@ -19503,18 +19247,6 @@
                 "109": {
                     "id": "109",
                     "trans": "Ez da onartzen karaktere gainjarri ezkutuen erabilera."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "fa": {
@@ -19552,11 +19284,11 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "This field was not expected."
+                    "trans": "\u0641\u06cc\u0644\u062f\u0647\u0627\u06cc {{ fields }} \u0645\u0648\u0631\u062f \u0627\u0646\u062a\u0638\u0627\u0631 \u0646\u0628\u0648\u062f."
                 },
                 "10": {
                     "id": "10",
-                    "trans": "This field is missing."
+                    "trans": "\u0641\u06cc\u0644\u062f\u0647\u0627\u06cc {{ fields }} \u0645\u0641\u0642\u0648\u062f \u0634\u062f\u0647 \u0627\u0646\u062f."
                 },
                 "11": {
                     "id": "11",
@@ -19941,18 +19673,6 @@
                 "109": {
                     "id": "109",
                     "trans": "\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u06a9\u0627\u0631\u0627\u06a9\u062a\u0631\u0647\u0627\u06cc \u0647\u0645\u067e\u0648\u0634\u0627\u0646\u06cc \u067e\u0646\u0647\u0627\u0646 (hidden overlay characters) \u0645\u062c\u0627\u0632 \u0646\u06cc\u0633\u062a."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "fi": {
@@ -20383,14 +20103,6 @@
                 "110": {
                     "id": "110",
                     "trans": "Tiedostop\u00e4\u00e4te ({{ extension }}) on virheellinen. Sallitut tiedostop\u00e4\u00e4tteet ovat: {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "fr": {
@@ -20825,10 +20537,6 @@
                 "111": {
                     "id": "111",
                     "trans": "L'encodage de caract\u00e8res d\u00e9tect\u00e9 est invalide ({{ detected }}). Les encodages autoris\u00e9s sont {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "gl": {
@@ -21231,42 +20939,6 @@
                 "103": {
                     "id": "103",
                     "trans": "O valor da m\u00e1scara de rede deber\u00eda estar entre {{ min }} e {{ max }}."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "he": {
@@ -21669,42 +21341,6 @@
                 "103": {
                     "id": "103",
                     "trans": "\u05d4\u05e2\u05e8\u05da \u05e9\u05dc \u05de\u05e1\u05db\u05ea \u05d4\u05e8\u05e9\u05ea \u05d7\u05d9\u05d9\u05d1 \u05dc\u05d4\u05d9\u05d5\u05ea \u05d1\u05d9\u05df {{ min }} \u05d5 {{ max }}."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "hr": {
@@ -22139,10 +21775,6 @@
                 "111": {
                     "id": "111",
                     "trans": "Otkriveno kodiranje znakova je neva\u017ee\u0107e ({{ detected }}). Dopu\u0161tena kodiranja su {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "Ovo nije valjana MAC adresa."
                 }
             },
             "hu": {
@@ -22480,23 +22112,23 @@
                 },
                 "87": {
                     "id": "87",
-                    "trans": "Ez a gy\u0171jtem\u00e9ny csak egyedi elemeket tartalmazhat."
+                    "trans": "Ennek az \u00e9rt\u00e9knek pozit\u00edvnak kell lennie."
                 },
                 "88": {
                     "id": "88",
-                    "trans": "Ennek az \u00e9rt\u00e9knek pozit\u00edvnak kell lennie."
+                    "trans": "Ennek az \u00e9rt\u00e9knek pozit\u00edvnak vagy null\u00e1nak kell lennie."
                 },
                 "89": {
                     "id": "89",
-                    "trans": "Ennek az \u00e9rt\u00e9knek pozit\u00edvnak vagy null\u00e1nak kell lennie."
+                    "trans": "Ennek az \u00e9rt\u00e9knek negat\u00edvnak kell lennie."
                 },
                 "90": {
                     "id": "90",
-                    "trans": "Ennek az \u00e9rt\u00e9knek negat\u00edvnak kell lennie."
+                    "trans": "Ennek az \u00e9rt\u00e9knek negat\u00edvnak vagy null\u00e1nak kell lennie."
                 },
                 "91": {
                     "id": "91",
-                    "trans": "Ennek az \u00e9rt\u00e9knek negat\u00edvnak vagy null\u00e1nak kell lennie."
+                    "trans": "Ez a gy\u0171jtem\u00e9ny csak egyedi elemeket tartalmazhat."
                 },
                 "92": {
                     "id": "92",
@@ -22971,54 +22603,6 @@
                 "100": {
                     "id": "100",
                     "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057a\u0565\u057f\u0584 \u0567 \u056c\u056b\u0576\u056b \u057e\u0561\u057e\u0565\u0580 \u0561\u0580\u057f\u0561\u0570\u0561\u0575\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576:"
-                },
-                "101": {
-                    "id": "101",
-                    "trans": "This value is not a valid CSS color."
-                },
-                "102": {
-                    "id": "102",
-                    "trans": "This value is not a valid CIDR notation."
-                },
-                "103": {
-                    "id": "103",
-                    "trans": "The value of the netmask should be between {{ min }} and {{ max }}."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "id": {
@@ -23449,14 +23033,6 @@
                 "110": {
                     "id": "110",
                     "trans": "Ekstensi file tidak valid ({{ extension }}). Ekstensi yang diperbolehkan adalah {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "Pengkodean karakter yang terdeteksi tidak valid ({{ detected }}). Pengkodean yang diperbolehkan adalah {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "Ini bukan alamat MAC yang valid."
                 }
             },
             "it": {
@@ -23887,14 +23463,6 @@
                 "110": {
                     "id": "110",
                     "trans": "L'estensione del file non \u00e8 valida ({{ extension }}). Le estensioni consentite sono {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "ja": {
@@ -24329,10 +23897,6 @@
                 "111": {
                     "id": "111",
                     "trans": "\u691c\u51fa\u3055\u308c\u305f\u6587\u5b57\u30b3\u30fc\u30c9\u306f\u7121\u52b9\u3067\u3059({{ detected }})\u3002\u6709\u52b9\u306a\u6587\u5b57\u30b3\u30fc\u30c9\u306f{{ encodings }}\u3067\u3059\u3002"
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "lb": {
@@ -24759,18 +24323,6 @@
                 "109": {
                     "id": "109",
                     "trans": "D'Benotzen vu verstoppten Iwwerlagungszeechen ass net erlaabt."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "D\u2019Extensioun vum Fichier ass net valabel ({{ extension }}). Valabel Extensioune sinn {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "Den Encodage vun de Schr\u00ebftzeechen ass net valabel ({{ detected }}). Valabel Encodage sinn {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "Dat ass keng valabel MAC-Adress."
                 }
             },
             "lt": {
@@ -25201,14 +24753,6 @@
                 "110": {
                     "id": "110",
                     "trans": "Failo pl\u0117tinys netinkamas ({{ extension }}). Leid\u017eiami pl\u0117tiniai yra {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "lv": {
@@ -26077,14 +25621,6 @@
                 "110": {
                     "id": "110",
                     "trans": "\u0417\u0433\u043e\u043b\u0435\u043c\u0443\u0432\u0430\u045a\u0430 \u043d\u0430 \u0434\u0430\u0442\u043e\u0442\u0435\u043a\u0430\u0442\u0430 \u0435 \u043d\u0435\u0432\u0430\u0436\u0435\u0447\u043a\u0430 ({{ extension }}). \u0414\u043e\u0437\u0432\u043e\u043b\u0435\u043d\u0438 \u0437\u0433\u043e\u043b\u0435\u043c\u0443\u0432\u0430\u045a\u0430 \u0441\u0435 ({{ extensions }})."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "\u041e\u0442\u043a\u0440\u0438\u0435\u043d\u043e\u0442\u043e \u043a\u043e\u0434\u0438\u0440\u0430\u045a\u0435 \u043d\u0430 \u0437\u043d\u0430\u0446\u0438 \u0435 \u043d\u0435\u0432\u0430\u0436\u0435\u0447\u043a\u043e ({{ detected }}). \u0414\u043e\u0437\u0432\u043e\u043b\u0435\u043d\u0438\u0442\u0435 \u0448\u0438\u0444\u0440\u0438\u0440\u0430\u045a\u0430 \u0441\u0435 {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "\u041e\u0432\u0430 \u043d\u0435 \u0435 \u0432\u0430\u0436\u0435\u0447\u043a\u0430 MAC-\u0430\u0434\u0440\u0435\u0441\u0430."
                 }
             },
             "mn": {
@@ -26471,58 +26007,6 @@
                 "99": {
                     "id": "99",
                     "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u0437\u04e9\u0432 International Securities Identification Number (ISIN) \u0431\u0438\u0448 \u0431\u0430\u0439\u043d\u0430."
-                },
-                "100": {
-                    "id": "100",
-                    "trans": "This value should be a valid expression."
-                },
-                "101": {
-                    "id": "101",
-                    "trans": "This value is not a valid CSS color."
-                },
-                "102": {
-                    "id": "102",
-                    "trans": "This value is not a valid CIDR notation."
-                },
-                "103": {
-                    "id": "103",
-                    "trans": "The value of the netmask should be between {{ min }} and {{ max }}."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "my": {
@@ -26913,54 +26397,6 @@
                 "100": {
                     "id": "100",
                     "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a\u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c\u1005\u1000\u102c\u1038\u101b\u1015\u103a\u1016\u103c\u1005\u103a\u101e\u1004\u1037\u103a\u101e\u100a\u103a\u104b"
-                },
-                "101": {
-                    "id": "101",
-                    "trans": "This value is not a valid CSS color."
-                },
-                "102": {
-                    "id": "102",
-                    "trans": "This value is not a valid CIDR notation."
-                },
-                "103": {
-                    "id": "103",
-                    "trans": "The value of the netmask should be between {{ min }} and {{ max }}."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "nb": {
@@ -27363,42 +26799,6 @@
                 "103": {
                     "id": "103",
                     "trans": "Verdien p\u00e5 nettmasken skal v\u00e6re mellom {{ min }} og {{ max }}."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "nl": {
@@ -27829,14 +27229,6 @@
                 "110": {
                     "id": "110",
                     "trans": "De extensie van het bestand is ongeldig ({{ extension }}). Toegestane extensies zijn {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "nn": {
@@ -28239,42 +27631,6 @@
                 "103": {
                     "id": "103",
                     "trans": "Verdien av nettmasken skal v\u00e6re mellom {{ min }} og {{ max }}."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "no": {
@@ -28677,42 +28033,6 @@
                 "103": {
                     "id": "103",
                     "trans": "Verdien p\u00e5 nettmasken skal v\u00e6re mellom {{ min }} og {{ max }}."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "pl": {
@@ -29581,14 +28901,6 @@
                 "110": {
                     "id": "110",
                     "trans": "A extens\u00e3o do ficheiro \u00e9 inv\u00e1lida ({{ extension }}). As extens\u00f5es permitidas s\u00e3o {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "A codifica\u00e7\u00e3o de carateres detetada \u00e9 inv\u00e1lida ({{ detected }}). As codifica\u00e7\u00f5es permitidas s\u00e3o {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "pt_BR": {
@@ -30015,18 +29327,6 @@
                 "109": {
                     "id": "109",
                     "trans": "O uso de caracteres de sobreposi\u00e7\u00e3o ocultos n\u00e3o \u00e9 permitido."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "ro": {
@@ -30457,14 +29757,6 @@
                 "110": {
                     "id": "110",
                     "trans": "Extensia fi\u0219ierului este invalid\u0103 ({{ extension }}). Extensiile permise sunt {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "ru": {
@@ -30895,14 +30187,6 @@
                 "110": {
                     "id": "110",
                     "trans": "\u041d\u0435\u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0444\u0430\u0439\u043b\u0430 ({{ extension }}). \u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u043d\u044b\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f: {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "\u041e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u043d\u0430\u044f \u043a\u043e\u0434\u0438\u0440\u043e\u0432\u043a\u0430 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u043d\u0435\u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0430 ({{ detected }}). \u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u043d\u044b\u0435 \u043a\u043e\u0434\u0438\u0440\u043e\u0432\u043a\u0438: {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "\u042d\u0442\u043e\u0442 MAC-\u0430\u0434\u0440\u0435\u0441 \u043d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439."
                 }
             },
             "sk": {
@@ -31329,18 +30613,6 @@
                 "109": {
                     "id": "109",
                     "trans": "Pou\u017e\u00edvanie skryt\u00fdch prekryvn\u00fdch znakov nie je povolen\u00e9."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "Pr\u00edpona s\u00faboru je neplatn\u00e1 ({{ extension }}). Povolen\u00e9 pr\u00edpony s\u00fa {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "Zisten\u00e9 k\u00f3dovanie znakov je neplatn\u00e9 ({{ detected }}). Povolen\u00e9 k\u00f3dovania s\u00fa {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "Toto nie je platn\u00e1 MAC adresa."
                 }
             },
             "sl": {
@@ -31771,14 +31043,6 @@
                 "110": {
                     "id": "110",
                     "trans": "Kon\u010dnica datoteke ni veljavna ({{ extension }}). Dovoljene so naslednje kon\u010dnice: {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "Zaznano kodiranje znakov ni veljavno ({{ detected }}). Dovoljene so naslednje vrste kodiranja {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "To ni veljaven naslov MAC."
                 }
             },
             "sq": {
@@ -32209,14 +31473,6 @@
                 "110": {
                     "id": "110",
                     "trans": "Shtesa e skedarit \u00ebsht\u00eb e pavlefshme ({{ extension }}). Shtesat e lejuara jan\u00eb {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "sr_Cyrl": {
@@ -32647,14 +31903,6 @@
                 "110": {
                     "id": "110",
                     "trans": "\u0415\u043a\u0441\u0442\u0435\u043d\u0437\u0438\u0458\u0430 \u0444\u0430\u0458\u043b\u0430 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 ({{ extension }}). \u0414\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0435 \u0435\u043a\u0441\u0442\u0435\u043d\u0437\u0438\u0458\u0435 \u0441\u0443 {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "sr_Latn": {
@@ -33089,10 +32337,6 @@
                 "111": {
                     "id": "111",
                     "trans": "Detektovani enkoding karaktera nije validan ({{ detected }}). Dozvoljne vrednosti za enkoding su: {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "Ovo nije va\u017ee\u0107a MAC-adresa."
                 }
             },
             "sv": {
@@ -33527,10 +32771,6 @@
                 "111": {
                     "id": "111",
                     "trans": "Den uppt\u00e4ckta teckenkodningen \u00e4r ogiltig ({{ detected }}). Till\u00e5tna kodningar \u00e4r {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "th": {
@@ -33957,18 +33197,6 @@
                 "109": {
                     "id": "109",
                     "trans": "\u0e44\u0e21\u0e48\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e43\u0e2b\u0e49\u0e43\u0e0a\u0e49\u0e15\u0e31\u0e27\u0e2d\u0e31\u0e01\u0e29\u0e23\u0e0b\u0e49\u0e2d\u0e19\u0e17\u0e31\u0e1a\u0e17\u0e35\u0e48\u0e0b\u0e48\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48"
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "tl": {
@@ -34363,50 +33591,6 @@
                 "101": {
                     "id": "101",
                     "trans": "Ang halagang ito ay hindi wastong kulay ng CSS."
-                },
-                "102": {
-                    "id": "102",
-                    "trans": "This value is not a valid CIDR notation."
-                },
-                "103": {
-                    "id": "103",
-                    "trans": "The value of the netmask should be between {{ min }} and {{ max }}."
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "tr": {
@@ -34837,14 +34021,6 @@
                 "110": {
                     "id": "110",
                     "trans": "Dosya uzant\u0131s\u0131 ge\u00e7ersiz ({{ extension }}). \u0130zin verilen uzant\u0131lar {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "Tespit edilen karakter kodlamas\u0131 ge\u00e7ersiz ({{ detected }}). \u0130zin verilen kodlamalar: {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "Bu ge\u00e7erli bir MAC adresi de\u011fil."
                 }
             },
             "uk": {
@@ -35279,10 +34455,6 @@
                 "111": {
                     "id": "111",
                     "trans": "\u041d\u0435\u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0435 \u043a\u043e\u0434\u0443\u0432\u0430\u043d\u043d\u044f \u0441\u0438\u043c\u0432\u043e\u043b\u0456\u0432 ({{ detected }}). \u0414\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0456 \u043a\u043e\u0434\u0443\u0432\u0430\u043d\u043d\u044f: {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "\u041d\u0435\u043a\u043e\u0440\u0435\u043a\u0442\u043d\u0430 MAC-\u0430\u0434\u0440\u0435\u0441\u0430."
                 }
             },
             "ur": {
@@ -35685,42 +34857,6 @@
                 "103": {
                     "id": "103",
                     "trans": "\u06a9\u06d2 \u062f\u0631\u0645\u06cc\u0627\u0646 \u06c1\u0648\u0646\u06cc \u0686\u0627\u06c1\u06cc\u06d2 {{ max }} \u0627\u0648\u0631 {{ min }} \u0646\u06cc\u0679 \u0645\u0627\u0633\u06a9 \u06a9\u06cc \u0648\u064a\u0644\u064a\u0648"
-                },
-                "104": {
-                    "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
-                },
-                "105": {
-                    "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
-                },
-                "106": {
-                    "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
-                },
-                "107": {
-                    "id": "107",
-                    "trans": "Using invisible characters is not allowed."
-                },
-                "108": {
-                    "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
-                },
-                "109": {
-                    "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "uz": {
@@ -36151,14 +35287,6 @@
                 "110": {
                     "id": "110",
                     "trans": "Fayl kengaytmasi yaroqsiz ({{ extension }}). Ruxsat berilgan kengaytmalar {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "vi": {
@@ -36589,14 +35717,6 @@
                 "110": {
                     "id": "110",
                     "trans": "Ph\u1ea7n m\u1edf r\u1ed9ng c\u1ee7a t\u1ec7p kh\u00f4ng h\u1ee3p l\u1ec7 ({{ extension }}). Ph\u1ea7n m\u1edf r\u1ed9ng cho ph\u00e9p l\u00e0 {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "zh_CN": {
@@ -37023,18 +36143,6 @@
                 "109": {
                     "id": "109",
                     "trans": "\u4e0d\u5141\u8bb8\u4f7f\u7528\u9690\u85cf\u7684\u8986\u76d6\u5b57\u7b26\u3002"
-                },
-                "110": {
-                    "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
-                },
-                "111": {
-                    "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
-                },
-                "112": {
-                    "id": "112",
-                    "trans": "This is not a valid MAC address."
                 }
             },
             "zh_TW": {
