@@ -4,27 +4,24 @@ declare(strict_types=1);
 
 namespace App\Command;
 
-use App\Service\DataProvider;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Filesystem\Filesystem;
+use voku\helper\HtmlMin;
 
 #[AsCommand(name: 'app:build-website')]
 final class BuildWebsiteCommand extends Command
 {
-    public function __construct(
-        private DataProvider $dataProvider
-    ) {
-        parent::__construct();
-    }
-
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $versions = $this->dataProvider->getAvailableVersions();
         $outputDir = 'build';
-        $parser = \WyriHaximus\HtmlCompress\Factory::construct();
+        $parser = \WyriHaximus\HtmlCompress\Factory::constructSmallest();
+        $htmlMin = new HtmlMin();
+        $htmlMin->doSortHtmlAttributes(false);
+        $parser = $parser->withHtmlMin($htmlMin);
+
         (new Filesystem())->remove('var/cache/prod');
         $kernel = new \App\Kernel('prod', false);
 
@@ -33,9 +30,6 @@ final class BuildWebsiteCommand extends Command
         $pages = [
             'index.html' => '',
         ];
-        foreach ($versions as $version) {
-            $pages[$version.'.html'] = '/'.$version;
-        }
 
         foreach ($pages as $file => $url) {
             $request = \Symfony\Component\HttpFoundation\Request::create($domain.$url);
