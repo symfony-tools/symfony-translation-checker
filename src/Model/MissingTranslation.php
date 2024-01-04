@@ -8,7 +8,7 @@ class MissingTranslation
 {
     public function __construct(
         private string $file,
-        private int $missingCount,
+        private array $missingTranslations,
         private string $componentName,
         private string $locale,
         private string $language,
@@ -23,7 +23,12 @@ class MissingTranslation
 
     public function getMissingCount(): int
     {
-        return $this->missingCount;
+        return count($this->missingTranslations);
+    }
+
+    public function getMissingTranslations(): array
+    {
+        return $this->missingTranslations;
     }
 
     public function getComponentName(): string
@@ -52,6 +57,6 @@ class MissingTranslation
             return 0;
         }
 
-        return (int) round(100 * ($this->totalCount - $this->missingCount) / $this->totalCount);
+        return (int) round(100 * ($this->totalCount - $this->getMissingCount()) / $this->totalCount);
     }
 }
