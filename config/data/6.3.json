@@ -1724,135 +1724,135 @@
             "cy": {
                 "28": {
                     "id": "28",
-                    "trans": "This form should not contain extra fields."
+                    "trans": "Ni ddylai'r ffurflen gynnwys meysydd ychwanegol."
                 },
                 "29": {
                     "id": "29",
-                    "trans": "The uploaded file was too large. Please try to upload a smaller file."
+                    "trans": "Roedd y ffeil a uwchlwythwyd yn rhy fawr. Ceisiwch uwchlwytho ffeil llai."
                 },
                 "30": {
                     "id": "30",
-                    "trans": "The CSRF token is invalid. Please try to resubmit the form."
+                    "trans": "Mae'r tocyn CSRF yn annilys. Ceisiwch ailgyflwyno'r ffurflen."
                 },
                 "99": {
                     "id": "99",
-                    "trans": "This value is not a valid HTML5 color."
+                    "trans": "Nid yw'r gwerth hwn yn lliw HTML5 dilys."
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Please enter a valid birthdate."
+                    "trans": "Nodwch ddyddiad geni dilys."
                 },
                 "101": {
                     "id": "101",
-                    "trans": "The selected choice is invalid."
+                    "trans": "Mae'r dewis a ddewiswyd yn annilys."
                 },
                 "102": {
                     "id": "102",
-                    "trans": "The collection is invalid."
+                    "trans": "Mae'r casgliad yn annilys."
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Please select a valid color."
+                    "trans": "Dewiswch liw dilys."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Please select a valid country."
+                    "trans": "Dewiswch wlad ddilys."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "Please select a valid currency."
+                    "trans": "Dewiswch arian cyfred dilys."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Please choose a valid date interval."
+                    "trans": "Dewiswch ystod dyddiadau dilys."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Please enter a valid date and time."
+                    "trans": "Nodwch ddyddiad ac amser dilys."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Please enter a valid date."
+                    "trans": "Nodwch ddyddiad dilys."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Please select a valid file."
+                    "trans": "Dewiswch ffeil ddilys."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The hidden field is invalid."
+                    "trans": "Mae'r maes cudd yn annilys."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Please enter an integer."
+                    "trans": "Nodwch rif cyfan."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Please select a valid language."
+                    "trans": "Dewiswch iaith ddilys."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Please select a valid locale."
+                    "trans": "Dewiswch leoliad dilys."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Please enter a valid money amount."
+                    "trans": "Nodwch swm arian dilys."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Please enter a number."
+                    "trans": "Nodwch rif."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "The password is invalid."
+                    "trans": "Mae'r cyfrinair yn annilys."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Please enter a percentage value."
+                    "trans": "Nodwch werth canran."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "The values do not match."
+                    "trans": "Nid yw'r gwerthoedd yn cyfateb."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Please enter a valid time."
+                    "trans": "Nodwch amser dilys."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Please select a valid timezone."
+                    "trans": "Dewiswch barth amser dilys."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Please enter a valid URL."
+                    "trans": "Nodwch URL dilys."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Please enter a valid search term."
+                    "trans": "Nodwch derm chwilio dilys."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Please provide a valid phone number."
+                    "trans": "Darparwch rif ff\u00f4n dilys."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "The checkbox has an invalid value."
+                    "trans": "Mae gan y blwch ticio werth annilys."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Please enter a valid email address."
+                    "trans": "Nodwch gyfeiriad e-bost dilys."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Please select a valid option."
+                    "trans": "Dewiswch opsiwn dilys."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Please select a valid range."
+                    "trans": "Dewiswch ystod ddilys."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Please enter a valid week."
+                    "trans": "Nodwch wythnos ddilys."
                 }
             },
             "da": {
@@ -2670,7 +2670,7 @@
                 },
                 "30": {
                     "id": "30",
-                    "trans": "CSRF tokena ez da egokia."
+                    "trans": "CSRF tokena baliogabea da. Mesedez, saiatu berriro formularioa bidaltzen."
                 },
                 "99": {
                     "id": "99",
@@ -5082,7 +5082,7 @@
                 },
                 "30": {
                     "id": "30",
-                    "trans": "CSRF n\u00f8kkelen er ugyldig."
+                    "trans": "CSRF-tokenen er ugyldig. Vennligst pr\u00f8v \u00e5 sende inn skjemaet p\u00e5 nytt."
                 },
                 "99": {
                     "id": "99",
@@ -5350,7 +5350,7 @@
                 },
                 "30": {
                     "id": "30",
-                    "trans": "CSRF-n\u00f8kkelen er ikkje gyldig."
+                    "trans": "CSRF-teiknet er ugyldig. Ver venleg og pr\u00f8v \u00e5 sende inn skjemaet p\u00e5 nytt."
                 },
                 "99": {
                     "id": "99",
@@ -5484,7 +5484,7 @@
                 },
                 "30": {
                     "id": "30",
-                    "trans": "CSRF n\u00f8kkelen er ugyldig."
+                    "trans": "CSRF-tokenen er ugyldig. Vennligst pr\u00f8v \u00e5 sende inn skjemaet p\u00e5 nytt."
                 },
                 "99": {
                     "id": "99",
@@ -6612,7 +6612,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Please select a valid language."
+                    "trans": "Ju lutem zgjidhni nj\u00eb gjuh\u00eb t\u00eb vlefshme."
                 },
                 "113": {
                     "id": "113",
@@ -8360,7 +8360,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Too many failed login attempts, please try again in %minutes% minute."
+                    "trans": "Te veel mislukte aanmeldpogings, probeer asseblief weer oor %minutes% minuut."
                 }
             },
             "ar": {
@@ -8884,75 +8884,75 @@
             "cy": {
                 "1": {
                     "id": "1",
-                    "trans": "An authentication exception occurred."
+                    "trans": "Digwyddodd eithriad dilysu."
                 },
                 "2": {
                     "id": "2",
-                    "trans": "Authentication credentials could not be found."
+                    "trans": "Ni ellid dod o hyd i ddogfennau dilysu."
                 },
                 "3": {
                     "id": "3",
-                    "trans": "Authentication request could not be processed due to a system problem."
+                    "trans": "Ni ellid prosesu cais dilysu oherwydd problem gyda'r system."
                 },
                 "4": {
                     "id": "4",
-                    "trans": "Invalid credentials."
+                    "trans": "Dogfennau annilys."
                 },
                 "5": {
                     "id": "5",
-                    "trans": "Cookie has already been used by someone else."
+                    "trans": "Mae rhywun arall eisoes wedi defnyddio'r cwcis."
                 },
                 "6": {
                     "id": "6",
-                    "trans": "Not privileged to request the resource."
+                    "trans": "Heb y fraint i ofyn am yr adnodd."
                 },
                 "7": {
                     "id": "7",
-                    "trans": "Invalid CSRF token."
+                    "trans": "Tocyn CSRF annilys."
                 },
                 "9": {
                     "id": "9",
-                    "trans": "No authentication provider found to support the authentication token."
+                    "trans": "Heb ddod o hyd i ddarparwr dilysu i gefnogi'r tocyn dilysu."
                 },
                 "10": {
                     "id": "10",
-                    "trans": "No session available, it either timed out or cookies are not enabled."
+                    "trans": "Dim sesiwn ar gael, naill ai mae wedi dod i ben neu nid yw cwcis wedi'u galluogi."
                 },
                 "11": {
                     "id": "11",
-                    "trans": "No token could be found."
+                    "trans": "Heb ddod o hyd i docyn."
                 },
                 "12": {
                     "id": "12",
-                    "trans": "Username could not be found."
+                    "trans": "Heb ddod o hyd i enw defnyddiwr."
                 },
                 "13": {
                     "id": "13",
-                    "trans": "Account has expired."
+                    "trans": "Mae'r cyfrif wedi dod i ben."
                 },
                 "14": {
                     "id": "14",
-                    "trans": "Credentials have expired."
+                    "trans": "Mae'r dogfennau wedi dod i ben."
                 },
                 "15": {
                     "id": "15",
-                    "trans": "Account is disabled."
+                    "trans": "Mae'r cyfrif wedi'i analluogi."
                 },
                 "16": {
                     "id": "16",
-                    "trans": "Account is locked."
+                    "trans": "Mae'r cyfrif wedi'i gloi."
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Too many failed login attempts, please try again later."
+                    "trans": "Gormod o ymdrechion mewngofnodi wedi methu, ceisiwch eto'n hwyrach."
                 },
                 "18": {
                     "id": "18",
-                    "trans": "Invalid or expired login link."
+                    "trans": "Dolen mewngofnodi annilys neu wedi dod i ben."
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Too many failed login attempts, please try again in %minutes% minute."
+                    "trans": "Gormod o ymdrechion mewngofnodi wedi methu, ceisiwch eto ymhen %minutes% munud."
                 }
             },
             "da": {
@@ -10654,7 +10654,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Too many failed login attempts, please try again in %minutes% minute."
+                    "trans": "\u041d\u044d\u0432\u0442\u0440\u044d\u0445 \u043e\u0440\u043e\u043b\u0434\u043b\u043e\u0433\u043e \u0438\u0445\u044d\u044d\u0440 \u0430\u043c\u0436\u0438\u043b\u0442\u0433\u04af\u0439 \u0431\u043e\u043b\u0441\u043e\u043d, %minutes% \u043c\u0438\u043d\u0443\u0442\u044b\u043d \u0434\u0430\u0440\u0430\u0430 \u0434\u0430\u0445\u0438\u043d \u043e\u0440\u043e\u043b\u0434\u043e\u043d\u043e \u0443\u0443."
                 }
             },
             "my": {
@@ -12868,7 +12868,7 @@
                 },
                 "93": {
                     "id": "93",
-                    "trans": "This password has been leaked in a data breach, it must not be used. Please use another password."
+                    "trans": "Hierdie wagwoord is in 'n data-oortreding uitgelek, dit mag nie gebruik word nie. Gebruik asseblief 'n ander wagwoord."
                 },
                 "94": {
                     "id": "94",
@@ -12912,39 +12912,39 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "Die l\u00eaernaam is te lank. Dit moet {{ filename_max_length }} karakter of minder h\u00ea.|Die l\u00eaernaam is te lank. Dit moet {{ filename_max_length }} karakters of minder h\u00ea."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "Die wagwoordsterkte is te laag. Gebruik asseblief 'n sterker wagwoord."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "Hierdie waarde bevat karakters wat nie toegelaat word deur die huidige beperkingsvlak nie."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "Die gebruik van onsigbare karakters word nie toegelaat nie."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "Die meng van nommers van verskillende skrifte word nie toegelaat nie."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "Die gebruik van verborge oorvleuelende karakters word nie toegelaat nie."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "Die uitbreiding van die l\u00eaer is ongeldig ({{ extension }}). Toegelate uitbreidings is {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Die opgespoorde karakterkodering is ongeldig ({{ detected }}). Toegelate koderings is {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Dit is nie 'n geldige MAC-adres nie."
                 }
             },
             "ar": {
@@ -13378,11 +13378,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u062a\u0645 \u0627\u0643\u062a\u0634\u0627\u0641 \u062a\u0631\u0645\u064a\u0632 \u0627\u0644\u0623\u062d\u0631\u0641 \u063a\u064a\u0631 \u0635\u0627\u0644\u062d ({{ detected }}). \u0627\u0644\u062a\u0631\u0645\u064a\u0632\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u062d \u0628\u0647\u0627 \u0647\u064a {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u0647\u0630\u0627 \u0644\u064a\u0633 \u0639\u0646\u0648\u0627\u0646 MAC \u0635\u0627\u0644\u062d\u064b\u0627."
                 }
             },
             "az": {
@@ -14250,15 +14250,15 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "\u041f\u0430\u0448\u044b\u0440\u044d\u043d\u043d\u0435 \u0444\u0430\u0439\u043b\u0430 \u043d\u044f\u0441\u043b\u0443\u0448\u043d\u0430\u0435 ({{ extension }}). \u0414\u0430\u0437\u0432\u043e\u043b\u0435\u043d\u044b\u044f \u043f\u0430\u0448\u044b\u0440\u044d\u043d\u043d\u0456: {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u0412\u044b\u044f\u045e\u043b\u0435\u043d\u0430\u044f \u043a\u0430\u0434\u044b\u0440\u043e\u045e\u043a\u0430 \u0437\u043d\u0430\u043a\u0430\u045e \u043d\u044f\u0441\u043b\u0443\u0448\u043d\u0430\u044f ({{ detected }}). \u0414\u0430\u0437\u0432\u043e\u043b\u0435\u043d\u044b\u044f \u043a\u0430\u0434\u044b\u0440\u043e\u045e\u043a\u0456: {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u0413\u044d\u0442\u0430 \u043d\u0435 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b MAC-\u0430\u0434\u0440\u0430\u0441."
                 }
             },
             "bg": {
@@ -15126,15 +15126,15 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "Ekstenzija datoteke je neva\u017ee\u0107a ({{ extension }}). Dozvoljene ekstenzije su {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Otkriveno kodiranje karaktera je neva\u017ee\u0107e ({{ detected }}). Dozvoljena kodiranja su {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Ovo nije va\u017ee\u0107a MAC adresa."
                 }
             },
             "ca": {
@@ -15564,15 +15564,15 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "L'extensi\u00f3 del fitxer no \u00e9s v\u00e0lida ({{ extension }}). Les extensions permeses s\u00f3n {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "S'ha detectat que la codificaci\u00f3 de car\u00e0cters no \u00e9s v\u00e0lida ({{ detected }}). Les codificacions permeses s\u00f3n {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Aix\u00f2 no \u00e9s una adre\u00e7a MAC v\u00e0lida."
                 }
             },
             "cs": {
@@ -16344,111 +16344,111 @@
                 },
                 "86": {
                     "id": "86",
-                    "trans": "This value should be valid JSON."
+                    "trans": "Dylai'r gwerth hwn fod yn JSON dilys."
                 },
                 "87": {
                     "id": "87",
-                    "trans": "This collection should contain only unique elements."
+                    "trans": "Dylai'r casgliad hwn gynnwys elfennau unigryw yn unig."
                 },
                 "88": {
                     "id": "88",
-                    "trans": "This value should be positive."
+                    "trans": "Dylai'r gwerth hwn fod yn gadarnhaol."
                 },
                 "89": {
                     "id": "89",
-                    "trans": "This value should be either positive or zero."
+                    "trans": "Dylai'r gwerth hwn fod yn gadarnhaol neu sero."
                 },
                 "90": {
                     "id": "90",
-                    "trans": "This value should be negative."
+                    "trans": "Dylai'r gwerth hwn fod yn negyddol."
                 },
                 "91": {
                     "id": "91",
-                    "trans": "This value should be either negative or zero."
+                    "trans": "Dylai'r gwerth hwn fod yn negyddol neu sero."
                 },
                 "92": {
                     "id": "92",
-                    "trans": "This value is not a valid timezone."
+                    "trans": "Nid yw'r gwerth hwn yn gyfnod parth amser dilys."
                 },
                 "93": {
                     "id": "93",
-                    "trans": "This password has been leaked in a data breach, it must not be used. Please use another password."
+                    "trans": "Mae'r cyfrinair hwn wedi'i ddatgelu mewn toriad data, ni ddylid ei ddefnyddio. Defnyddiwch gyfrinair arall."
                 },
                 "94": {
                     "id": "94",
-                    "trans": "This value should be between {{ min }} and {{ max }}."
+                    "trans": "Dylai'r gwerth hwn fod rhwng {{ min }} a {{ max }}."
                 },
                 "95": {
                     "id": "95",
-                    "trans": "This value is not a valid hostname."
+                    "trans": "Nid yw'r gwerth hwn yn enw gwesteiwr dilys."
                 },
                 "96": {
                     "id": "96",
-                    "trans": "The number of elements in this collection should be a multiple of {{ compared_value }}."
+                    "trans": "Dylai nifer yr elfennau yn y casgliad hwn fod yn luosrif o {{ compared_value }}."
                 },
                 "97": {
                     "id": "97",
-                    "trans": "This value should satisfy at least one of the following constraints:"
+                    "trans": "Dylai'r gwerth hwn fodloni o leiaf un o'r cyfyngiadau canlynol:"
                 },
                 "98": {
                     "id": "98",
-                    "trans": "Each element of this collection should satisfy its own set of constraints."
+                    "trans": "Dylai pob elfen o'r casgliad hwn fodloni ei gyfres ei hun o gyfyngiadau."
                 },
                 "99": {
                     "id": "99",
-                    "trans": "This value is not a valid International Securities Identification Number (ISIN)."
+                    "trans": "Nid yw'r gwerth hwn yn Rhif Adnabod Diogelwch Rhyngwladol (ISIN) dilys."
                 },
                 "100": {
                     "id": "100",
-                    "trans": "This value should be a valid expression."
+                    "trans": "Dylai'r gwerth hwn fod yn fynegiant dilys."
                 },
                 "101": {
                     "id": "101",
-                    "trans": "This value is not a valid CSS color."
+                    "trans": "Nid yw'r gwerth hwn yn lliw CSS dilys."
                 },
                 "102": {
                     "id": "102",
-                    "trans": "This value is not a valid CIDR notation."
+                    "trans": "Nid yw'r gwerth hwn yn nodiant CIDR dilys."
                 },
                 "103": {
                     "id": "103",
-                    "trans": "The value of the netmask should be between {{ min }} and {{ max }}."
+                    "trans": "Dylai gwerth y mwgwd rhwydwaith fod rhwng {{ min }} a {{ max }}."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "Mae'r enw ffeil yn rhy hir. Dylai fod \u00e2 {{ filename_max_length }} cymeriad neu lai.|Mae'r enw ffeil yn rhy hir. Dylai fod \u00e2 {{ filename_max_length }} nodau neu lai."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "Mae cryfder y cyfrinair yn rhy isel. Defnyddiwch gyfrinair cryfach os gwelwch yn dda."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "Mae'r gwerth hwn yn cynnwys cymeriadau nad ydynt yn cael eu caniat\u00e1u gan y lefel cyfyngu presennol."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "Ni chaniateir defnyddio cymeriadau anweledig."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "Ni chaniateir cymysgu rhifau o sgriptiau gwahanol."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "Ni chaniateir defnyddio cymeriadau goruwchlwytho cudd."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "Mae estyniad y ffeil yn annilys ({{ extension }}). Mae'r estyniadau a ganiateir yn {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Mae'r codio cymeriadau a ganfuwyd yn annilys ({{ detected }}). Mae'r codiadau a ganiateir yn {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Nid yw hwn yn gyfeiriad MAC dilys."
                 }
             },
             "da": {
@@ -18634,11 +18634,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "La codificaci\u00f3n de los caracteres detectada es inv\u00e1lida ({{ detected }}). Las codificaciones permitidas son {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Esta no es una direcci\u00f3n MAC v\u00e1lida."
                 }
             },
             "et": {
@@ -19076,7 +19076,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "See ei ole kehtiv MAC-aadress."
                 }
             },
             "eu": {
@@ -19506,15 +19506,15 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "Fitxategiaren luzapena ez da zuzena ({{ extension }}). Baimendutako luzapenak hauek dira: {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Detektatutako karaktere-kodetzea ez da zuzena ({{ detected }}). Baimendutako kodetzeak hauek dira: {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Hau ez da MAC helbide balioduna."
                 }
             },
             "fa": {
@@ -19552,11 +19552,11 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "This field was not expected."
+                    "trans": "\u0627\u06cc\u0646 \u0641\u06cc\u0644\u062f \u0627\u0646\u062a\u0638\u0627\u0631 \u0646\u0645\u06cc\u200c\u0631\u0641\u062a."
                 },
                 "10": {
                     "id": "10",
-                    "trans": "This field is missing."
+                    "trans": "\u0627\u06cc\u0646 \u0641\u06cc\u0644\u062f \u06af\u0645\u0634\u062f\u0647 \u0627\u0633\u062a."
                 },
                 "11": {
                     "id": "11",
@@ -19944,15 +19944,15 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "\u067e\u0633\u0648\u0646\u062f \u0641\u0627\u06cc\u0644 \u0646\u0627\u0645\u0639\u062a\u0628\u0631 \u0627\u0633\u062a ({{ extension }}). \u067e\u0633\u0648\u0646\u062f\u0647\u0627\u06cc \u0645\u062c\u0627\u0632 {{ extensions }} \u0647\u0633\u062a\u0646\u062f."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u0631\u0645\u0632\u06af\u0630\u0627\u0631\u06cc \u06a9\u0627\u0631\u0627\u06a9\u062a\u0631 \u062a\u0634\u062e\u06cc\u0635 \u062f\u0627\u062f\u0647 \u0634\u062f\u0647 \u0646\u0627\u0645\u0639\u062a\u0628\u0631 \u0627\u0633\u062a ({{ detected }}). \u0631\u0645\u0632\u06af\u0630\u0627\u0631\u06cc\u200c\u0647\u0627\u06cc \u0645\u062c\u0627\u0632 {{ encodings }} \u0647\u0633\u062a\u0646\u062f."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u0627\u06cc\u0646 \u06cc\u06a9 \u0622\u062f\u0631\u0633 MAC \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a."
                 }
             },
             "fi": {
@@ -20386,11 +20386,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Havaittu merkist\u00f6 on virheellinen ({{ detected }}). Sallitut merkist\u00f6t ovat {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "T\u00e4m\u00e4 ei ole kelvollinen MAC-osoite."
                 }
             },
             "fr": {
@@ -21234,39 +21234,39 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "O nome do ficheiro \u00e9 demasiado longo. Debe ter {{ filename_max_length }} caracteres ou menos."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "A forza do contrasinal \u00e9 demasiado baixa. Utilice un contrasinal m\u00e1is forte."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "Este valor cont\u00e9n caracteres que non est\u00e1n permitidos polo nivel de restrici\u00f3n actual."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "Non se permite usar caracteres invisibles."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "Non se permite mesturar n\u00fameros de diferentes scripts."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "Non se permite usar caracteres de superposici\u00f3n ocultos."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "A extensi\u00f3n do ficheiro non \u00e9 v\u00e1lida ({{ extension }}). As extensi\u00f3ns permitidas son {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "A codificaci\u00f3n de caracteres detectada non \u00e9 v\u00e1lida ({{ detected }}). As codificaci\u00f3ns permitidas son {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Esta non \u00e9 unha direcci\u00f3n MAC v\u00e1lida."
                 }
             },
             "he": {
@@ -21672,39 +21672,39 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "\u05e9\u05dd \u05d4\u05e7\u05d5\u05d1\u05e5 \u05d0\u05e8\u05d5\u05da \u05de\u05d3\u05d9. \u05e2\u05dc\u05d9\u05d5 \u05dc\u05d4\u05db\u05d9\u05dc {{ filename_max_length }} \u05ea\u05d5\u05d5\u05d9\u05dd \u05d0\u05d5 \u05e4\u05d7\u05d5\u05ea."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "\u05d7\u05d5\u05d6\u05e7 \u05d4\u05e1\u05d9\u05e1\u05de\u05d4 \u05e0\u05de\u05d5\u05da \u05de\u05d3\u05d9. \u05d0\u05e0\u05d0 \u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05e1\u05d9\u05e1\u05de\u05d4 \u05d7\u05d6\u05e7\u05d4 \u05d9\u05d5\u05ea\u05e8."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "\u05d4\u05e2\u05e8\u05da \u05db\u05d5\u05dc\u05dc \u05ea\u05d5\u05d5\u05d9\u05dd \u05e9\u05d0\u05d9\u05e0\u05dd \u05de\u05d5\u05ea\u05e8\u05d9\u05dd \u05e2\u05dc \u05e4\u05d9 \u05e8\u05de\u05ea \u05d4\u05d4\u05d2\u05d1\u05dc\u05d4 \u05d4\u05e0\u05d5\u05db\u05d7\u05d9\u05ea."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "\u05d0\u05e1\u05d5\u05e8 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05ea\u05d5\u05d5\u05d9\u05dd \u05d1\u05dc\u05ea\u05d9 \u05e0\u05e8\u05d0\u05d9\u05dd."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "\u05d0\u05e1\u05d5\u05e8 \u05dc\u05e2\u05e8\u05d1\u05d1 \u05de\u05e1\u05e4\u05e8\u05d9\u05dd \u05de\u05ea\u05e1\u05e8\u05d9\u05d8\u05d9\u05dd \u05e9\u05d5\u05e0\u05d9\u05dd."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "\u05d0\u05e1\u05d5\u05e8 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05ea\u05d5\u05d5\u05d9\u05dd \u05de\u05d5\u05e1\u05ea\u05e8\u05d9\u05dd \u05e9\u05dc \u05d7\u05e4\u05d9\u05e4\u05d4."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "\u05e1\u05d9\u05d5\u05de\u05ea \u05d4\u05e7\u05d5\u05d1\u05e5 \u05d0\u05d9\u05e0\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4 ({{ extension }}). \u05d4\u05e1\u05d9\u05d5\u05de\u05d5\u05ea \u05d4\u05de\u05d5\u05ea\u05e8\u05d5\u05ea \u05d4\u05df {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u05e7\u05d9\u05d3\u05d5\u05d3 \u05d4\u05ea\u05d5\u05d5\u05d9\u05dd \u05e9\u05d6\u05d5\u05d4\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d7\u05d5\u05e7\u05d9 ({{ detected }}). \u05d4\u05e7\u05d9\u05d3\u05d5\u05d3\u05d9\u05dd \u05d4\u05de\u05d5\u05ea\u05e8\u05d9\u05dd \u05d4\u05dd {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u05d6\u05d4\u05d5 \u05d0\u05d9\u05e0\u05d5 \u05db\u05ea\u05d5\u05d1\u05ea MAC \u05d7\u05d5\u05e7\u05d9\u05ea."
                 }
             },
             "hr": {
@@ -22974,51 +22974,51 @@
                 },
                 "101": {
                     "id": "101",
-                    "trans": "This value is not a valid CSS color."
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 CSS \u0563\u0578\u0582\u0575\u0576 \u0579\u0567\u0589"
                 },
                 "102": {
                     "id": "102",
-                    "trans": "This value is not a valid CIDR notation."
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 CIDR \u0576\u0577\u0578\u0582\u0574 \u0579\u0567\u0589"
                 },
                 "103": {
                     "id": "103",
-                    "trans": "The value of the netmask should be between {{ min }} and {{ max }}."
+                    "trans": "\u0551\u0561\u0576\u0581\u0561\u0575\u056b\u0576 \u0564\u056b\u0574\u0561\u056f\u056b \u0561\u0580\u056a\u0565\u0584\u0568 \u057a\u0565\u057f\u0584 \u0567 \u056c\u056b\u0576\u056b {{ min }}-\u056b \u0587 {{ max }}-\u056b \u0574\u056b\u057b\u0587\u0589"
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "\u0556\u0561\u0575\u056c\u056b \u0561\u0576\u0578\u0582\u0576\u0568 \u0577\u0561\u057f \u0565\u0580\u056f\u0561\u0580 \u0567\u0589 \u0531\u0575\u0576 \u057a\u0565\u057f\u0584 \u0567 \u0578\u0582\u0576\u0565\u0576\u0561 {{ filename_max_length }} \u0576\u056b\u0577 \u056f\u0561\u0574 \u057a\u0561\u056f\u0561\u057d\u0589"
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "\u0533\u0561\u0572\u057f\u0576\u0561\u0562\u0561\u057c\u056b \u0561\u0576\u057e\u057f\u0561\u0576\u0563\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0577\u0561\u057f \u0581\u0561\u056e\u0580 \u0567\u0589 \u053d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u0563\u0578\u0580\u056e\u0561\u056e\u0565\u056c \u0561\u057e\u0565\u056c\u056b \u0561\u0574\u0580\u0561\u0563\u0578\u0582\u0575\u0576 \u0563\u0561\u0572\u057f\u0576\u0561\u0562\u0561\u057c\u0589"
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u0578\u0582\u0574 \u0567 \u0561\u0575\u0576 \u0576\u056b\u0577\u0565\u0580\u0568, \u0578\u0580\u0578\u0576\u0584 \u0579\u0565\u0576 \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574 \u0568\u057d\u057f \u0568\u0576\u0569\u0561\u0581\u056b\u056f \u057d\u0561\u0570\u0574\u0561\u0576\u0578\u0582\u0574\u0576\u0565\u0580\u056b\u0589"
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "\u0531\u0576\u057f\u0565\u057d\u0561\u0576\u0565\u056c\u056b \u0576\u056b\u0577\u0565\u0580\u056b \u0585\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u0578\u0582\u0574\u0568 \u0579\u056b \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574\u0589"
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "\u0539\u057e\u0565\u0580\u056b \u056d\u0561\u057c\u0576\u0578\u0582\u0580\u0564\u0568 \u057f\u0561\u0580\u0562\u0565\u0580 \u057d\u0581\u0565\u0576\u0561\u0580\u0576\u0565\u0580\u056b\u0581 \u0579\u056b \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574\u0589"
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "\u0539\u0561\u0584\u0576\u057e\u0561\u056e \u056e\u0561\u056e\u056f\u0561\u0576\u056b\u0577\u0565\u0580\u056b \u0585\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u0578\u0582\u0574\u0568 \u0579\u056b \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574\u0589"
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "\u0556\u0561\u0575\u056c\u056b \u0568\u0576\u0564\u056c\u0561\u0575\u0576\u0578\u0582\u0574\u0568 \u0561\u0576\u057e\u0561\u057e\u0565\u0580 \u0567 ({{ extension }})\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0572 \u0568\u0576\u0564\u056c\u0561\u0575\u0576\u0578\u0582\u0574\u0576\u0565\u0580\u0576 \u0565\u0576\u055d {{ extensions }}\u0589"
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u0540\u0561\u0575\u057f\u0576\u0561\u0562\u0565\u0580\u057e\u0561\u056e \u0576\u056b\u0577\u0561\u0563\u0580\u0578\u0582\u0569\u0575\u0561\u0576 \u056f\u0578\u0564\u0568 \u0561\u0576\u057e\u0561\u057e\u0565\u0580 \u0567 ({{ detected }})\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0572 \u056f\u0578\u0564\u0565\u0580\u0576 \u0565\u0576\u055d {{ encodings }}\u0589"
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u054d\u0561 \u057e\u0561\u057e\u0565\u0580 MAC \u0570\u0561\u057d\u0581\u0565 \u0579\u0567\u0589"
                 }
             },
             "id": {
@@ -23890,11 +23890,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "La codifica dei caratteri rilevata non \u00e8 valida ({{ detected }}). Le codifiche ammesse sono {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Questo non \u00e8 un indirizzo MAC valido."
                 }
             },
             "ja": {
@@ -24332,7 +24332,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u3053\u308c\u306f\u6709\u52b9\u306aMAC\u30a2\u30c9\u30ec\u30b9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 }
             },
             "lb": {
@@ -24762,7 +24762,7 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "D\u2019Extensioun vum Fichier ass net valabel ({{ extension }}). Valabel Extensioune sinn {{ extensions }}."
+                    "trans": "D'Extensioun vum Fichier ass net valabel ({{ extension }}). Valabel Extensioune sinn {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
@@ -25204,11 +25204,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Nustatyta simboli\u0173 koduot\u0117 yra netinkama ({{ detected }}). Leid\u017eiamos koduot\u0117s yra {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Tai n\u0117ra galiojantis MAC adresas."
                 }
             },
             "lv": {
@@ -26474,55 +26474,55 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "This value should be a valid expression."
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u043d\u044c \u0437\u04e9\u0432 \u0438\u043b\u044d\u0440\u0445\u0438\u0439\u043b\u044d\u043b \u0431\u0430\u0439\u0445 \u0451\u0441\u0442\u043e\u0439."
                 },
                 "101": {
                     "id": "101",
-                    "trans": "This value is not a valid CSS color."
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u043d\u044c \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 CSS \u04e9\u043d\u0433\u04e9 \u0431\u0438\u0448 \u0431\u0430\u0439\u043d\u0430."
                 },
                 "102": {
                     "id": "102",
-                    "trans": "This value is not a valid CIDR notation."
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u043d\u044c \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 CIDR \u0442\u044d\u043c\u0434\u044d\u0433\u043b\u044d\u0433\u044d\u044d \u0431\u0438\u0448 \u0431\u0430\u0439\u043d\u0430."
                 },
                 "103": {
                     "id": "103",
-                    "trans": "The value of the netmask should be between {{ min }} and {{ max }}."
+                    "trans": "\u0421\u04af\u043b\u0436\u044d\u044d\u043d\u0438\u0439 \u043c\u0430\u0441\u043a\u043d\u044b \u0443\u0442\u0433\u0430 \u043d\u044c {{ min }} \u0431\u0430 {{ max }}-\u0438\u0439\u043d \u0445\u043e\u043e\u0440\u043e\u043d\u0434 \u0431\u0430\u0439\u0445 \u0451\u0441\u0442\u043e\u0439."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "\u0424\u0430\u0439\u043b\u044b\u043d \u043d\u044d\u0440 \u0445\u044d\u0442 \u0443\u0440\u0442 \u0431\u0430\u0439\u043d\u0430. \u042d\u043d\u044d \u043d\u044c {{ filename_max_length }} \u0442\u044d\u043c\u0434\u044d\u0433\u0442 \u044d\u0441\u0432\u044d\u043b \u0442\u04af\u04af\u043d\u044d\u044d\u0441 \u0431\u0430\u0433\u0430 \u0431\u0430\u0439\u0445 \u0451\u0441\u0442\u043e\u0439.|\u0424\u0430\u0439\u043b\u044b\u043d \u043d\u044d\u0440 \u0445\u044d\u0442 \u0443\u0440\u0442 \u0431\u0430\u0439\u043d\u0430. \u042d\u043d\u044d \u043d\u044c {{ filename_max_length }} \u0442\u044d\u043c\u0434\u044d\u0433\u0442 \u044d\u0441\u0432\u044d\u043b \u0442\u04af\u04af\u043d\u044d\u044d\u0441 \u0431\u0430\u0433\u0430 \u0431\u0430\u0439\u0445 \u0451\u0441\u0442\u043e\u0439."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "\u041d\u0443\u0443\u0446 \u04af\u0433\u0438\u0439\u043d \u0445\u04af\u0447 \u043d\u044c \u0445\u044d\u0442 \u0431\u0430\u0433\u0430 \u0431\u0430\u0439\u043d\u0430. \u0425\u04af\u0447\u0442\u044d\u0439 \u043d\u0443\u0443\u0446 \u04af\u0433\u0438\u0439\u0433 \u0430\u0448\u0438\u0433\u043b\u0430\u043d\u0430 \u0443\u0443."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u043d\u044c \u043e\u0434\u043e\u043e\u0433\u0438\u0439\u043d \u0445\u044f\u0437\u0433\u0430\u0430\u0440\u043b\u0430\u043b\u0442\u044b\u043d \u0442\u04af\u0432\u0448\u0438\u043d\u0434 \u0437\u04e9\u0432\u0448\u04e9\u04e9\u0440\u04e9\u0433\u0434\u04e9\u04e9\u0433\u04af\u0439 \u0442\u044d\u043c\u0434\u044d\u0433\u0442\u04af\u04af\u0434 \u0430\u0433\u0443\u0443\u043b\u0436 \u0431\u0430\u0439\u043d\u0430."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "\u0425\u0430\u0440\u0430\u0433\u0434\u0430\u0445\u0433\u04af\u0439 \u0442\u044d\u043c\u0434\u044d\u0433\u0442\u04af\u04af\u0434\u0438\u0439\u0433 \u0430\u0448\u0438\u0433\u043b\u0430\u0445\u044b\u0433 \u0437\u04e9\u0432\u0448\u04e9\u04e9\u0440\u04e9\u0445\u0433\u04af\u0439."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "\u042f\u043d\u0437 \u0431\u04af\u0440\u0438\u0439\u043d \u0441\u043a\u0440\u0438\u043f\u0442\u04af\u04af\u0434\u044d\u044d\u0441 \u0442\u043e\u043e\u0433 \u0445\u043e\u043b\u044c\u0436 \u0445\u044d\u0440\u044d\u0433\u043b\u044d\u0445\u0438\u0439\u0433 \u0437\u04e9\u0432\u0448\u04e9\u04e9\u0440\u04e9\u0445\u0433\u04af\u0439."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "\u041d\u0443\u0443\u0446\u043b\u0430\u0433\u0434\u0441\u0430\u043d \u0434\u0430\u0432\u0445\u0430\u0440\u0433\u044b\u043d \u0442\u044d\u043c\u0434\u044d\u0433\u0442\u04af\u04af\u0434\u0438\u0439\u0433 \u0430\u0448\u0438\u0433\u043b\u0430\u0445\u044b\u0433 \u0437\u04e9\u0432\u0448\u04e9\u04e9\u0440\u04e9\u0445\u0433\u04af\u0439."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "\u0424\u0430\u0439\u043b\u044b\u043d \u04e9\u0440\u0433\u04e9\u0442\u0433\u04e9\u043b \u0431\u0443\u0440\u0443\u0443 \u0431\u0430\u0439\u043d\u0430 ({{ extension }}). \u0417\u04e9\u0432\u0448\u04e9\u04e9\u0440\u04e9\u0433\u0434\u0441\u04e9\u043d \u04e9\u0440\u0433\u04e9\u0442\u0433\u04e9\u043b\u04af\u04af\u0434 \u043d\u044c {{ extensions }} \u044e\u043c."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u0418\u043b\u0440\u04af\u04af\u043b\u0441\u044d\u043d \u0442\u044d\u043c\u0434\u044d\u0433\u0442\u0438\u0439\u043d \u043a\u043e\u0434\u0447\u0438\u043b\u043e\u043b \u0431\u0443\u0440\u0443\u0443 \u0431\u0430\u0439\u043d\u0430 ({{ detected }}). \u0417\u04e9\u0432\u0448\u04e9\u04e9\u0440\u04e9\u0433\u0434\u0441\u04e9\u043d \u043a\u043e\u0434\u0447\u0438\u043b\u043e\u043b\u0443\u0443\u0434 \u043d\u044c {{ encodings }} \u044e\u043c."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u042d\u043d\u044d \u043d\u044c \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 MAC \u0445\u0430\u044f\u0433 \u0431\u0438\u0448 \u044e\u043c."
                 }
             },
             "my": {
@@ -26916,51 +26916,51 @@
                 },
                 "101": {
                     "id": "101",
-                    "trans": "This value is not a valid CSS color."
+                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a CSS \u1021\u101b\u1031\u102c\u1004\u103a\u1019\u103e\u1014\u103a\u1000\u1014\u103a\u1019\u103e\u102f\u1019\u101b\u103e\u102d\u1015\u102b\u104b"
                 },
                 "102": {
                     "id": "102",
-                    "trans": "This value is not a valid CIDR notation."
+                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a CIDR \u1019\u103e\u1010\u103a\u1005\u102f\u1036\u1019\u103e\u1014\u103a\u1000\u1014\u103a\u1019\u103e\u102f\u1019\u101b\u103e\u102d\u1015\u102b\u104b"
                 },
                 "103": {
                     "id": "103",
-                    "trans": "The value of the netmask should be between {{ min }} and {{ max }}."
+                    "trans": "\u1000\u103d\u1014\u103a\u101a\u1000\u103a\u1019\u103b\u1000\u103a\u1014\u103e\u102c\u1016\u102f\u1036\u1038\u104f \u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a {{ min }} \u1014\u103e\u1004\u1037\u103a {{ max }} \u1000\u103c\u102c\u1038\u101b\u103e\u102d\u101b\u1019\u100a\u103a\u104b"
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "\u1016\u102d\u102f\u1004\u103a\u1014\u102c\u1019\u100a\u103a\u101e\u100a\u103a \u1021\u101b\u103e\u100a\u103a\u101c\u103d\u1014\u103a\u1038\u101e\u100a\u103a\u104b \u101e\u1004\u103a\u1039\u1000\u1031\u1010 {{ filename_max_length }} \u101e\u102d\u102f\u1037\u1019\u101f\u102f\u1010\u103a \u1014\u100a\u103a\u1038\u101e\u100a\u1037\u103a\u1021\u101b\u1031\u1021\u1010\u103d\u1000\u103a\u101b\u103e\u102d\u101b\u1019\u100a\u103a\u104b|\u1016\u102d\u102f\u1004\u103a\u1014\u102c\u1019\u100a\u103a\u101e\u100a\u103a \u1021\u101b\u103e\u100a\u103a\u101c\u103d\u1014\u103a\u1038\u101e\u100a\u103a\u104b \u101e\u1004\u103a\u1039\u1000\u1031\u1010 {{ filename_max_length }} \u101e\u102d\u102f\u1037\u1019\u101f\u102f\u1010\u103a \u1014\u100a\u103a\u1038\u101e\u100a\u1037\u103a\u1021\u101b\u1031\u1021\u1010\u103d\u1000\u103a\u101b\u103e\u102d\u101b\u1019\u100a\u103a\u104b"
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "\u1005\u1000\u102c\u1038\u101d\u103e\u1000\u103a\u1001\u102d\u102f\u1004\u103a\u1019\u102c\u1019\u103e\u102f\u1014\u100a\u103a\u1038\u1015\u102b\u1038\u101e\u100a\u103a\u104b \u1015\u102d\u102f\u1001\u102d\u102f\u1004\u103a\u1019\u102c\u101e\u1031\u102c \u1005\u1000\u102c\u1038\u101d\u103e\u1000\u103a\u1000\u102d\u102f \u101e\u102f\u1036\u1038\u1015\u102b\u104b"
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u1010\u103d\u1004\u103a \u101c\u1000\u103a\u101b\u103e\u102d\u1000\u1014\u1037\u103a\u101e\u1010\u103a\u1019\u103e\u102f\u1021\u1006\u1004\u1037\u103a\u1019\u103e \u1001\u103d\u1004\u1037\u103a\u1019\u1015\u103c\u102f\u1011\u102c\u1038\u101e\u1031\u102c \u1007\u102c\u1010\u103a\u1000\u1031\u102c\u1004\u103a\u1019\u103b\u102c\u1038\u1015\u102b\u101d\u1004\u103a\u101e\u100a\u103a\u104b"
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "\u1019\u1019\u103c\u1004\u103a\u101b\u101e\u1031\u102c \u1007\u102c\u1010\u103a\u1000\u1031\u102c\u1004\u103a\u1019\u103b\u102c\u1038\u1000\u102d\u102f \u101e\u102f\u1036\u1038\u1001\u103c\u1004\u103a\u1038\u1000\u102d\u102f \u1001\u103d\u1004\u1037\u103a\u1019\u1015\u103c\u102f\u1015\u102b\u104b"
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "\u1019\u1010\u1030\u100a\u102e\u101e\u1031\u102c \u1007\u102c\u1010\u103a\u1000\u1031\u102c\u1004\u103a\u1019\u103b\u102c\u1038\u1019\u103e \u1014\u1036\u1015\u102b\u1010\u103a\u1019\u103b\u102c\u1038\u1000\u102d\u102f \u101b\u1031\u102c\u1014\u103e\u1031\u102c\u1005\u1015\u103a\u1001\u103c\u1004\u103a\u1038\u1000\u102d\u102f \u1001\u103d\u1004\u1037\u103a\u1019\u1015\u103c\u102f\u1015\u102b\u104b"
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "\u1015\u102f\u1014\u103a\u1038\u1011\u102c\u1038\u101e\u1031\u102c \u1021\u1011\u1015\u103a\u1000\u1031\u102c\u1004\u103a\u1038\u1007\u102c\u1010\u103a\u1000\u1031\u102c\u1004\u103a\u1019\u103b\u102c\u1038\u1000\u102d\u102f \u101e\u102f\u1036\u1038\u1001\u103c\u1004\u103a\u1038\u1000\u102d\u102f \u1001\u103d\u1004\u1037\u103a\u1019\u1015\u103c\u102f\u1015\u102b\u104b"
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "\u1016\u102d\u102f\u1004\u103a\u1010\u103d\u1004\u103a\u1038\u1010\u102d\u102f\u1038\u1001\u103c\u1004\u103a\u1038\u101e\u100a\u103a \u1019\u1019\u103e\u1014\u103a\u1000\u1014\u103a\u1015\u102b ({{ extension }})\u104b \u1001\u103d\u1004\u1037\u103a\u1015\u103c\u102f\u1011\u102c\u1038\u101e\u1031\u102c \u1010\u102d\u102f\u1038\u1001\u103c\u1004\u103a\u1038\u1019\u103b\u102c\u1038\u1019\u103e\u102c {{ extensions }} \u1016\u103c\u1005\u103a\u101e\u100a\u103a\u104b"
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u1010\u103d\u1031\u1037\u101b\u103e\u102d\u1011\u102c\u1038\u101e\u1031\u102c \u1005\u102c\u101c\u102f\u1036\u1038\u1000\u102f\u1012\u103a\u1005\u1036\u1014\u1005\u103a\u101e\u100a\u103a \u1019\u1019\u103e\u1014\u103a\u1000\u1014\u103a\u1015\u102b ({{ detected }})\u104b \u1001\u103d\u1004\u1037\u103a\u1015\u103c\u102f\u1011\u102c\u1038\u101e\u1031\u102c \u1000\u102f\u1012\u103a\u1005\u1036\u1014\u1005\u103a\u1019\u103b\u102c\u1038\u1019\u103e\u102c {{ encodings }} \u1016\u103c\u1005\u103a\u101e\u100a\u103a\u104b"
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u1024\u101e\u100a\u103a\u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c MAC \u101c\u102d\u1015\u103a\u1005\u102c\u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
                 }
             },
             "nb": {
@@ -27366,39 +27366,39 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "Filnavnet er for langt. Det b\u00f8r ha {{ filename_max_length }} tegn eller mindre.|Filnavnet er for langt. Det b\u00f8r ha {{ filename_max_length }} tegn eller mindre."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "Passordstyrken er for lav. Vennligst bruk et sterkere passord."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "Denne verdien inneholder tegn som ikke er tillatt av gjeldende restriksjonsniv\u00e5."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "Det er ikke tillatt \u00e5 bruke usynlige tegn."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "Det er ikke tillatt \u00e5 blande tall fra forskjellige skript."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "Det er ikke tillatt \u00e5 bruke skjulte overleggskarakterer."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "Filutvidelsen er ugyldig ({{ extension }}). Tillatte utvidelser er {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Den oppdagede tegnkodingen er ugyldig ({{ detected }}). Tillatte kodinger er {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Dette er ikke en gyldig MAC-adresse."
                 }
             },
             "nl": {
@@ -27832,11 +27832,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "De gedetecteerde karaktercodering is ongeldig ({{ detected }}). Toegestane coderingen zijn {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Dit is geen geldig MAC-adres."
                 }
             },
             "nn": {
@@ -28242,39 +28242,39 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "Filnamnet er for langt. Det b\u00f8r ha {{ filename_max_length }} teikn eller f\u00e6rre.|Filnamnet er for langt. Det b\u00f8r ha {{ filename_max_length }} teikn eller f\u00e6rre."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "Passordstyrken er for l\u00e5g. Vennligst bruk eit sterkare passord."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "Denne verdien inneheld teikn som ikkje er tillatne av det gjeldande restriksjonsniv\u00e5et."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "Det er ikkje tillate \u00e5 bruke usynlege teikn."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "Det er ikkje tillate \u00e5 blande tal fr\u00e5 forskjellige skript."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "Det er ikkje tillate \u00e5 bruke skjulte overleggsteikn."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "Filutvidinga er ugyldig ({{ extension }}). Tillatne utvidingar er {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Den oppdaga teiknkodinga er ugyldig ({{ detected }}). Tillatne kodingar er {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Dette er ikkje ein gyldig MAC-adresse."
                 }
             },
             "no": {
@@ -28680,39 +28680,39 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "Filnavnet er for langt. Det b\u00f8r ha {{ filename_max_length }} tegn eller mindre.|Filnavnet er for langt. Det b\u00f8r ha {{ filename_max_length }} tegn eller mindre."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "Passordstyrken er for lav. Vennligst bruk et sterkere passord."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "Denne verdien inneholder tegn som ikke er tillatt av gjeldende restriksjonsniv\u00e5."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "Det er ikke tillatt \u00e5 bruke usynlige tegn."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "Det er ikke tillatt \u00e5 blande tall fra forskjellige skript."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "Det er ikke tillatt \u00e5 bruke skjulte overleggskarakterer."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "Filutvidelsen er ugyldig ({{ extension }}). Tillatte utvidelser er {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Den oppdagede tegnkodingen er ugyldig ({{ detected }}). Tillatte kodinger er {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Dette er ikke en gyldig MAC-adresse."
                 }
             },
             "pl": {
@@ -29588,7 +29588,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Este n\u00e3o \u00e9 um endere\u00e7o MAC v\u00e1lido."
                 }
             },
             "pt_BR": {
@@ -30018,15 +30018,15 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "A extens\u00e3o do arquivo \u00e9 inv\u00e1lida ({{ extension }}). As extens\u00f5es permitidas s\u00e3o {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "A codifica\u00e7\u00e3o de caracteres detectada \u00e9 inv\u00e1lida ({{ detected }}). As codifica\u00e7\u00f5es permitidas s\u00e3o {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Este n\u00e3o \u00e9 um endere\u00e7o MAC v\u00e1lido."
                 }
             },
             "ro": {
@@ -30460,11 +30460,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Codificarea caracterelor detectat\u0103 este invalid\u0103 ({{ detected }}). Codific\u0103rile permise sunt {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Acesta nu este un adres\u0103 MAC valid\u0103."
                 }
             },
             "ru": {
@@ -32212,11 +32212,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Kodimi i karaktereve t\u00eb zbuluar \u00ebsht\u00eb i pavlefsh\u00ebm ({{ detected }}). Kodimet e lejuara jan\u00eb {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Ky nuk \u00ebsht\u00eb nj\u00eb adres\u00eb MAC e vlefshme."
                 }
             },
             "sr_Cyrl": {
@@ -32650,11 +32650,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u041e\u0442\u043a\u0440\u0438\u0432\u0435\u043d\u043e \u043a\u043e\u0434\u0438\u0440\u0430\u045a\u0435 \u0437\u043d\u0430\u043a\u043e\u0432\u0430 \u0458\u0435 \u043d\u0435\u0432\u0430\u0436\u0435\u045b\u0435 ({{ detected }}). \u0414\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u043a\u043e\u0434\u0438\u0440\u0430\u045a\u0430 \u0441\u0443 {{  encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u0436\u0435\u045b\u0430 MAC-\u0430\u0434\u0440\u0435\u0441\u0430."
                 }
             },
             "sr_Latn": {
@@ -33530,7 +33530,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Detta \u00e4r inte en giltig MAC-adress."
                 }
             },
             "th": {
@@ -33960,15 +33960,15 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "\u0e19\u0e32\u0e21\u0e2a\u0e01\u0e38\u0e25\u0e44\u0e1f\u0e25\u0e4c\u0e44\u0e21\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07 ({{ extension }}). \u0e19\u0e32\u0e21\u0e2a\u0e01\u0e38\u0e25\u0e17\u0e35\u0e48\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e04\u0e37\u0e2d {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u0e01\u0e32\u0e23\u0e40\u0e02\u0e49\u0e32\u0e23\u0e2b\u0e31\u0e2a\u0e2d\u0e31\u0e01\u0e02\u0e23\u0e30\u0e17\u0e35\u0e48\u0e15\u0e23\u0e27\u0e08\u0e1e\u0e1a\u0e44\u0e21\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07 ({{ detected }}). \u0e01\u0e32\u0e23\u0e40\u0e02\u0e49\u0e32\u0e23\u0e2b\u0e31\u0e2a\u0e17\u0e35\u0e48\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e04\u0e37\u0e2d {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u0e19\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48 MAC \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
                 }
             },
             "tl": {
@@ -34366,47 +34366,47 @@
                 },
                 "102": {
                     "id": "102",
-                    "trans": "This value is not a valid CIDR notation."
+                    "trans": "Ang halagang ito ay hindi wastong notasyong CIDR."
                 },
                 "103": {
                     "id": "103",
-                    "trans": "The value of the netmask should be between {{ min }} and {{ max }}."
+                    "trans": "Ang halaga ng netmask ay dapat nasa pagitan ng {{ min }} at {{ max }}."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "Ang pangalan ng file ay masyadong mahaba. Dapat itong magkaroon ng {{ filename_max_length }} karakter o mas kaunti.|Ang pangalan ng file ay masyadong mahaba. Dapat itong magkaroon ng {{ filename_max_length }} mga karakter o mas kaunti."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "Ang lakas ng password ay masyadong mababa. Mangyaring gumamit ng mas malakas na password."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "Ang halagang ito ay naglalaman ng mga karakter na hindi pinapayagan ng kasalukuyang antas ng paghihigpit."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "Hindi pinapayagan ang paggamit ng mga hindi nakikitang karakter."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "Hindi pinapayagan ang paghahalo ng mga numero mula sa iba't ibang script."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "Hindi pinapayagan ang paggamit ng mga nakatagong overlay na karakter."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "Ang extension ng file ay hindi wasto ({{ extension }}). Ang mga pinapayagang extension ay {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Ang nakitang encoding ng karakter ay hindi wasto ({{ detected }}). Ang mga pinapayagang encoding ay {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Ito ay hindi isang wastong MAC address."
                 }
             },
             "tr": {
@@ -35688,39 +35688,39 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "The filename is too long. It should have {{ filename_max_length }} character or less.|The filename is too long. It should have {{ filename_max_length }} characters or less."
+                    "trans": "\u0641\u0627\u0626\u0644 \u06a9\u0627 \u0646\u0627\u0645 \u0628\u06c1\u062a \u0644\u0645\u0628\u0627 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba {{ filename_max_length }} \u062d\u0631\u0641 \u06cc\u0627 \u0627\u0633 \u0633\u06d2 \u06a9\u0645 \u06c1\u0648\u0646\u06d2 \u0686\u0627\u06c1\u0626\u06cc\u06ba\u06d4|\u0641\u0627\u0626\u0644 \u06a9\u0627 \u0646\u0627\u0645 \u0628\u06c1\u062a \u0644\u0645\u0628\u0627 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba {{ filename_max_length }} \u062d\u0631\u0648\u0641 \u06cc\u0627 \u0627\u0633 \u0633\u06d2 \u06a9\u0645 \u06c1\u0648\u0646\u06d2 \u0686\u0627\u06c1\u0626\u06cc\u06ba\u06d4"
                 },
                 "105": {
                     "id": "105",
-                    "trans": "The password strength is too low. Please use a stronger password."
+                    "trans": "\u067e\u0627\u0633 \u0648\u0631\u0688 \u06a9\u06cc \u0637\u0627\u0642\u062a \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06d2\u06d4 \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0645\u0636\u0628\u0648\u0637 \u067e\u0627\u0633 \u0648\u0631\u0688 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4"
                 },
                 "106": {
                     "id": "106",
-                    "trans": "This value contains characters that are not allowed by the current restriction-level."
+                    "trans": "\u0627\u0633 \u0642\u062f\u0631 \u0645\u06cc\u06ba \u0627\u06cc\u0633\u06d2 \u062d\u0631\u0648\u0641 \u0645\u0648\u062c\u0648\u062f \u06c1\u06cc\u06ba \u062c\u0648 \u0645\u0648\u062c\u0648\u062f\u06c1 \u067e\u0627\u0628\u0646\u062f\u06cc \u06a9\u06cc \u0633\u0637\u062d \u06a9\u06cc \u0637\u0631\u0641 \u0633\u06d2 \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06cc\u06ba\u06d4"
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Using invisible characters is not allowed."
+                    "trans": "\u0646\u0627\u062f\u06cc\u062f\u06c1 \u062d\u0631\u0648\u0641 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Mixing numbers from different scripts is not allowed."
+                    "trans": "\u0645\u062e\u062a\u0644\u0641 \u0627\u0633\u06a9\u0631\u067e\u0679\u0633 \u0633\u06d2 \u0646\u0645\u0628\u0631\u0648\u06ba \u06a9\u0648 \u0645\u0644\u0627 \u06a9\u0631 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Using hidden overlay characters is not allowed."
+                    "trans": "\u0686\u06be\u067e\u06d2 \u06c1\u0648\u0626\u06d2 \u0627\u0648\u0648\u0631\u0644\u06d2 \u06a9\u0631\u06cc\u06a9\u0679\u0631\u0632 \u06a9\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "\u0641\u0627\u0626\u0644 \u06a9\u06cc \u062a\u0648\u0633\u06cc\u0639 \u0646\u0627\u0645\u0646\u0627\u0633\u0628 \u06c1\u06d2 ({{ extension }})\u06d4 \u0627\u062c\u0627\u0632\u062a \u0634\u062f\u06c1 \u062a\u0648\u0633\u06cc\u0639\u0627\u062a {{ extensions }} \u06c1\u06cc\u06ba\u06d4"
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u067e\u062a\u06c1 \u0686\u0644\u0646\u06d2 \u0648\u0627\u0644\u06cc \u06a9\u0631\u06cc\u06a9\u0679\u0631 \u0627\u0646\u06a9\u0648\u0688\u0646\u06af \u0646\u0627\u0645\u0646\u0627\u0633\u0628 \u06c1\u06d2 ({{ detected }})\u06d4 \u0627\u062c\u0627\u0632\u062a \u0634\u062f\u06c1 \u0627\u0646\u06a9\u0648\u0688\u0646\u06af\u0632 {{ encodings }} \u06c1\u06cc\u06ba\u06d4"
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u06cc\u06c1 \u062f\u0631\u0633\u062a MAC \u067e\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 }
             },
             "uz": {
@@ -36154,11 +36154,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "Aniqlangan belgi kodlamasi yaroqsiz ({{ detected }}). Ruxsat etilgan kodlamalar {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "Bu yaroqli MAC manzili emas."
                 }
             },
             "vi": {
@@ -36592,11 +36592,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "M\u00e3 h\u00f3a k\u00fd t\u1ef1 \u0111\u01b0\u1ee3c ph\u00e1t hi\u1ec7n l\u00e0 kh\u00f4ng h\u1ee3p l\u1ec7 ({{ detected }}). C\u00e1c m\u00e3 h\u00f3a \u0111\u01b0\u1ee3c ph\u00e9p l\u00e0 {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u0110\u00e2y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 MAC h\u1ee3p l\u1ec7."
                 }
             },
             "zh_CN": {
@@ -37026,15 +37026,15 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "The extension of the file is invalid ({{ extension }}). Allowed extensions are {{ extensions }}."
+                    "trans": "\u6587\u4ef6\u7684\u6269\u5c55\u540d\u65e0\u6548 ({{ extension }})\u3002\u5141\u8bb8\u7684\u6269\u5c55\u540d\u4e3a {{ extensions }}\u3002"
                 },
                 "111": {
                     "id": "111",
-                    "trans": "The detected character encoding is invalid ({{ detected }}). Allowed encodings are {{ encodings }}."
+                    "trans": "\u68c0\u6d4b\u5230\u7684\u5b57\u7b26\u7f16\u7801\u65e0\u6548 ({{ detected }})\u3002\u5141\u8bb8\u7684\u7f16\u7801\u4e3a {{ encodings }}\u3002"
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "\u8fd9\u4e0d\u662f\u6709\u6548\u7684MAC\u5730\u5740\u3002"
                 }
             },
             "zh_TW": {
@@ -37465,6 +37465,14 @@
                 "110": {
                     "id": "110",
                     "trans": "\u7121\u6548\u7684\u526f\u6a94\u540d ({{ extension }}). \u5141\u8a31\u7684\u526f\u6a94\u540d\u6709 {{ extensions }}."
+                },
+                "111": {
+                    "id": "111",
+                    "trans": "\u5075\u6e2c\u5230\u7684\u5b57\u5143\u7de8\u78bc\u7121\u6548 ({{ detected }})\u3002\u5141\u8a31\u7684\u7de8\u78bc\u70ba {{ encodings }}\u3002"
+                },
+                "112": {
+                    "id": "112",
+                    "trans": "\u9019\u4e0d\u662f\u4e00\u500b\u6709\u6548\u7684MAC\u5730\u5740\u3002"
                 }
             }
         }
