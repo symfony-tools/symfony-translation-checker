@@ -30460,11 +30460,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Codificarea caracterelor detectat\u0103 este invalid\u0103 ({{ detected }}). Codific\u0103rile permise sunt {{ encodings }}."
+                    "trans": "Codificarea caracterelor detectate nu este valabil\u0103 ({{ detected }}). Codific\u0103rile permise sunt {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Acesta nu este un adres\u0103 MAC valid\u0103."
+                    "trans": "Aceasta nu este o adres\u0103 MAC valid\u0103."
                 }
             },
             "ru": {
