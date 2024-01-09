@@ -643,7 +643,7 @@
             },
             "112": {
                 "id": "112",
-                "source": "This is not a valid MAC address."
+                "source": "This value is not a valid MAC address."
             }
         }
     },
@@ -12644,7 +12644,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Hierdie is nie 'n geldige IP-adres nie."
+                    "trans": "Hierdie waarde is nie 'n geldige IP-adres nie."
                 },
                 "38": {
                     "id": "38",
@@ -12732,7 +12732,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Hierdie is nie 'n geldige Internationale Bank Rekening Nommer (IBAN) nie."
+                    "trans": "Hierdie waarde is nie 'n geldige Internasionale Bankrekeningnommer (IBAN) nie."
                 },
                 "60": {
                     "id": "60",
@@ -12820,7 +12820,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Hierdie is nie 'n geldige Besigheids Identifikasie Kode (BIC) nie."
+                    "trans": "Hierdie waarde is nie 'n geldige Besigheid Identifiseerder Kode (BIC) nie."
                 },
                 "82": {
                     "id": "82",
@@ -12828,7 +12828,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Hierdie is nie 'n geldige UUID nie."
+                    "trans": "Hierdie waarde is nie 'n geldige UUID nie."
                 },
                 "84": {
                     "id": "84",
@@ -12944,7 +12944,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Dit is nie 'n geldige MAC-adres nie."
+                    "trans": "Hierdie waarde is nie 'n geldige MAC-adres nie."
                 }
             },
             "ar": {
@@ -13082,7 +13082,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0646\u0648\u0627\u0646 \u0631\u0642\u0645\u0649 \u0635\u062d\u064a\u062d."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0646\u0648\u0627\u0646 IP \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "38": {
                     "id": "38",
@@ -13170,7 +13170,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0627\u0644\u0631\u0642\u0645 IBAN (\u0631\u0642\u0645 \u0627\u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u0641\u064a \u0627\u0644\u062f\u0648\u0644\u064a) \u0627\u0644\u0630\u064a \u062a\u0645 \u0625\u062f\u062e\u0627\u0644\u0647 \u063a\u064a\u0631 \u0635\u0627\u0644\u062d."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0631\u0642\u0645 \u062d\u0633\u0627\u0628 \u0628\u0646\u0643\u064a \u062f\u0648\u0644\u064a (IBAN) \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "60": {
                     "id": "60",
@@ -13258,7 +13258,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0631\u0645\u0632 \u0645\u0639\u0631\u0651\u0641 \u0646\u0634\u0627\u0637 \u062a\u062c\u0627\u0631\u064a \u0635\u0627\u0644\u062d (BIC)."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0631\u0645\u0632 \u0645\u0639\u0631\u0641 \u0627\u0644\u0623\u0639\u0645\u0627\u0644 (BIC) \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "82": {
                     "id": "82",
@@ -13266,7 +13266,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0647\u0630\u0627 \u0644\u064a\u0633 UUID \u0635\u0627\u0644\u062d."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a UUID \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "84": {
                     "id": "84",
@@ -13382,7 +13382,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0647\u0630\u0627 \u0644\u064a\u0633 \u0639\u0646\u0648\u0627\u0646 MAC \u0635\u0627\u0644\u062d\u064b\u0627."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0646\u0648\u0627\u0646 MAC \u0635\u0627\u0644\u062d\u064b\u0627."
                 }
             },
             "az": {
@@ -13520,7 +13520,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Bu d\u00fczg\u00fcn bir IP adresi deyil."
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir IP \u00fcnvan\u0131 deyil."
                 },
                 "38": {
                     "id": "38",
@@ -13608,7 +13608,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Bu d\u0259y\u0259r do\u011fru bir Beyn\u0259lxalq Bank Hesap N\u00f6mr\u0259si (IBAN) deyil."
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir Beyn\u0259lxalq Bank Hesab N\u00f6mr\u0259si (IBAN) deyil."
                 },
                 "60": {
                     "id": "60",
@@ -13696,7 +13696,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Bu d\u0259y\u0259r do\u011fru bir Biznes T\u0259yinedici Kodu (BIC) deyil."
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir Biznes T\u0259yinat Kodu (BIC) deyil."
                 },
                 "82": {
                     "id": "82",
@@ -13704,7 +13704,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Bu d\u0259y\u0259r do\u011fru bir UUID deyil."
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir UUID deyil."
                 },
                 "84": {
                     "id": "84",
@@ -13820,7 +13820,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Bu MAC \u00fcnvan\u0131 yanl\u0131\u015fd\u0131r."
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir MAC \u00fcnvan\u0131 deyil."
                 }
             },
             "be": {
@@ -13958,7 +13958,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0417\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b\u043c IP-\u0430\u0434\u0440\u0430\u0441\u0430\u043c."
+                    "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b\u043c IP-\u0430\u0434\u0440\u0430\u0441\u0430\u043c."
                 },
                 "38": {
                     "id": "38",
@@ -14046,7 +14046,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u041d\u0435\u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u044b \u043d\u0443\u043c\u0430\u0440 \u0431\u0430\u043d\u043a\u0430\u045e\u0441\u043a\u0430\u0433\u0430 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 (IBAN)."
+                    "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b\u043c \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u043c \u043d\u0443\u043c\u0430\u0440\u0430\u043c \u0431\u0430\u043d\u043a\u0430\u045e\u0441\u043a\u0430\u0433\u0430 \u0440\u0430\u0445\u0443\u043d\u043a\u0443 (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -14134,7 +14134,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u041d\u0435\u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b \u0431\u0430\u043d\u043a\u0430\u045e\u0441\u043a\u0456 \u0456\u0434\u044d\u043d\u0442\u044b\u0444\u0456\u043a\u0430\u0446\u044b\u0439\u043d\u044b \u043a\u043e\u0434 (BIC)."
+                    "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b\u043c \u043a\u043e\u0434\u0430\u043c \u0456\u0434\u044d\u043d\u0442\u044b\u0444\u0456\u043a\u0430\u0446\u044b\u0456 \u0431\u0456\u0437\u043d\u0435\u0441\u0443 (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -14142,7 +14142,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0413\u044d\u0442\u0430 \u043d\u0435\u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b UUID."
+                    "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b\u043c UUID."
                 },
                 "84": {
                     "id": "84",
@@ -14258,7 +14258,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0413\u044d\u0442\u0430 \u043d\u0435 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b MAC-\u0430\u0434\u0440\u0430\u0441."
+                    "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b\u043c MAC-\u0430\u0434\u0440\u0430\u0441\u0430\u043c."
                 }
             },
             "bg": {
@@ -14396,7 +14396,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0422\u043e\u0432\u0430 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d IP \u0430\u0434\u0440\u0435\u0441."
+                    "trans": "\u0422\u0430\u0437\u0438 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d IP \u0430\u0434\u0440\u0435\u0441."
                 },
                 "38": {
                     "id": "38",
@@ -14484,7 +14484,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0422\u043e\u0432\u0430 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u0435\u043d \u043d\u043e\u043c\u0435\u0440 \u043d\u0430 \u0431\u0430\u043d\u043a\u043e\u0432\u0430 \u0441\u043c\u0435\u0442\u043a\u0430 (IBAN)."
+                    "trans": "\u0422\u0430\u0437\u0438 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u0435\u043d \u0431\u0430\u043d\u043a\u043e\u0432 \u0441\u043c\u0435\u0442\u043a\u0430 \u043d\u043e\u043c\u0435\u0440 (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -14572,7 +14572,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u0422\u043e\u0432\u0430 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d \u0411\u0438\u0437\u043d\u0435\u0441 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u0435\u043d \u043a\u043e\u0434 (BIC)."
+                    "trans": "\u0422\u0430\u0437\u0438 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d \u043a\u043e\u0434 \u0437\u0430 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u043d\u0430 \u0431\u0438\u0437\u043d\u0435\u0441\u0430 (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -14580,7 +14580,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0422\u043e\u0432\u0430 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d UUID."
+                    "trans": "\u0422\u0430\u0437\u0438 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d UUID."
                 },
                 "84": {
                     "id": "84",
@@ -14696,7 +14696,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u041d\u0435\u0432\u0430\u043b\u0438\u0434\u0435\u043d MAC \u0430\u0434\u0440\u0435\u0441."
+                    "trans": "\u0422\u0430\u0437\u0438 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d MAC \u0430\u0434\u0440\u0435\u0441."
                 }
             },
             "bs": {
@@ -14834,7 +14834,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ovo nije ispravna IP adresa."
+                    "trans": "Ova vrijednost nije valjana IP adresa."
                 },
                 "38": {
                     "id": "38",
@@ -14922,7 +14922,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ova vrijednost nije ispravan me\u0111unarodni broj bankovnog ra\u010duna (IBAN)."
+                    "trans": "Ova vrijednost nije valjan Me\u0111unarodni broj bankovnog ra\u010duna (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -15010,7 +15010,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ovo nije validan poslovni identifikacioni kod (BIC)."
+                    "trans": "Ova vrijednost nije valjan Poslovni identifikacijski kod (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -15018,7 +15018,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ovo nije validan UUID."
+                    "trans": "Ova vrijednost nije valjan UUID."
                 },
                 "84": {
                     "id": "84",
@@ -15134,7 +15134,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ovo nije va\u017ee\u0107a MAC adresa."
+                    "trans": "Ova vrijednost nije valjana MAC adresa."
                 }
             },
             "ca": {
@@ -15272,7 +15272,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Aix\u00f2 no \u00e9s una adre\u00e7a IP v\u00e0lida."
+                    "trans": "Aquest valor no \u00e9s una adre\u00e7a IP v\u00e0lida."
                 },
                 "38": {
                     "id": "38",
@@ -15360,7 +15360,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Aix\u00f2 no \u00e9s un nombre de compte bancari internacional (IBAN) v\u00e0lid."
+                    "trans": "Aquest valor no \u00e9s un N\u00famero de Compte Bancari Internacional (IBAN) v\u00e0lid."
                 },
                 "60": {
                     "id": "60",
@@ -15448,7 +15448,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Aquest no \u00e9s un codi d'identificaci\u00f3 bancari (BIC) v\u00e0lid."
+                    "trans": "Aquest valor no \u00e9s un Codi d'Identificador de Negocis (BIC) v\u00e0lid."
                 },
                 "82": {
                     "id": "82",
@@ -15572,7 +15572,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Aix\u00f2 no \u00e9s una adre\u00e7a MAC v\u00e0lida."
+                    "trans": "Aquest valor no \u00e9s una adre\u00e7a MAC v\u00e0lida."
                 }
             },
             "cs": {
@@ -15710,7 +15710,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Toto nen\u00ed platn\u00e1 IP adresa."
+                    "trans": "Tato hodnota nen\u00ed platnou IP adresou."
                 },
                 "38": {
                     "id": "38",
@@ -15798,7 +15798,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Toto je neplatn\u00fd IBAN."
+                    "trans": "Tato hodnota nen\u00ed platn\u00fdm Mezin\u00e1rodn\u00edm bankovn\u00edm \u010d\u00edslem \u00fa\u010dtu (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -15886,7 +15886,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Tato hodnota nen\u00ed platn\u00fd identifika\u010dn\u00ed k\u00f3d podniku (BIC)."
+                    "trans": "Tato hodnota nen\u00ed platn\u00fdm K\u00f3dem obchodn\u00edho identifik\u00e1toru (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -15894,7 +15894,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Tato hodnota nen\u00ed platn\u00e9 UUID."
+                    "trans": "Tato hodnota nen\u00ed platn\u00fdm UUID."
                 },
                 "84": {
                     "id": "84",
@@ -16010,7 +16010,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Tohle nen\u00ed platn\u00e1 MAC adresa."
+                    "trans": "Tato hodnota nen\u00ed platnou MAC adresou."
                 }
             },
             "cy": {
@@ -16148,7 +16148,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Nid yw hwn yn gyfeiriad IP dilys."
+                    "trans": "Nid yw'r gwerth hwn yn gyfeiriad IP dilys."
                 },
                 "38": {
                     "id": "38",
@@ -16236,7 +16236,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Nid yw hwn yn Rhif Cyfrif Banc Rhyngwladol (IBAN) dilys."
+                    "trans": "Nid yw'r gwerth hwn yn Rhif Cyfrif Banc Rhyngwladol (IBAN) dilys."
                 },
                 "60": {
                     "id": "60",
@@ -16324,7 +16324,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Nid yw hwn yn God Adnabod Busnes (BIC) dilys."
+                    "trans": "Nid yw'r gwerth hwn yn God Adnabod Busnes (BIC) dilys."
                 },
                 "82": {
                     "id": "82",
@@ -16332,7 +16332,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Nid yw hyn yn UUID dilys."
+                    "trans": "Nid yw'r gwerth hwn yn UUID dilys."
                 },
                 "84": {
                     "id": "84",
@@ -16448,7 +16448,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Nid yw hwn yn gyfeiriad MAC dilys."
+                    "trans": "Nid yw'r gwerth hwn yn gyfeiriad MAC dilys."
                 }
             },
             "da": {
@@ -16586,7 +16586,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Dette er ikke en gyldig IP-adresse."
+                    "trans": "Denne v\u00e6rdi er ikke en gyldig IP-adresse."
                 },
                 "38": {
                     "id": "38",
@@ -16674,7 +16674,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Det er ikke et gyldigt International Bank Account Number (IBAN)."
+                    "trans": "Denne v\u00e6rdi er ikke et gyldigt internationalt bankkontonummer (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -16762,7 +16762,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Dette er ikke en gyldig Business Identifier Code (BIC).a"
+                    "trans": "Denne v\u00e6rdi er ikke en gyldig forretningsidentifikationskode (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -16770,7 +16770,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Dette er ikke en gyldig UUID."
+                    "trans": "Denne v\u00e6rdi er ikke en gyldig UUID."
                 },
                 "84": {
                     "id": "84",
@@ -16886,7 +16886,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Dette er ikke en gyldig MAC-adresse."
+                    "trans": "Denne v\u00e6rdi er ikke en gyldig MAC-adresse."
                 }
             },
             "de": {
@@ -17024,7 +17024,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Dies ist keine g\u00fcltige IP-Adresse."
+                    "trans": "Dieser Wert ist keine g\u00fcltige IP-Adresse."
                 },
                 "38": {
                     "id": "38",
@@ -17112,7 +17112,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Dieser Wert ist keine g\u00fcltige internationale Bankkontonummer (IBAN)."
+                    "trans": "Dieser Wert ist keine g\u00fcltige Internationale Bankkontonummer (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -17208,7 +17208,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Dies ist keine g\u00fcltige UUID."
+                    "trans": "Dieser Wert ist keine g\u00fcltige UUID."
                 },
                 "84": {
                     "id": "84",
@@ -17324,7 +17324,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Dies ist keine g\u00fcltige MAC-Adresse."
+                    "trans": "Dieser Wert ist keine g\u00fcltige MAC-Adresse."
                 }
             },
             "el": {
@@ -17462,7 +17462,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0391\u03c5\u03c4\u03cc \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 IP."
+                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03c4\u03b9\u03bc\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 IP."
                 },
                 "38": {
                     "id": "38",
@@ -17550,7 +17550,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0391\u03c5\u03c4\u03cc \u03b4\u03b5\u03bd \u03b1\u03bd\u03c4\u03b9\u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af \u03c3\u03b5 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03ba\u03bf\u03cd \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd (IBAN)."
+                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03c4\u03b9\u03bc\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf\u03c2 \u0394\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u0391\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03a4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03ba\u03bf\u03cd \u039b\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -17638,7 +17638,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u0391\u03c5\u03c4\u03cc\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf\u03c2 \u03ba\u03c9\u03b4\u03b9\u03ba\u03cc\u03c2 BIC."
+                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03c4\u03b9\u03bc\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf\u03c2 \u039a\u03c9\u03b4\u03b9\u03ba\u03cc\u03c2 \u03a4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2 \u0395\u03c0\u03b9\u03c7\u03b5\u03af\u03c1\u03b7\u03c3\u03b7\u03c2 (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -17646,7 +17646,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0391\u03c5\u03c4\u03cc \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf UUID."
+                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03c4\u03b9\u03bc\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 UUID."
                 },
                 "84": {
                     "id": "84",
@@ -17762,7 +17762,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 MAC."
+                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03c4\u03b9\u03bc\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 MAC."
                 }
             },
             "en": {
@@ -17900,7 +17900,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "This is not a valid IP address."
+                    "trans": "This value is not a valid IP address."
                 },
                 "38": {
                     "id": "38",
@@ -17988,7 +17988,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "This is not a valid International Bank Account Number (IBAN)."
+                    "trans": "This value is not a valid International Bank Account Number (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -18076,7 +18076,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "This is not a valid Business Identifier Code (BIC)."
+                    "trans": "This value is not a valid Business Identifier Code (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -18084,7 +18084,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "This is not a valid UUID."
+                    "trans": "This value is not a valid UUID."
                 },
                 "84": {
                     "id": "84",
@@ -18200,7 +18200,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "This is not a valid MAC address."
+                    "trans": "This value is not a valid MAC address."
                 }
             },
             "es": {
@@ -18338,7 +18338,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Esto no es una direcci\u00f3n IP v\u00e1lida."
+                    "trans": "Este valor no es una direcci\u00f3n IP v\u00e1lida."
                 },
                 "38": {
                     "id": "38",
@@ -18426,7 +18426,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Esto no es un International Bank Account Number (IBAN) v\u00e1lido."
+                    "trans": "Este valor no es un N\u00famero de Cuenta Bancaria Internacional (IBAN) v\u00e1lido."
                 },
                 "60": {
                     "id": "60",
@@ -18514,7 +18514,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "No es un C\u00f3digo de Identificaci\u00f3n Bancaria (BIC) v\u00e1lido."
+                    "trans": "Este valor no es un C\u00f3digo de Identificaci\u00f3n de Negocios (BIC) v\u00e1lido."
                 },
                 "82": {
                     "id": "82",
@@ -18638,7 +18638,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Esta no es una direcci\u00f3n MAC v\u00e1lida."
+                    "trans": "Este valor no es una direcci\u00f3n MAC v\u00e1lida."
                 }
             },
             "et": {
@@ -18776,7 +18776,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "IP aadress pole korrektne."
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv IP-aadress."
                 },
                 "38": {
                     "id": "38",
@@ -18864,7 +18864,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "V\u00e4\u00e4rtus pole korrektne IBAN-number."
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv Rahvusvaheline Pangakonto Number (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -18952,7 +18952,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "See ei ole kehtiv ettev\u00f5tte identifitseerimiskood (BIC)."
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv \u00c4ri\u00fchingu Tuvastuskood (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -18960,7 +18960,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "See pole kehtiv UUID."
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv UUID."
                 },
                 "84": {
                     "id": "84",
@@ -19076,7 +19076,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "See ei ole kehtiv MAC-aadress."
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv MAC-aadress."
                 }
             },
             "eu": {
@@ -19214,7 +19214,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Honako hau ez da IP helbide egoki bat."
+                    "trans": "Balio hau ez da IP helbide baliozko bat."
                 },
                 "38": {
                     "id": "38",
@@ -19302,7 +19302,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Hau ez da baliozko banku internazionaleko kontu zenbaki (IBAN) bat."
+                    "trans": "Balio hau ez da Nazioarteko Banku Kontu Zenbaki (IBAN) baliozko bat."
                 },
                 "60": {
                     "id": "60",
@@ -19390,7 +19390,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ez da balizko Banku Identifikazioko Kodea (BIC)."
+                    "trans": "Balio hau ez da Negozioaren Identifikazio Kode (BIC) baliozko bat."
                 },
                 "82": {
                     "id": "82",
@@ -19398,7 +19398,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Balio hau ez da onartutako UUID bat."
+                    "trans": "Balio hau ez da UUID baliozko bat."
                 },
                 "84": {
                     "id": "84",
@@ -19514,7 +19514,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Hau ez da MAC helbide balioduna."
+                    "trans": "Balio hau ez da MAC helbide baliozko bat."
                 }
             },
             "fa": {
@@ -19652,7 +19652,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0627\u06cc\u0646 \u0622\u062f\u0631\u0633 IP \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a."
+                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u0622\u062f\u0631\u0633 IP \u0645\u0639\u062a\u0628\u0631\u06cc \u0646\u06cc\u0633\u062a."
                 },
                 "38": {
                     "id": "38",
@@ -19740,7 +19740,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0627\u06cc\u0646 \u06cc\u06a9 \u0634\u0645\u0627\u0631\u0647 \u062d\u0633\u0627\u0628 \u0628\u0627\u0646\u06a9 \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u0639\u062a\u0628\u0631 \u0646\u0645\u06cc\u200c\u0628\u0627\u0634\u062f(IBAN)."
+                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 \u0634\u0645\u0627\u0631\u0647 \u062d\u0633\u0627\u0628 \u0628\u0627\u0646\u06a9\u06cc \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc (IBAN) \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a."
                 },
                 "60": {
                     "id": "60",
@@ -19828,7 +19828,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 \u06a9\u062f \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u06a9\u0633\u0628\u200c\u0648\u200c\u06a9\u0627\u0631 \u0645\u0639\u062a\u0628\u0631 (BIC) \u0646\u06cc\u0633\u062a."
+                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 \u06a9\u062f \u0634\u0646\u0627\u0633\u0647 \u06a9\u0633\u0628\u200c\u0648\u06a9\u0627\u0631 (BIC) \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a."
                 },
                 "82": {
                     "id": "82",
@@ -19836,7 +19836,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 UUID \u0645\u0639\u062a\u0628\u0631 \u0646\u0645\u06cc\u200c\u0628\u0627\u0634\u062f."
+                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 UUID \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a."
                 },
                 "84": {
                     "id": "84",
@@ -19952,7 +19952,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0627\u06cc\u0646 \u06cc\u06a9 \u0622\u062f\u0631\u0633 MAC \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a."
+                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 \u0622\u062f\u0631\u0633 MAC \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a."
                 }
             },
             "fi": {
@@ -20090,7 +20090,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "T\u00e4m\u00e4 ei ole kelvollinen IP-osoite."
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen IP-osoite."
                 },
                 "38": {
                     "id": "38",
@@ -20178,7 +20178,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Arvo ei ole kelvollinen kansainv\u00e4linen pankkitilinumero (IBAN)."
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen kansainv\u00e4linen pankkitilinumero (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -20266,7 +20266,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Arvo ei ole kelvollinen yritystunnus (BIC)."
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen liiketoiminnan tunnistekoodi (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -20274,7 +20274,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Arvo ei ole kelvollinen UUID."
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen UUID."
                 },
                 "84": {
                     "id": "84",
@@ -20390,7 +20390,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "T\u00e4m\u00e4 ei ole kelvollinen MAC-osoite."
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen MAC-osoite."
                 }
             },
             "fr": {
@@ -20528,7 +20528,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Cette adresse IP n'est pas valide."
+                    "trans": "Cette valeur n'est pas une adresse IP valide."
                 },
                 "38": {
                     "id": "38",
@@ -20616,7 +20616,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Le num\u00e9ro IBAN (International Bank Account Number) saisi n'est pas valide."
+                    "trans": "Cette valeur n'est pas un Num\u00e9ro de Compte Bancaire International (IBAN) valide."
                 },
                 "60": {
                     "id": "60",
@@ -20704,7 +20704,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ce n'est pas un code universel d'identification des banques (BIC) valide."
+                    "trans": "Cette valeur n'est pas un Code Identifiant de Business (BIC) valide."
                 },
                 "82": {
                     "id": "82",
@@ -20712,7 +20712,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ceci n'est pas un UUID valide."
+                    "trans": "Cette valeur n'est pas un UUID valide."
                 },
                 "84": {
                     "id": "84",
@@ -20966,7 +20966,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Isto non \u00e9 unha direcci\u00f3n IP v\u00e1lida."
+                    "trans": "Este valor non \u00e9 un enderezo IP v\u00e1lido."
                 },
                 "38": {
                     "id": "38",
@@ -21054,7 +21054,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Este valor non \u00e9 un International Bank Account Number (IBAN) v\u00e1lido."
+                    "trans": "Este valor non \u00e9 un N\u00famero de Conta Bancaria Internacional (IBAN) v\u00e1lido."
                 },
                 "60": {
                     "id": "60",
@@ -21142,7 +21142,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Non \u00e9 un C\u00f3digo de Identificaci\u00f3n Bancaria (BIC) v\u00e1lido."
+                    "trans": "Este valor non \u00e9 un C\u00f3digo de Identificaci\u00f3n de Negocios (BIC) v\u00e1lido."
                 },
                 "82": {
                     "id": "82",
@@ -21150,7 +21150,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Isto non \u00e9 un UUID v\u00e1lido."
+                    "trans": "Este valor non \u00e9 un UUID v\u00e1lido."
                 },
                 "84": {
                     "id": "84",
@@ -21266,7 +21266,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Esta non \u00e9 unha direcci\u00f3n MAC v\u00e1lida."
+                    "trans": "Este valor non \u00e9 un enderezo MAC v\u00e1lido."
                 }
             },
             "he": {
@@ -21404,7 +21404,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u05d6\u05d5 \u05d0\u05d9\u05e0\u05d4 \u05db\u05ea\u05d5\u05d1\u05ea IP \u05d7\u05d5\u05e7\u05d9\u05ea."
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05db\u05ea\u05d5\u05d1\u05ea IP \u05ea\u05e7\u05e4\u05d4."
                 },
                 "38": {
                     "id": "38",
@@ -21492,7 +21492,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u05de\u05e1\u05e4\u05e8 \u05d7\u05e9\u05d1\u05d5\u05df \u05d1\u05e0\u05e7 \u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d0\u05d9\u05e0\u05d5 \u05d7\u05d5\u05e7\u05d9 (IBAN)."
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05e1\u05e4\u05e8 \u05d7\u05e9\u05d1\u05d5\u05df \u05d1\u05e0\u05e7 \u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 (IBAN) \u05ea\u05e7\u05e3."
                 },
                 "60": {
                     "id": "60",
@@ -21580,7 +21580,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u05e7\u05d5\u05d3 \u05d6\u05d9\u05d4\u05d5\u05d9 \u05e2\u05e1\u05e7\u05d9 \u05d0\u05d9\u05e0\u05d5 \u05d7\u05d5\u05e7\u05d9 (BIC)."
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e7\u05d5\u05d3 \u05de\u05d6\u05d4\u05d4 \u05e2\u05e1\u05e7\u05d9 (BIC) \u05ea\u05e7\u05e3."
                 },
                 "82": {
                     "id": "82",
@@ -21588,7 +21588,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u05d4\u05e2\u05e8\u05da \u05d0\u05d9\u05e0\u05d5 \u05e2\u05e8\u05da UUID \u05d7\u05d5\u05e7\u05d9."
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 UUID \u05ea\u05e7\u05e3."
                 },
                 "84": {
                     "id": "84",
@@ -21704,7 +21704,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u05d6\u05d4\u05d5 \u05d0\u05d9\u05e0\u05d5 \u05db\u05ea\u05d5\u05d1\u05ea MAC \u05d7\u05d5\u05e7\u05d9\u05ea."
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05db\u05ea\u05d5\u05d1\u05ea MAC \u05ea\u05e7\u05e4\u05d4."
                 }
             },
             "hr": {
@@ -21842,7 +21842,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ovo nije ispravna IP adresa."
+                    "trans": "Ova vrijednost nije valjana IP adresa."
                 },
                 "38": {
                     "id": "38",
@@ -21930,7 +21930,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ova vrijednost nije ispravan me\u0111unarodni broj bankovnog ra\u010duna (IBAN)."
+                    "trans": "Ova vrijednost nije valjani me\u0111unarodni bankovni broj ra\u010duna (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -22018,7 +22018,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ovo nije validan poslovni identifikacijski broj (BIC)."
+                    "trans": "Ova vrijednost nije valjani poslovni identifikacijski kod (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -22026,7 +22026,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ovo nije validan UUID."
+                    "trans": "Ova vrijednost nije valjani UUID."
                 },
                 "84": {
                     "id": "84",
@@ -22142,7 +22142,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ovo nije valjana MAC adresa."
+                    "trans": "Ova vrijednost nije valjana MAC adresa."
                 }
             },
             "hu": {
@@ -22280,7 +22280,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes IP c\u00edm."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes IP-c\u00edm."
                 },
                 "38": {
                     "id": "38",
@@ -22368,7 +22368,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u00c9rv\u00e9nytelen nemzetk\u00f6zi banksz\u00e1mlasz\u00e1m (IBAN)."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes Nemzetk\u00f6zi Banksz\u00e1mlasz\u00e1m (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -22456,7 +22456,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u00c9rv\u00e9nytelen nemzetk\u00f6zi bankazonos\u00edt\u00f3 k\u00f3d (BIC\/SWIFT)."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes \u00dczleti Azonos\u00edt\u00f3 K\u00f3d (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -22464,7 +22464,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u00c9rv\u00e9nytelen egyedi azonos\u00edt\u00f3 (UUID)."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes UUID."
                 },
                 "84": {
                     "id": "84",
@@ -22580,7 +22580,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ez egy \u00e9rv\u00e9nytelen MAC c\u00edm."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes MAC-c\u00edm."
                 }
             },
             "hy": {
@@ -22718,7 +22718,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0531\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 IP \u0570\u0561\u057d\u0581\u0565 \u0579\u0567\u0589"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 IP \u0570\u0561\u057d\u0581\u0565 \u0579\u0567\u0589"
                 },
                 "38": {
                     "id": "38",
@@ -22806,7 +22806,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0531\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 \u0574\u056b\u057b\u0561\u0566\u0561\u0575\u056b\u0576 \u0562\u0561\u0576\u056f\u0561\u0575\u056b\u0576 \u0570\u0561\u0577\u057e\u056b \u0570\u0561\u0574\u0561\u0580 \u0579\u0567 (IBAN)\u0589"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 \u0574\u056b\u057b\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0562\u0561\u0576\u056f\u0561\u0575\u056b\u0576 \u0570\u0561\u0577\u057e\u056b \u0570\u0561\u0574\u0561\u0580 (IBAN) \u0579\u0567\u0589"
                 },
                 "60": {
                     "id": "60",
@@ -22894,7 +22894,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u054d\u0561 \u057e\u0561\u057e\u0565\u0580 Business Identifier Code (BIC) \u0579\u0567\u0589"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 \u0562\u056b\u0566\u0576\u0565\u057d\u056b \u0576\u0578\u0580\u0574\u0561\u057f\u056b\u057e \u056f\u0578\u0564 (BIC) \u0579\u0567\u0589"
                 },
                 "82": {
                     "id": "82",
@@ -22902,7 +22902,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u054d\u0561 \u057e\u0561\u057e\u0565\u0580 UUID \u0579\u0567\u0589"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 UUID \u0579\u0567\u0589"
                 },
                 "84": {
                     "id": "84",
@@ -23018,7 +23018,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u054d\u0561 \u057e\u0561\u057e\u0565\u0580 MAC \u0570\u0561\u057d\u0581\u0565 \u0579\u0567\u0589"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 MAC \u0570\u0561\u057d\u0581\u0565 \u0579\u0567\u0589"
                 }
             },
             "id": {
@@ -23156,7 +23156,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ini bukan alamat IP yang sah."
+                    "trans": "Nilai ini bukan alamat IP yang valid."
                 },
                 "38": {
                     "id": "38",
@@ -23244,7 +23244,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ini bukan Nomor Rekening Bank Internasional (IBAN) yang sah."
+                    "trans": "Nilai ini bukan Nomor Rekening Bank Internasional (IBAN) yang valid."
                 },
                 "60": {
                     "id": "60",
@@ -23332,7 +23332,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ini bukan Business Identifier Code (BIC) yang sah."
+                    "trans": "Nilai ini bukan Kode Identifikasi Bisnis (BIC) yang valid."
                 },
                 "82": {
                     "id": "82",
@@ -23340,7 +23340,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ini bukan UUID yang sah."
+                    "trans": "Nilai ini bukan UUID yang valid."
                 },
                 "84": {
                     "id": "84",
@@ -23456,7 +23456,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ini bukan alamat MAC yang valid."
+                    "trans": "Nilai ini bukan alamat MAC yang valid."
                 }
             },
             "it": {
@@ -23682,7 +23682,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Questo valore non \u00e8 un IBAN (International Bank Account Number) valido."
+                    "trans": "Questo valore non \u00e8 un Numero di Conto Bancario Internazionale (IBAN) valido."
                 },
                 "60": {
                     "id": "60",
@@ -23770,7 +23770,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Questo valore non \u00e8 un codice BIC valido."
+                    "trans": "Questo valore non \u00e8 un Codice Identificativo di Business (BIC) valido."
                 },
                 "82": {
                     "id": "82",
@@ -23778,7 +23778,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Questo non \u00e8 un UUID valido."
+                    "trans": "Questo valore non \u00e8 un UUID valido."
                 },
                 "84": {
                     "id": "84",
@@ -23894,7 +23894,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Questo non \u00e8 un indirizzo MAC valido."
+                    "trans": "Questo valore non \u00e8 un indirizzo MAC valido."
                 }
             },
             "ja": {
@@ -24032,7 +24032,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u6709\u52b9\u306aIP\u30a2\u30c9\u30ec\u30b9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
+                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306aIP\u30a2\u30c9\u30ec\u30b9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 },
                 "38": {
                     "id": "38",
@@ -24120,7 +24120,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u6709\u52b9\u306aIBAN\u30b3\u30fc\u30c9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
+                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306a\u56fd\u969b\u9280\u884c\u53e3\u5ea7\u756a\u53f7\uff08IBAN\uff09\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 },
                 "60": {
                     "id": "60",
@@ -24208,7 +24208,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u6709\u52b9\u306aSWIFT\u30b3\u30fc\u30c9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
+                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306a\u30d3\u30b8\u30cd\u30b9\u8b58\u5225\u30b3\u30fc\u30c9\uff08BIC\uff09\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 },
                 "82": {
                     "id": "82",
@@ -24216,7 +24216,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u6709\u52b9\u306aUUID\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
+                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306aUUID\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 },
                 "84": {
                     "id": "84",
@@ -24332,7 +24332,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u3053\u308c\u306f\u6709\u52b9\u306aMAC\u30a2\u30c9\u30ec\u30b9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
+                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306aMAC\u30a2\u30c9\u30ec\u30b9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 }
             },
             "lb": {
@@ -24470,7 +24470,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "D\u00ebst ass keng g\u00eblteg IP-Adress."
+                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00fclteg IP-Adress."
                 },
                 "38": {
                     "id": "38",
@@ -24558,7 +24558,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "D\u00ebst ass keng g\u00eblteg IBAN-Kontonummer."
+                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00fclteg International Bankkontonummer (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -24646,7 +24646,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "D\u00ebst ass kee g\u00ebltege \"Business Identifier Code\" (BIC)."
+                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00fcltege Business Identifier Code (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -24654,7 +24654,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "D\u00ebst ass keng g\u00eblteg UUID."
+                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00fclteg UUID."
                 },
                 "84": {
                     "id": "84",
@@ -24770,7 +24770,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Dat ass keng valabel MAC-Adress."
+                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00fclteg MAC-Adress."
                 }
             },
             "lt": {
@@ -24908,7 +24908,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra tinkamas IP adresas."
+                    "trans": "\u0160i vert\u0117 n\u0117ra galiojantis IP adresas."
                 },
                 "38": {
                     "id": "38",
@@ -24996,7 +24996,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0160i rei\u0161m\u0117 neatitinka tarptautinio banko s\u0105skaitos numerio formato (IBAN)."
+                    "trans": "\u0160i vert\u0117 n\u0117ra galiojantis Tarptautinis Banko S\u0105skaitos Numeris (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -25084,7 +25084,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Bendrov\u0117s Identifikavimo Kodas (BIC) n\u0117ra tinkamas."
+                    "trans": "\u0160i vert\u0117 n\u0117ra galiojantis Verslo Identifikavimo Kodas (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -25092,7 +25092,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra tinkamas UUID."
+                    "trans": "\u0160i vert\u0117 n\u0117ra galiojantis UUID."
                 },
                 "84": {
                     "id": "84",
@@ -25208,7 +25208,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Tai n\u0117ra galiojantis MAC adresas."
+                    "trans": "\u0160i vert\u0117 n\u0117ra galiojantis MAC adresas."
                 }
             },
             "lv": {
@@ -25346,7 +25346,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0160\u012b nav der\u012bga IP adrese."
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga IP adrese."
                 },
                 "38": {
                     "id": "38",
@@ -25434,7 +25434,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0160is nav der\u012bgs starptautisks banku konta numurs (IBAN)."
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs Starptautiskais Bankas Konta Numurs (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -25522,7 +25522,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs Biznesa Identifik\u0101cijas Kods (BIC)."
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs Uz\u0146\u0113muma Identifik\u0101cijas Kods (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -25530,7 +25530,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0160is nav der\u012bgs UUID."
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs UUID."
                 },
                 "84": {
                     "id": "84",
@@ -25646,7 +25646,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0160\u012b nav der\u012bga MAC adrese."
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga MAC adrese."
                 }
             },
             "mk": {
@@ -25784,7 +25784,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u041e\u0432\u0430 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 IP \u0430\u0434\u0440\u0435\u0441\u0430."
+                    "trans": "\u041e\u0432\u0430\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 IP \u0430\u0434\u0440\u0435\u0441\u0430."
                 },
                 "38": {
                     "id": "38",
@@ -25872,7 +25872,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u041e\u0432\u0430 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d \u0431\u0440\u043e\u0458 \u043d\u0430 \u043c\u0435\u0453\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430 \u0431\u0430\u043d\u043a\u0430\u0440\u0441\u043a\u0430 \u0441\u043c\u0435\u0442\u043a\u0430 (IBAN)."
+                    "trans": "\u041e\u0432\u0430\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d \u041c\u0435\u0453\u0443\u043d\u0430\u0440\u043e\u0434\u0435\u043d \u0411\u0430\u043d\u043a\u0430\u0440\u0441\u043a\u0438 \u0421\u043c\u0435\u0442\u043a\u0430 \u0411\u0440\u043e\u0458 (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -25960,7 +25960,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u041e\u0432\u0430 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d \u0431\u0438\u0437\u043d\u0438\u0441 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0441\u043a\u0438 \u043a\u043e\u0434 (BIC)."
+                    "trans": "\u041e\u0432\u0430\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d \u0411\u0438\u0437\u043d\u0438\u0441 \u0418\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0441\u043a\u0438 \u041a\u043e\u0434 (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -25968,7 +25968,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u041e\u0432\u0430 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d \u0443\u043d\u0438\u0432\u0435\u0440\u0437\u0430\u043b\u0435\u043d \u0443\u043d\u0438\u043a\u0430\u0442\u0435\u043d \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440 (UUID)."
+                    "trans": "\u041e\u0432\u0430\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d UUID."
                 },
                 "84": {
                     "id": "84",
@@ -26084,7 +26084,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u041e\u0432\u0430 \u043d\u0435 \u0435 \u0432\u0430\u0436\u0435\u0447\u043a\u0430 MAC-\u0430\u0434\u0440\u0435\u0441\u0430."
+                    "trans": "\u041e\u0432\u0430\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 MAC \u0430\u0434\u0440\u0435\u0441\u0430."
                 }
             },
             "mn": {
@@ -26222,7 +26222,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "IP \u0445\u0430\u044f\u0433 \u0437\u04e9\u0432 \u0431\u0438\u0448 \u0431\u0430\u0439\u043d\u0430."
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 IP \u0445\u0430\u044f\u0433 \u0431\u0438\u0448 \u044e\u043c."
                 },
                 "38": {
                     "id": "38",
@@ -26310,7 +26310,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u04af\u043d\u044d\u043d \u0437\u04e9\u0432 \u041e\u043b\u043e\u043d \u0423\u043b\u0441\u044b\u043d \u0411\u0430\u043d\u043a\u043d\u044b \u0414\u0430\u043d\u0441\u043d\u044b \u0414\u0443\u0433\u0430\u0430\u0440 (IBAN) \u0431\u0438\u0448 \u0431\u0430\u0439\u043d\u0430."
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 \u041e\u043b\u043e\u043d \u0443\u043b\u0441\u044b\u043d \u0411\u0430\u043d\u043a\u043d\u044b \u0414\u0430\u043d\u0441\u043d\u044b \u0414\u0443\u0433\u0430\u0430\u0440 (IBAN) \u0431\u0438\u0448 \u044e\u043c."
                 },
                 "60": {
                     "id": "60",
@@ -26398,7 +26398,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u04af\u043d\u044d\u043d \u0437\u04e9\u0432 Business Identifier Code (BIC) \u0431\u0438\u0448 \u0431\u0430\u0439\u043d\u0430."
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 \u0411\u0438\u0437\u043d\u0435\u0441 \u0422\u0430\u043d\u0438\u0445 \u041a\u043e\u0434 (BIC) \u0431\u0438\u0448 \u044e\u043c."
                 },
                 "82": {
                     "id": "82",
@@ -26406,7 +26406,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u04af\u043d\u044d\u043d \u0437\u04e9\u0432 UUID \u0431\u0438\u0448 \u0431\u0430\u0439\u043d\u0430."
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 UUID \u0431\u0438\u0448 \u044e\u043c."
                 },
                 "84": {
                     "id": "84",
@@ -26522,7 +26522,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u042d\u043d\u044d \u043d\u044c \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 MAC \u0445\u0430\u044f\u0433 \u0431\u0438\u0448 \u044e\u043c."
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 MAC \u0445\u0430\u044f\u0433 \u0431\u0438\u0448 \u044e\u043c."
                 }
             },
             "my": {
@@ -26660,7 +26660,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u104e\u1004\u103a\u1038\u101e\u100a\u103a\u1010\u101b\u102c\u1038\u101d\u1004\u103a IP \u101c\u102d\u1015\u103a\u1005\u102c\u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
+                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c IP \u101c\u102d\u1015\u103a\u1005\u102c \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
                 },
                 "38": {
                     "id": "38",
@@ -26748,7 +26748,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1010\u101b\u102c\u1038\u1040\u1004\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1000\u102c\u1018\u100f\u103a\u1021\u1000\u1031\u102c\u1004\u103a\u1037\u1014\u1036\u1015\u102b\u1010\u103a (International Bank Account Number, IBAN) \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
+                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c \u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1000\u102c \u1018\u100f\u103a\u1005\u102c\u101b\u1004\u103a\u1038\u1014\u1036\u1015\u102b\u1010\u103a (IBAN) \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
                 },
                 "60": {
                     "id": "60",
@@ -26836,7 +26836,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u104e\u1004\u103a\u1038\u101e\u100a\u103a\u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c Business Identifier Code (BIC) \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
+                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c \u1005\u102e\u1038\u1015\u103d\u102c\u1038\u101b\u1031\u1038 \u1019\u103e\u1010\u103a\u1015\u102f\u1036\u1010\u1004\u103a\u1000\u102f\u1012\u103a (BIC) \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
                 },
                 "82": {
                     "id": "82",
@@ -26844,7 +26844,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u101e\u1004\u103a\u1037\u101c\u103b\u103e\u1031\u102c\u103a\u101e\u1031\u102c\u103a UUID \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
+                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c UUID \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
                 },
                 "84": {
                     "id": "84",
@@ -26960,7 +26960,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u1024\u101e\u100a\u103a\u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c MAC \u101c\u102d\u1015\u103a\u1005\u102c\u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
+                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c MAC \u101c\u102d\u1015\u103a\u1005\u102c \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b"
                 }
             },
             "nb": {
@@ -27098,7 +27098,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Dette er ikke en gyldig IP adresse."
+                    "trans": "Denne verdien er ikke en gyldig IP-adresse."
                 },
                 "38": {
                     "id": "38",
@@ -27186,7 +27186,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Dette er ikke et gyldig IBAN-nummer."
+                    "trans": "Denne verdien er ikke et gyldig internasjonalt bankkontonummer (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -27274,7 +27274,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Dette er ikke en gyldig BIC."
+                    "trans": "Denne verdien er ikke en gyldig forretningsidentifikasjonskode (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -27282,7 +27282,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Dette er ikke en gyldig UUID."
+                    "trans": "Denne verdien er ikke en gyldig UUID."
                 },
                 "84": {
                     "id": "84",
@@ -27398,7 +27398,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Dette er ikke en gyldig MAC-adresse."
+                    "trans": "Denne verdien er ikke en gyldig MAC-adresse."
                 }
             },
             "nl": {
@@ -27536,7 +27536,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Dit is geen geldig IP-adres."
+                    "trans": "Deze waarde is geen geldig IP-adres."
                 },
                 "38": {
                     "id": "38",
@@ -27624,7 +27624,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Dit is geen geldig internationaal bankrekeningnummer (IBAN)."
+                    "trans": "Deze waarde is geen geldig internationaal bankrekeningnummer (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -27712,7 +27712,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Dit is geen geldige bedrijfsidentificatiecode (BIC\/SWIFT)."
+                    "trans": "Deze waarde is geen geldige zakelijke identificatiecode (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -27720,7 +27720,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Dit is geen geldige UUID."
+                    "trans": "Deze waarde is geen geldige UUID."
                 },
                 "84": {
                     "id": "84",
@@ -27836,7 +27836,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Dit is geen geldig MAC-adres."
+                    "trans": "Deze waarde is geen geldig MAC-adres."
                 }
             },
             "nn": {
@@ -27974,7 +27974,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Dette er ikkje ei gyldig IP-adresse."
+                    "trans": "Denne verdien er ikkje ein gyldig IP-adresse."
                 },
                 "38": {
                     "id": "38",
@@ -28062,7 +28062,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Dette er ikkje eit gyldig internasjonalt bankkontonummer (IBAN)."
+                    "trans": "Denne verdien er ikkje eit gyldig internasjonalt bankkontonummer (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -28150,7 +28150,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Dette er ikkje ein gyldig Business Identifier Code (BIC)."
+                    "trans": "Denne verdien er ikkje ein gyldig forretningsidentifikasjonskode (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -28158,7 +28158,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Dette er ikkje ein gyldig UUID."
+                    "trans": "Denne verdien er ikkje ein gyldig UUID."
                 },
                 "84": {
                     "id": "84",
@@ -28274,7 +28274,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Dette er ikkje ein gyldig MAC-adresse."
+                    "trans": "Denne verdien er ikkje ein gyldig MAC-adresse."
                 }
             },
             "no": {
@@ -28412,7 +28412,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Dette er ikke en gyldig IP adresse."
+                    "trans": "Denne verdien er ikke en gyldig IP-adresse."
                 },
                 "38": {
                     "id": "38",
@@ -28500,7 +28500,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Dette er ikke et gyldig IBAN-nummer."
+                    "trans": "Denne verdien er ikke et gyldig internasjonalt bankkontonummer (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -28588,7 +28588,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Dette er ikke en gyldig BIC."
+                    "trans": "Denne verdien er ikke en gyldig forretningsidentifikasjonskode (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -28596,7 +28596,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Dette er ikke en gyldig UUID."
+                    "trans": "Denne verdien er ikke en gyldig UUID."
                 },
                 "84": {
                     "id": "84",
@@ -28712,7 +28712,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Dette er ikke en gyldig MAC-adresse."
+                    "trans": "Denne verdien er ikke en gyldig MAC-adresse."
                 }
             },
             "pl": {
@@ -28850,7 +28850,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "To nie jest prawid\u0142owy adres IP."
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym adresem IP."
                 },
                 "38": {
                     "id": "38",
@@ -28938,7 +28938,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Nieprawid\u0142owy mi\u0119dzynarodowy numer rachunku bankowego (IBAN)."
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym Mi\u0119dzynarodowym Numerem Rachunku Bankowego (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -29026,7 +29026,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ta warto\u015b\u0107 nie jest poprawnym kodem BIC (Business Identifier Code)."
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym Kodem Identyfikuj\u0105cym Bank (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -29034,7 +29034,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "To nie jest poprawne UUID."
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym UUID."
                 },
                 "84": {
                     "id": "84",
@@ -29150,7 +29150,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Podana warto\u015b\u0107 nie jest poprawnym adresem MAC."
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym adresem MAC."
                 }
             },
             "pt": {
@@ -29288,7 +29288,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Este endere\u00e7o de IP n\u00e3o \u00e9 v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 um endere\u00e7o IP v\u00e1lido."
                 },
                 "38": {
                     "id": "38",
@@ -29376,7 +29376,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Este n\u00e3o \u00e9 um N\u00famero Internacional de Conta Banc\u00e1ria (IBAN) v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 um N\u00famero de Conta Banc\u00e1ria Internacional (IBAN) v\u00e1lido."
                 },
                 "60": {
                     "id": "60",
@@ -29464,7 +29464,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "O C\u00f3digo de Identifica\u00e7\u00e3o de Empresa (BIC) n\u00e3o \u00e9 v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 um C\u00f3digo de Identifica\u00e7\u00e3o de Neg\u00f3cio (BIC) v\u00e1lido."
                 },
                 "82": {
                     "id": "82",
@@ -29588,7 +29588,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Este n\u00e3o \u00e9 um endere\u00e7o MAC v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 um endere\u00e7o MAC v\u00e1lido."
                 }
             },
             "pt_BR": {
@@ -29726,7 +29726,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Este n\u00e3o \u00e9 um endere\u00e7o de IP v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 um endere\u00e7o IP v\u00e1lido."
                 },
                 "38": {
                     "id": "38",
@@ -29814,7 +29814,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Este n\u00e3o \u00e9 um N\u00famero Internacional de Conta Banc\u00e1ria (IBAN) v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 um N\u00famero de Conta Banc\u00e1ria Internacional (IBAN) v\u00e1lido."
                 },
                 "60": {
                     "id": "60",
@@ -29902,7 +29902,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Este n\u00e3o \u00e9 um C\u00f3digo Identificador Banc\u00e1rio (BIC) v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 um C\u00f3digo de Identifica\u00e7\u00e3o de Neg\u00f3cios (BIC) v\u00e1lido."
                 },
                 "82": {
                     "id": "82",
@@ -29910,7 +29910,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Este n\u00e3o \u00e9 um UUID v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 um UUID v\u00e1lido."
                 },
                 "84": {
                     "id": "84",
@@ -30026,7 +30026,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Este n\u00e3o \u00e9 um endere\u00e7o MAC v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 um endere\u00e7o MAC v\u00e1lido."
                 }
             },
             "ro": {
@@ -30252,7 +30252,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Acesta nu este un cod IBAN (International Bank Account Number) valid."
+                    "trans": "Aceast\u0103 valoare nu este un Num\u0103r de Cont Bancar Interna\u021bional (IBAN) valid."
                 },
                 "60": {
                     "id": "60",
@@ -30340,7 +30340,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Codul BIC (Business Identifier Code) nu este valid."
+                    "trans": "Aceast\u0103 valoare nu este un Cod de Identificare a Afacerilor (BIC) valid."
                 },
                 "82": {
                     "id": "82",
@@ -30348,7 +30348,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Identificatorul universal unic (UUID) nu este valid."
+                    "trans": "Aceast\u0103 valoare nu este un UUID valid."
                 },
                 "84": {
                     "id": "84",
@@ -30460,11 +30460,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Codificarea caracterelor detectat\u0103 este invalid\u0103 ({{ detected }}). Codific\u0103rile permise sunt {{ encodings }}."
+                    "trans": "Codificarea caracterelor detectate nu este valabil\u0103 ({{ detected }}). Codific\u0103rile permise sunt {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Acesta nu este un adres\u0103 MAC valid\u0103."
+                    "trans": "Aceast\u0103 valoare nu este o adres\u0103 MAC valid\u0103."
                 }
             },
             "ru": {
@@ -30602,7 +30602,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u044b\u043c IP \u0430\u0434\u0440\u0435\u0441\u043e\u043c."
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c IP-\u0430\u0434\u0440\u0435\u0441\u043e\u043c."
                 },
                 "38": {
                     "id": "38",
@@ -30690,7 +30690,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u044b\u043c \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0447\u0435\u0442\u0430 (IBAN)."
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u043c \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u043c \u0441\u0447\u0435\u0442\u043e\u043c (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -30778,7 +30778,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0444\u043e\u0440\u043c\u0430\u0442\u0443 BIC."
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0411\u0438\u0437\u043d\u0435\u0441-\u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u043e\u043c (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -30786,7 +30786,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0444\u043e\u0440\u043c\u0430\u0442\u0443 UUID."
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c UUID."
                 },
                 "84": {
                     "id": "84",
@@ -30902,7 +30902,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u042d\u0442\u043e\u0442 MAC-\u0430\u0434\u0440\u0435\u0441 \u043d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439."
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c MAC-\u0430\u0434\u0440\u0435\u0441\u043e\u043c."
                 }
             },
             "sk": {
@@ -31040,7 +31040,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Toto nie je platn\u00e1 IP adresa."
+                    "trans": "T\u00e1to hodnota nie je platn\u00e1 IP adresa."
                 },
                 "38": {
                     "id": "38",
@@ -31128,7 +31128,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Toto je neplatn\u00fd IBAN."
+                    "trans": "T\u00e1to hodnota nie je platn\u00fdm Medzin\u00e1rodn\u00fdm bankov\u00fdm \u010d\u00edslom \u00fa\u010dtu (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -31216,7 +31216,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fd identifika\u010dn\u00fd k\u00f3d podniku (BIC)."
+                    "trans": "T\u00e1to hodnota nie je platn\u00fdm Obchodn\u00fdm identifika\u010dn\u00fdm k\u00f3dom (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -31224,7 +31224,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fd UUID."
+                    "trans": "T\u00e1to hodnota nie je platn\u00fdm UUID."
                 },
                 "84": {
                     "id": "84",
@@ -31340,7 +31340,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Toto nie je platn\u00e1 MAC adresa."
+                    "trans": "T\u00e1to hodnota nie je platnou MAC adresou."
                 }
             },
             "sl": {
@@ -31478,7 +31478,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "To ni veljaven IP naslov."
+                    "trans": "Ta vrednost ni veljaven IP naslov."
                 },
                 "38": {
                     "id": "38",
@@ -31566,7 +31566,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "To ni veljavna mednarodna \u0161tevilka ban\u010dnega ra\u010duna (IBAN)."
+                    "trans": "Ta vrednost ni veljavna Mednarodna \u0161tevilka ban\u010dnega ra\u010duna (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -31654,7 +31654,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "To ni veljavna identifikacijska koda podjetja (BIC)."
+                    "trans": "Ta vrednost ni veljavna Poslovna identifikacijska koda (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -31662,7 +31662,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "To ni veljaven UUID."
+                    "trans": "Ta vrednost ni veljaven UUID."
                 },
                 "84": {
                     "id": "84",
@@ -31778,7 +31778,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "To ni veljaven naslov MAC."
+                    "trans": "Ta vrednost ni veljaven MAC naslov."
                 }
             },
             "sq": {
@@ -31916,7 +31916,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Kjo adres\u00eb IP nuk \u00ebsht\u00eb e vlefshme."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb adres\u00eb IP e vlefshme."
                 },
                 "38": {
                     "id": "38",
@@ -32004,7 +32004,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ky nuk \u00ebsht\u00eb nj\u00eb num\u00ebr i vlefsh\u00ebm nd\u00ebrkomb\u00ebtar i llogaris\u00eb bankare (IBAN)."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb Num\u00ebr i Llogaris\u00eb Bankare Nd\u00ebrkomb\u00ebtare (IBAN) i vlefsh\u00ebm."
                 },
                 "60": {
                     "id": "60",
@@ -32092,7 +32092,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ky nuk \u00ebsht\u00eb nj\u00eb Kod Identifikues i Biznesit (BIC) i vleflshem."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb Kod Identifikues i Biznesit (BIC) i vlefsh\u00ebm."
                 },
                 "82": {
                     "id": "82",
@@ -32100,7 +32100,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ky nuk \u00ebsht\u00eb nj\u00eb UUID i vlefsh\u00ebm."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb UUID i vlefsh\u00ebm."
                 },
                 "84": {
                     "id": "84",
@@ -32216,7 +32216,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ky nuk \u00ebsht\u00eb nj\u00eb adres\u00eb MAC e vlefshme."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb adres\u00eb MAC e vlefshme."
                 }
             },
             "sr_Cyrl": {
@@ -32354,7 +32354,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u0418\u041f \u0430\u0434\u0440\u0435\u0441\u0430."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 IP \u0430\u0434\u0440\u0435\u0441\u0430."
                 },
                 "38": {
                     "id": "38",
@@ -32442,7 +32442,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u043c\u0435\u0452\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438 \u0431\u0440\u043e\u0458 \u0431\u0430\u043d\u043a\u043e\u0432\u043d\u043e\u0433 \u0440\u0430\u0447\u0443\u043d\u0430 (IBAN)."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u041c\u0435\u0452\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438 \u0431\u0440\u043e\u0458 \u0431\u0430\u043d\u043a\u0430\u0440\u0441\u043a\u043e\u0433 \u0440\u0430\u0447\u0443\u043d\u0430 (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -32530,7 +32530,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u043c\u0435\u0452\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0458\u0441\u043a\u0438 \u043a\u043e\u0434 \u0431\u0430\u043d\u043a\u0435 (BIC)."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u041a\u043e\u0434 \u0437\u0430 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0458\u0443 \u0431\u0438\u0437\u043d\u0438\u0441\u0430 (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -32538,7 +32538,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u0443\u043d\u0438\u0432\u0435\u0440\u0437\u0430\u043b\u043d\u0438 \u0443\u043d\u0438\u043a\u0430\u0442\u043d\u0438 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440 (UUID)."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d UUID."
                 },
                 "84": {
                     "id": "84",
@@ -32654,7 +32654,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u0436\u0435\u045b\u0430 MAC-\u0430\u0434\u0440\u0435\u0441\u0430."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 MAC \u0430\u0434\u0440\u0435\u0441\u0430."
                 }
             },
             "sr_Latn": {
@@ -32792,7 +32792,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ovo nije validna IP adresa."
+                    "trans": "Ova vrednost nije validna IP adresa."
                 },
                 "38": {
                     "id": "38",
@@ -32880,7 +32880,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Nevalidan me\u0111unarodni broj bankovnog ra\u010duna (IBAN)."
+                    "trans": "Ova vrednost nije validan Me\u0111unarodni broj bankovnog ra\u010duna (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -32968,7 +32968,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ovo nije validan BIC."
+                    "trans": "Ova vrednost nije validan Kod za identifikaciju biznisa (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -32976,7 +32976,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ovo nije validan univerzalni unikatni identifikator (UUID)."
+                    "trans": "Ova vrednost nije validan UUID."
                 },
                 "84": {
                     "id": "84",
@@ -33092,7 +33092,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ovo nije va\u017ee\u0107a MAC-adresa."
+                    "trans": "Ova vrednost nije validna MAC adresa."
                 }
             },
             "sv": {
@@ -33230,7 +33230,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Det h\u00e4r \u00e4r inte en giltig IP-adress."
+                    "trans": "Detta v\u00e4rde \u00e4r inte en giltig IP-adress."
                 },
                 "38": {
                     "id": "38",
@@ -33318,7 +33318,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Det h\u00e4r \u00e4r inte en giltig International Bank Account Number (IBANK)."
+                    "trans": "Detta v\u00e4rde \u00e4r inte ett giltigt Internationellt Bankkontonummer (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -33406,7 +33406,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Detta \u00e4r inte en giltig BIC-kod."
+                    "trans": "Detta v\u00e4rde \u00e4r inte en giltig F\u00f6retagsidentifieringskod (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -33414,7 +33414,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Detta \u00e4r inte ett giltigt UUID."
+                    "trans": "Detta v\u00e4rde \u00e4r inte en giltig UUID."
                 },
                 "84": {
                     "id": "84",
@@ -33530,7 +33530,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Detta \u00e4r inte en giltig MAC-adress."
+                    "trans": "Detta v\u00e4rde \u00e4r inte en giltig MAC-adress."
                 }
             },
             "th": {
@@ -33668,7 +33668,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0e04\u0e48\u0e32\u0e02\u0e2d\u0e07 IP \u0e44\u0e21\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
+                    "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48 IP \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
                 },
                 "38": {
                     "id": "38",
@@ -33756,7 +33756,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48 International Bank Account Number (IBAN) \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
+                    "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e25\u0e02\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28 (IBAN) \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
                 },
                 "60": {
                     "id": "60",
@@ -33844,7 +33844,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u0e19\u0e35\u0e48\u0e44\u0e21\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07\u0e15\u0e32\u0e21\u0e23\u0e2b\u0e31\u0e2a\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e23\u0e30\u0e1a\u0e38\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e19\u0e35\u0e49 (BIC)"
+                    "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e23\u0e2b\u0e31\u0e2a\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e15\u0e31\u0e27\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08 (BIC) \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
                 },
                 "82": {
                     "id": "82",
@@ -33852,7 +33852,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0e19\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48 UUID \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
+                    "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48 UUID \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
                 },
                 "84": {
                     "id": "84",
@@ -33968,7 +33968,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0e19\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48 MAC \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
+                    "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48 MAC \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
                 }
             },
             "tl": {
@@ -34106,7 +34106,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ito ay hindi wastong IP address."
+                    "trans": "Ang halagang ito ay hindi isang wastong IP address."
                 },
                 "38": {
                     "id": "38",
@@ -34194,7 +34194,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ito ay hindi isang balidong International Bank Account Number (IBAN)."
+                    "trans": "Ang halagang ito ay hindi isang wastong International Bank Account Number (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -34282,7 +34282,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ito ay hindi isang balidong Business Identifier Code (BIC)."
+                    "trans": "Ang halagang ito ay hindi isang wastong Business Identifier Code (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -34290,7 +34290,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ito ay hindi wastong UUID."
+                    "trans": "Ang halagang ito ay hindi isang wastong UUID."
                 },
                 "84": {
                     "id": "84",
@@ -34406,7 +34406,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ito ay hindi isang wastong MAC address."
+                    "trans": "Ang halagang ito ay hindi isang wastong MAC address."
                 }
             },
             "tr": {
@@ -34544,7 +34544,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Bu ge\u00e7erli bir IP adresi de\u011fildir."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir IP adresi de\u011fil."
                 },
                 "38": {
                     "id": "38",
@@ -34632,7 +34632,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Bu ge\u00e7erli bir Uluslararas\u0131 Banka Hesap Numaras\u0131 (IBAN) de\u011fildir."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir Uluslararas\u0131 Banka Hesap Numaras\u0131 (IBAN) de\u011fil."
                 },
                 "60": {
                     "id": "60",
@@ -34720,7 +34720,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Bu ge\u00e7erli bir \u0130\u015fletme Tan\u0131mlay\u0131c\u0131 Kodu (BIC) de\u011fildir."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir \u0130\u015fletme Tan\u0131mlama Kodu (BIC) de\u011fil."
                 },
                 "82": {
                     "id": "82",
@@ -34728,7 +34728,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Bu ge\u00e7erli bir UUID de\u011fildir."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir UUID de\u011fil."
                 },
                 "84": {
                     "id": "84",
@@ -34844,7 +34844,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Bu ge\u00e7erli bir MAC adresi de\u011fil."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir MAC adresi de\u011fil."
                 }
             },
             "uk": {
@@ -34982,7 +34982,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0426\u0435 \u043d\u0435\u043a\u043e\u0440\u0435\u043a\u0442\u043d\u0430 IP \u0430\u0434\u0440\u0435\u0441\u0430."
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u043e\u044e IP-\u0430\u0434\u0440\u0435\u0441\u043e\u044e."
                 },
                 "38": {
                     "id": "38",
@@ -35070,7 +35070,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0426\u0435 \u043d\u0435 \u0434\u0456\u0439\u0441\u043d\u0438\u0439 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u043d\u043e\u043c\u0435\u0440 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443 (IBAN)."
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c \u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u043c \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u043c \u0440\u0430\u0445\u0443\u043d\u043a\u043e\u043c (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -35158,7 +35158,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u0426\u0435 \u043d\u0435 \u0434\u0456\u0439\u0441\u043d\u0438\u0439 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u043a\u043e\u0434 (BIC)."
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c \u041a\u043e\u0434\u043e\u043c \u0456\u0434\u0435\u043d\u0442\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u0457 \u0431\u0456\u0437\u043d\u0435\u0441\u0443 (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -35166,7 +35166,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0426\u0435 \u043d\u0435 \u0432\u0430\u043b\u0456\u0434\u043d\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f UUID."
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c UUID."
                 },
                 "84": {
                     "id": "84",
@@ -35282,7 +35282,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u041d\u0435\u043a\u043e\u0440\u0435\u043a\u0442\u043d\u0430 MAC-\u0430\u0434\u0440\u0435\u0441\u0430."
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u043e\u044e MAC-\u0430\u0434\u0440\u0435\u0441\u043e\u044e."
                 }
             },
             "ur": {
@@ -35420,7 +35420,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0627\u06cc\u0688\u0631\u06cc\u0633 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2 IP \u06cc\u06c1 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a"
+                    "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a IP \u067e\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "38": {
                     "id": "38",
@@ -35508,7 +35508,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "(IBAN)\u06cc\u06c1 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u0628\u06cc\u0646\u06a9 \u0627\u06a9\u0627\u0624\u0646\u0679 \u0646\u0645\u0628\u0631 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
+                    "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u0628\u06cc\u0646\u06a9 \u0627\u06a9\u0627\u0624\u0646\u0679 \u0646\u0645\u0628\u0631 (IBAN) \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "60": {
                     "id": "60",
@@ -35596,7 +35596,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "(BIC)\u06cc\u06c1 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a \u06a9\u0627\u0631\u0648\u0628\u0627\u0631\u06cc \u0634\u0646\u0627\u062e\u062a \u06a9\u0646\u0646\u062f\u06c1 \u06a9\u0648\u0688 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
+                    "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a \u0628\u0632\u0646\u0633 \u0634\u0646\u0627\u062e\u062a\u06cc \u06a9\u0648\u0688 (BIC) \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "82": {
                     "id": "82",
@@ -35604,7 +35604,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0646\u06c1\u06cc\u06ba \u06c1\u06d2 UUID \u06cc\u06c1 \u062f\u0631\u0633\u062a"
+                    "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a UUID \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "84": {
                     "id": "84",
@@ -35720,7 +35720,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u06cc\u06c1 \u062f\u0631\u0633\u062a MAC \u067e\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
+                    "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a MAC \u067e\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 }
             },
             "uz": {
@@ -35858,7 +35858,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ip manzil noto'g'ri."
+                    "trans": "Bu qiymat haqiqiy IP manzil emas."
                 },
                 "38": {
                     "id": "38",
@@ -35946,7 +35946,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Qiymat haqiqiy xalqaro hisob raqamining raqami (IBAN) emas."
+                    "trans": "Bu qiymat haqiqiy Xalqaro Bank Hisob Raqami (IBAN) emas."
                 },
                 "60": {
                     "id": "60",
@@ -36034,7 +36034,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Qiymat BIC formatida emas."
+                    "trans": "Bu qiymat haqiqiy Biznes Identifikatsiya Kodi (BIC) emas."
                 },
                 "82": {
                     "id": "82",
@@ -36042,7 +36042,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Qiymat UUID formatida emas."
+                    "trans": "Bu qiymat haqiqiy UUID emas."
                 },
                 "84": {
                     "id": "84",
@@ -36158,7 +36158,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Bu yaroqli MAC manzili emas."
+                    "trans": "Bu qiymat haqiqiy MAC manzil emas."
                 }
             },
             "vi": {
@@ -36296,7 +36296,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0110\u1ecba ch\u1ec9 IP kh\u00f4ng h\u1ee3p l\u1ec7."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 IP h\u1ee3p l\u1ec7."
                 },
                 "38": {
                     "id": "38",
@@ -36384,7 +36384,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Gi\u00e1 tr\u1ecb kh\u00f4ng ph\u1ea3i l\u00e0 International Bank Account Number (IBAN) h\u1ee3p l\u1ec7."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 S\u1ed1 T\u00e0i Kho\u1ea3n Ng\u00e2n H\u00e0ng Qu\u1ed1c T\u1ebf (IBAN) h\u1ee3p l\u1ec7."
                 },
                 "60": {
                     "id": "60",
@@ -36472,7 +36472,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng \u0111\u00fang \u0111\u1ecbnh d\u1ea1ng m\u00e3 \u0111\u1ecbnh danh doanh nghi\u1ec7p (BIC)."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 M\u00e3 \u0110\u1ecbnh Danh Doanh Nghi\u1ec7p (BIC) h\u1ee3p l\u1ec7."
                 },
                 "82": {
                     "id": "82",
@@ -36480,7 +36480,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng \u0111\u00fang \u0111\u1ecbnh d\u1ea1ng UUID."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 UUID h\u1ee3p l\u1ec7."
                 },
                 "84": {
                     "id": "84",
@@ -36596,7 +36596,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0110\u00e2y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 MAC h\u1ee3p l\u1ec7."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 MAC h\u1ee3p l\u1ec7."
                 }
             },
             "zh_CN": {
@@ -36822,7 +36822,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u56fd\u9645\u94f6\u884c\u5e10\u53f7\uff08IBAN\uff09\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u56fd\u9645\u94f6\u884c\u8d26\u53f7\uff08IBAN\uff09\u3002"
                 },
                 "60": {
                     "id": "60",
@@ -36910,7 +36910,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u8fd9\u4e0d\u662f\u6709\u6548\u7684\u4e1a\u52a1\u6807\u8bc6\u7b26\u4ee3\u7801\uff08BIC)\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u4e1a\u52a1\u6807\u8bc6\u7b26\u4ee3\u7801\uff08BIC\uff09\u3002"
                 },
                 "82": {
                     "id": "82",
@@ -36918,7 +36918,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u8fd9\u4e0d\u662f\u6709\u6548\u7684UUID\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684UUID\u3002"
                 },
                 "84": {
                     "id": "84",
@@ -37034,7 +37034,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u8fd9\u4e0d\u662f\u6709\u6548\u7684MAC\u5730\u5740\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684MAC\u5730\u5740\u3002"
                 }
             },
             "zh_TW": {
@@ -37172,7 +37172,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u8a72\u503c\u4e0d\u662f\u6709\u6548\u7684IP\u5730\u5740\u3002"
+                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684IP\u5730\u5740\u3002"
                 },
                 "38": {
                     "id": "38",
@@ -37260,7 +37260,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u8a72\u503c\u4e0d\u662f\u6709\u6548\u7684\u570b\u969b\u9280\u884c\u5e33\u865f\uff08IBAN\uff09\u3002"
+                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684\u570b\u969b\u9280\u884c\u5e33\u6236\u865f\u78bc\uff08IBAN\uff09\u3002"
                 },
                 "60": {
                     "id": "60",
@@ -37348,7 +37348,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u7121\u6548\u4f01\u696d\u8b58\u5225\u78bc (BIC)\u3002"
+                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684\u696d\u52d9\u8b58\u5225\u78bc\uff08BIC\uff09\u3002"
                 },
                 "82": {
                     "id": "82",
@@ -37356,7 +37356,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u7121\u6548\u7684\u901a\u7528\u552f\u58f9\u6a19\u8b58\u7b26 (UUID)\u3002"
+                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684UUID\u3002"
                 },
                 "84": {
                     "id": "84",
