@@ -32212,11 +32212,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Kodimi i karaktereve t\u00eb zbuluar \u00ebsht\u00eb i pavlefsh\u00ebm ({{ detected }}). Kodimet e lejuara jan\u00eb {{ encodings }}."
+                    "trans": "Kodimi i karakterit t\u00eb identifikuar  \u00ebsht\u00eb i pavlefsh\u00ebm ({{ detected }}). Kodimet e lejuara jan\u00eb {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb adres\u00eb MAC e vlefshme."
+                    "trans": "Kjo nuk \u00ebsht\u00eb nj\u00eb adres\u00eb e vlefshme e Kontrollit t\u00eb Qasjes n\u00eb Media (MAC)."
                 }
             },
             "sr_Cyrl": {
