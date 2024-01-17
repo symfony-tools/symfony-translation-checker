@@ -25204,11 +25204,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Nustatyta simboli\u0173 koduot\u0117 yra netinkama ({{ detected }}). Leid\u017eiamos koduot\u0117s yra {{ encodings }}."
+                    "trans": "Aptikta simboli\u0173 koduot\u0117 neteisinga ({{ detected }}). Leid\u017eiamos koduot\u0117s {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0160i vert\u0117 n\u0117ra galiojantis MAC adresas."
+                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra teisingas MAC adresas."
                 }
             },
             "lv": {
@@ -27832,7 +27832,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "De gedetecteerde karaktercodering is ongeldig ({{ detected }}). Toegestane coderingen zijn {{ encodings }}."
+                    "trans": "De gedetecteerde tekencodering is ongeldig ({{ detected }}). Toegestane coderingen zijn {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
