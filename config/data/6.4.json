@@ -12700,7 +12700,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Geen tydelike l\u00eaer is ingestel in php.ini nie."
+                    "trans": "Geen tydelike gids is in php.ini opgestel nie, of die opgestelde gids bestaan nie."
                 },
                 "52": {
                     "id": "52",
@@ -13138,7 +13138,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u0644\u0645 \u064a\u062a\u0645 \u062a\u0647\u064a\u0626\u0629 \u062d\u0627\u0641\u0638\u0629 \u0645\u0624\u0642\u062a\u0629 \u0641\u0649 \u0645\u0644\u0641 php.ini."
+                    "trans": "\u0644\u0645 \u064a\u062a\u0645 \u062a\u0643\u0648\u064a\u0646 \u0645\u062c\u0644\u062f \u0645\u0624\u0642\u062a \u0641\u064a \u0645\u0644\u0641 php.ini\u060c \u0623\u0648 \u0627\u0644\u0645\u062c\u0644\u062f \u0627\u0644\u0645\u0639\u062f \u0644\u0627 \u064a\u0648\u062c\u062f."
                 },
                 "52": {
                     "id": "52",
@@ -13576,7 +13576,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini'd\u0259 m\u00fcv\u0259qq\u0259ti qovluq qura\u015fd\u0131r\u0131lmay\u0131b."
+                    "trans": "php.ini-d\u0259 m\u00fcv\u0259qq\u0259ti qovluq qura\u015fd\u0131r\u0131lmay\u0131b, v\u0259 ya qura\u015fd\u0131r\u0131lm\u0131\u015f qovluq m\u00f6vcud deyil."
                 },
                 "52": {
                     "id": "52",
@@ -14452,7 +14452,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u041d\u0435 \u0435 \u043f\u043e\u0441\u043e\u0447\u0435\u043d\u0430 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u044f \u0437\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0438 \u0444\u0430\u0439\u043b\u043e\u0432\u0435 \u0432 php.ini."
+                    "trans": "\u0412 php.ini \u043d\u0435 \u0435 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0440\u0430\u043d\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u044f, \u0438\u043b\u0438 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0440\u0430\u043d\u0430\u0442\u0430 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u044f \u043d\u0435 \u0441\u044a\u0449\u0435\u0441\u0442\u0432\u0443\u0432\u0430."
                 },
                 "52": {
                     "id": "52",
@@ -14890,7 +14890,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Privremeni direktorijum nije konfigurisan u datoteci php.ini."
+                    "trans": "Privremeni direktorij nije konfiguriran u php.ini, ili konfigurirani direktorij ne postoji."
                 },
                 "52": {
                     "id": "52",
@@ -15328,7 +15328,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Cap carpeta temporal va ser configurada en php.ini."
+                    "trans": "No s'ha configurat cap carpeta temporal en php.ini, o la carpeta configurada no existeix."
                 },
                 "52": {
                     "id": "52",
@@ -15766,7 +15766,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "V php.ini nen\u00ed nastavena cesta k adres\u00e1\u0159i pro do\u010dasn\u00e9 soubory."
+                    "trans": "V php.ini nebyla nastavena cesta k do\u010dasn\u00e9mu adres\u00e1\u0159i, nebo nastaven\u00fd adres\u00e1\u0159 neexistuje."
                 },
                 "52": {
                     "id": "52",
@@ -16204,7 +16204,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Nid oes ffolder dros-dro wedi'i gosod yn php.ini."
+                    "trans": "Nid oedd ffolder dros dro wedi'i ffurfweddu yn php.ini, neu nid yw'r ffolder a ffurfweddiwyd yn bodoli."
                 },
                 "52": {
                     "id": "52",
@@ -16642,7 +16642,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Ingen midlertidig mappe er konfigureret i php.ini."
+                    "trans": "Der blev ikke konfigureret en midlertidig mappe i php.ini, eller den konfigurerede mappe eksisterer ikke."
                 },
                 "52": {
                     "id": "52",
@@ -17518,7 +17518,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u039a\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c1\u03b9\u03bd\u03cc\u03c2 \u03c6\u03ac\u03ba\u03b5\u03bb\u03bf\u03c2 \u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03b9 \u03c1\u03c5\u03b8\u03bc\u03b9\u03c3\u03c4\u03b5\u03af \u03c3\u03c4\u03bf php.ini."
+                    "trans": "\u0394\u03b5\u03bd \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c1\u03b9\u03bd\u03cc\u03c2 \u03c6\u03ac\u03ba\u03b5\u03bb\u03bf\u03c2 \u03c3\u03c4\u03bf php.ini, \u03ae \u03bf \u03c1\u03c5\u03b8\u03bc\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf\u03c2 \u03c6\u03ac\u03ba\u03b5\u03bb\u03bf\u03c2 \u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9."
                 },
                 "52": {
                     "id": "52",
@@ -18832,7 +18832,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u00dchtegi ajutist kausta polnud php.ini-s seadistatud."
+                    "trans": "php.ini-s ei olnud seadistatud ajutist kausta, v\u00f5i seadistatud kaust ei eksisteeri."
                 },
                 "52": {
                     "id": "52",
@@ -19270,7 +19270,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Ez da aldi baterako karpetarik konfiguratu php.ini fitxategian."
+                    "trans": "Ez da aldi baterako karpetarik konfiguratu php.ini-n, edo konfiguratutako karpeta ez da existitzen."
                 },
                 "52": {
                     "id": "52",
@@ -19708,7 +19708,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u067e\u0648\u0634\u0647 \u0645\u0648\u0642\u062a\u06cc \u062f\u0631 php.ini \u067e\u06cc\u06a9\u0631\u0628\u0646\u062f\u06cc \u0646\u06af\u0631\u062f\u06cc\u062f\u0647 \u0627\u0633\u062a."
+                    "trans": "\u0647\u06cc\u0686 \u067e\u0648\u0634\u0647 \u0645\u0648\u0642\u062a\u06cc \u062f\u0631 php.ini \u067e\u06cc\u06a9\u0631\u0628\u0646\u062f\u06cc \u0646\u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u06cc\u0627 \u067e\u0648\u0634\u0647 \u067e\u06cc\u06a9\u0631\u0628\u0646\u062f\u06cc \u0634\u062f\u0647 \u0648\u062c\u0648\u062f \u0646\u062f\u0627\u0631\u062f."
                 },
                 "52": {
                     "id": "52",
@@ -20146,7 +20146,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "V\u00e4liaikaishakemistoa ei ole asetettu php.ini-tiedostossa."
+                    "trans": "V\u00e4liaikaista kansiota ei ole m\u00e4\u00e4ritetty php.ini:ss\u00e4, tai m\u00e4\u00e4ritetty kansio ei ole olemassa."
                 },
                 "52": {
                     "id": "52",
@@ -21460,7 +21460,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u05dc\u05d0 \u05d4\u05d5\u05d2\u05d3\u05e8\u05d4 \u05ea\u05d9\u05e7\u05d9\u05d9\u05d4 \u05d6\u05de\u05e0\u05d9\u05ea \u05d1 php.ini."
+                    "trans": "\u05dc\u05d0 \u05d4\u05d5\u05d2\u05d3\u05e8\u05d4 \u05ea\u05d9\u05e7\u05d9\u05d9\u05d4 \u05d6\u05de\u05e0\u05d9\u05ea \u05d1-php.ini, \u05d0\u05d5 \u05e9\u05d4\u05ea\u05d9\u05e7\u05d9\u05d9\u05d4 \u05d4\u05de\u05d5\u05d2\u05d3\u05e8\u05ea \u05d0\u05d9\u05e0\u05d4 \u05e7\u05d9\u05d9\u05de\u05ea."
                 },
                 "52": {
                     "id": "52",
@@ -21898,7 +21898,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "U php.ini datoteci nije konfiguriran privremeni direktorij."
+                    "trans": "Privremena mapa nije konfigurirana u php.ini, ili konfigurirana mapa ne postoji."
                 },
                 "52": {
                     "id": "52",
@@ -22336,7 +22336,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Nincs ideiglenes k\u00f6nyvt\u00e1r be\u00e1ll\u00edtva a php.ini-ben."
+                    "trans": "Nem lett ideiglenes mappa be\u00e1ll\u00edtva a php.ini-ben, vagy a be\u00e1ll\u00edtott mappa nem l\u00e9tezik."
                 },
                 "52": {
                     "id": "52",
@@ -22774,7 +22774,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini \u0576\u056b\u0577\u0584\u0578\u0582\u0574 \u056a\u0561\u0574\u0561\u0576\u0561\u056f\u0561\u057e\u0578\u0580 \u057a\u0561\u0576\u0561\u056f \u0576\u0577\u057e\u0561\u056e \u0579\u0567\u0589"
+                    "trans": "php.ini-\u0578\u0582\u0574 \u0579\u056b \u056f\u0561\u0580\u0563\u0561\u057e\u0578\u0580\u057e\u0565\u056c \u056a\u0561\u0574\u0561\u0576\u0561\u056f\u0561\u057e\u0578\u0580 \u0569\u0572\u0569\u0561\u057a\u0561\u0576\u0561\u056f, \u056f\u0561\u0574 \u056f\u0561\u0580\u0563\u0561\u057e\u0578\u0580\u057e\u0561\u056e \u0569\u0572\u0569\u0561\u057a\u0561\u0576\u0561\u056f\u0568 \u0579\u056f\u0561\u0589"
                 },
                 "52": {
                     "id": "52",
@@ -23212,7 +23212,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Direktori sementara tidak dikonfiguasi pada php.ini."
+                    "trans": "Tidak ada folder sementara yang dikonfigurasi di php.ini, atau folder yang dikonfigurasi tidak ada."
                 },
                 "52": {
                     "id": "52",
@@ -23650,7 +23650,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Nessuna cartella temporanea \u00e8 stata configurata nel php.ini."
+                    "trans": "Nessuna cartella temporanea \u00e8 stata configurata in php.ini, o la cartella configurata non esiste."
                 },
                 "52": {
                     "id": "52",
@@ -24088,7 +24088,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini\u3067\u4e00\u6642\u30d5\u30a9\u30eb\u30c0\u304c\u8a2d\u5b9a\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002"
+                    "trans": "php.ini\u306b\u4e00\u6642\u30d5\u30a9\u30eb\u30c0\u304c\u8a2d\u5b9a\u3055\u308c\u3066\u3044\u306a\u3044\u304b\u3001\u8a2d\u5b9a\u3055\u308c\u305f\u30d5\u30a9\u30eb\u30c0\u304c\u5b58\u5728\u3057\u307e\u305b\u3093\u3002"
                 },
                 "52": {
                     "id": "52",
@@ -24964,7 +24964,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "N\u0117ra sukonfiguruoto jokio laikino katalogo php.ini faile."
+                    "trans": "php.ini nesukonfig\u016bruotas laikinas aplankas, arba sukonfig\u016bruotas aplankas neegzistuoja."
                 },
                 "52": {
                     "id": "52",
@@ -25204,11 +25204,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Aptikta simboli\u0173 koduot\u0117 neteisinga ({{ detected }}). Leid\u017eiamos koduot\u0117s {{ encodings }}."
+                    "trans": "Nustatyta simboli\u0173 koduot\u0117 yra netinkama ({{ detected }}). Leid\u017eiamos koduot\u0117s yra {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra teisingas MAC adresas."
+                    "trans": "\u0160i vert\u0117 n\u0117ra galiojantis MAC adresas."
                 }
             },
             "lv": {
@@ -25230,7 +25230,7 @@
                 },
                 "5": {
                     "id": "5",
-                    "trans": "V\u0113rt\u012bba, kuru j\u016bs izv\u0113l\u0113j\u0101ties nav der\u012bga izv\u0113le."
+                    "trans": "V\u0113rt\u012bba, kuru j\u016bs izv\u0113l\u0113j\u0101ties, nav der\u012bga izv\u0113le."
                 },
                 "6": {
                     "id": "6",
@@ -25286,7 +25286,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "\u0160\u012bs v\u0113rt\u012bbas garums ir 0 rakstz\u012bmju.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k gara. Tai b\u016btu j\u0101b\u016bt ne vair\u0101k k\u0101 {{ limit }} rakstz\u012bmei.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k gara. Tai b\u016btu j\u0101b\u016bt ne vair\u0101k k\u0101 {{ limit }} rakstz\u012bm\u0113m."
+                    "trans": "\u0160\u012bs v\u0113rt\u012bbas garums ir 0 rakstz\u012bmes.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k gara. Tai b\u016btu j\u0101b\u016bt ne vair\u0101k k\u0101 {{ limit }} rakstz\u012bmi garai.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k gara. Tai b\u016btu j\u0101b\u016bt ne vair\u0101k k\u0101 {{ limit }} rakstz\u012bmes garai."
                 },
                 "20": {
                     "id": "20",
@@ -25294,7 +25294,7 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "\u0160\u012bs v\u0113rt\u012bbas garums ir 0 rakstz\u012bmju.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k \u012bsa. Tai b\u016btu j\u0101b\u016bt ne maz\u0101k k\u0101 {{ limit }} rakstz\u012bmei.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k \u012bsa. Tai b\u016btu j\u0101b\u016bt ne maz\u0101k k\u0101 {{ limit }} rakstz\u012bm\u0113m."
+                    "trans": "\u0160\u012bs v\u0113rt\u012bbas garums ir 0 rakstz\u012bmes.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k \u012bsa. Tai b\u016btu j\u0101b\u016bt ne maz\u0101k k\u0101 {{ limit }} rakstz\u012bmi garai.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k \u012bsa. Tai b\u016btu j\u0101b\u016bt ne maz\u0101k k\u0101 {{ limit }} rakstz\u012bmes garai."
                 },
                 "22": {
                     "id": "22",
@@ -25322,7 +25322,7 @@
                 },
                 "31": {
                     "id": "31",
-                    "trans": "Ab\u0101m v\u0113rt\u012bb\u0101m j\u0101b\u016bt vien\u0101dam."
+                    "trans": "Ab\u0101m v\u0113rt\u012bb\u0101m j\u0101b\u016bt vien\u0101d\u0101m."
                 },
                 "32": {
                     "id": "32",
@@ -25390,7 +25390,7 @@
                 },
                 "48": {
                     "id": "48",
-                    "trans": "\u0160\u012bs v\u0113rt\u012bbas garums ir 0 rakstz\u012bmju.|\u0160ai v\u0113rt\u012bbai ir j\u0101b\u016bt tie\u0161i {{ limit }} rakstz\u012bmei.|\u0160ai v\u0113rt\u012bbai ir j\u0101b\u016bt tie\u0161i {{ limit }} rakstz\u012bm\u0113m."
+                    "trans": "\u0160\u012bs v\u0113rt\u012bbas garums ir 0 rakstz\u012bmes.|\u0160ai v\u0113rt\u012bbai ir j\u0101b\u016bt tie\u0161i {{ limit }} rakstz\u012bmi garai.|\u0160ai v\u0113rt\u012bbai ir j\u0101b\u016bt tie\u0161i {{ limit }} rakstz\u012bmes garai."
                 },
                 "49": {
                     "id": "49",
@@ -25402,11 +25402,11 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Pagaidu mape php.ini fail\u0101 nav nokonfigur\u0113ta."
+                    "trans": "php.ini nav konfigur\u0113ta pagaidu mape vai ar\u012b konfigur\u0113t\u0101 mape neeksist\u0113."
                 },
                 "52": {
                     "id": "52",
-                    "trans": "Nevar ierakst\u012bt pagaidu failu uz diska."
+                    "trans": "Nevar ierakst\u012bt pagaidu failu disk\u0101."
                 },
                 "53": {
                     "id": "53",
@@ -25414,15 +25414,15 @@
                 },
                 "54": {
                     "id": "54",
-                    "trans": "\u0160is kr\u0101jums satur 0 elementu.|\u0160im kr\u0101jumam j\u0101satur vismaz {{ limit }} elementu.|\u0160im kr\u0101jumam j\u0101satur vismaz {{ limit }} elementus."
+                    "trans": "\u0160is kr\u0101jums satur 0 elementu.|\u0160im kr\u0101jumam j\u0101satur vismaz {{ limit }} elements.|\u0160im kr\u0101jumam j\u0101satur vismaz {{ limit }} elementi."
                 },
                 "55": {
                     "id": "55",
-                    "trans": "\u0160is kr\u0101jums satur 0 elementu.|\u0160im kr\u0101jumam j\u0101satur ne vair\u0101k k\u0101 {{ limit }} elementu.|\u0160im kr\u0101jumam j\u0101satur ne vair\u0101k k\u0101 {{ limit }} elementus."
+                    "trans": "\u0160is kr\u0101jums satur 0 elementu.|\u0160im kr\u0101jumam j\u0101satur ne vair\u0101k k\u0101 {{ limit }} elements.|\u0160im kr\u0101jumam j\u0101satur ne vair\u0101k k\u0101 {{ limit }} elementi."
                 },
                 "56": {
                     "id": "56",
-                    "trans": "\u0160is kr\u0101jums satur 0 elementu.|\u0160im kr\u0101jumam j\u0101satur tie\u0161i {{ limit }} elementu.|\u0160im kr\u0101jumam j\u0101satur tie\u0161i {{ limit }} elementus."
+                    "trans": "\u0160is kr\u0101jums satur 0 elementu.|\u0160im kr\u0101jumam j\u0101satur tie\u0161i {{ limit }} elements.|\u0160im kr\u0101jumam j\u0101satur tie\u0161i {{ limit }} elementi."
                 },
                 "57": {
                     "id": "57",
@@ -25442,7 +25442,7 @@
                 },
                 "61": {
                     "id": "61",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs ISBN-13 numurs"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs ISBN-13 numurs."
                 },
                 "62": {
                     "id": "62",
@@ -25450,11 +25450,11 @@
                 },
                 "63": {
                     "id": "63",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs ISSN numurs"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs ISSN numurs."
                 },
                 "64": {
                     "id": "64",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga val\u016bta"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga val\u016bta."
                 },
                 "65": {
                     "id": "65",
@@ -25502,11 +25502,11 @@
                 },
                 "76": {
                     "id": "76",
-                    "trans": "Att\u0113ls ir orient\u0113ts k\u0101 ainava ({{ width }}x{{ height }}px). Att\u0113li, kas ir orient\u0113ti k\u0101 ainavas nav at\u013cauti."
+                    "trans": "Att\u0113ls ir orient\u0113ts k\u0101 ainava ({{ width }}x{{ height }}px). Att\u0113li, kas ir orient\u0113ti k\u0101 ainavas, nav at\u013cauti."
                 },
                 "77": {
                     "id": "77",
-                    "trans": "Att\u0113ls ir orient\u0113ts k\u0101 portrets ({{ width }}x{{ height }}px). Att\u0113li, kas ir orient\u0113ti k\u0101 portreti nav at\u013cauti."
+                    "trans": "Att\u0113ls ir orient\u0113ts k\u0101 portrets ({{ width }}x{{ height }}px). Att\u0113li, kas ir orient\u0113ti k\u0101 portreti, nav at\u013cauti."
                 },
                 "78": {
                     "id": "78",
@@ -25570,7 +25570,7 @@
                 },
                 "93": {
                     "id": "93",
-                    "trans": "\u0160\u012b parole tika public\u0113ta datu nopl\u016bd\u0113, vi\u0146u nedr\u012bkst izmantot. L\u016bdzu, izv\u0113lieties citu paroli."
+                    "trans": "\u0160\u012b parole tika public\u0113ta datu nopl\u016bd\u0113, to nedr\u012bkst izmantot. L\u016bdzu, izv\u0113lieties citu paroli."
                 },
                 "94": {
                     "id": "94",
@@ -25614,7 +25614,7 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Faila nosaukums ir p\u0101r\u0101k gar\u0161. Tas var b\u016bt {{ filename_max_length }} rakstz\u012bme vai \u012bs\u0101ks.|Faila nosaukums ir p\u0101r\u0101k gar\u0161. Tas var b\u016bt {{ filename_max_length }} rakstz\u012bmes vai \u012bs\u0101ks."
+                    "trans": "Faila nosaukums ir p\u0101r\u0101k gar\u0161. Tas var b\u016bt {{ filename_max_length }} rakstz\u012bmi gar\u0161 vai \u012bs\u0101ks.|Faila nosaukums ir p\u0101r\u0101k gar\u0161. Tas var b\u016bt {{ filename_max_length }} rakstz\u012bmes gar\u0161 vai \u012bs\u0101ks."
                 },
                 "105": {
                     "id": "105",
@@ -25840,7 +25840,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u041d\u0438\u0442\u0443 \u0435\u0434\u043d\u0430 \u043f\u0440\u0438\u0432\u0440\u0435\u043c\u0435\u043d\u0430 \u043f\u0430\u043f\u043a\u0430 \u043d\u0435 \u0435 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0440\u0430\u043d\u0430 \u0432\u043e php.ini."
+                    "trans": "\u041d\u0435 \u0435 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0440\u0430\u043d\u0430 \u043f\u0440\u0438\u0432\u0440\u0435\u043c\u0435\u043d\u0430 \u043f\u0430\u043f\u043a\u0430 \u0432\u043e php.ini, \u0438\u043b\u0438 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0440\u0430\u043d\u0430\u0442\u0430 \u043f\u0430\u043f\u043a\u0430 \u043d\u0435 \u043f\u043e\u0441\u0442\u043e\u0438."
                 },
                 "52": {
                     "id": "52",
@@ -26716,7 +26716,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini \u1010\u103d\u1004\u103a\u101a\u102c\u101a\u102e\u1016\u102d\u102f\u1004\u103a\u1010\u103d\u1032\u1000\u102d\u102f\u1015\u103c\u1004\u103a\u1006\u1004\u103a\u1011\u102c\u1038\u1001\u103c\u1004\u103a\u1038\u1019\u101b\u103e\u102d\u1015\u102b\u104a"
+                    "trans": "php.ini \u1010\u103d\u1004\u103a\u101a\u102c\u101a\u102e\u1016\u102d\u102f\u1004\u103a\u1010\u103d\u1032\u1000\u102d\u102f\u1015\u103c\u1004\u103a\u1006\u1004\u103a\u1011\u102c\u1038\u1001\u103c\u1004\u103a\u1038\u1019\u101b\u103e\u102d\u1015\u102b\u104a \u101e\u102d\u102f\u1037\u1019\u101f\u102f\u1010\u103a \u1015\u103c\u1004\u103a\u1006\u1004\u103a\u1011\u102c\u1038\u101e\u1031\u102c\u1016\u102d\u102f\u1004\u103a\u1010\u103d\u1032\u1019\u101b\u103e\u102d\u1015\u102b\u104b"
                 },
                 "52": {
                     "id": "52",
@@ -27154,7 +27154,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Den midlertidige mappen (tmp) er ikke konfigurert i php.ini."
+                    "trans": "Ingen midlertidig mappe ble konfigurert i php.ini, eller den konfigurerte mappen eksisterer ikke."
                 },
                 "52": {
                     "id": "52",
@@ -27832,7 +27832,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "De gedetecteerde tekencodering is ongeldig ({{ detected }}). Toegestane coderingen zijn {{ encodings }}."
+                    "trans": "De gedetecteerde karaktercodering is ongeldig ({{ detected }}). Toegestane coderingen zijn {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
@@ -28030,7 +28030,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "F\u00f8rebels mappe (tmp) er ikkje konfigurert i php.ini."
+                    "trans": "Ingen midlertidig mappe var konfigurert i php.ini, eller den konfigurerte mappa eksisterer ikkje."
                 },
                 "52": {
                     "id": "52",
@@ -28468,7 +28468,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Den midlertidige mappen (tmp) er ikke konfigurert i php.ini."
+                    "trans": "Ingen midlertidig mappe ble konfigurert i php.ini, eller den konfigurerte mappen eksisterer ikke."
                 },
                 "52": {
                     "id": "52",
@@ -29344,7 +29344,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "N\u00e3o existe uma pasta tempor\u00e1ria configurada no arquivo php.ini."
+                    "trans": "Nenhuma pasta tempor\u00e1ria foi configurada no php.ini, ou a pasta configurada n\u00e3o existe."
                 },
                 "52": {
                     "id": "52",
@@ -29782,7 +29782,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Nenhum diret\u00f3rio tempor\u00e1rio foi configurado no php.ini."
+                    "trans": "N\u00e3o foi configurada uma pasta tempor\u00e1ria no php.ini, ou a pasta configurada n\u00e3o existe."
                 },
                 "52": {
                     "id": "52",
@@ -30220,7 +30220,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Nu este configurat nici un director temporar in php.ini."
+                    "trans": "Nu a fost configurat niciun folder temporar \u00een php.ini, sau folderul configurat nu exist\u0103."
                 },
                 "52": {
                     "id": "52",
@@ -30658,7 +30658,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u041d\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u044f \u0432 php.ini."
+                    "trans": "\u0412 php.ini \u043d\u0435 \u0431\u044b\u043b\u0430 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043f\u0430\u043f\u043a\u0430, \u0438\u043b\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u0430\u044f \u043f\u0430\u043f\u043a\u0430 \u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442."
                 },
                 "52": {
                     "id": "52",
@@ -31096,7 +31096,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "V php.ini nie je nastaven\u00e1 cesta k address\u00e1ru pre do\u010dasn\u00e9 s\u00fabory."
+                    "trans": "V php.ini nie je nastaven\u00fd \u017eiadny do\u010dasn\u00fd adres\u00e1r, alebo nastaven\u00fd adres\u00e1r neexistuje."
                 },
                 "52": {
                     "id": "52",
@@ -31534,7 +31534,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Za\u010dasna mapa ni nastavljena v php.ini."
+                    "trans": "V php.ini ni bila nastavljena za\u010dasna mapa, ali nastavljena mapa ne obstaja."
                 },
                 "52": {
                     "id": "52",
@@ -31972,7 +31972,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Asnj\u00eb folder i p\u00ebrkohsh\u00ebm nuk \u00ebsht\u00eb konfiguruar n\u00eb php.ini."
+                    "trans": "Asnj\u00eb dosje e p\u00ebrkohshme nuk \u00ebsht\u00eb konfiguruar n\u00eb php.ini, ose dosja e konfiguruar nuk ekziston."
                 },
                 "52": {
                     "id": "52",
@@ -32410,7 +32410,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u041f\u0440\u0438\u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u0458\u0443\u043c \u043d\u0438\u0458\u0435 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0441\u0430\u043d \u0443 php.ini."
+                    "trans": "\u041f\u0440\u0438\u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u0458\u0443\u043c \u043d\u0438\u0458\u0435 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0441\u0430\u043d \u0443 php.ini, \u0438\u043b\u0438 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0441\u0430\u043d\u0438 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u0458\u0443\u043c \u043d\u0435 \u043f\u043e\u0441\u0442\u043e\u0458\u0438."
                 },
                 "52": {
                     "id": "52",
@@ -32848,7 +32848,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Privremeni direktorijum nije konfigurisan u php.ini."
+                    "trans": "Privremeni direktorijum nije konfigurisan u php.ini, ili konfigurisani direktorijum ne postoji."
                 },
                 "52": {
                     "id": "52",
@@ -33286,7 +33286,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Det finns ingen tempor\u00e4r mapp konfigurerad i php.ini."
+                    "trans": "Ingen tillf\u00e4llig mapp konfigurerades i php.ini, eller den konfigurerade mappen finns inte."
                 },
                 "52": {
                     "id": "52",
@@ -33724,7 +33724,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u0e44\u0e21\u0e48\u0e1e\u0e1a\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e42\u0e1f\u0e25\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e0a\u0e31\u0e48\u0e27\u0e04\u0e23\u0e32\u0e27 (temporary folder) \u0e43\u0e19 php.ini"
+                    "trans": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e01\u0e32\u0e23\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e42\u0e1f\u0e25\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e0a\u0e31\u0e48\u0e27\u0e04\u0e23\u0e32\u0e27\u0e43\u0e19 php.ini \u0e2b\u0e23\u0e37\u0e2d\u0e42\u0e1f\u0e25\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e17\u0e35\u0e48\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e08\u0e23\u0e34\u0e07"
                 },
                 "52": {
                     "id": "52",
@@ -34162,7 +34162,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Walang temporaryong folder ang naayos sa php.ini."
+                    "trans": "Walang pansamantalang folder na na-configure sa php.ini, o ang naka-configure na folder ay hindi umiiral."
                 },
                 "52": {
                     "id": "52",
@@ -34600,7 +34600,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini i\u00e7erisinde ge\u00e7ici dizin tan\u0131mlanmad\u0131."
+                    "trans": "php.ini'de ge\u00e7ici bir klas\u00f6r yap\u0131land\u0131r\u0131lmad\u0131, veya yap\u0131land\u0131r\u0131lan klas\u00f6r mevcut de\u011fil."
                 },
                 "52": {
                     "id": "52",
@@ -35038,7 +35038,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u041d\u0435 \u043d\u0430\u043b\u0430\u0448\u0442\u043e\u0432\u0430\u043d\u0430 \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0430 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0456\u044f \u0432 php.ini."
+                    "trans": "\u0423 php.ini \u043d\u0435 \u0431\u0443\u043b\u043e \u043d\u0430\u043b\u0430\u0448\u0442\u043e\u0432\u0430\u043d\u043e \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0457 \u0442\u0435\u043a\u0438, \u0430\u0431\u043e \u043d\u0430\u043b\u0430\u0448\u0442\u043e\u0432\u0430\u043d\u0430 \u0442\u0435\u043a\u0430 \u043d\u0435 \u0456\u0441\u043d\u0443\u0454."
                 },
                 "52": {
                     "id": "52",
@@ -35476,7 +35476,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u0645\u06cc\u06ba \u06a9\u0648\u0626\u06cc \u0639\u0627\u0631\u0636\u06cc \u0641\u0648\u0644\u0688\u0631 \u06a9\u0646\u0641\u06cc\u06af\u0631 \u0646\u06c1\u06cc\u06ba \u06a9\u06cc\u0627 \u06af\u06cc\u0627\u060c \u06cc\u0627 \u06a9\u0646\u0641\u06cc\u06af\u0631\u0688 \u0641\u0648\u0644\u0688\u0631 \u0645\u0648\u062c\u0648\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u06d2 php.ini"
+                    "trans": "php.ini \u0645\u06cc\u06ba \u06a9\u0648\u0626\u06cc \u0639\u0627\u0631\u0636\u06cc \u0641\u0648\u0644\u0688\u0631 \u062a\u0631\u062a\u06cc\u0628 \u0646\u06c1\u06cc\u06ba \u062f\u06cc\u0627 \u06af\u06cc\u0627 \u062a\u06be\u0627\u060c \u06cc\u0627 \u062a\u0631\u062a\u06cc\u0628 \u062f\u06cc\u0627 \u06af\u06cc\u0627 \u0641\u0648\u0644\u0688\u0631 \u0645\u0648\u062c\u0648\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "52": {
                     "id": "52",
@@ -35914,7 +35914,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini da vaqtinchalik katalog sozlanmagan."
+                    "trans": "php.ini da vaqtinchalik katalog sozlanmagan, yoki sozlangan katalog mavjud emas."
                 },
                 "52": {
                     "id": "52",
@@ -36352,7 +36352,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Th\u01b0 m\u1ee5c t\u1ea1m kh\u00f4ng \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a trong php.ini."
+                    "trans": "Kh\u00f4ng c\u00f3 th\u01b0 m\u1ee5c t\u1ea1m \u0111\u01b0\u1ee3c c\u1ea5u h\u00ecnh trong php.ini, ho\u1eb7c th\u01b0 m\u1ee5c \u0111\u00e3 c\u1ea5u h\u00ecnh kh\u00f4ng t\u1ed3n t\u1ea1i."
                 },
                 "52": {
                     "id": "52",
@@ -36790,7 +36790,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini \u91cc\u6ca1\u6709\u914d\u7f6e\u4e34\u65f6\u6587\u4ef6\u76ee\u5f55\u3002"
+                    "trans": "php.ini \u4e2d\u6ca1\u6709\u914d\u7f6e\u4e34\u65f6\u6587\u4ef6\u5939\uff0c\u6216\u914d\u7f6e\u7684\u6587\u4ef6\u5939\u4e0d\u5b58\u5728\u3002"
                 },
                 "52": {
                     "id": "52",
@@ -37228,7 +37228,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini \u88e1\u6c92\u6709\u914d\u7f6e\u81e8\u6642\u76ee\u9304\u3002"
+                    "trans": "php.ini \u4e2d\u6c92\u6709\u914d\u7f6e\u81e8\u6642\u6587\u4ef6\u593e\uff0c\u6216\u914d\u7f6e\u7684\u6587\u4ef6\u593e\u4e0d\u5b58\u5728\u3002"
                 },
                 "52": {
                     "id": "52",
