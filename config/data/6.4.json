@@ -29782,7 +29782,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "N\u00e3o foi configurada uma pasta tempor\u00e1ria no php.ini, ou a pasta configurada n\u00e3o existe."
+                    "trans": "Nenhum diret\u00f3rio tempor\u00e1rio foi configurado no php.ini, ou o diret\u00f3rio configurado n\u00e3o existe."
                 },
                 "52": {
                     "id": "52",
