@@ -62,12 +62,12 @@ final class OpenIssuesCommand extends Command
         foreach ($componentCollection as $missingTranslation) {
             if ($missingTranslation->getMissingCount() > 0) {
                 $link = sprintf('[%s](https://github.com/symfony/symfony/blob/%s/%s)', $missingTranslation->getFile(), $targetBranch, $missingTranslation->getFile());
-                $files .= '- ' . $link.\PHP_EOL;
-                $details .= '####' . $link.\PHP_EOL;
+                $files .= '- '.$link.\PHP_EOL;
+                $details .= '####'.$link.\PHP_EOL;
                 $details .= '| Id | English | Translation | Status |'.\PHP_EOL;
                 $details .= '| -- | -- | -- | -- |'.\PHP_EOL;
                 foreach ($missingTranslation->getMissingTranslations() as $missing) {
-                    $details .= sprintf('| %d | %s | %s | %s |', $missing['id'], $missing['source'], $missing['trans'], $missing['state'] === 'needs-review-translation' ? 'Needs review' : 'Missing') . \PHP_EOL;
+                    $details .= sprintf('| %d | %s | %s | %s |', $missing['id'], $missing['source'], $missing['trans'], 'needs-review-translation' === $missing['state'] ? 'Needs review' : 'Missing').\PHP_EOL;
                 }
             }
         }

@@ -75,7 +75,7 @@ final class DataProvider
                         $missing[$locale][$componentName][$id] = [
                             'id' => $id,
                             'source' => $enTranslation['source'],
-                            'state' => 'missing'
+                            'state' => 'missing',
                         ];
                     } else {
                         $translation = $data['defined'][$componentName][$locale][$id];
@@ -84,7 +84,7 @@ final class DataProvider
                                 'id' => $id,
                                 'source' => $enTranslation['source'],
                                 'state' => $translation['state'],
-                                'trans' => $translation['trans']
+                                'trans' => $translation['trans'],
                             ];
                         }
                     }
