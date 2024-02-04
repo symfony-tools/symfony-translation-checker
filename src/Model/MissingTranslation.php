@@ -27,7 +27,7 @@ class MissingTranslation
     }
 
     /**
-     * @return array<int, array{id: int, source: string}>
+     * @return array<int, array{id: int, source: string, state: string, trans: null|string}>
      */
     public function getMissingTranslations(): array
     {

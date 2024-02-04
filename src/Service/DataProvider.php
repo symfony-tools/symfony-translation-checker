@@ -68,14 +68,25 @@ final class DataProvider
 
         // Init $missing for each locale
         foreach (array_keys($locales) as $locale) {
-            foreach ($data['available'] as $name => $rows) {
-                $missing[$locale][$name] = [];
-                foreach ($rows as $id => $translation) {
-                    if (!isset($data['defined'][$name][$locale][$id])) {
-                        $missing[$locale][$name][$id] = [
+            foreach ($data['available'] as $componentName => $rows) {
+                $missing[$locale][$componentName] = [];
+                foreach ($rows as $id => $enTranslation) {
+                    if (!isset($data['defined'][$componentName][$locale][$id])) {
+                        $missing[$locale][$componentName][$id] = [
                             'id' => $id,
-                            'source' => $translation['source'],
+                            'source' => $enTranslation['source'],
+                            'state' => 'missing'
                         ];
+                    } else {
+                        $translation = $data['defined'][$componentName][$locale][$id];
+                        if (isset($translation['state']) && 'needs-review-translation' === $translation['state']) {
+                            $missing[$locale][$componentName][$id] = [
+                                'id' => $id,
+                                'source' => $enTranslation['source'],
+                                'state' => $translation['state'],
+                                'trans' => $translation['trans']
+                            ];
+                        }
                     }
                 }
             }
