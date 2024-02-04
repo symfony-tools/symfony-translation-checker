@@ -27,7 +27,7 @@ final class TranslationStatsCommand extends Command
         $this->addArgument('path', InputArgument::REQUIRED, 'Path to Symfony src');
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $paths = $this->pathProvider->getComponentPaths();
         $sourceNames = $this->pathProvider->getSourceNames();
@@ -64,7 +64,7 @@ final class TranslationStatsCommand extends Command
                     $definedIds[$name][$locale][$data['id']] = [
                         'id' => $data['id'],
                         'trans' => $messages[$source] ?? '',
-                    ];
+                    ] + ($data['target-attributes'] ?? []);
                 }
             }
             ksort($definedIds[$name]);

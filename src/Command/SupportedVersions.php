@@ -19,7 +19,7 @@ final class SupportedVersions extends Command
         parent::__construct();
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         foreach ($this->versionProvider->getSupportedVersions() as $version) {
             $output->writeln($version);
