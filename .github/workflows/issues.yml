@@ -2,8 +2,11 @@ name: Open issues
 
 on:
   # Must be after we update the sources (build website) .
-  #schedule:
-  #  - cron: '51 6,8 * * *'
+  schedule:
+    - cron: '51 6,8 * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   build:
