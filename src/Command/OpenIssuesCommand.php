@@ -28,7 +28,7 @@ final class OpenIssuesCommand extends Command
         parent::__construct();
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $targetBranch = $this->versionProvider->getLowestSupportedVersion();
         foreach ($this->dataProvider->getData($targetBranch) as $language => $componentsCollection) {

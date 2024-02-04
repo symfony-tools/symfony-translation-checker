@@ -14,7 +14,7 @@ use voku\helper\HtmlMin;
 #[AsCommand(name: 'app:build-website')]
 final class BuildWebsiteCommand extends Command
 {
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $outputDir = 'build';
         $parser = \WyriHaximus\HtmlCompress\Factory::constructSmallest();
