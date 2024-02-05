@@ -22,32 +22,41 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
-          repository: owner/repo
-          path: 'symfony'
+          repository: symfony/symfony
 
-      - name: Checkout Symfony repo
-        run: git clone https://github.com/symfony-tools/symfony-translation-checker source
+      - name: Get lowest version
+        id: version
+        run: |
+          WORKDIR=$(pwd)
+          
+          git clone https://github.com/symfony-tools/symfony-translation-checker source
+          cd $WORKDIR/source && composer install --no-interaction
+          
+          version=$(cd $WORKDIR/source && php bin/console app:lowest-supported-versions)
+
+          echo "::set-output name=lowest_branch::$version"
+          
+          rm -rf $WORKDIR/source
 
       - name: Download dependencies
-        run: |
-          cd source
-          composer install --no-interaction --prefer-stable
+        run: composer install --no-interaction --prefer-stable
 
       - name: Generate data files
         id: generate_data
         run: |
-          WORKDIR=$(pwd)
-          version=$(cd $WORKDIR/source && php bin/console app:lowest-supported-versions)
+          version=${{ steps.version.outputs.lowest_branch }}
           
-          cd $WORKDIR/symfony && git checkout $version
-          cd $WORKDIR/symfony && php .github/sync-translations.php
-          date +%s > report.txt
+          git checkout $version
+          php .github/sync-translations.php
+          
           echo "::set-output name=lowest_branch::$version"
+          
+          echo "This is debug code" > report.txt
+          date +%s >> report.txt
 
       - name: Check for changes
         id: check_changes
-        run: |
-          
+        run: |          
           if [[ $(git diff --numstat | wc -l) -eq 0 ]]; then
             echo "No significant changes."
             echo "::set-output name=make_pr::false"
@@ -56,13 +65,6 @@ jobs:
           
           echo "::set-output name=make_pr::true"
 
-      - name: Build website
-        env:
-          CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
-        run: |
-          cd source
-          bin/console app:build-website
-
       - name: Create Pull Request
         if: ${{ steps.check_changes.outputs.make_pr == 'true' }}
         uses: peter-evans/create-pull-request@v6
@@ -70,7 +72,7 @@ jobs:
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
           delete-branch: true
           commit-message: Sync translations
-          branch: ${{ steps.generate_data.outputs.lowest_branch }}
+          branch: ${{ steps.version.outputs.lowest_branch }}
           push-to-fork: carsonbot/symfony
           title: 'Sync translations across all languages'
           body: |
