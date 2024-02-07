@@ -6585,15 +6585,15 @@
             "sq": {
                 "28": {
                     "id": "28",
-                    "trans": "Kjo form\u00eb nuk duhet t\u00eb p\u00ebrmbaj\u00eb fusha shtes\u00eb."
+                    "trans": "Ky formular nuk duhet t\u00eb p\u00ebrmbaj\u00eb fusha shtes\u00eb."
                 },
                 "29": {
                     "id": "29",
-                    "trans": "Skedari i ngarkuar ishte shum\u00eb i madh. Ju lutemi provoni t\u00eb ngarkoni nj\u00eb skedar m\u00eb t\u00eb vog\u00ebl."
+                    "trans": "Skeda e ngarkuar ishte shum\u00eb e madhe. Ju lutemi provoni t\u00eb ngarkoni nj\u00eb sked\u00eb m\u00eb t\u00eb vog\u00ebl."
                 },
                 "30": {
                     "id": "30",
-                    "trans": "Vlera CSRF \u00ebsht\u00eb e pavlefshme. Ju lutemi provoni t\u00eb rid\u00ebrgoni form\u00ebn."
+                    "trans": "Vlera CSRF \u00ebsht\u00eb e pavlefshme. Ju lutemi provoni t\u00eb rid\u00ebrgoni formularin."
                 },
                 "99": {
                     "id": "99",
@@ -6605,7 +6605,7 @@
                 },
                 "101": {
                     "id": "101",
-                    "trans": "Opsioni i zgjedhur \u00ebsht\u00eb i pavlefsh\u00ebm."
+                    "trans": "Alternativa e zgjedhur \u00ebsht\u00eb e pavlefshme."
                 },
                 "102": {
                     "id": "102",
@@ -6621,11 +6621,11 @@
                 },
                 "105": {
                     "id": "105",
-                    "trans": "Ju lutemi zgjidhni nj\u00eb monedh\u00eb t\u00eb vlefshme."
+                    "trans": "Ju lutemi zgjidhni nj\u00eb valut\u00eb t\u00eb vlefshme."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Ju lutemi zgjidhni nj\u00eb interval t\u00eb vlefsh\u00ebm t\u00eb dat\u00ebs."
+                    "trans": "Ju lutemi zgjidhni nj\u00eb interval t\u00eb vlefsh\u00ebm."
                 },
                 "107": {
                     "id": "107",
@@ -6637,7 +6637,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Ju lutemi zgjidhni nj\u00eb skedar t\u00eb vlefsh\u00ebm."
+                    "trans": "Ju lutemi zgjidhni nj\u00eb sked\u00eb t\u00eb vlefshme."
                 },
                 "110": {
                     "id": "110",
@@ -6649,12 +6649,11 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ju lutem zgjidhni nj\u00eb gjuh\u00eb t\u00eb vlefshme.",
-                    "state": "needs-review-translation"
+                    "trans": "Ju lutemi zgjidhni nj\u00eb gjuh\u00eb t\u00eb vlefshme."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ju lutemi zgjidhni nj\u00eb lokale t\u00eb vlefshme."
+                    "trans": "Ju lutemi zgjidhni nj\u00eb \u201clocale\u201d t\u00eb vlefshme."
                 },
                 "114": {
                     "id": "114",
@@ -6678,7 +6677,7 @@
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ju lutemi shkruani nj\u00eb koh\u00eb t\u00eb vlefshme."
+                    "trans": "Ju lutemi shkruani nj\u00eb or\u00eb t\u00eb vlefshme."
                 },
                 "120": {
                     "id": "120",
@@ -6702,15 +6701,15 @@
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Ju lutemi shkruani nj\u00eb adres\u00eb t\u00eb vlefshme emaili."
+                    "trans": "Ju lutemi shkruani nj\u00eb adres\u00eb t\u00eb vlefshme email-i."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Ju lutemi zgjidhni nj\u00eb opsion t\u00eb vlefsh\u00ebm."
+                    "trans": "Ju lutemi zgjidhni nj\u00eb alternativ\u00eb t\u00eb vlefshme."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Ju lutemi zgjidhni nj\u00eb diapazon t\u00eb vlefsh\u00ebm."
+                    "trans": "Ju lutemi zgjidhni nj\u00eb seri t\u00eb vlefshme."
                 },
                 "128": {
                     "id": "128",
@@ -22123,8 +22122,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Privremena mapa nije konfigurirana u php.ini, ili konfigurirana mapa ne postoji.",
-                    "state": "needs-review-translation"
+                    "trans": "Privremena mapa nije konfigurirana u php.ini-u, ili konfigurirana mapa ne postoji."
                 },
                 "52": {
                     "id": "52",
@@ -22506,8 +22504,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes IP-c\u00edm.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes IP-c\u00edm."
                 },
                 "38": {
                     "id": "38",
@@ -22563,8 +22560,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Nem lett ideiglenes mappa be\u00e1ll\u00edtva a php.ini-ben, vagy a be\u00e1ll\u00edtott mappa nem l\u00e9tezik.",
-                    "state": "needs-review-translation"
+                    "trans": "Nem lett ideiglenes mappa be\u00e1ll\u00edtva a php.ini-ben, vagy a be\u00e1ll\u00edtott mappa nem l\u00e9tezik."
                 },
                 "52": {
                     "id": "52",
@@ -22596,8 +22592,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes Nemzetk\u00f6zi Banksz\u00e1mlasz\u00e1m (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes Nemzetk\u00f6zi Banksz\u00e1mlasz\u00e1m (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -22685,8 +22680,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes \u00dczleti Azonos\u00edt\u00f3 K\u00f3d (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes \u00dczleti Azonos\u00edt\u00f3 K\u00f3d (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -22694,8 +22688,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes UUID."
                 },
                 "84": {
                     "id": "84",
@@ -22811,8 +22804,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes MAC-c\u00edm.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes MAC-c\u00edm."
                 }
             },
             "hy": {
@@ -23844,8 +23836,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Questo valore non \u00e8 un indirizzo IP valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un indirizzo IP valido."
                 },
                 "38": {
                     "id": "38",
@@ -23901,8 +23892,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Nessuna cartella temporanea \u00e8 stata configurata in php.ini, o la cartella configurata non esiste.",
-                    "state": "needs-review-translation"
+                    "trans": "Non \u00e8 stata configurata una cartella temporanea in php.ini, o la cartella configurata non esiste."
                 },
                 "52": {
                     "id": "52",
@@ -23934,8 +23924,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Questo valore non \u00e8 un Numero di Conto Bancario Internazionale (IBAN) valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un IBAN valido."
                 },
                 "60": {
                     "id": "60",
@@ -24023,8 +24012,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Questo valore non \u00e8 un Codice Identificativo di Business (BIC) valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un codice identificativo bancario (BIC) valido."
                 },
                 "82": {
                     "id": "82",
@@ -24032,8 +24020,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Questo valore non \u00e8 un UUID valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un UUID valido."
                 },
                 "84": {
                     "id": "84",
@@ -28159,8 +28146,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "De gedetecteerde karaktercodering is ongeldig ({{ detected }}). Toegestane coderingen zijn {{ encodings }}.",
-                    "state": "needs-review-translation"
+                    "trans": "De gedetecteerde karaktercodering is ongeldig ({{ detected }}). Toegestane coderingen zijn {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
@@ -30968,8 +30954,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c IP-\u0430\u0434\u0440\u0435\u0441\u043e\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c IP-\u0430\u0434\u0440\u0435\u0441\u043e\u043c."
                 },
                 "38": {
                     "id": "38",
@@ -31025,8 +31010,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u0412 php.ini \u043d\u0435 \u0431\u044b\u043b\u0430 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043f\u0430\u043f\u043a\u0430, \u0438\u043b\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u0430\u044f \u043f\u0430\u043f\u043a\u0430 \u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0412 php.ini \u043d\u0435 \u0431\u044b\u043b\u0430 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043f\u0430\u043f\u043a\u0430, \u0438\u043b\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u0430\u044f \u043f\u0430\u043f\u043a\u0430 \u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442."
                 },
                 "52": {
                     "id": "52",
@@ -31058,8 +31042,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u043c \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u043c \u0441\u0447\u0435\u0442\u043e\u043c (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u043c \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u043c \u0441\u0447\u0435\u0442\u043e\u043c (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -31147,8 +31130,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0411\u0438\u0437\u043d\u0435\u0441-\u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u043e\u043c (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0411\u0438\u0437\u043d\u0435\u0441-\u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u043e\u043c (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -31156,8 +31138,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c UUID."
                 },
                 "84": {
                     "id": "84",
@@ -31273,8 +31254,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c MAC-\u0430\u0434\u0440\u0435\u0441\u043e\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c MAC-\u0430\u0434\u0440\u0435\u0441\u043e\u043c."
                 }
             },
             "sk": {
@@ -32188,11 +32168,11 @@
                 },
                 "6": {
                     "id": "6",
-                    "trans": "Duhet t\u00eb zgjedhni s\u00eb paku {{ limit }} alternativ\u00eb.|Duhet t\u00eb zgjedhni s\u00eb paku {{ limit }} alternativa."
+                    "trans": "Duhet t\u00eb zgjidhni s\u00eb paku {{ limit }} alternativ\u00eb.|Duhet t\u00eb zgjidhni s\u00eb paku {{ limit }} alternativa."
                 },
                 "7": {
                     "id": "7",
-                    "trans": "Duhet t\u00eb zgjedhni m\u00eb s\u00eb shumti {{ limit }} alternativ\u00eb.|Duhet t\u00eb zgjedhni m\u00eb s\u00eb shumti {{ limit }} alternativa."
+                    "trans": "Duhet t\u00eb zgjidhni s\u00eb shumti {{ limit }} alternativ\u00eb.|Duhet t\u00eb zgjidhni s\u00eb shumti {{ limit }} alternativa."
                 },
                 "8": {
                     "id": "8",
@@ -32212,7 +32192,7 @@
                 },
                 "12": {
                     "id": "12",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb dat\u00eb-koh\u00eb e vlefshme."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb dat\u00eb dhe or\u00eb e vlefshme."
                 },
                 "13": {
                     "id": "13",
@@ -32220,19 +32200,19 @@
                 },
                 "14": {
                     "id": "14",
-                    "trans": "File nuk mund t\u00eb gjindej."
+                    "trans": "Skeda nuk u gjet."
                 },
                 "15": {
                     "id": "15",
-                    "trans": "File nuk \u00ebsht\u00eb i lexuesh\u00ebm."
+                    "trans": "Skeda nuk \u00ebsht\u00eb e lexueshme."
                 },
                 "16": {
                     "id": "16",
-                    "trans": "File \u00ebsht\u00eb shum\u00eb i madh ({{ size }} {{ suffix }}). Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
+                    "trans": "Skeda \u00ebsht\u00eb shum\u00eb e madhe ({{ size }} {{ suffix }}). Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Lloji mime i file-it \u00ebsht\u00eb i pavlefsh\u00ebm ({{ type }}). Llojet mime t\u00eb lejuara jan\u00eb {{ types }}."
+                    "trans": "Lloji \u201cmime\u201d i sked\u00ebs \u00ebsht\u00eb i pavlefsh\u00ebm ({{ type }}). Llojet \u201cmime\u201d t\u00eb lejuara jan\u00eb {{ types }}."
                 },
                 "18": {
                     "id": "18",
@@ -32240,7 +32220,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj {{ limit }} karakter ose m\u00eb pak.|Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj {{ limit }} karaktere ose m\u00eb pak."
+                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karakter ose m\u00eb pak.|Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karaktere ose m\u00eb pak."
                 },
                 "20": {
                     "id": "20",
@@ -32248,7 +32228,7 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj {{ limit }} karakter ose m\u00eb shum\u00eb.|Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj {{ limit }} karaktere ose m\u00eb shum\u00eb."
+                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karakter ose m\u00eb shum\u00eb.|Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karaktere ose m\u00eb shum\u00eb."
                 },
                 "22": {
                     "id": "22",
@@ -32256,11 +32236,11 @@
                 },
                 "23": {
                     "id": "23",
-                    "trans": "Kjo vler\u00eb nuk duhet t\u00eb jet\u00eb null."
+                    "trans": "Kjo vler\u00eb nuk duhet t\u00eb jet\u00eb \u201cnull\u201d."
                 },
                 "24": {
                     "id": "24",
-                    "trans": "Kjo vler\u00eb duhet t\u00eb jet\u00eb null."
+                    "trans": "Kjo vler\u00eb duhet t\u00eb jet\u00eb \u201cnull\u201d."
                 },
                 "25": {
                     "id": "25",
@@ -32268,7 +32248,7 @@
                 },
                 "26": {
                     "id": "26",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb koh\u00eb e vlefshme."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb or\u00eb e vlefshme."
                 },
                 "27": {
                     "id": "27",
@@ -32280,40 +32260,39 @@
                 },
                 "32": {
                     "id": "32",
-                    "trans": "Ky file \u00ebsht\u00eb shum\u00eb i madh. Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
+                    "trans": "Kjo sked\u00eb \u00ebsht\u00eb shum\u00eb e madhe. Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
                 },
                 "33": {
                     "id": "33",
-                    "trans": "Ky file \u00ebsht\u00eb shum\u00eb i madh."
+                    "trans": "Kjo sked\u00eb \u00ebsht\u00eb shum\u00eb e madhe."
                 },
                 "34": {
                     "id": "34",
-                    "trans": "Ky file nuk mund t\u00eb ngarkohet."
+                    "trans": "Kjo sked\u00eb nuk mund t\u00eb ngarkohet."
                 },
                 "35": {
                     "id": "35",
-                    "trans": "Kjo vler\u00eb duhet t\u00eb jet\u00eb num\u00ebr i vlefsh\u00ebm."
+                    "trans": "Kjo vler\u00eb duhet t\u00eb jet\u00eb nj\u00eb num\u00ebr i vlefsh\u00ebm."
                 },
                 "36": {
                     "id": "36",
-                    "trans": "Ky file nuk \u00ebsht\u00eb imazh i vlefsh\u00ebm."
+                    "trans": "Kjo sked\u00eb nuk \u00ebsht\u00eb nj\u00eb imazh i vlefsh\u00ebm."
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb adres\u00eb IP e vlefshme.",
-                    "state": "needs-review-translation"
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb adres\u00eb IP e vlefshme."
                 },
                 "38": {
                     "id": "38",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb gjuh\u00eb e vlefshme."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb gjuh\u00eb e vlefshme."
                 },
                 "39": {
                     "id": "39",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nje locale i vlefsh\u00ebm."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nje \u201clocale\u201d e vlefshme."
                 },
                 "40": {
                     "id": "40",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb shtet i vlefsh\u00ebm."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb shtet i vlefsh\u00ebm."
                 },
                 "41": {
                     "id": "41",
@@ -32341,7 +32320,7 @@
                 },
                 "47": {
                     "id": "47",
-                    "trans": "Kjo vler\u00eb duhet t\u00eb jet\u00eb fjal\u00ebkalimi aktual i p\u00ebrdoruesit."
+                    "trans": "Kjo vler\u00eb duhet t\u00eb jet\u00eb fjal\u00ebkalimi i tanish\u00ebm i p\u00ebrdoruesit."
                 },
                 "48": {
                     "id": "48",
@@ -32349,24 +32328,23 @@
                 },
                 "49": {
                     "id": "49",
-                    "trans": "Ky file \u00ebsht\u00eb ngarkuar pjes\u00ebrisht."
+                    "trans": "Kjo sked\u00eb \u00ebsht\u00eb ngarkuar pjes\u00ebrisht."
                 },
                 "50": {
                     "id": "50",
-                    "trans": "Nuk \u00ebsht\u00eb ngarkuar ndonj\u00eb file."
+                    "trans": "Nuk \u00ebsht\u00eb ngarkuar ndonj\u00eb sked\u00eb."
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Asnj\u00eb dosje e p\u00ebrkohshme nuk \u00ebsht\u00eb konfiguruar n\u00eb php.ini, ose dosja e konfiguruar nuk ekziston.",
-                    "state": "needs-review-translation"
+                    "trans": "Nuk \u00ebsht\u00eb konfiguruar asnj\u00eb skedar i p\u00ebrkohsh\u00ebm n\u00eb php.ini, ose skedari i konfiguruar nuk ekziston."
                 },
                 "52": {
                     "id": "52",
-                    "trans": "Nuk mund t\u00eb shkruhet file i p\u00ebrkohsh\u00ebm n\u00eb disk."
+                    "trans": "Nuk mund t\u00eb shkruhet skeda e p\u00ebrkohshme n\u00eb disk."
                 },
                 "53": {
                     "id": "53",
-                    "trans": "Nj\u00eb ekstension i PHP-s\u00eb shkaktoi d\u00ebshtimin e ngarkimit."
+                    "trans": "Nj\u00eb shtojc\u00eb PHP shkaktoi d\u00ebshtimin e ngarkimit."
                 },
                 "54": {
                     "id": "54",
@@ -32390,8 +32368,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb Num\u00ebr i Llogaris\u00eb Bankare Nd\u00ebrkomb\u00ebtare (IBAN) i vlefsh\u00ebm.",
-                    "state": "needs-review-translation"
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb Num\u00ebr Llogarie Bankare Nd\u00ebrkomb\u00ebtare (IBAN) i vlefsh\u00ebm."
                 },
                 "60": {
                     "id": "60",
@@ -32411,7 +32388,7 @@
                 },
                 "64": {
                     "id": "64",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb monedh\u00eb e vlefshme."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb valut\u00eb e vlefshme."
                 },
                 "65": {
                     "id": "65",
@@ -32467,7 +32444,7 @@
                 },
                 "78": {
                     "id": "78",
-                    "trans": "Nj\u00eb file i zbraz\u00ebt nuk lejohet."
+                    "trans": "Nj\u00eb sked\u00eb e zbraz\u00ebt nuk lejohet."
                 },
                 "79": {
                     "id": "79",
@@ -32479,8 +32456,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb Kod Identifikues i Biznesit (BIC) i vlefsh\u00ebm.",
-                    "state": "needs-review-translation"
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb Kod Identifikues Biznesi (BIC) i vlefsh\u00ebm."
                 },
                 "82": {
                     "id": "82",
@@ -32488,7 +32464,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb UUID i vlefsh\u00ebm.",
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb UUID e vlefshme.",
                     "state": "needs-review-translation"
                 },
                 "84": {
@@ -32497,7 +32473,7 @@
                 },
                 "85": {
                     "id": "85",
-                    "trans": "Ky Kod Identifikues i Biznesit (BIC) nuk \u00ebsht\u00eb i lidhur me IBAN {{ iban }}."
+                    "trans": "Ky Kod Identifikues Biznesi (BIC) nuk \u00ebsht\u00eb i lidhur me IBAN {{ iban }}."
                 },
                 "86": {
                     "id": "86",
@@ -32537,7 +32513,7 @@
                 },
                 "95": {
                     "id": "95",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb em\u00ebr i vlefsh\u00ebm hosti."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb em\u00ebr i vlefsh\u00ebm host-i."
                 },
                 "96": {
                     "id": "96",
@@ -32573,7 +32549,7 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Emri i skedarit \u00ebsht\u00eb shum\u00eb i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karakter ose m\u00eb pak.|Emri i skedarit \u00ebsht\u00eb shum\u00eb i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karaktere ose m\u00eb pak."
+                    "trans": "Emri i sked\u00ebs \u00ebsht\u00eb shum\u00eb i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karakter ose m\u00eb pak.|Emri i sked\u00ebs \u00ebsht\u00eb shum\u00eb i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karaktere ose m\u00eb pak."
                 },
                 "105": {
                     "id": "105",
@@ -32589,7 +32565,7 @@
                 },
                 "108": {
                     "id": "108",
-                    "trans": "P\u00ebrzierja e numrave nga skriptet e ndryshme nuk lejohet."
+                    "trans": "P\u00ebrzierja e numrave nga shkrimet e ndryshme nuk lejohet."
                 },
                 "109": {
                     "id": "109",
@@ -32601,7 +32577,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Kodimi i karakterit t\u00eb identifikuar  \u00ebsht\u00eb i pavlefsh\u00ebm ({{ detected }}). Kodimet e lejuara jan\u00eb {{ encodings }}."
+                    "trans": "Kodimi i karakterit t\u00eb identifikuar \u00ebsht\u00eb i pavlefsh\u00ebm ({{ detected }}). Kodimet e lejuara jan\u00eb {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
@@ -33630,8 +33606,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Detta v\u00e4rde \u00e4r inte en giltig IP-adress.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig IP-adress."
                 },
                 "38": {
                     "id": "38",
@@ -33720,8 +33695,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Detta v\u00e4rde \u00e4r inte ett giltigt Internationellt Bankkontonummer (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt internationellt bankkontonummer (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -33805,12 +33779,11 @@
                 },
                 "80": {
                     "id": "80",
-                    "trans": "Detta v\u00e4rde har inte den f\u00f6rv\u00e4ntade teckenkodningen {{ charset }}."
+                    "trans": "V\u00e4rdet har inte den f\u00f6rv\u00e4ntade teckenkodningen {{ charset }}."
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Detta v\u00e4rde \u00e4r inte en giltig F\u00f6retagsidentifieringskod (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig BIC-kod."
                 },
                 "82": {
                     "id": "82",
@@ -33818,12 +33791,11 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Detta v\u00e4rde \u00e4r inte en giltig UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig UUID."
                 },
                 "84": {
                     "id": "84",
-                    "trans": "Detta v\u00e4rde ska vara en multipel av {{ compared_value }}."
+                    "trans": "V\u00e4rdet ska vara en multipel av {{ compared_value }}."
                 },
                 "85": {
                     "id": "85",
@@ -33831,7 +33803,7 @@
                 },
                 "86": {
                     "id": "86",
-                    "trans": "Detta v\u00e4rde ska vara giltig JSON."
+                    "trans": "V\u00e4rdet ska vara giltig JSON."
                 },
                 "87": {
                     "id": "87",
@@ -33839,23 +33811,23 @@
                 },
                 "88": {
                     "id": "88",
-                    "trans": "Detta v\u00e4rde b\u00f6r vara positivt."
+                    "trans": "V\u00e4rdet ska vara positivt."
                 },
                 "89": {
                     "id": "89",
-                    "trans": "Detta v\u00e4rde b\u00f6r vara antingen positivt eller noll."
+                    "trans": "V\u00e4rdet ska vara antingen positivt eller noll."
                 },
                 "90": {
                     "id": "90",
-                    "trans": "Detta v\u00e4rde b\u00f6r vara negativt."
+                    "trans": "V\u00e4rdet ska vara negativt."
                 },
                 "91": {
                     "id": "91",
-                    "trans": "Detta v\u00e4rde b\u00f6r vara antingen negativt eller noll."
+                    "trans": "V\u00e4rdet ska vara antingen negativt eller noll."
                 },
                 "92": {
                     "id": "92",
-                    "trans": "Detta v\u00e4rde \u00e4r inte en giltig tidszon."
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig tidszon."
                 },
                 "93": {
                     "id": "93",
@@ -33863,7 +33835,7 @@
                 },
                 "94": {
                     "id": "94",
-                    "trans": "Detta v\u00e4rde b\u00f6r ligga mellan {{ min }} och {{ max }}."
+                    "trans": "V\u00e4rdet b\u00f6r ligga mellan {{ min }} och {{ max }}."
                 },
                 "95": {
                     "id": "95",
@@ -33875,7 +33847,7 @@
                 },
                 "97": {
                     "id": "97",
-                    "trans": "Det h\u00e4r v\u00e4rdet skall uppfylla minst ett av f\u00f6ljande krav:"
+                    "trans": "V\u00e4rdet ska uppfylla minst ett av f\u00f6ljande krav:"
                 },
                 "98": {
                     "id": "98",
@@ -33883,19 +33855,19 @@
                 },
                 "99": {
                     "id": "99",
-                    "trans": "Det h\u00e4r v\u00e4rdet \u00e4r inte ett giltigt \"International Securities Identification Number\" (ISIN)."
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt \"International Securities Identification Number\" (ISIN)."
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Det h\u00e4r v\u00e4rdet b\u00f6r vara ett giltigt uttryck."
+                    "trans": "V\u00e4rdet ska vara ett giltigt uttryck."
                 },
                 "101": {
                     "id": "101",
-                    "trans": "Det h\u00e4r v\u00e4rdet \u00e4r inte en giltig CSS-f\u00e4rg."
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig CSS-f\u00e4rg."
                 },
                 "102": {
                     "id": "102",
-                    "trans": "Det h\u00e4r v\u00e4rdet \u00e4r inte en giltig CIDR-notation."
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig CIDR-notation."
                 },
                 "103": {
                     "id": "103",
@@ -33911,7 +33883,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Detta v\u00e4rde inneh\u00e5ller tecken som inte \u00e4r till\u00e5tna."
+                    "trans": "V\u00e4rdet inneh\u00e5ller tecken som inte \u00e4r till\u00e5tna."
                 },
                 "107": {
                     "id": "107",
@@ -33935,8 +33907,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Detta v\u00e4rde \u00e4r inte en giltig MAC-adress.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig MAC-adress."
                 }
             },
             "th": {
