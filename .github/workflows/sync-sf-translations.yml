@@ -68,6 +68,15 @@ jobs:
           push-to-fork: carsonbot/symfony
           title: 'Sync translations across all languages'
           body: |
+            | Q             | A
+            | ------------- | ---
+            | Branch?       | ${{ steps.version.outputs.lowest_branch }}
+            | Bug fix?      | no
+            | New feature?  | no
+            | Deprecations? | no
+            | Issues        | 
+            | License       | MIT
+
             We just added new English translations. This PR make sure to add them to all other languages. 
             
             -------
