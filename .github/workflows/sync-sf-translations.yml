@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
-          repository: nyholm/symfony
+          repository: symfony/symfony
 
       - name: Get lowest version
         id: version
@@ -31,6 +31,13 @@ jobs:
           version=$(curl -s https://symfony.com/releases.json | jq -r '.supported_versions[0]')
           echo $version
           echo "lowest_branch=$version" >> $GITHUB_OUTPUT
+
+      - name: Change branch
+        run: |
+          version=${{ steps.version.outputs.lowest_branch }}
+          
+          git fetch origin $version
+          git checkout $version
 
       - name: Download dependencies
         run: |
@@ -43,11 +50,6 @@ jobs:
       - name: Generate data files
         id: generate_data
         run: |
-          set -x
-          version=${{ steps.version.outputs.lowest_branch }}
-          
-          git fetch origin $version
-          git checkout $version
           php .github/sync-translations.php
                     
           echo "This is debug code" > report.txt
