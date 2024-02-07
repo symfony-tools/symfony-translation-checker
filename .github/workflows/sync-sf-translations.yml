@@ -23,6 +23,7 @@ jobs:
         with:
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
           repository: symfony/symfony
+          fetch-depth: 0
 
       - name: Get lowest version
         id: version
