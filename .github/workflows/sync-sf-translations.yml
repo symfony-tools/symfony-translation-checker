@@ -27,16 +27,8 @@ jobs:
       - name: Get lowest version
         id: version
         run: |
-          WORKDIR=$(pwd)
-          
-          git clone https://github.com/symfony-tools/symfony-translation-checker source
-          cd $WORKDIR/source && composer install --no-interaction
-          
-          version=$(cd $WORKDIR/source && php bin/console app:lowest-supported-versions)
-
+          version=$(curl -s https://symfony.com/releases.json | jq '.supported_versions[0]')
           echo "{lowest_branch}={$version}" >> $GITHUB_OUTPUT
-          
-          rm -rf $WORKDIR/source
 
       - name: Download dependencies
         run: composer install --no-interaction --prefer-stable
