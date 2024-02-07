@@ -31,7 +31,9 @@ jobs:
           echo "{lowest_branch}={$version}" >> $GITHUB_OUTPUT
 
       - name: Download dependencies
-        run: composer update --no-interaction --prefer-stable
+        run: |
+          composer config allow-plugins true
+          composer update --no-interaction --prefer-stable
 
       - name: Generate data files
         id: generate_data
