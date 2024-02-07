@@ -30,8 +30,7 @@ jobs:
           set -x
           version=$(curl -s https://symfony.com/releases.json | jq -r '.supported_versions[0]')
           echo $version
-          echo "{lowest_branch}={$version}" >> $GITHUB_OUTPUT
-          echo "{lowest_branch}={$version}"
+          echo "lowest_branch=$version" >> $GITHUB_OUTPUT
 
       - name: Download dependencies
         run: |
@@ -58,11 +57,11 @@ jobs:
         run: |          
           if [[ $(git diff --numstat | wc -l) -eq 0 ]]; then
             echo "No significant changes."
-            echo "{make_pr}={false}" >> $GITHUB_OUTPUT
+            echo "make_pr=false" >> $GITHUB_OUTPUT
             exit 1
           fi
           
-          echo "{make_pr}={true}" >> $GITHUB_OUTPUT
+          echo "make_pr=true" >> $GITHUB_OUTPUT
 
       - name: Create Pull Request
         if: ${{ steps.check_changes.outputs.make_pr == 'true' }}
