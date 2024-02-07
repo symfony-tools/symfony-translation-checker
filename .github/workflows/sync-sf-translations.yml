@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
-          repository: symfony/symfony
+          repository: nyholm/symfony
 
       - name: Get lowest version
         id: version
