@@ -67,8 +67,7 @@ jobs:
         with:
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
           delete-branch: true
-          commit-message: Sync translations
-          branch: ${{ steps.version.outputs.lowest_branch }}
+          commit-message: "Sync translations"
           push-to-fork: carsonbot/symfony
           title: 'Sync translations across all languages'
           body: |
