@@ -1,0 +1,69 @@
+name: Sync Symfony translations
+
+on:
+  schedule:
+    - cron: '30 6,12,18 * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Generate
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 8.2
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+          repository: nyholm/symfony
+
+      - name: Get lowest version
+        id: version
+        run: |
+          version=$(curl -s https://symfony.com/releases.json | jq '.supported_versions[0]')
+          echo "{lowest_branch}={$version}" >> $GITHUB_OUTPUT
+
+      - name: Download dependencies
+        run: composer install --no-interaction --prefer-stable
+
+      - name: Generate data files
+        id: generate_data
+        run: |
+          version=${{ steps.version.outputs.lowest_branch }}
+          
+          git checkout $version
+          php .github/sync-translations.php
+                    
+          echo "This is debug code" > report.txt
+          date +%s >> report.txt
+
+      - name: Check for changes
+        id: check_changes
+        run: |          
+          if [[ $(git diff --numstat | wc -l) -eq 0 ]]; then
+            echo "No significant changes."
+            echo "{make_pr}={false}" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+          
+          echo "{make_pr}={true}" >> $GITHUB_OUTPUT
+
+      - name: Create Pull Request
+        if: ${{ steps.check_changes.outputs.make_pr == 'true' }}
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+          delete-branch: true
+          commit-message: Sync translations
+          branch: ${{ steps.version.outputs.lowest_branch }}
+          push-to-fork: carsonbot/symfony
+          title: 'Sync translations across all languages'
+          body: |
+            We just added new English translations. This PR make sure to add them to all other languages. 
