@@ -1,4 +1,4 @@
-name: Sync Symfony translations
+name: Symfony translations
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Generate
+    name: Sync
     runs-on: ubuntu-latest
 
     steps:
@@ -31,7 +31,7 @@ jobs:
           echo "{lowest_branch}={$version}" >> $GITHUB_OUTPUT
 
       - name: Download dependencies
-        run: composer install --no-interaction --prefer-stable
+        run: composer update --no-interaction --prefer-stable
 
       - name: Generate data files
         id: generate_data
