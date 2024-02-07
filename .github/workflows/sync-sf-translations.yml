@@ -18,13 +18,6 @@ jobs:
         with:
           php-version: 8.2
 
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
-          repository: symfony/symfony
-          fetch-depth: 0
-
       - name: Get lowest version
         id: version
         run: |
@@ -33,12 +26,13 @@ jobs:
           echo $version
           echo "lowest_branch=$version" >> $GITHUB_OUTPUT
 
-      - name: Change branch
-        run: |
-          version=${{ steps.version.outputs.lowest_branch }}
-          
-          git fetch origin $version
-          git checkout $version
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+          repository: symfony/symfony
+          ref: ${{ steps.version.outputs.lowest_branch }}
+          fetch-depth: 0
 
       - name: Download dependencies
         run: |
