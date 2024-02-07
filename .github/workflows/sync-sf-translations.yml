@@ -64,6 +64,7 @@ jobs:
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
           delete-branch: true
           commit-message: "Sync translations"
+          author: "carsonbot <41898282+github-actions[bot]@users.noreply.github.com>"
           push-to-fork: carsonbot/symfony
           title: 'Sync translations across all languages'
           body: |
