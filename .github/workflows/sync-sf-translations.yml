@@ -27,7 +27,9 @@ jobs:
       - name: Get lowest version
         id: version
         run: |
+          set -x
           version=$(curl -s https://symfony.com/releases.json | jq -r '.supported_versions[0]')
+          echo $version
           echo "{lowest_branch}={$version}" >> $GITHUB_OUTPUT
           echo "{lowest_branch}={$version}"
 
@@ -42,6 +44,7 @@ jobs:
       - name: Generate data files
         id: generate_data
         run: |
+          set -x
           version=${{ steps.version.outputs.lowest_branch }}
           echo $version
           git checkout $version
