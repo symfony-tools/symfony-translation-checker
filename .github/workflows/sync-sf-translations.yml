@@ -3,9 +3,6 @@ name: Symfony translations
 on:
   schedule:
     - cron: '30 6,12,18 * * *'
-  push:
-    branches:
-      - master
 
 jobs:
   build:
@@ -87,4 +84,4 @@ jobs:
             php .github/sync-translations.php
             ```
             
-            See workflow in [here](https://github.com/symfony-tools/symfony-translation-checker/blob/master/.github/workflows/sync-sf-translations.yml).
+            You can find the workflow [here](https://github.com/symfony-tools/symfony-translation-checker/blob/master/.github/workflows/sync-sf-translations.yml).
