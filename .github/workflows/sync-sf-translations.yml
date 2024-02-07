@@ -27,19 +27,23 @@ jobs:
       - name: Get lowest version
         id: version
         run: |
-          version=$(curl -s https://symfony.com/releases.json | jq '.supported_versions[0]')
+          version=$(curl -s https://symfony.com/releases.json | jq -r '.supported_versions[0]')
           echo "{lowest_branch}={$version}" >> $GITHUB_OUTPUT
+          echo "{lowest_branch}={$version}"
 
       - name: Download dependencies
         run: |
+          cp composer.json composer.json.bak
           composer config allow-plugins true
           composer update --no-interaction --prefer-stable
+          rm composer.json
+          mv composer.json.bak composer.json
 
       - name: Generate data files
         id: generate_data
         run: |
           version=${{ steps.version.outputs.lowest_branch }}
-          
+          echo $version
           git checkout $version
           php .github/sync-translations.php
                     
