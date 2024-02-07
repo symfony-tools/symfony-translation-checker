@@ -45,7 +45,8 @@ jobs:
         run: |
           set -x
           version=${{ steps.version.outputs.lowest_branch }}
-          echo $version
+          
+          git fetch origin $version
           git checkout $version
           php .github/sync-translations.php
                     
