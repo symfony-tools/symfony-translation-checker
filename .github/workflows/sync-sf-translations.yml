@@ -34,7 +34,7 @@ jobs:
           
           version=$(cd $WORKDIR/source && php bin/console app:lowest-supported-versions)
 
-          echo "::set-output name=lowest_branch::$version"
+          echo "{lowest_branch}={$version}" >> $GITHUB_OUTPUT
           
           rm -rf $WORKDIR/source
 
@@ -48,9 +48,7 @@ jobs:
           
           git checkout $version
           php .github/sync-translations.php
-          
-          echo "::set-output name=lowest_branch::$version"
-          
+                    
           echo "This is debug code" > report.txt
           date +%s >> report.txt
 
@@ -59,11 +57,11 @@ jobs:
         run: |          
           if [[ $(git diff --numstat | wc -l) -eq 0 ]]; then
             echo "No significant changes."
-            echo "::set-output name=make_pr::false"
+            echo "{make_pr}={false}" >> $GITHUB_OUTPUT
             exit 1
           fi
           
-          echo "::set-output name=make_pr::true"
+          echo "{make_pr}={true}" >> $GITHUB_OUTPUT
 
       - name: Create Pull Request
         if: ${{ steps.check_changes.outputs.make_pr == 'true' }}
