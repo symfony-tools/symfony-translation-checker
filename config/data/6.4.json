@@ -31836,8 +31836,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ta vrednost ni veljaven IP naslov.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven IP naslov."
                 },
                 "38": {
                     "id": "38",
@@ -31893,8 +31892,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "V php.ini ni bila nastavljena za\u010dasna mapa, ali nastavljena mapa ne obstaja.",
-                    "state": "needs-review-translation"
+                    "trans": "V php.ini ni bila nastavljena za\u010dasna mapa, ali pa nastavljena mapa ne obstaja."
                 },
                 "52": {
                     "id": "52",
@@ -31926,8 +31924,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ta vrednost ni veljavna Mednarodna \u0161tevilka ban\u010dnega ra\u010duna (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljavna mednarodna \u0161tevilka ban\u010dnega ra\u010duna (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -32015,8 +32012,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ta vrednost ni veljavna Poslovna identifikacijska koda (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljavna poslovna identifikacijska koda (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -32024,8 +32020,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ta vrednost ni veljaven UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven UUID."
                 },
                 "84": {
                     "id": "84",
@@ -32141,8 +32136,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ta vrednost ni veljaven MAC naslov.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven MAC naslov."
                 }
             },
             "sq": {
