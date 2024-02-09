@@ -18945,8 +18945,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv IP-aadress.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv IP-aadress."
                 },
                 "38": {
                     "id": "38",
@@ -19002,8 +19001,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini-s ei olnud seadistatud ajutist kausta, v\u00f5i seadistatud kaust ei eksisteeri.",
-                    "state": "needs-review-translation"
+                    "trans": "Ajutine kaust php.ini-s ei olnud seadistatud v\u00f5i seadistatud kaust ei eksisteeri."
                 },
                 "52": {
                     "id": "52",
@@ -19035,8 +19033,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv Rahvusvaheline Pangakonto Number (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv Rahvusvaheline Kontonumber (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -19124,8 +19121,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv \u00c4ri\u00fchingu Tuvastuskood (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv BIC-kood."
                 },
                 "82": {
                     "id": "82",
@@ -19133,8 +19129,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv UUID."
                 },
                 "84": {
                     "id": "84",

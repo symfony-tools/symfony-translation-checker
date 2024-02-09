@@ -15824,8 +15824,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Tato hodnota nen\u00ed platnou IP adresou.",
-                    "state": "needs-review-translation"
+                    "trans": "Tato hodnota nen\u00ed platnou IP adresou."
                 },
                 "38": {
                     "id": "38",
@@ -15881,8 +15880,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "V php.ini nebyla nastavena cesta k do\u010dasn\u00e9mu adres\u00e1\u0159i, nebo nastaven\u00fd adres\u00e1\u0159 neexistuje.",
-                    "state": "needs-review-translation"
+                    "trans": "V php.ini nebyla nastavena cesta k do\u010dasn\u00e9mu adres\u00e1\u0159i, nebo nastaven\u00fd adres\u00e1\u0159 neexistuje."
                 },
                 "52": {
                     "id": "52",
@@ -15914,8 +15912,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Tato hodnota nen\u00ed platn\u00fdm Mezin\u00e1rodn\u00edm bankovn\u00edm \u010d\u00edslem \u00fa\u010dtu (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "Tato hodnota nen\u00ed platn\u00fdm Mezin\u00e1rodn\u00edm bankovn\u00edm \u010d\u00edslem \u00fa\u010dtu (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -16003,8 +16000,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Tato hodnota nen\u00ed platn\u00fdm K\u00f3dem obchodn\u00edho identifik\u00e1toru (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "Tato hodnota nen\u00ed platn\u00fdm K\u00f3dem obchodn\u00edho identifik\u00e1toru (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -16012,8 +16008,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Tato hodnota nen\u00ed platn\u00fdm UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Tato hodnota nen\u00ed platn\u00fdm UUID."
                 },
                 "84": {
                     "id": "84",
@@ -16129,8 +16124,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Tato hodnota nen\u00ed platnou MAC adresou.",
-                    "state": "needs-review-translation"
+                    "trans": "Tato hodnota nen\u00ed platnou MAC adresou."
                 }
             },
             "cy": {
