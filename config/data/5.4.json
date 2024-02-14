@@ -18496,8 +18496,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Este valor no es una direcci\u00f3n IP v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es una direcci\u00f3n IP v\u00e1lida."
                 },
                 "38": {
                     "id": "38",
@@ -18585,8 +18584,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Este valor no es un N\u00famero de Cuenta Bancaria Internacional (IBAN) v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un N\u00famero de Cuenta Bancaria Internacional (IBAN) v\u00e1lido."
                 },
                 "60": {
                     "id": "60",
@@ -18674,8 +18672,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Este valor no es un C\u00f3digo de Identificaci\u00f3n de Negocios (BIC) v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un C\u00f3digo de Identificaci\u00f3n de Negocios (BIC) v\u00e1lido."
                 },
                 "82": {
                     "id": "82",
@@ -18683,8 +18680,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Este valor no es un UUID v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un UUID v\u00e1lido."
                 },
                 "84": {
                     "id": "84",
@@ -18800,8 +18796,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Este valor no es una direcci\u00f3n MAC v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es una direcci\u00f3n MAC v\u00e1lida."
                 }
             },
             "et": {
