@@ -33634,8 +33634,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Ingen tillf\u00e4llig mapp konfigurerades i php.ini, eller den konfigurerade mappen finns inte.",
-                    "state": "needs-review-translation"
+                    "trans": "Ingen tillf\u00e4llig mapp konfigurerades i php.ini, eller den konfigurerade mappen finns inte."
                 },
                 "52": {
                     "id": "52",
