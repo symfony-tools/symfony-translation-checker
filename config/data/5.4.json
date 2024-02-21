@@ -30490,8 +30490,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Aceast\u0103 valoare nu este o adres\u0103 IP valid\u0103.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este o adres\u0103 de IP valid\u0103."
                 },
                 "38": {
                     "id": "38",
@@ -30547,8 +30546,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Nu a fost configurat niciun folder temporar \u00een php.ini, sau folderul configurat nu exist\u0103.",
-                    "state": "needs-review-translation"
+                    "trans": "Nu a fost configurat niciun folder temporar \u00een php.ini, sau folderul configurat nu exist\u0103."
                 },
                 "52": {
                     "id": "52",
@@ -30580,8 +30578,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Aceast\u0103 valoare nu este un Num\u0103r de Cont Bancar Interna\u021bional (IBAN) valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este un Num\u0103r de Cont Bancar Interna\u021bional (IBAN) valid."
                 },
                 "60": {
                     "id": "60",
@@ -30669,8 +30666,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Aceast\u0103 valoare nu este un Cod de Identificare a Afacerilor (BIC) valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este un Cod de Identificare a Afacerilor (BIC) valid."
                 },
                 "82": {
                     "id": "82",
@@ -30678,8 +30674,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Aceast\u0103 valoare nu este un UUID valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este un UUID valid."
                 },
                 "84": {
                     "id": "84",
