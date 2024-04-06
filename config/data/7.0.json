@@ -9018,11 +9018,11 @@
                 },
                 "2": {
                     "id": "2",
-                    "trans": "Loginoplysninger kan ikke findes."
+                    "trans": "Loginoplysninger kunne ikke findes."
                 },
                 "3": {
                     "id": "3",
-                    "trans": "Godkendelsesanmodning kan ikke behandles p\u00e5 grund af et systemfejl."
+                    "trans": "Godkendelsesanmodningen kunne ikke behandles p\u00e5 grund af en systemfejl."
                 },
                 "4": {
                     "id": "4",
@@ -9030,7 +9030,7 @@
                 },
                 "5": {
                     "id": "5",
-                    "trans": "Cookie er allerede brugt af en anden."
+                    "trans": "Cookie er allerede blevet brugt af en anden."
                 },
                 "6": {
                     "id": "6",
@@ -9042,19 +9042,19 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "Ingen godkendelsesudbyder er fundet til underst\u00f8ttelsen af godkendelsestoken."
+                    "trans": "Ingen godkendelsesudbyder blev fundet til at underst\u00f8tte godkendelsestoken."
                 },
                 "10": {
                     "id": "10",
-                    "trans": "Ingen session tilg\u00e6ngelig, sessionen er enten udl\u00f8bet eller cookies er ikke aktiveret."
+                    "trans": "Ingen session er tilg\u00e6ngelig. Den er enten udl\u00f8bet eller cookies er ikke aktiveret."
                 },
                 "11": {
                     "id": "11",
-                    "trans": "Ingen token kan findes."
+                    "trans": "Ingen token kunne findes."
                 },
                 "12": {
                     "id": "12",
-                    "trans": "Brugernavn kan ikke findes."
+                    "trans": "Brugernavn kunne ikke findes."
                 },
                 "13": {
                     "id": "13",
@@ -9074,15 +9074,15 @@
                 },
                 "17": {
                     "id": "17",
-                    "trans": "For mange fejlede login fors\u00f8g, pr\u00f8v venligst senere."
+                    "trans": "For mange mislykkede loginfors\u00f8g. Pr\u00f8v venligst igen senere."
                 },
                 "18": {
                     "id": "18",
-                    "trans": "Ugyldigt eller udl\u00f8bet login link."
+                    "trans": "Ugyldigt eller udl\u00f8bet login-link."
                 },
                 "19": {
                     "id": "19",
-                    "trans": "For mange fejlede login fors\u00f8g, pr\u00f8v igen om %minutes% minut."
+                    "trans": "For mange mislykkede loginfors\u00f8g. Pr\u00f8v venligst igen om %minutes% minut."
                 }
             },
             "de": {
