@@ -644,6 +644,10 @@
             "112": {
                 "id": "112",
                 "source": "This value is not a valid MAC address."
+            },
+            "113": {
+                "id": "113",
+                "source": "This URL does not contain a TLD."
             }
         }
     },
@@ -17470,6 +17474,10 @@
                 "112": {
                     "id": "112",
                     "trans": "Dieser Wert ist keine g\u00fcltige MAC-Adresse."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Diese URL enth\u00e4lt keine TLD."
                 }
             },
             "el": {
@@ -18346,6 +18354,10 @@
                 "112": {
                     "id": "112",
                     "trans": "This value is not a valid MAC address."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "This URL does not contain a TLD."
                 }
             },
             "es": {
