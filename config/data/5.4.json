@@ -29480,6 +29480,10 @@
                 "112": {
                     "id": "112",
                     "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym adresem MAC."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Podany adres URL nie zawiera domeny najwy\u017cszego poziomu (TLD)."
                 }
             },
             "pt": {
