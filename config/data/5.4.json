@@ -13021,6 +13021,11 @@
                     "id": "112",
                     "trans": "Hierdie waarde is nie 'n geldige MAC-adres nie.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Hierdie URL bevat nie 'n topvlakdomein (TLD) nie.",
+                    "state": "needs-review-translation"
                 }
             },
             "ar": {
@@ -13459,6 +13464,11 @@
                 "112": {
                     "id": "112",
                     "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0646\u0648\u0627\u0646 MAC \u0635\u0627\u0644\u062d\u064b\u0627."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u0647\u0630\u0627 \u0627\u0644\u0631\u0627\u0628\u0637 \u0644\u0627 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0646\u0637\u0627\u0642 \u0623\u0639\u0644\u0649 \u0645\u0633\u062a\u0648\u0649 (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "az": {
@@ -13902,6 +13912,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir MAC \u00fcnvan\u0131 deyil.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Bu URL \u00fcst s\u0259viyy\u0259li domen (TLD) i\u00e7\u0259rmir.",
                     "state": "needs-review-translation"
                 }
             },
@@ -14348,6 +14363,11 @@
                     "id": "112",
                     "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b\u043c MAC-\u0430\u0434\u0440\u0430\u0441\u0430\u043c.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u0413\u044d\u0442\u044b URL \u043d\u0435 \u045e\u0442\u0440\u044b\u043c\u043b\u0456\u0432\u0430\u0435 \u0434\u0430\u043c\u0435\u043d \u0432\u0435\u0440\u0445\u043d\u044f\u0433\u0430 \u045e\u0437\u0440\u043e\u045e\u043d\u044e (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "bg": {
@@ -14791,6 +14811,11 @@
                 "112": {
                     "id": "112",
                     "trans": "\u0422\u0430\u0437\u0438 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d MAC \u0430\u0434\u0440\u0435\u0441.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u0422\u043e\u0437\u0438 URL \u0430\u0434\u0440\u0435\u0441 \u043d\u0435 \u0441\u044a\u0434\u044a\u0440\u0436\u0430 \u0434\u043e\u043c\u0435\u0439\u043d \u043e\u0442 \u043d\u0430\u0439-\u0432\u0438\u0441\u043e\u043a\u043e \u043d\u0438\u0432\u043e (TLD).",
                     "state": "needs-review-translation"
                 }
             },
@@ -15238,6 +15263,11 @@
                     "id": "112",
                     "trans": "Ova vrijednost nije valjana MAC adresa.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Ovaj URL ne sadr\u017ei domenu najvi\u0161eg nivoa (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "ca": {
@@ -15684,6 +15714,11 @@
                     "id": "112",
                     "trans": "Aquest valor no \u00e9s una adre\u00e7a MAC v\u00e0lida.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Aquesta URL no cont\u00e9 un domini de nivell superior (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "cs": {
@@ -16122,6 +16157,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Tato hodnota nen\u00ed platnou MAC adresou."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Tato URL neobsahuje dom\u00e9nu nejvy\u0161\u0161\u00edho \u0159\u00e1du (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "cy": {
@@ -16592,6 +16632,11 @@
                     "id": "112",
                     "trans": "Nid yw'r gwerth hwn yn gyfeiriad MAC dilys.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Nid yw'r URL hwn yn cynnwys parth lefel uchaf (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "da": {
@@ -17035,6 +17080,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Denne v\u00e6rdi er ikke en gyldig MAC-adresse.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Denne URL indeholder ikke et topdom\u00e6ne (TLD).",
                     "state": "needs-review-translation"
                 }
             },
@@ -17916,6 +17966,11 @@
                 "112": {
                     "id": "112",
                     "trans": "\u0391\u03c5\u03c4\u03cc\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 MAC."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 URL \u03b4\u03b5\u03bd \u03c0\u03b5\u03c1\u03b9\u03ad\u03c7\u03b5\u03b9 \u03ad\u03bd\u03b1\u03bd \u03c4\u03bf\u03bc\u03ad\u03b1 \u03b1\u03bd\u03ce\u03c4\u03b1\u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c0\u03ad\u03b4\u03bf\u03c5 (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "en": {
@@ -18796,6 +18851,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Este valor no es una direcci\u00f3n MAC v\u00e1lida."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Esta URL no contiene un dominio de nivel superior (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "et": {
@@ -19234,6 +19294,11 @@
                 "112": {
                     "id": "112",
                     "trans": "See v\u00e4\u00e4rtus ei ole kehtiv MAC-aadress."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Sellel URL-il puudub \u00fclataseme domeen (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "eu": {
@@ -19679,6 +19744,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Balio hau ez da MAC helbide baliozko bat.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "URL honek ez du goi-mailako domeinurik (TLD) du.",
                     "state": "needs-review-translation"
                 }
             },
@@ -20128,6 +20198,11 @@
                     "id": "112",
                     "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 \u0622\u062f\u0631\u0633 MAC \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u0627\u06cc\u0646 URL \u0634\u0627\u0645\u0644 \u062f\u0627\u0645\u0646\u0647 \u0633\u0637\u062d \u0628\u0627\u0644\u0627 (TLD) \u0646\u0645\u06cc\u200c\u0634\u0648\u062f.",
+                    "state": "needs-review-translation"
                 }
             },
             "fi": {
@@ -20571,6 +20646,11 @@
                 "112": {
                     "id": "112",
                     "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen MAC-osoite."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "T\u00e4m\u00e4 URL-osoite ei sis\u00e4ll\u00e4 yl\u00e4tason verkkotunnusta (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "fr": {
@@ -21009,6 +21089,10 @@
                 "112": {
                     "id": "112",
                     "trans": "Cette valeur n'est pas une adresse MAC valide."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Cette URL ne contient pas de domaine de premier niveau (TLD)."
                 }
             },
             "gl": {
@@ -21459,6 +21543,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Este valor non \u00e9 un enderezo MAC v\u00e1lido.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Esta URL non cont\u00e9n un dominio de nivel superior (TLD).",
                     "state": "needs-review-translation"
                 }
             },
@@ -21912,6 +22001,11 @@
                     "id": "112",
                     "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05db\u05ea\u05d5\u05d1\u05ea MAC \u05ea\u05e7\u05e4\u05d4.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u05db\u05ea\u05d5\u05d1\u05ea URL \u05d6\u05d5 \u05d0\u05d9\u05e0\u05d4 \u05de\u05db\u05d9\u05dc\u05d4 \u05d3\u05d5\u05de\u05d9\u05d9\u05df \u05e8\u05de\u05d4 \u05e2\u05dc\u05d9\u05d5\u05e0\u05d4 (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "hr": {
@@ -22350,6 +22444,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Ova vrijednost nije valjana MAC adresa."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Ovaj URL ne sadr\u017ei najvi\u0161u razinu domene (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "hu": {
@@ -22788,6 +22887,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes MAC-c\u00edm."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Ez az URL nem tartalmaz fels\u0151 szint\u0171 domain-t (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "hy": {
@@ -23243,6 +23347,11 @@
                     "id": "112",
                     "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 MAC \u0570\u0561\u057d\u0581\u0565 \u0579\u0567\u0589",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u0531\u0575\u057d URL-\u0568 \u0579\u0578\u0582\u0576\u056b \u057e\u0565\u0580\u056b\u0576 \u0574\u0561\u056f\u0561\u0580\u0564\u0561\u056f\u056b \u0564\u0578\u0574\u0565\u0575\u0576 (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "id": {
@@ -23682,6 +23791,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Nilai ini bukan alamat MAC yang valid."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "URL ini tidak mengandung domain tingkat atas (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "it": {
@@ -24120,6 +24234,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Questo valore non \u00e8 un indirizzo MAC valido."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Questo URL non contiene un dominio di primo livello (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "ja": {
@@ -24564,6 +24683,11 @@
                     "id": "112",
                     "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306aMAC\u30a2\u30c9\u30ec\u30b9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u3053\u306eURL\u306b\u306f\u30c8\u30c3\u30d7\u30ec\u30d9\u30eb\u30c9\u30e1\u30a4\u30f3\uff08TLD\uff09\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u305b\u3093\u3002",
+                    "state": "needs-review-translation"
                 }
             },
             "lb": {
@@ -25006,6 +25130,11 @@
                 "112": {
                     "id": "112",
                     "trans": "D\u00ebse W\u00e4ert ass keng g\u00fclteg MAC-Adress.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "D\u00ebsen URL enth\u00e4lt keng Top-Level-Domain (TLD).",
                     "state": "needs-review-translation"
                 }
             },
@@ -25451,6 +25580,11 @@
                 "112": {
                     "id": "112",
                     "trans": "\u0160i vert\u0117 n\u0117ra galiojantis MAC adresas.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u0160is URL neturi auk\u0161\u010diausio lygio domeno (TLD).",
                     "state": "needs-review-translation"
                 }
             },
@@ -26338,6 +26472,11 @@
                     "id": "112",
                     "trans": "\u041e\u0432\u0430\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 MAC \u0430\u0434\u0440\u0435\u0441\u0430.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u041e\u0432\u043e\u0458 URL \u043d\u0435 \u0441\u043e\u0434\u0440\u0436\u0438 \u0434\u043e\u043c\u0435\u043d \u043e\u0434 \u043d\u0430\u0458\u0432\u0438\u0441\u043e\u043a\u043e \u043d\u0438\u0432\u043e (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "mn": {
@@ -26792,6 +26931,11 @@
                 "112": {
                     "id": "112",
                     "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 MAC \u0445\u0430\u044f\u0433 \u0431\u0438\u0448 \u044e\u043c.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u042d\u043d\u044d URL \u043d\u044c \u0434\u044d\u044d\u0434 \u0442\u04af\u0432\u0448\u0438\u043d\u0433\u0438\u0439\u043d \u0434\u043e\u043c\u0435\u0439\u043d (TLD)-\u0433\u04af\u0439 \u0431\u0430\u0439\u043d\u0430.",
                     "state": "needs-review-translation"
                 }
             },
@@ -27248,6 +27392,11 @@
                     "id": "112",
                     "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c MAC \u101c\u102d\u1015\u103a\u1005\u102c \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u1024 URL \u101e\u100a\u103a \u1021\u1019\u103c\u1004\u1037\u103a\u1006\u102f\u1036\u1038\u1021\u1006\u1004\u1037\u103a\u1012\u102d\u102f\u1019\u102d\u1014\u103a\u1038 (TLD) \u1019\u1015\u102b\u101b\u103e\u102d\u1015\u102b\u104b",
+                    "state": "needs-review-translation"
                 }
             },
             "nb": {
@@ -27700,6 +27849,11 @@
                     "id": "112",
                     "trans": "Denne verdien er ikke en gyldig MAC-adresse.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Denne URL-en inneholder ikke et toppniv\u00e5domene (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "nl": {
@@ -28138,6 +28292,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Deze waarde is geen geldig MAC-adres."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Deze URL bevat geen top-level domein (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "nn": {
@@ -28590,6 +28749,11 @@
                     "id": "112",
                     "trans": "Denne verdien er ikkje ein gyldig MAC-adresse.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Denne URL-en inneheld ikkje eit toppniv\u00e5domene (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "no": {
@@ -29041,6 +29205,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Denne verdien er ikke en gyldig MAC-adresse.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Denne URL-en inneholder ikke et toppniv\u00e5domene (TLD).",
                     "state": "needs-review-translation"
                 }
             },
@@ -29922,6 +30091,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Este valor n\u00e3o \u00e9 um endere\u00e7o MAC v\u00e1lido."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Esta URL n\u00e3o cont\u00e9m um dom\u00ednio de topo (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "pt_BR": {
@@ -30360,6 +30534,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Este valor n\u00e3o \u00e9 um endere\u00e7o MAC v\u00e1lido."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Esta URL n\u00e3o cont\u00e9m um dom\u00ednio de topo (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "ro": {
@@ -30798,6 +30977,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Aceast\u0103 valoare nu este o adres\u0103 MAC valid\u0103."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Acest URL nu con\u021bine un domeniu de nivel superior (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "ru": {
@@ -31236,6 +31420,11 @@
                 "112": {
                     "id": "112",
                     "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c MAC-\u0430\u0434\u0440\u0435\u0441\u043e\u043c."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u042d\u0442\u043e\u0442 URL \u043d\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0434\u043e\u043c\u0435\u043d \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "sk": {
@@ -31680,6 +31869,11 @@
                     "id": "112",
                     "trans": "T\u00e1to hodnota nie je platnou MAC adresou.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "T\u00e1to URL neobsahuje dom\u00e9nu najvy\u0161\u0161ej \u00farovne (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "sl": {
@@ -32118,6 +32312,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Ta vrednost ni veljaven MAC naslov."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Ta URL ne vsebuje domene najvi\u0161je ravni (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "sq": {
@@ -32556,6 +32755,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Kjo nuk \u00ebsht\u00eb nj\u00eb adres\u00eb e vlefshme e Kontrollit t\u00eb Qasjes n\u00eb Media (MAC)."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Ky URL nuk p\u00ebrmban nj\u00eb domain nivelin m\u00eb t\u00eb lart\u00eb (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "sr_Cyrl": {
@@ -32999,6 +33203,11 @@
                 "112": {
                     "id": "112",
                     "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 MAC \u0430\u0434\u0440\u0435\u0441\u0430."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u041e\u0432\u0430\u0458 URL \u043d\u0435 \u0441\u0430\u0434\u0440\u0436\u0438 \u0434\u043e\u043c\u0435\u043d \u043d\u0430\u0458\u0432\u0438\u0448\u0435\u0433 \u043d\u0438\u0432\u043e\u0430 (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "sr_Latn": {
@@ -33443,6 +33652,11 @@
                     "id": "112",
                     "trans": "Ova vrednost nije validna MAC adresa.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Ovaj URL ne sadr\u017ei domen najvi\u0161eg nivoa (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "sv": {
@@ -33881,6 +34095,11 @@
                 "112": {
                     "id": "112",
                     "trans": "V\u00e4rdet \u00e4r inte en giltig MAC-adress."
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Denna URL inneh\u00e5ller inte ett toppdom\u00e4n (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "th": {
@@ -34326,6 +34545,11 @@
                 "112": {
                     "id": "112",
                     "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48 MAC \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "URL \u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e21\u0e35\u0e42\u0e14\u0e40\u0e21\u0e19\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14 (TLD) \u0e2d\u0e22\u0e39\u0e48.",
                     "state": "needs-review-translation"
                 }
             },
@@ -34781,6 +35005,11 @@
                     "id": "112",
                     "trans": "Ang halagang ito ay hindi isang wastong MAC address.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Ang URL na ito ay walang top-level domain (TLD).",
+                    "state": "needs-review-translation"
                 }
             },
             "tr": {
@@ -35225,6 +35454,11 @@
                     "id": "112",
                     "trans": "Bu de\u011fer ge\u00e7erli bir MAC adresi de\u011fil.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Bu URL bir \u00fcst d\u00fczey alan ad\u0131 (TLD) i\u00e7ermiyor.",
+                    "state": "needs-review-translation"
                 }
             },
             "uk": {
@@ -35668,6 +35902,11 @@
                 "112": {
                     "id": "112",
                     "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u043e\u044e MAC-\u0430\u0434\u0440\u0435\u0441\u043e\u044e.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u0426\u0435\u0439 URL \u043d\u0435 \u043c\u0456\u0441\u0442\u0438\u0442\u044c \u0434\u043e\u043c\u0435\u043d \u0432\u0435\u0440\u0445\u043d\u044c\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f (TLD).",
                     "state": "needs-review-translation"
                 }
             },
@@ -36121,6 +36360,11 @@
                     "id": "112",
                     "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a MAC \u067e\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u06cc\u06c1 URL \u0627\u0648\u067e\u0631\u06cc \u0633\u0637\u062d \u06a9\u06d2 \u0688\u0648\u0645\u06cc\u0646 (TLD) \u06a9\u0648 \u0634\u0627\u0645\u0644 \u0646\u06c1\u06cc\u06ba \u06a9\u0631\u062a\u0627\u06d4",
+                    "state": "needs-review-translation"
                 }
             },
             "uz": {
@@ -36566,6 +36810,11 @@
                     "id": "112",
                     "trans": "Bu qiymat haqiqiy MAC manzil emas.",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "Bu URL yuqori darajali domen (TLD)ni o'z ichiga olmaydi.",
+                    "state": "needs-review-translation"
                 }
             },
             "vi": {
@@ -37010,6 +37259,11 @@
                 "112": {
                     "id": "112",
                     "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 MAC h\u1ee3p l\u1ec7.",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "URL n\u00e0y kh\u00f4ng ch\u1ee9a t\u00ean mi\u1ec1n c\u1ea5p cao (TLD).",
                     "state": "needs-review-translation"
                 }
             },
@@ -37457,6 +37711,11 @@
                     "id": "112",
                     "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684MAC\u5730\u5740\u3002",
                     "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u6b64URL\u4e0d\u5305\u542b\u9876\u7ea7\u57df\u540d\uff08TLD\uff09\u3002",
+                    "state": "needs-review-translation"
                 }
             },
             "zh_TW": {
@@ -37901,6 +38160,11 @@
                 "112": {
                     "id": "112",
                     "trans": "\u9019\u4e0d\u662f\u4e00\u500b\u6709\u6548\u7684MAC\u5730\u5740\u3002",
+                    "state": "needs-review-translation"
+                },
+                "113": {
+                    "id": "113",
+                    "trans": "\u6b64URL\u4e0d\u542b\u9802\u7d1a\u57df\u540d\uff08TLD\uff09\u3002",
                     "state": "needs-review-translation"
                 }
             }
