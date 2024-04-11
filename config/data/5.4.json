@@ -27919,11 +27919,11 @@
                 },
                 "16": {
                     "id": "16",
-                    "trans": "Het bestand is te groot ({{ size }} {{ suffix }}). Toegestane maximum grootte is {{ limit }} {{ suffix }}."
+                    "trans": "Het bestand is te groot ({{ size }} {{ suffix }}). De maximale grootte is {{ limit }} {{ suffix }}."
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Het mime type van het bestand is ongeldig ({{ type }}). Toegestane mime types zijn {{ types }}."
+                    "trans": "Het mediatype van het bestand is ongeldig ({{ type }}). De toegestane mediatypes zijn {{ types }}."
                 },
                 "18": {
                     "id": "18",
@@ -27971,7 +27971,7 @@
                 },
                 "32": {
                     "id": "32",
-                    "trans": "Het bestand is te groot. Toegestane maximum grootte is {{ limit }} {{ suffix }}."
+                    "trans": "Het bestand is te groot. De maximale grootte is {{ limit }} {{ suffix }}."
                 },
                 "33": {
                     "id": "33",
@@ -27999,7 +27999,7 @@
                 },
                 "39": {
                     "id": "39",
-                    "trans": "Deze waarde is geen geldige locale."
+                    "trans": "Deze waarde is geen geldige landinstelling."
                 },
                 "40": {
                     "id": "40",
@@ -28015,7 +28015,7 @@
                 },
                 "43": {
                     "id": "43",
-                    "trans": "De afbeelding is te breed ({{ width }}px). De maximaal toegestane breedte is {{ max_width }}px."
+                    "trans": "De afbeelding is te breed ({{ width }}px). De maximaal breedte is {{ max_width }}px."
                 },
                 "44": {
                     "id": "44",
@@ -28023,7 +28023,7 @@
                 },
                 "45": {
                     "id": "45",
-                    "trans": "De afbeelding is te hoog ({{ height }}px). De maximaal toegestane hoogte is {{ max_height }}px."
+                    "trans": "De afbeelding is te hoog ({{ height }}px). De maximaal hoogte is {{ max_height }}px."
                 },
                 "46": {
                     "id": "46",
@@ -28135,11 +28135,11 @@
                 },
                 "73": {
                     "id": "73",
-                    "trans": "De afbeeldingsverhouding is te groot ({{ ratio }}). Maximale verhouding is {{ max_ratio }}."
+                    "trans": "De afbeeldingsverhouding is te groot ({{ ratio }}). De maximale verhouding is {{ max_ratio }}."
                 },
                 "74": {
                     "id": "74",
-                    "trans": "De afbeeldingsverhouding is te klein ({{ ratio }}). Minimale verhouding is {{ min_ratio }}."
+                    "trans": "De afbeeldingsverhouding is te klein ({{ ratio }}). De minimale verhouding is {{ min_ratio }}."
                 },
                 "75": {
                     "id": "75",
@@ -28179,7 +28179,7 @@
                 },
                 "84": {
                     "id": "84",
-                    "trans": "Deze waarde zou een meervoud van {{ compared_value }} moeten zijn."
+                    "trans": "Deze waarde moet een meervoud van {{ compared_value }} zijn."
                 },
                 "85": {
                     "id": "85",
@@ -28191,7 +28191,7 @@
                 },
                 "87": {
                     "id": "87",
-                    "trans": "Deze collectie moet alleen unieke elementen bevatten."
+                    "trans": "Deze collectie mag alleen unieke elementen bevatten."
                 },
                 "88": {
                     "id": "88",
@@ -28251,7 +28251,7 @@
                 },
                 "102": {
                     "id": "102",
-                    "trans": "Deze waarde is geen geldige CIDR notatie."
+                    "trans": "Deze waarde is geen geldige CIDR-notatie."
                 },
                 "103": {
                     "id": "103",
@@ -28259,11 +28259,11 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "De bestandsnaam is te lang. Het moet {{ filename_max_length }} karakter of minder zijn."
+                    "trans": "De bestandsnaam is te lang. Het moet {{ filename_max_length }} karakter of minder zijn.|De bestandsnaam is te lang. Het moet {{ filename_max_length }} karakters of minder zijn."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "De wachtwoordsterkte is te laag. Gebruik alstublieft een sterker wachtwoord."
+                    "trans": "Het wachtwoord is niet sterk genoeg. Probeer een sterker wachtwoord."
                 },
                 "106": {
                     "id": "106",
@@ -28283,11 +28283,11 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "De extensie van het bestand is ongeldig ({{ extension }}). Toegestane extensies zijn {{ extensions }}."
+                    "trans": "De bestandsextensie is ongeldig ({{ extension }}). De toegestane extensies zijn {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "De gedetecteerde karaktercodering is ongeldig ({{ detected }}). Toegestane coderingen zijn {{ encodings }}."
+                    "trans": "De gedetecteerde karaktercodering is ongeldig ({{ detected }}). De toegestane coderingen zijn {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
@@ -28295,8 +28295,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Deze URL bevat geen top-level domein (TLD).",
-                    "state": "needs-review-translation"
+                    "trans": "Deze URL bevat geen topleveldomein (TLD)."
                 }
             },
             "nn": {
