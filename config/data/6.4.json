@@ -647,7 +647,7 @@
             },
             "113": {
                 "id": "113",
-                "source": "This URL does not contain a TLD."
+                "source": "This URL is missing a top-level domain."
             }
         }
     },
@@ -13024,7 +13024,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Hierdie URL bevat nie 'n topvlakdomein (TLD) nie.",
+                    "trans": "Die URL mis 'n topvlakdomein.",
                     "state": "needs-review-translation"
                 }
             },
@@ -13467,7 +13467,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0647\u0630\u0627 \u0627\u0644\u0631\u0627\u0628\u0637 \u0644\u0627 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0646\u0637\u0627\u0642 \u0623\u0639\u0644\u0649 \u0645\u0633\u062a\u0648\u0649 (TLD).",
+                    "trans": "\u0647\u0630\u0627 \u0627\u0644\u0631\u0627\u0628\u0637 \u064a\u0641\u062a\u0642\u0631 \u0625\u0644\u0649 \u0646\u0637\u0627\u0642 \u0623\u0639\u0644\u0649 \u0645\u0633\u062a\u0648\u0649.",
                     "state": "needs-review-translation"
                 }
             },
@@ -13916,7 +13916,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Bu URL \u00fcst s\u0259viyy\u0259li domen (TLD) i\u00e7\u0259rmir.",
+                    "trans": "Bu URL yuxar\u0131 s\u0259viyy\u0259li domeni \u00e7at\u0131\u015fm\u0131r.",
                     "state": "needs-review-translation"
                 }
             },
@@ -14366,7 +14366,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0413\u044d\u0442\u044b URL \u043d\u0435 \u045e\u0442\u0440\u044b\u043c\u043b\u0456\u0432\u0430\u0435 \u0434\u0430\u043c\u0435\u043d \u0432\u0435\u0440\u0445\u043d\u044f\u0433\u0430 \u045e\u0437\u0440\u043e\u045e\u043d\u044e (TLD).",
+                    "trans": "\u0413\u044d\u0442\u0430\u043c\u0443 URL \u0431\u0440\u0430\u043a\u0443\u0435 \u0434\u0430\u043c\u0435\u043d \u0432\u0435\u0440\u0445\u043d\u044f\u0433\u0430 \u045e\u0437\u0440\u043e\u045e\u043d\u044e.",
                     "state": "needs-review-translation"
                 }
             },
@@ -14815,7 +14815,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0422\u043e\u0437\u0438 URL \u0430\u0434\u0440\u0435\u0441 \u043d\u0435 \u0441\u044a\u0434\u044a\u0440\u0436\u0430 \u0434\u043e\u043c\u0435\u0439\u043d \u043e\u0442 \u043d\u0430\u0439-\u0432\u0438\u0441\u043e\u043a\u043e \u043d\u0438\u0432\u043e (TLD).",
+                    "trans": "\u041d\u0430 \u0442\u043e\u0437\u0438 URL \u043b\u0438\u043f\u0441\u0432\u0430 \u0434\u043e\u043c\u0435\u0439\u043d \u043e\u0442 \u043d\u0430\u0439-\u0432\u0438\u0441\u043e\u043a\u043e \u043d\u0438\u0432\u043e.",
                     "state": "needs-review-translation"
                 }
             },
@@ -15266,7 +15266,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ovaj URL ne sadr\u017ei domenu najvi\u0161eg nivoa (TLD).",
+                    "trans": "Ovom URL-u nedostaje domena najvi\u0161eg nivoa.",
                     "state": "needs-review-translation"
                 }
             },
@@ -15717,7 +15717,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Aquesta URL no cont\u00e9 un domini de nivell superior (TLD).",
+                    "trans": "Aquesta URL no cont\u00e9 un domini de nivell superior.",
                     "state": "needs-review-translation"
                 }
             },
@@ -16160,7 +16160,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Tato URL neobsahuje dom\u00e9nu nejvy\u0161\u0161\u00edho \u0159\u00e1du (TLD).",
+                    "trans": "T\u00e9to URL chyb\u00ed dom\u00e9na nejvy\u0161\u0161\u00edho \u0159\u00e1du.",
                     "state": "needs-review-translation"
                 }
             },
@@ -16635,7 +16635,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Nid yw'r URL hwn yn cynnwys parth lefel uchaf (TLD).",
+                    "trans": "Mae'r URL hwn yn colli parth lefel uchaf.",
                     "state": "needs-review-translation"
                 }
             },
@@ -17084,7 +17084,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Denne URL indeholder ikke et topdom\u00e6ne (TLD).",
+                    "trans": "Denne URL mangler et topdom\u00e6ne.",
                     "state": "needs-review-translation"
                 }
             },
@@ -17527,7 +17527,8 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Diese URL enth\u00e4lt keine TLD."
+                    "trans": "Dieser URL fehlt eine Top-Level-Domain.",
+                    "state": "needs-review-translation"
                 }
             },
             "el": {
@@ -17969,7 +17970,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 URL \u03b4\u03b5\u03bd \u03c0\u03b5\u03c1\u03b9\u03ad\u03c7\u03b5\u03b9 \u03ad\u03bd\u03b1\u03bd \u03c4\u03bf\u03bc\u03ad\u03b1 \u03b1\u03bd\u03ce\u03c4\u03b1\u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c0\u03ad\u03b4\u03bf\u03c5 (TLD).",
+                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 URL \u03bb\u03b5\u03af\u03c0\u03b5\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03c4\u03bf\u03bc\u03ad\u03b1\u03c2 \u03b1\u03bd\u03ce\u03c4\u03b1\u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c0\u03ad\u03b4\u03bf\u03c5.",
                     "state": "needs-review-translation"
                 }
             },
@@ -18412,7 +18413,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "This URL does not contain a TLD."
+                    "trans": "This URL is missing a top-level domain."
                 }
             },
             "es": {
@@ -18854,7 +18855,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Esta URL no contiene un dominio de nivel superior (TLD).",
+                    "trans": "Esta URL no contiene una extensi\u00f3n de dominio (TLD).",
                     "state": "needs-review-translation"
                 }
             },
@@ -19297,7 +19298,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Sellel URL-il puudub \u00fclataseme domeen (TLD).",
+                    "trans": "Sellel URL-il puudub \u00fclataseme domeen.",
                     "state": "needs-review-translation"
                 }
             },
@@ -19748,7 +19749,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "URL honek ez du goi-mailako domeinurik (TLD) du.",
+                    "trans": "URL honek ez du goi-mailako domeinurik.",
                     "state": "needs-review-translation"
                 }
             },
@@ -20201,7 +20202,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0627\u06cc\u0646 URL \u0634\u0627\u0645\u0644 \u062f\u0627\u0645\u0646\u0647 \u0633\u0637\u062d \u0628\u0627\u0644\u0627 (TLD) \u0646\u0645\u06cc\u200c\u0634\u0648\u062f.",
+                    "trans": "\u0627\u06cc\u0646 URL \u0641\u0627\u0642\u062f \u062f\u0627\u0645\u0646\u0647 \u0633\u0637\u062d \u0628\u0627\u0644\u0627 \u0627\u0633\u062a.",
                     "state": "needs-review-translation"
                 }
             },
@@ -20649,7 +20650,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "T\u00e4m\u00e4 URL-osoite ei sis\u00e4ll\u00e4 yl\u00e4tason verkkotunnusta (TLD).",
+                    "trans": "T\u00e4st\u00e4 URL-osoitteesta puuttuu yl\u00e4tason verkkotunnus.",
                     "state": "needs-review-translation"
                 }
             },
@@ -21092,7 +21093,8 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Cette URL ne contient pas de domaine de premier niveau (TLD)."
+                    "trans": "Cette URL est d\u00e9pourvue de domaine de premier niveau.",
+                    "state": "needs-review-translation"
                 }
             },
             "gl": {
@@ -21547,7 +21549,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Esta URL non cont\u00e9n un dominio de nivel superior (TLD).",
+                    "trans": "Esta URL non cont\u00e9n un dominio de nivel superior.",
                     "state": "needs-review-translation"
                 }
             },
@@ -22004,7 +22006,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u05db\u05ea\u05d5\u05d1\u05ea URL \u05d6\u05d5 \u05d0\u05d9\u05e0\u05d4 \u05de\u05db\u05d9\u05dc\u05d4 \u05d3\u05d5\u05de\u05d9\u05d9\u05df \u05e8\u05de\u05d4 \u05e2\u05dc\u05d9\u05d5\u05e0\u05d4 (TLD).",
+                    "trans": "\u05dc\u05db\u05ea\u05d5\u05d1\u05ea URL \u05d6\u05d5 \u05d7\u05e1\u05e8 \u05d3\u05d5\u05de\u05d9\u05d9\u05df \u05e8\u05de\u05d4 \u05e2\u05dc\u05d9\u05d5\u05e0\u05d4.",
                     "state": "needs-review-translation"
                 }
             },
@@ -22447,8 +22449,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ovaj URL ne sadr\u017ei najvi\u0161u razinu domene (TLD).",
-                    "state": "needs-review-translation"
+                    "trans": "Ovom URL-u nedostaje vr\u0161na domena."
                 }
             },
             "hu": {
@@ -22890,8 +22891,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ez az URL nem tartalmaz fels\u0151 szint\u0171 domain-t (TLD).",
-                    "state": "needs-review-translation"
+                    "trans": "Az URL-b\u0151l hi\u00e1nyzik a legfels\u0151 szint\u0171 tartom\u00e1ny (top-level domain)."
                 }
             },
             "hy": {
@@ -23350,7 +23350,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0531\u0575\u057d URL-\u0568 \u0579\u0578\u0582\u0576\u056b \u057e\u0565\u0580\u056b\u0576 \u0574\u0561\u056f\u0561\u0580\u0564\u0561\u056f\u056b \u0564\u0578\u0574\u0565\u0575\u0576 (TLD).",
+                    "trans": "\u0531\u0575\u057d URL-\u0568 \u0579\u0578\u0582\u0576\u056b \u057e\u0565\u0580\u056b\u0576 \u0574\u0561\u056f\u0561\u0580\u0564\u0561\u056f\u056b \u0564\u0578\u0574\u0565\u0575\u0576:",
                     "state": "needs-review-translation"
                 }
             },
@@ -23794,8 +23794,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "URL ini tidak mengandung domain tingkat atas (TLD).",
-                    "state": "needs-review-translation"
+                    "trans": "URL ini tidak memiliki domain tingkat atas."
                 }
             },
             "it": {
@@ -24237,7 +24236,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Questo URL non contiene un dominio di primo livello (TLD).",
+                    "trans": "Questo URL \u00e8 privo di un dominio di primo livello.",
                     "state": "needs-review-translation"
                 }
             },
@@ -24686,7 +24685,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u3053\u306eURL\u306b\u306f\u30c8\u30c3\u30d7\u30ec\u30d9\u30eb\u30c9\u30e1\u30a4\u30f3\uff08TLD\uff09\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u305b\u3093\u3002",
+                    "trans": "\u3053\u306eURL\u306f\u30c8\u30c3\u30d7\u30ec\u30d9\u30eb\u30c9\u30e1\u30a4\u30f3\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
                     "state": "needs-review-translation"
                 }
             },
@@ -25134,7 +25133,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "D\u00ebsen URL enth\u00e4lt keng Top-Level-Domain (TLD).",
+                    "trans": "D\u00ebsen URL feelt eng Top-Level-Domain.",
                     "state": "needs-review-translation"
                 }
             },
@@ -25584,7 +25583,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0160is URL neturi auk\u0161\u010diausio lygio domeno (TLD).",
+                    "trans": "\u0160iam URL tr\u016bksta auk\u0161\u010diausio lygio domeno.",
                     "state": "needs-review-translation"
                 }
             },
@@ -26027,7 +26026,8 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0160is URL nesatur aug\u0161\u0113j\u0101 l\u012bme\u0146a dom\u0113nu (TLD)."
+                    "trans": "\u0160im URL tr\u016bkst aug\u0161\u0113j\u0101 l\u012bme\u0146a dom\u0113na.",
+                    "state": "needs-review-translation"
                 }
             },
             "mk": {
@@ -26475,7 +26475,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u041e\u0432\u043e\u0458 URL \u043d\u0435 \u0441\u043e\u0434\u0440\u0436\u0438 \u0434\u043e\u043c\u0435\u043d \u043e\u0434 \u043d\u0430\u0458\u0432\u0438\u0441\u043e\u043a\u043e \u043d\u0438\u0432\u043e (TLD).",
+                    "trans": "\u041d\u0430 \u043e\u0432\u043e\u0458 URL \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0441\u0443\u0432\u0430 \u0434\u043e\u043c\u0435\u043d \u043e\u0434 \u043d\u0430\u0458\u0432\u0438\u0441\u043e\u043a\u043e \u043d\u0438\u0432\u043e.",
                     "state": "needs-review-translation"
                 }
             },
@@ -26935,7 +26935,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u042d\u043d\u044d URL \u043d\u044c \u0434\u044d\u044d\u0434 \u0442\u04af\u0432\u0448\u0438\u043d\u0433\u0438\u0439\u043d \u0434\u043e\u043c\u0435\u0439\u043d (TLD)-\u0433\u04af\u0439 \u0431\u0430\u0439\u043d\u0430.",
+                    "trans": "\u042d\u043d\u044d URL \u0434\u044d\u044d\u0434 \u0442\u04af\u0432\u0448\u0438\u043d\u0433\u0438\u0439\u043d \u0434\u043e\u043c\u0435\u0439\u043d \u0434\u0443\u0442\u0443\u0443 \u0431\u0430\u0439\u043d\u0430.",
                     "state": "needs-review-translation"
                 }
             },
@@ -27395,7 +27395,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u1024 URL \u101e\u100a\u103a \u1021\u1019\u103c\u1004\u1037\u103a\u1006\u102f\u1036\u1038\u1021\u1006\u1004\u1037\u103a\u1012\u102d\u102f\u1019\u102d\u1014\u103a\u1038 (TLD) \u1019\u1015\u102b\u101b\u103e\u102d\u1015\u102b\u104b",
+                    "trans": "\u1024 URL \u1010\u103d\u1004\u103a \u1021\u1019\u103c\u1004\u1037\u103a\u1006\u102f\u1036\u1038\u1021\u1006\u1004\u1037\u103a\u1012\u102d\u102f\u1019\u102d\u1014\u103a\u1038 \u1015\u102b\u101d\u1004\u103a\u1019\u101b\u103e\u102d\u1015\u102b\u104b",
                     "state": "needs-review-translation"
                 }
             },
@@ -27852,7 +27852,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Denne URL-en inneholder ikke et toppniv\u00e5domene (TLD).",
+                    "trans": "Denne URL-en mangler et toppniv\u00e5domene.",
                     "state": "needs-review-translation"
                 }
             },
@@ -28295,7 +28295,8 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Deze URL bevat geen topleveldomein (TLD)."
+                    "trans": "Deze URL mist een top-level domein.",
+                    "state": "needs-review-translation"
                 }
             },
             "nn": {
@@ -28751,7 +28752,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Denne URL-en inneheld ikkje eit toppniv\u00e5domene (TLD).",
+                    "trans": "Denne URL-en manglar eit toppniv\u00e5domene.",
                     "state": "needs-review-translation"
                 }
             },
@@ -29208,7 +29209,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Denne URL-en inneholder ikke et toppniv\u00e5domene (TLD).",
+                    "trans": "Denne URL-en mangler et toppniv\u00e5domene.",
                     "state": "needs-review-translation"
                 }
             },
@@ -29651,7 +29652,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Podany adres URL nie zawiera domeny najwy\u017cszego poziomu (TLD)."
+                    "trans": "Podany URL nie zawiera domeny najwy\u017cszego poziomu."
                 }
             },
             "pt": {
@@ -30093,7 +30094,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Esta URL n\u00e3o cont\u00e9m um dom\u00ednio de topo (TLD).",
+                    "trans": "Esta URL est\u00e1 faltando um dom\u00ednio de topo.",
                     "state": "needs-review-translation"
                 }
             },
@@ -30536,7 +30537,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Esta URL n\u00e3o cont\u00e9m um dom\u00ednio de topo (TLD).",
+                    "trans": "Esta URL est\u00e1 faltando um dom\u00ednio de topo.",
                     "state": "needs-review-translation"
                 }
             },
@@ -30979,7 +30980,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Acest URL nu con\u021bine un domeniu de nivel superior (TLD).",
+                    "trans": "Acest URL \u00eei lipse\u0219te un domeniu de nivel superior.",
                     "state": "needs-review-translation"
                 }
             },
@@ -31422,7 +31423,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u042d\u0442\u043e\u0442 URL \u043d\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0434\u043e\u043c\u0435\u043d \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f (TLD).",
+                    "trans": "\u042d\u0442\u043e\u043c\u0443 URL \u043d\u0435 \u0445\u0432\u0430\u0442\u0430\u0435\u0442 \u0434\u043e\u043c\u0435\u043d\u0430 \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f.",
                     "state": "needs-review-translation"
                 }
             },
@@ -31871,7 +31872,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "T\u00e1to URL neobsahuje dom\u00e9nu najvy\u0161\u0161ej \u00farovne (TLD).",
+                    "trans": "Tomuto URL ch\u00fdba dom\u00e9na najvy\u0161\u0161ej \u00farovne.",
                     "state": "needs-review-translation"
                 }
             },
@@ -32314,7 +32315,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ta URL ne vsebuje domene najvi\u0161je ravni (TLD).",
+                    "trans": "Temu URL manjka domena najvi\u0161je ravni.",
                     "state": "needs-review-translation"
                 }
             },
@@ -32757,7 +32758,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ky URL nuk p\u00ebrmban nj\u00eb domain nivelin m\u00eb t\u00eb lart\u00eb (TLD).",
+                    "trans": "K\u00ebsaj URL i mungon nj\u00eb domain i nivelit t\u00eb lart\u00eb.",
                     "state": "needs-review-translation"
                 }
             },
@@ -33205,7 +33206,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u041e\u0432\u0430\u0458 URL \u043d\u0435 \u0441\u0430\u0434\u0440\u0436\u0438 \u0434\u043e\u043c\u0435\u043d \u043d\u0430\u0458\u0432\u0438\u0448\u0435\u0433 \u043d\u0438\u0432\u043e\u0430 (TLD).",
+                    "trans": "\u041e\u0432\u043e\u043c URL \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0458\u0435 \u0434\u043e\u043c\u0435\u043d \u043d\u0430\u0458\u0432\u0438\u0448\u0435\u0433 \u043d\u0438\u0432\u043e\u0430.",
                     "state": "needs-review-translation"
                 }
             },
@@ -33654,7 +33655,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ovaj URL ne sadr\u017ei domen najvi\u0161eg nivoa (TLD).",
+                    "trans": "Ovom URL nedostaje domen najvi\u0161eg nivoa.",
                     "state": "needs-review-translation"
                 }
             },
@@ -34097,7 +34098,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Denna URL inneh\u00e5ller inte ett toppdom\u00e4n (TLD).",
+                    "trans": "Denna URL saknar en toppdom\u00e4n.",
                     "state": "needs-review-translation"
                 }
             },
@@ -34548,7 +34549,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "URL \u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e21\u0e35\u0e42\u0e14\u0e40\u0e21\u0e19\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14 (TLD) \u0e2d\u0e22\u0e39\u0e48.",
+                    "trans": "URL \u0e19\u0e35\u0e49\u0e02\u0e32\u0e14\u0e42\u0e14\u0e40\u0e21\u0e19\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14.",
                     "state": "needs-review-translation"
                 }
             },
@@ -35007,7 +35008,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ang URL na ito ay walang top-level domain (TLD).",
+                    "trans": "Kulang ang URL na ito sa top-level domain.",
                     "state": "needs-review-translation"
                 }
             },
@@ -35456,7 +35457,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Bu URL bir \u00fcst d\u00fczey alan ad\u0131 (TLD) i\u00e7ermiyor.",
+                    "trans": "Bu URL bir \u00fcst d\u00fczey alan ad\u0131 eksik.",
                     "state": "needs-review-translation"
                 }
             },
@@ -35595,8 +35596,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u043e\u044e IP-\u0430\u0434\u0440\u0435\u0441\u043e\u044e.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u043e\u044e IP-\u0430\u0434\u0440\u0435\u0441\u043e\u044e."
                 },
                 "38": {
                     "id": "38",
@@ -35652,8 +35652,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u0423 php.ini \u043d\u0435 \u0431\u0443\u043b\u043e \u043d\u0430\u043b\u0430\u0448\u0442\u043e\u0432\u0430\u043d\u043e \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0457 \u0442\u0435\u043a\u0438, \u0430\u0431\u043e \u043d\u0430\u043b\u0430\u0448\u0442\u043e\u0432\u0430\u043d\u0430 \u0442\u0435\u043a\u0430 \u043d\u0435 \u0456\u0441\u043d\u0443\u0454.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0423 php.ini \u043d\u0435 \u0431\u0443\u043b\u043e \u043d\u0430\u043b\u0430\u0448\u0442\u043e\u0432\u0430\u043d\u043e \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0457 \u0442\u0435\u043a\u0438, \u0430\u0431\u043e \u043d\u0430\u043b\u0430\u0448\u0442\u043e\u0432\u0430\u043d\u0430 \u0442\u0435\u043a\u0430 \u043d\u0435 \u0456\u0441\u043d\u0443\u0454."
                 },
                 "52": {
                     "id": "52",
@@ -35685,8 +35684,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c \u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u043c \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u043c \u0440\u0430\u0445\u0443\u043d\u043a\u043e\u043c (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0443 (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -35774,8 +35772,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c \u041a\u043e\u0434\u043e\u043c \u0456\u0434\u0435\u043d\u0442\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u0457 \u0431\u0456\u0437\u043d\u0435\u0441\u0443 (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u043c \u043a\u043e\u0434\u043e\u043c (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -35783,8 +35780,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c UUID."
                 },
                 "84": {
                     "id": "84",
@@ -35900,13 +35896,11 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u043e\u044e MAC-\u0430\u0434\u0440\u0435\u0441\u043e\u044e.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u043e\u044e MAC-\u0430\u0434\u0440\u0435\u0441\u043e\u044e."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0426\u0435\u0439 URL \u043d\u0435 \u043c\u0456\u0441\u0442\u0438\u0442\u044c \u0434\u043e\u043c\u0435\u043d \u0432\u0435\u0440\u0445\u043d\u044c\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f (TLD).",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u044c\u043e\u043c\u0443 URL \u043d\u0435 \u0432\u0438\u0441\u0442\u0430\u0447\u0430\u0454 \u0434\u043e\u043c\u0435\u043d\u0443 \u0432\u0435\u0440\u0445\u043d\u044c\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f."
                 }
             },
             "ur": {
@@ -36362,7 +36356,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u06cc\u06c1 URL \u0627\u0648\u067e\u0631\u06cc \u0633\u0637\u062d \u06a9\u06d2 \u0688\u0648\u0645\u06cc\u0646 (TLD) \u06a9\u0648 \u0634\u0627\u0645\u0644 \u0646\u06c1\u06cc\u06ba \u06a9\u0631\u062a\u0627\u06d4",
+                    "trans": "\u0627\u0633 URL \u0645\u06cc\u06ba \u0679\u0627\u067e \u0644\u06cc\u0648\u0644 \u0688\u0648\u0645\u06cc\u0646 \u0645\u0648\u062c\u0648\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
                     "state": "needs-review-translation"
                 }
             },
@@ -36812,7 +36806,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Bu URL yuqori darajali domen (TLD)ni o'z ichiga olmaydi.",
+                    "trans": "Bu URL yuqori darajali domenni o'z ichiga olmaydi.",
                     "state": "needs-review-translation"
                 }
             },
@@ -37262,7 +37256,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "URL n\u00e0y kh\u00f4ng ch\u1ee9a t\u00ean mi\u1ec1n c\u1ea5p cao (TLD).",
+                    "trans": "URL n\u00e0y thi\u1ebfu mi\u1ec1n c\u1ea5p cao.",
                     "state": "needs-review-translation"
                 }
             },
@@ -37713,7 +37707,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u6b64URL\u4e0d\u5305\u542b\u9876\u7ea7\u57df\u540d\uff08TLD\uff09\u3002",
+                    "trans": "\u6b64URL\u7f3a\u5c11\u9876\u7ea7\u57df\u540d\u3002",
                     "state": "needs-review-translation"
                 }
             },
@@ -38163,7 +38157,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u6b64URL\u4e0d\u542b\u9802\u7d1a\u57df\u540d\uff08TLD\uff09\u3002",
+                    "trans": "\u6b64URL\u7f3a\u5c11\u9802\u7d1a\u57df\u540d\u3002",
                     "state": "needs-review-translation"
                 }
             }
