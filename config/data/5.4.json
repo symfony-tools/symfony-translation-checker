@@ -15376,7 +15376,7 @@
                 },
                 "27": {
                     "id": "27",
-                    "trans": "Aquest valor no \u00e9s una URL v\u00e0lida."
+                    "trans": "Aquest valor no \u00e9s un URL v\u00e0lid."
                 },
                 "31": {
                     "id": "31",
@@ -15384,7 +15384,7 @@
                 },
                 "32": {
                     "id": "32",
-                    "trans": "L'arxiu \u00e9s massa gran. El tamany m\u00e0xim perm\u00e9s \u00e9s {{ limit }} {{ suffix }}."
+                    "trans": "L'arxiu \u00e9s massa gran. La mida m\u00e0xima permesa \u00e9s {{ limit }} {{ suffix }}."
                 },
                 "33": {
                     "id": "33",
@@ -15404,8 +15404,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Aquest valor no \u00e9s una adre\u00e7a IP v\u00e0lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s una adre\u00e7a IP v\u00e0lida."
                 },
                 "38": {
                     "id": "38",
@@ -15429,19 +15428,19 @@
                 },
                 "43": {
                     "id": "43",
-                    "trans": "L'ampl\u00e0ria de la imatge \u00e9s massa gran ({{ width }}px). L'ampl\u00e0ria m\u00e0xima permesa s\u00f3n {{ max_width }}px."
+                    "trans": "L'ampl\u00e0ria de la imatge \u00e9s massa gran ({{ width }}px). L'ampl\u00e0ria m\u00e0xima permesa \u00e9s {{ max_width }}px."
                 },
                 "44": {
                     "id": "44",
-                    "trans": "L'ampl\u00e0ria de la imatge \u00e9s massa petita ({{ width }}px). L'ampl\u00e0ria m\u00ednima requerida s\u00f3n {{ min_width }}px."
+                    "trans": "L'ampl\u00e0ria de la imatge \u00e9s massa petita ({{ width }}px). L'ampl\u00e0ria m\u00ednima requerida \u00e9s {{ min_width }}px."
                 },
                 "45": {
                     "id": "45",
-                    "trans": "L'altura de la imatge \u00e9s massa gran ({{ height }}px). L'altura m\u00e0xima permesa s\u00f3n {{ max_height }}px."
+                    "trans": "L'altura de la imatge \u00e9s massa gran ({{ height }}px). L'altura m\u00e0xima permesa \u00e9s {{ max_height }}px."
                 },
                 "46": {
                     "id": "46",
-                    "trans": "L'altura de la imatge \u00e9s massa petita ({{ height }}px). L'altura m\u00ednima requerida s\u00f3n {{ min_height }}px."
+                    "trans": "L'altura de la imatge \u00e9s massa petita ({{ height }}px). L'altura m\u00ednima requerida \u00e9s {{ min_height }}px."
                 },
                 "47": {
                     "id": "47",
@@ -15461,8 +15460,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "No s'ha configurat cap carpeta temporal en php.ini, o la carpeta configurada no existeix.",
-                    "state": "needs-review-translation"
+                    "trans": "No s'ha configurat cap carpeta temporal en php.ini, o la carpeta configurada no existeix."
                 },
                 "52": {
                     "id": "52",
@@ -15470,7 +15468,7 @@
                 },
                 "53": {
                     "id": "53",
-                    "trans": "Una extensi\u00f3 de PHP va fer que la pujada fallara."
+                    "trans": "Una extensi\u00f3 de PHP va fer que la pujada fallar\u00e0."
                 },
                 "54": {
                     "id": "54",
@@ -15494,8 +15492,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Aquest valor no \u00e9s un N\u00famero de Compte Bancari Internacional (IBAN) v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un N\u00famero de Compte Bancari Internacional (IBAN) v\u00e0lid."
                 },
                 "60": {
                     "id": "60",
@@ -15547,31 +15544,31 @@
                 },
                 "72": {
                     "id": "72",
-                    "trans": "Aquest valor no hauria de id\u00e8ntic a {{ compared_value_type }} {{ compared_value }}."
+                    "trans": "Aquest valor no hauria de ser id\u00e8ntic a {{ compared_value_type }} {{ compared_value }}."
                 },
                 "73": {
                     "id": "73",
-                    "trans": "La proporci\u00f3 de l'imatge \u00e9s massa gran ({{ ratio }}). La m\u00e0xima proporci\u00f3 permesa \u00e9s {{ max_ratio }}."
+                    "trans": "La proporci\u00f3 de la imatge \u00e9s massa gran ({{ ratio }}). La m\u00e0xima proporci\u00f3 permesa \u00e9s {{ max_ratio }}."
                 },
                 "74": {
                     "id": "74",
-                    "trans": "La proporci\u00f3 de l'imatge \u00e9s massa petita ({{ ratio }}). La m\u00ednima proporci\u00f3 permesa \u00e9s {{ max_ratio }}."
+                    "trans": "La proporci\u00f3 de la imatge \u00e9s massa petita ({{ ratio }}). La m\u00ednima proporci\u00f3 permesa \u00e9s {{ min_ratio }}."
                 },
                 "75": {
                     "id": "75",
-                    "trans": "L'imatge \u00e9s quadrada({{ width }}x{{ height }}px). Les imatges quadrades no estan permeses."
+                    "trans": "La imatge \u00e9s quadrada({{ width }}x{{ height }}px). Les imatges quadrades no estan permeses."
                 },
                 "76": {
                     "id": "76",
-                    "trans": "L'imatge est\u00e0 orientada horitzontalment ({{ width }}x{{ height }}px). Les imatges orientades horitzontalment no estan permeses."
+                    "trans": "La imatge est\u00e0 orientada horitzontalment ({{ width }}x{{ height }}px). Les imatges orientades horitzontalment no estan permeses."
                 },
                 "77": {
                     "id": "77",
-                    "trans": "L'imatge est\u00e0 orientada verticalment ({{ width }}x{{ height }}px). Les imatges orientades verticalment no estan permeses."
+                    "trans": "La imatge est\u00e0 orientada verticalment ({{ width }}x{{ height }}px). Les imatges orientades verticalment no estan permeses."
                 },
                 "78": {
                     "id": "78",
-                    "trans": "No est\u00e0 perm\u00e8s un fixter buit."
+                    "trans": "No est\u00e0 perm\u00e8s un fitxer buit."
                 },
                 "79": {
                     "id": "79",
@@ -15583,8 +15580,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Aquest valor no \u00e9s un Codi d'Identificador de Negocis (BIC) v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un Codi d'identificaci\u00f3 bancari (BIC) v\u00e0lid."
                 },
                 "82": {
                     "id": "82",
@@ -15592,8 +15588,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Aquest valor no \u00e9s un UUID v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un UUID v\u00e0lid."
                 },
                 "84": {
                     "id": "84",
@@ -15701,23 +15696,19 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "L'extensi\u00f3 del fitxer no \u00e9s v\u00e0lida ({{ extension }}). Les extensions permeses s\u00f3n {{ extensions }}.",
-                    "state": "needs-review-translation"
+                    "trans": "L'extensi\u00f3 del fitxer no \u00e9s v\u00e0lida ({{ extension }}). Les extensions permeses s\u00f3n {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "S'ha detectat que la codificaci\u00f3 de car\u00e0cters no \u00e9s v\u00e0lida ({{ detected }}). Les codificacions permeses s\u00f3n {{ encodings }}.",
-                    "state": "needs-review-translation"
+                    "trans": "S'ha detectat que la codificaci\u00f3 de car\u00e0cters no \u00e9s v\u00e0lida ({{ detected }}). Les codificacions permeses s\u00f3n {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Aquest valor no \u00e9s una adre\u00e7a MAC v\u00e0lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s una adre\u00e7a MAC v\u00e0lida."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Aquesta URL no cont\u00e9 un domini de nivell superior.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquesta URL no cont\u00e9 un domini de primer nivell."
                 }
             },
             "cs": {
@@ -18817,7 +18808,7 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "El nombre del archivo es demasido largo. Debe tener {{ filename_max_length }} car\u00e1cter o menos.|El nombre del archivo es demasido largo. Debe tener {{ filename_max_length }} caracteres o menos."
+                    "trans": "El nombre del archivo es demasiado largo. Debe tener {{ filename_max_length }} car\u00e1cter o menos.|El nombre del archivo es demasiado largo. Debe tener {{ filename_max_length }} caracteres o menos."
                 },
                 "105": {
                     "id": "105",
@@ -18853,8 +18844,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Esta URL no contiene una extensi\u00f3n de dominio (TLD).",
-                    "state": "needs-review-translation"
+                    "trans": "Esta URL no contiene una extensi\u00f3n de dominio (TLD)."
                 }
             },
             "et": {
@@ -21091,8 +21081,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Cette URL est d\u00e9pourvue de domaine de premier niveau.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette URL doit contenir un de domaine de premier niveau."
                 }
             },
             "gl": {
