@@ -206,6 +206,10 @@
             "19": {
                 "id": "19",
                 "source": "Too many failed login attempts, please try again in %minutes% minute."
+            },
+            "20": {
+                "id": "20",
+                "source": "Too many failed login attempts, please try again in %minutes% minutes."
             }
         },
         "Validator": {
@@ -8403,6 +8407,11 @@
                     "id": "19",
                     "trans": "Te veel mislukte aanmeldpogings, probeer asseblief weer oor %minutes% minuut.",
                     "state": "needs-review-translation"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Te veel mislukte aanmeldpogings, probeer asseblief weer oor %minutes% minute.",
+                    "state": "needs-review-translation"
                 }
             },
             "ar": {
@@ -8477,6 +8486,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u062c\u062f\u0627 \u0645\u0646 \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629\u060c \u064a\u0631\u062c\u0649 \u0627\u0639\u0627\u062f\u0629 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0628\u0639\u062f %minutes% \u062f\u0642\u064a\u0642\u0629."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0639\u062f\u062f \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629 \u0643\u062b\u064a\u0631\u0629\u060c \u0627\u0644\u0631\u062c\u0627\u0621 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0645\u0631\u0629 \u0623\u062e\u0631\u0649 \u0628\u0639\u062f %minutes% \u062f\u0642\u064a\u0642\u0629.|\u0639\u062f\u062f \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629 \u0643\u062b\u064a\u0631\u0629\u060c \u0627\u0644\u0631\u062c\u0627\u0621 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0645\u0631\u0629 \u0623\u062e\u0631\u0649 \u0628\u0639\u062f %minutes% \u062f\u0642\u0627\u0626\u0642.",
+                    "state": "needs-review-translation"
                 }
             },
             "az": {
@@ -8551,6 +8565,11 @@
                 "19": {
                     "id": "19",
                     "trans": "H\u0259ddind\u0259n art\u0131q u\u011fursuz giri\u015f c\u0259hdi, l\u00fctf\u0259n %minutes% d\u0259qiq\u0259 \u0259rzind\u0259 yenid\u0259n yoxlay\u0131n."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u00c7ox sayda u\u011fursuz giri\u015f c\u0259hdi, z\u0259hm\u0259t olmasa %minutes% d\u0259qiq\u0259 sonra yenid\u0259n c\u0259hd edin.|\u00c7ox sayda u\u011fursuz giri\u015f c\u0259hdi, z\u0259hm\u0259t olmasa %minutes% d\u0259qiq\u0259 sonra yenid\u0259n c\u0259hd edin.",
+                    "state": "needs-review-translation"
                 }
             },
             "be": {
@@ -8625,6 +8644,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0417\u0430\u043d\u0430\u0434\u0442\u0430 \u0448\u043c\u0430\u0442 \u043d\u044f\u045e\u0434\u0430\u043b\u044b\u0445 \u0441\u043f\u0440\u043e\u0431 \u0443\u0432\u0430\u0445\u043e\u0434\u0443 \u045e \u0441\u0456\u0441\u0442\u044d\u043c\u0443, \u043f\u0430\u0441\u043f\u0440\u0430\u0431\u0443\u0439\u0446\u0435 \u0441\u043f\u0440\u043e\u0431\u0443 \u043f\u0440\u0430\u0437 %minutes% \u0445\u0432\u0456\u043b\u0456\u043d\u0443."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0417\u0430\u043d\u0430\u0434\u0442\u0430 \u0448\u043c\u0430\u0442 \u043d\u044f\u045e\u0434\u0430\u043b\u044b\u0445 \u0441\u043f\u0440\u043e\u0431\u0430\u045e \u0443\u0432\u0430\u0445\u043e\u0434\u0443, \u043a\u0430\u043b\u0456 \u043b\u0430\u0441\u043a\u0430, \u043f\u0430\u0441\u043f\u0440\u0430\u0431\u0443\u0439\u0446\u0435 \u0437\u043d\u043e\u045e \u043f\u0440\u0430\u0437 %minutes% \u0445\u0432\u0456\u043b\u0456\u043d\u0443.|\u0417\u0430\u043d\u0430\u0434\u0442\u0430 \u0448\u043c\u0430\u0442 \u043d\u044f\u045e\u0434\u0430\u043b\u044b\u0445 \u0441\u043f\u0440\u043e\u0431\u0430\u045e \u0443\u0432\u0430\u0445\u043e\u0434\u0443, \u043a\u0430\u043b\u0456 \u043b\u0430\u0441\u043a\u0430, \u043f\u0430\u0441\u043f\u0440\u0430\u0431\u0443\u0439\u0446\u0435 \u0437\u043d\u043e\u045e \u043f\u0440\u0430\u0437 %minutes% \u0445\u0432\u0456\u043b\u0456\u043d\u044b.|\u0417\u0430\u043d\u0430\u0434\u0442\u0430 \u0448\u043c\u0430\u0442 \u043d\u044f\u045e\u0434\u0430\u043b\u044b\u0445 \u0441\u043f\u0440\u043e\u0431\u0430\u045e \u0443\u0432\u0430\u0445\u043e\u0434\u0443, \u043a\u0430\u043b\u0456 \u043b\u0430\u0441\u043a\u0430, \u043f\u0430\u0441\u043f\u0440\u0430\u0431\u0443\u0439\u0446\u0435 \u0437\u043d\u043e\u045e \u043f\u0440\u0430\u0437 %minutes% \u0445\u0432\u0456\u043b\u0456\u043d.",
+                    "state": "needs-review-translation"
                 }
             },
             "bg": {
@@ -8699,6 +8723,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0422\u0432\u044a\u0440\u0434\u0435 \u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438 \u043e\u043f\u0438\u0442\u0438 \u0437\u0430 \u0432\u0445\u043e\u0434, \u043c\u043e\u043b\u044f \u043e\u043f\u0438\u0442\u0430\u0439\u0442\u0435 \u043e\u0442\u043d\u043e\u0432\u043e \u0441\u043b\u0435\u0434 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0422\u0432\u044a\u0440\u0434\u0435 \u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438 \u043e\u043f\u0438\u0442\u0438 \u0437\u0430 \u0432\u0445\u043e\u0434, \u043c\u043e\u043b\u044f \u043e\u043f\u0438\u0442\u0430\u0439\u0442\u0435 \u043e\u0442\u043d\u043e\u0432\u043e \u0441\u043b\u0435\u0434 %minutes% \u043c\u0438\u043d\u0443\u0442\u0438.",
+                    "state": "needs-review-translation"
                 }
             },
             "bs": {
@@ -8773,6 +8802,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minuta."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minut.|Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minuta.",
+                    "state": "needs-review-translation"
                 }
             },
             "ca": {
@@ -8847,6 +8881,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Massa intents d'inici de sessi\u00f3 fallits, torneu-ho a provar en %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Massa intents fallits d'inici de sessi\u00f3, torneu-ho a provar d'aqu\u00ed a %minutes% minuts.",
+                    "state": "needs-review-translation"
                 }
             },
             "cs": {
@@ -8921,6 +8960,11 @@
                 "19": {
                     "id": "19",
                     "trans": "P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minutu."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minutu.|P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minuty.|P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minut.",
+                    "state": "needs-review-translation"
                 }
             },
             "cy": {
@@ -9013,6 +9057,11 @@
                     "id": "19",
                     "trans": "Gormod o ymdrechion mewngofnodi wedi methu, ceisiwch eto ymhen %minutes% munud.",
                     "state": "needs-review-translation"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Gormod o ymdrechion mewngofnodi wedi methu, rhowch gynnig arall arni mewn %minutes% munud.|Gormod o ymdrechion mewngofnodi wedi methu, rhowch gynnig arall arni mewn %minutes% munud.",
+                    "state": "needs-review-translation"
                 }
             },
             "da": {
@@ -9087,6 +9136,11 @@
                 "19": {
                     "id": "19",
                     "trans": "For mange mislykkede loginfors\u00f8g. Pr\u00f8v venligst igen om %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "For mange mislykkede loginfors\u00f8g, pr\u00f8v igen om %minutes% minutter.",
+                    "state": "needs-review-translation"
                 }
             },
             "de": {
@@ -9161,6 +9215,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Zu viele fehlgeschlagene Anmeldeversuche, bitte versuchen Sie es in einer Minute noch einmal."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Zu viele fehlgeschlagene Anmeldeversuche, bitte versuchen Sie es in %minutes% Minuten noch einmal."
                 }
             },
             "el": {
@@ -9235,6 +9293,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u03a0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03ad\u03c2 \u03b1\u03c0\u03bf\u03c4\u03c5\u03c7\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc\u03c0\u03b5\u03b9\u03c1\u03b5\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2, \u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03be\u03b1\u03bd\u03b1\u03b4\u03bf\u03ba\u03b9\u03bc\u03ac\u03c3\u03c4\u03b5 \u03c3\u03b5 %minutes% \u03bb\u03b5\u03c0\u03c4\u03cc."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u03a0\u03bf\u03bb\u03bb\u03ad\u03c2 \u03b1\u03c0\u03bf\u03c4\u03c5\u03c7\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03b5\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2, \u03b4\u03bf\u03ba\u03b9\u03bc\u03ac\u03c3\u03c4\u03b5 \u03be\u03b1\u03bd\u03ac \u03c3\u03b5 %minutes% \u03bb\u03b5\u03c0\u03c4\u03ac.",
+                    "state": "needs-review-translation"
                 }
             },
             "en": {
@@ -9309,6 +9372,10 @@
                 "19": {
                     "id": "19",
                     "trans": "Too many failed login attempts, please try again in %minutes% minute."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Too many failed login attempts, please try again in %minutes% minutes."
                 }
             },
             "es": {
@@ -9383,6 +9450,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Demasiados intentos fallidos de inicio de sesi\u00f3n, int\u00e9ntelo de nuevo en %minutes% minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Demasiados intentos fallidos de inicio de sesi\u00f3n, int\u00e9ntelo de nuevo en %minutes% minutos.",
+                    "state": "needs-review-translation"
                 }
             },
             "et": {
@@ -9457,6 +9529,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Liiga palju eba\u00f5nnestunud autentimise katseid, palun proovi uuesti %minutes% minuti p\u00e4rast."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Liiga palju nurjunud sisselogimiskatseid, proovige uuesti %minutes% minuti p\u00e4rast.",
+                    "state": "needs-review-translation"
                 }
             },
             "eu": {
@@ -9531,6 +9608,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Saioa hasteko huts gehiegi egin dira, saiatu berriro minutu %minutes% geroago."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Saioa hasteko saiakera huts gehiegi, saiatu berriro %minutes% minututan.",
+                    "state": "needs-review-translation"
                 }
             },
             "fa": {
@@ -9605,6 +9687,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u062a\u0644\u0627\u0634\u200c\u0647\u0627\u06cc \u0646\u0627\u0645\u0648\u0641\u0642 \u0632\u06cc\u0627\u062f\u06cc \u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f \u0635\u0648\u0631\u062a \u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u062a\u060c \u0644\u0637\u0641\u0627\u064b %minutes% \u062f\u0642\u06cc\u0642\u0647 \u062f\u06cc\u06af\u0631 \u062f\u0648\u0628\u0627\u0631\u0647 \u0627\u0645\u062a\u062d\u0627\u0646 \u06a9\u0646\u06cc\u062f."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u062a\u0639\u062f\u0627\u062f \u062f\u0641\u0639\u0627\u062a \u062a\u0644\u0627\u0634 \u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f \u0628\u06cc\u0634 \u0627\u0632 \u062d\u062f \u0632\u06cc\u0627\u062f \u0627\u0633\u062a\u060c \u0644\u0637\u0641\u0627 \u067e\u0633 \u0627\u0632 %minutes% \u062f\u0642\u06cc\u0642\u0647 \u062f\u0648\u0628\u0627\u0631\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f.",
+                    "state": "needs-review-translation"
                 }
             },
             "fi": {
@@ -9679,6 +9766,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Liian monta ep\u00e4onnistunutta kirjautumisyrityst\u00e4, yrit\u00e4 uudelleen %minutes% minuutin kuluttua."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Liian monta ep\u00e4onnistunutta kirjautumisyrityst\u00e4, yrit\u00e4 uudelleen %minutes% minuutin kuluttua.",
+                    "state": "needs-review-translation"
                 }
             },
             "fr": {
@@ -9753,6 +9845,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Plusieurs tentatives de connexion ont \u00e9chou\u00e9, veuillez r\u00e9essayer dans %minutes% minute."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Trop de tentatives de connexion \u00e9chou\u00e9es, veuillez r\u00e9essayer dans %minutes% minutes.",
+                    "state": "needs-review-translation"
                 }
             },
             "gl": {
@@ -9827,6 +9924,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Demasiados intentos de inicio de sesi\u00f3n errados, por favor, t\u00e9nteo de novo en %minutes% minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Demasiados intentos fallidos de inicio de sesi\u00f3n, int\u00e9ntao de novo en %minutes% minutos.",
+                    "state": "needs-review-translation"
                 }
             },
             "he": {
@@ -9901,6 +10003,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e0\u05d9\u05e1\u05d9\u05d5\u05e0\u05d5\u05ea \u05db\u05e0\u05d9\u05e1\u05d4 \u05db\u05d5\u05e9\u05dc\u05d9\u05dd, \u05d0\u05e0\u05d0 \u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1 \u05d1\u05d5\u05d3 %minutes% \u05d3\u05e7\u05d4."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e0\u05d9\u05e1\u05d9\u05d5\u05e0\u05d5\u05ea \u05db\u05e0\u05d9\u05e1\u05d4 \u05db\u05d5\u05e9\u05dc\u05d9\u05dd, \u05d0\u05e0\u05d0 \u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1 \u05d1\u05e2\u05d5\u05d3 %minutes% \u05d3\u05e7\u05d5\u05ea.",
+                    "state": "needs-review-translation"
                 }
             },
             "hr": {
@@ -9975,6 +10082,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, molim poku\u0161ajte ponovo za %minutes% minutu."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minutu.|Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minuta.",
+                    "state": "needs-review-translation"
                 }
             },
             "hu": {
@@ -10049,6 +10161,11 @@
                 "19": {
                     "id": "19",
                     "trans": "T\u00fal sok sikertelen bejelentkez\u00e9si k\u00eds\u00e9rlet, k\u00e9rj\u00fck pr\u00f3b\u00e1lja \u00fajra %minutes% perc m\u00falva."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "T\u00fal sok sikertelen bejelentkez\u00e9si k\u00eds\u00e9rlet, k\u00e9rj\u00fck, pr\u00f3b\u00e1lja \u00fajra %minutes% perc m\u00falva.",
+                    "state": "needs-review-translation"
                 }
             },
             "hy": {
@@ -10123,6 +10240,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0544\u0578\u0582\u057f\u0584\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u0561\u0576\u0570\u0561\u057b\u0578\u0572 \u0583\u0578\u0580\u0571\u0565\u0580: \u053d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u056f\u0580\u056f\u056b\u0576 \u0583\u0578\u0580\u0571\u0565\u056c %minutes \u0580\u0578\u057a\u0565:"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0549\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u0561\u0576\u0570\u0561\u057b\u0578\u0572 \u0574\u0578\u0582\u057f\u0584\u056b \u0583\u0578\u0580\u0571\u0565\u0580, \u056d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u0583\u0578\u0580\u0571\u0565\u056c \u056f\u0580\u056f\u056b\u0576 %minutes% \u0580\u0578\u057a\u0565\u056b\u0581.",
+                    "state": "needs-review-translation"
                 }
             },
             "id": {
@@ -10197,6 +10319,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Terlalu banyak percobaan login yang salah, silahkan coba lagi dalam %minutes% menit."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Terlalu banyak upaya login yang gagal, silakan coba lagi dalam %minutes% menit.|Terlalu banyak upaya login yang gagal, silakan coba lagi dalam %minutes% menit.",
+                    "state": "needs-review-translation"
                 }
             },
             "it": {
@@ -10271,6 +10398,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Troppi tentativi di login falliti, riprova tra %minutes% minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Troppi tentativi di accesso falliti, riprova tra %minutes% minuti.",
+                    "state": "needs-review-translation"
                 }
             },
             "ja": {
@@ -10345,6 +10477,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u30ed\u30b0\u30a4\u30f3\u8a66\u884c\u56de\u6570\u304c\u591a\u3059\u304e\u307e\u3059\u3002%minutes%\u5206\u5f8c\u306b\u518d\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u30ed\u30b0\u30a4\u30f3\u8a66\u884c\u306e\u5931\u6557\u304c\u591a\u3059\u304e\u307e\u3059\u3002%minutes% \u5206\u5f8c\u306b\u518d\u8a66\u884c\u3057\u3066\u304f\u3060\u3055\u3044\u3002|\u30ed\u30b0\u30a4\u30f3\u8a66\u884c\u306e\u5931\u6557\u304c\u591a\u3059\u304e\u307e\u3059\u3002%minutes% \u5206\u5f8c\u306b\u518d\u8a66\u884c\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                    "state": "needs-review-translation"
                 }
             },
             "lb": {
@@ -10419,6 +10556,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Zu vill fehlgeschloen Loginversich, w. e. g. prob\u00e9iert nach am %minutes% Minutt."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Ze vill Feeler beim Umellen, versicht weg er\u00ebm an %minutes% Minutten.",
+                    "state": "needs-review-translation"
                 }
             },
             "lt": {
@@ -10493,6 +10635,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Per daug nepavykusi\u0173 prisijungimo bandym\u0173, pabandykite dar kart\u0105 po %minutes% minut\u0117s."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Per daug nes\u0117kming\u0173 prisijungimo bandym\u0173, bandykite v\u0117l po %minutes% minut\u0117s.|Per daug nes\u0117kming\u0173 prisijungimo bandym\u0173, bandykite v\u0117l po %minutes% minu\u010di\u0173.",
+                    "state": "needs-review-translation"
                 }
             },
             "lv": {
@@ -10567,6 +10714,11 @@
                 "19": {
                     "id": "19",
                     "trans": "P\u0101r\u0101k daudz nesekm\u012bgu autentifik\u0101cijas m\u0113\u0123in\u0101jumu, l\u016bdzu m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016btes."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "P\u0101r\u0101k daudz neveiksm\u012bgu pieteik\u0161an\u0101s m\u0113\u0123in\u0101jumu, l\u016bdzu, m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016btes.|P\u0101r\u0101k daudz neveiksm\u012bgu pieteik\u0161an\u0101s m\u0113\u0123in\u0101jumu, l\u016bdzu, m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016bt\u0113m.",
+                    "state": "needs-review-translation"
                 }
             },
             "mk": {
@@ -10641,6 +10793,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u041f\u0440\u0435\u043c\u043d\u043e\u0433\u0443 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438 \u043e\u0431\u0438\u0434\u0438 \u0437\u0430 \u043d\u0430\u0458\u0430\u0432\u0443\u0432\u0430\u045a\u0435, \u043e\u0431\u0438\u0434\u0435\u0442\u0435 \u0441\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u041f\u0440\u0435\u0442\u0435\u0440\u0430\u043d\u043e \u043c\u043d\u043e\u0433\u0443 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438 \u043e\u0431\u0438\u0434\u0438 \u0437\u0430 \u043d\u0430\u0458\u0430\u0432\u0443\u0432\u0430\u045a\u0435, \u0432\u0435 \u043c\u043e\u043b\u0438\u043c\u0435 \u043e\u0431\u0438\u0434\u0435\u0442\u0435 \u0441\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430.|\u041f\u0440\u0435\u0442\u0435\u0440\u0430\u043d\u043e \u043c\u043d\u043e\u0433\u0443 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438 \u043e\u0431\u0438\u0434\u0438 \u0437\u0430 \u043d\u0430\u0458\u0430\u0432\u0443\u0432\u0430\u045a\u0435, \u0432\u0435 \u043c\u043e\u043b\u0438\u043c\u0435 \u043e\u0431\u0438\u0434\u0435\u0442\u0435 \u0441\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0438.",
+                    "state": "needs-review-translation"
                 }
             },
             "mn": {
@@ -10716,6 +10873,11 @@
                     "id": "19",
                     "trans": "\u041d\u044d\u0432\u0442\u0440\u044d\u0445 \u043e\u0440\u043e\u043b\u0434\u043b\u043e\u0433\u043e \u0438\u0445\u044d\u044d\u0440 \u0430\u043c\u0436\u0438\u043b\u0442\u0433\u04af\u0439 \u0431\u043e\u043b\u0441\u043e\u043d, %minutes% \u043c\u0438\u043d\u0443\u0442\u044b\u043d \u0434\u0430\u0440\u0430\u0430 \u0434\u0430\u0445\u0438\u043d \u043e\u0440\u043e\u043b\u0434\u043e\u043d\u043e \u0443\u0443.",
                     "state": "needs-review-translation"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0425\u044d\u0442 \u043e\u043b\u043e\u043d \u0431\u04af\u0442\u044d\u043b\u0433\u04af\u0439 \u043d\u044d\u0432\u0442\u0440\u044d\u0445 \u043e\u0440\u043e\u043b\u0434\u043b\u043e\u0433\u043e, %minutes% \u043c\u0438\u043d\u0443\u0442\u044b\u043d \u0434\u0430\u0440\u0430\u0430 \u0434\u0430\u0445\u0438\u043d \u043e\u0440\u043e\u043b\u0434\u043e\u043d\u043e \u0443\u0443.",
+                    "state": "needs-review-translation"
                 }
             },
             "my": {
@@ -10790,6 +10952,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Login \u1040\u1004\u103a\u101b\u1014\u103a\u1000\u103c\u102d\u102f\u1038\u1005\u102c\u1038\u1019\u103e\u102f\u1019\u103b\u102c\u1038\u101c\u103d\u1014\u103a\u1038\u1015\u102b\u101e\u100a\u103a\u104a \u1000\u103b\u1031\u1038\u1007\u1030\u1038\u1015\u103c\u102f\u104d \u1014\u1031\u102c\u1000\u103a %minutes% \u1019\u103e\u1011\u1015\u103a\u1019\u1036\u1000\u103c\u102d\u102f\u1038\u1005\u102c\u1038\u1015\u102b\u104b"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u101d\u1004\u103a\u101b\u1031\u102c\u1000\u103a\u1019\u103e\u102f \u1019\u1021\u1031\u102c\u1004\u103a\u1019\u103c\u1004\u103a\u101e\u1031\u102c \u1000\u103c\u102d\u102f\u1038\u1015\u1019\u103a\u1038\u1019\u103e\u102f\u1019\u103b\u102c\u1038\u1021\u1010\u103d\u1000\u103a \u1010\u1005\u103a\u1001\u102b\u1010\u100a\u103a\u1038 \u1015\u103c\u1014\u103a\u101c\u102f\u1015\u103a\u1019\u100a\u103a\u104b \u1011\u1015\u103a\u1019\u1036\u1000\u103c\u102d\u102f\u1038\u1005\u102c\u1038\u1000\u103c\u100a\u1037\u103a\u1015\u102b\u104b %minutes% \u1019\u102d\u1014\u1005\u103a\u1021\u1010\u103d\u1004\u103a\u1038|\u101d\u1004\u103a\u101b\u1031\u102c\u1000\u103a\u1019\u103e\u102f \u1019\u1021\u1031\u102c\u1004\u103a\u1019\u103c\u1004\u103a\u101e\u1031\u102c \u1000\u103c\u102d\u102f\u1038\u1015\u1019\u103a\u1038\u1019\u103e\u102f\u1019\u103b\u102c\u1038\u1021\u1010\u103d\u1000\u103a \u1010\u1005\u103a\u1001\u102b\u1010\u100a\u103a\u1038 \u1015\u103c\u1014\u103a\u101c\u102f\u1015\u103a\u1019\u100a\u103a\u104b \u1011\u1015\u103a\u1019\u1036\u1000\u103c\u102d\u102f\u1038\u1005\u102c\u1038\u1000\u103c\u100a\u1037\u103a\u1015\u102b\u104b %minutes% \u1019\u102d\u1014\u1005\u103a\u1021\u1010\u103d\u1004\u103a\u1038",
+                    "state": "needs-review-translation"
                 }
             },
             "nb": {
@@ -10864,6 +11031,11 @@
                 "19": {
                     "id": "19",
                     "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutt."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutter.",
+                    "state": "needs-review-translation"
                 }
             },
             "nl": {
@@ -10938,6 +11110,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Te veel onjuiste inlogpogingen, probeer het opnieuw over %minutes% minuut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Te veel mislukte inlogpogingen, probeer het over %minutes% minuten opnieuw.",
+                    "state": "needs-review-translation"
                 }
             },
             "nn": {
@@ -11012,6 +11189,11 @@
                 "19": {
                     "id": "19",
                     "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutt."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "For mange mislukka innloggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutt.",
+                    "state": "needs-review-translation"
                 }
             },
             "no": {
@@ -11086,6 +11268,11 @@
                 "19": {
                     "id": "19",
                     "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutt."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "For mange mislykkede p\u00e5loggingsfors\u00f8k, pr\u00f8v igjen om %minutes% minutter.",
+                    "state": "needs-review-translation"
                 }
             },
             "pl": {
@@ -11160,6 +11347,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie po up\u0142ywie %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie za %minutes% minut\u0119.|Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie za %minutes% minuty.|Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie za %minutes% minut.",
+                    "state": "needs-review-translation"
                 }
             },
             "pt": {
@@ -11234,6 +11426,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Demasiadas tentativas de login, tente novamente num minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Muitas tentativas de login sem sucesso, por favor tente novamente em %minutes% minutos.",
+                    "state": "needs-review-translation"
                 }
             },
             "pt_BR": {
@@ -11308,6 +11505,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Muitas tentativas de login inv\u00e1lidas, por favor, tente novamente em um minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Muitas tentativas de login sem sucesso, por favor tente novamente em %minutes% minutos.",
+                    "state": "needs-review-translation"
                 }
             },
             "ro": {
@@ -11382,6 +11584,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Prea multe \u00eencerc\u0103ri nereu\u0219ite, \u00eencearc\u0103 din nou \u00een %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Prea multe \u00eencerc\u0103ri e\u0219uate de autentificare, v\u0103 rug\u0103m s\u0103 \u00eencerca\u021bi din nou peste %minutes% minut.|Prea multe \u00eencerc\u0103ri e\u0219uate de autentificare, v\u0103 rug\u0103m s\u0103 \u00eencerca\u021bi din nou peste %minutes% minute.",
+                    "state": "needs-review-translation"
                 }
             },
             "ru": {
@@ -11456,6 +11663,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0421\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0443\u0434\u0430\u0447\u043d\u044b\u0445 \u043f\u043e\u043f\u044b\u0442\u043e\u043a \u0432\u0445\u043e\u0434\u0430 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0443, \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u0447\u0435\u0440\u0435\u0437 %minutes% \u043c\u0438\u043d\u0443\u0442\u0443."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0421\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0443\u0434\u0430\u0447\u043d\u044b\u0445 \u043f\u043e\u043f\u044b\u0442\u043e\u043a \u0432\u0445\u043e\u0434\u0430 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0443, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0441\u043d\u043e\u0432\u0430 \u0447\u0435\u0440\u0435\u0437 %minutes% \u043c\u0438\u043d\u0443\u0442\u0443.|\u0421\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0443\u0434\u0430\u0447\u043d\u044b\u0445 \u043f\u043e\u043f\u044b\u0442\u043e\u043a \u0432\u0445\u043e\u0434\u0430 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0443, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0441\u043d\u043e\u0432\u0430 \u0447\u0435\u0440\u0435\u0437 %minutes% \u043c\u0438\u043d\u0443\u0442\u044b.|\u0421\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0443\u0434\u0430\u0447\u043d\u044b\u0445 \u043f\u043e\u043f\u044b\u0442\u043e\u043a \u0432\u0445\u043e\u0434\u0430 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0443, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0441\u043d\u043e\u0432\u0430 \u0447\u0435\u0440\u0435\u0437 %minutes% \u043c\u0438\u043d\u0443\u0442.",
+                    "state": "needs-review-translation"
                 }
             },
             "sk": {
@@ -11530,6 +11742,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie. Sk\u00faste to znova o %minutes% min\u00fatu."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00fatu.|Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00faty.|Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00fat.",
+                    "state": "needs-review-translation"
                 }
             },
             "sl": {
@@ -11604,6 +11821,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Preve\u010d neuspelih poskusov prijave, poskusite znova \u010dez %minutes% minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minuto.|Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minut.",
+                    "state": "needs-review-translation"
                 }
             },
             "sq": {
@@ -11678,6 +11900,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Shum\u00eb p\u00ebrpjekje t\u00eb d\u00ebshtuara p\u00ebr identifikim; provo s\u00ebrish pas %minutes% minut\u00eb."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Shum\u00eb p\u00ebrpjekje t\u00eb pasuksesshme p\u00ebr t'u identifikuar, ju lutemi provoni p\u00ebrs\u00ebri pas %minutes% minutash.",
+                    "state": "needs-review-translation"
                 }
             },
             "sr_Cyrl": {
@@ -11752,6 +11979,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043c\u043e\u043b\u0438\u043c \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442.|\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430.|\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430.",
+                    "state": "needs-review-translation"
                 }
             },
             "sr_Latn": {
@@ -11826,6 +12058,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, molim poku\u0161ajte ponovo za %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, poku\u0161ajte ponovo za %minutes% minut.|Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, poku\u0161ajte ponovo za %minutes% minuta.|Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, poku\u0161ajte ponovo za %minutes% minuta.",
+                    "state": "needs-review-translation"
                 }
             },
             "sv": {
@@ -11900,6 +12137,11 @@
                 "19": {
                     "id": "19",
                     "trans": "F\u00f6r m\u00e5nga misslyckade inloggningsf\u00f6rs\u00f6k, f\u00f6rs\u00f6k igen om %minutes% minut."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "F\u00f6r m\u00e5nga misslyckade inloggningsf\u00f6rs\u00f6k, v\u00e4nligen f\u00f6rs\u00f6k igen om %minutes% minuter.",
+                    "state": "needs-review-translation"
                 }
             },
             "th": {
@@ -11974,6 +12216,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e23\u0e30\u0e1a\u0e1a\u0e25\u0e49\u0e21\u0e40\u0e2b\u0e25\u0e27\u0e21\u0e32\u0e01\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b \u0e42\u0e1b\u0e23\u0e14\u0e25\u0e2d\u0e07\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e19 %minutes% \u0e19\u0e32\u0e17\u0e35"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21\u0e43\u0e19\u0e01\u0e32\u0e23\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e23\u0e30\u0e1a\u0e1a\u0e25\u0e49\u0e21\u0e40\u0e2b\u0e25\u0e27\u0e21\u0e32\u0e01\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b \u0e42\u0e1b\u0e23\u0e14\u0e25\u0e2d\u0e07\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e19 %minutes% \u0e19\u0e32\u0e17\u0e35.|\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21\u0e43\u0e19\u0e01\u0e32\u0e23\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e23\u0e30\u0e1a\u0e1a\u0e25\u0e49\u0e21\u0e40\u0e2b\u0e25\u0e27\u0e21\u0e32\u0e01\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b \u0e42\u0e1b\u0e23\u0e14\u0e25\u0e2d\u0e07\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e19 %minutes% \u0e19\u0e32\u0e17\u0e35.",
+                    "state": "needs-review-translation"
                 }
             },
             "tl": {
@@ -12048,6 +12295,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Napakaraming nabigong mga pagtatangka sa pag-login, pakisubukan ulit sa% minuto% minuto."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Napakaraming nabigong pagtatangka ng pag-login, mangyaring subukang muli sa loob ng %minutes% minuto.|Napakaraming nabigong pagtatangka ng pag-login, mangyaring subukang muli sa loob ng %minutes% minuto.",
+                    "state": "needs-review-translation"
                 }
             },
             "tr": {
@@ -12122,6 +12374,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u00c7ok fazla ba\u015far\u0131s\u0131z giri\u015f denemesi, l\u00fctfen %minutes% dakika sonra tekrar deneyin."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u00c7ok fazla ba\u015far\u0131s\u0131z giri\u015f denemesi, l\u00fctfen %minutes% dakika sonra tekrar deneyin.|\u00c7ok fazla ba\u015far\u0131s\u0131z giri\u015f denemesi, l\u00fctfen %minutes% dakika sonra tekrar deneyin.",
+                    "state": "needs-review-translation"
                 }
             },
             "uk": {
@@ -12196,6 +12453,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0417\u0430\u0431\u0430\u0433\u0430\u0442\u043e \u043d\u0435\u0432\u0434\u0430\u043b\u0438\u0445 \u0441\u043f\u0440\u043e\u0431 \u0432\u0445\u043e\u0434\u0443. \u0411\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0441\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0437\u043d\u043e\u0432\u0443 \u0447\u0435\u0440\u0435\u0437 %minutes% \u0445\u0432\u0438\u043b\u0438\u043d\u0443."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0417\u0430\u043d\u0430\u0434\u0442\u043e \u0431\u0430\u0433\u0430\u0442\u043e \u043d\u0435\u0432\u0434\u0430\u043b\u0438\u0445 \u0441\u043f\u0440\u043e\u0431 \u0432\u0445\u043e\u0434\u0443, \u0431\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0441\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0449\u0435 \u0440\u0430\u0437 \u0447\u0435\u0440\u0435\u0437 %minutes% \u0445\u0432\u0438\u043b\u0438\u043d\u0443.|\u0417\u0430\u043d\u0430\u0434\u0442\u043e \u0431\u0430\u0433\u0430\u0442\u043e \u043d\u0435\u0432\u0434\u0430\u043b\u0438\u0445 \u0441\u043f\u0440\u043e\u0431 \u0432\u0445\u043e\u0434\u0443, \u0431\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0441\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0449\u0435 \u0440\u0430\u0437 \u0447\u0435\u0440\u0435\u0437 %minutes% \u0445\u0432\u0438\u043b\u0438\u043d\u0438.|\u0417\u0430\u043d\u0430\u0434\u0442\u043e \u0431\u0430\u0433\u0430\u0442\u043e \u043d\u0435\u0432\u0434\u0430\u043b\u0438\u0445 \u0441\u043f\u0440\u043e\u0431 \u0432\u0445\u043e\u0434\u0443, \u0431\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0441\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0449\u0435 \u0440\u0430\u0437 \u0447\u0435\u0440\u0435\u0437 %minutes% \u0445\u0432\u0438\u043b\u0438\u043d.",
+                    "state": "needs-review-translation"
                 }
             },
             "ur": {
@@ -12270,6 +12532,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u0645\u0646\u0679 \u0628\u0627\u062f %minutes% \u0644\u0627\u06af \u0627\u0646 \u06a9\u06cc \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u0646\u0627\u06a9\u0627\u0645 \u06a9\u0648\u0634\u0634\u06cc\u06ba \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u060c \u0628\u0631\u0627\u06d3 \u06a9\u0631\u0645 \u062f\u0648\u0628\u0627\u0631\u06be \u06a9\u0648\u0634\u064a\u0634 \u06a9\u0631\u064a\u06ba "
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u0646\u0627\u06a9\u0627\u0645 \u0644\u0627\u06af \u0627\u0646 \u06a9\u0648\u0634\u0634\u06cc\u06ba\u060c \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 %minutes% \u0645\u0646\u0679 \u0645\u06cc\u06ba \u062f\u0648\u0628\u0627\u0631\u06c1 \u06a9\u0648\u0634\u0634 \u06a9\u0631\u06cc\u06ba\u06d4",
+                    "state": "needs-review-translation"
                 }
             },
             "uz": {
@@ -12344,6 +12611,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Kirish uchun muvaffaqiyatsiz urinishlar, %minutes% daqiqadan so'ng qayta urinib ko'ring."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Ko\u02bbplab muvaffaqiyatsiz kirish urinishlari, iltimos, %minutes% daqiqadan so'ng qayta urinib ko\u02bbring.|Ko\u02bbplab muvaffaqiyatsiz kirish urinishlari, iltimos, %minutes% daqiqadan so'ng qayta urinib ko\u02bbring.",
+                    "state": "needs-review-translation"
                 }
             },
             "vi": {
@@ -12418,6 +12690,11 @@
                 "19": {
                     "id": "19",
                     "trans": "Qu\u00e1 nhi\u1ec1u l\u1ea7n th\u1eed \u0111\u0103ng nh\u1eadp kh\u00f4ng th\u00e0nh c\u00f4ng, vui l\u00f2ng th\u1eed l\u1ea1i sau %minutes% ph\u00fat."
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "Qu\u00e1 nhi\u1ec1u l\u1ea7n \u0111\u0103ng nh\u1eadp kh\u00f4ng th\u00e0nh c\u00f4ng, vui l\u00f2ng th\u1eed l\u1ea1i sau %minutes% ph\u00fat.|Qu\u00e1 nhi\u1ec1u l\u1ea7n \u0111\u0103ng nh\u1eadp kh\u00f4ng th\u00e0nh c\u00f4ng, vui l\u00f2ng th\u1eed l\u1ea1i sau %minutes% ph\u00fat.",
+                    "state": "needs-review-translation"
                 }
             },
             "zh_CN": {
@@ -12492,6 +12769,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u767b\u5165\u5931\u8d25\u7684\u6b21\u6570\u8fc7\u591a\uff0c\u8bf7\u5728%minutes%\u5206\u949f\u540e\u518d\u8bd5\u3002"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u767b\u5f55\u5c1d\u8bd5\u5931\u8d25\u6b21\u6570\u8fc7\u591a\uff0c\u8bf7\u5728 %minutes% \u5206\u949f\u540e\u518d\u8bd5\u3002|\u767b\u5f55\u5c1d\u8bd5\u5931\u8d25\u6b21\u6570\u8fc7\u591a\uff0c\u8bf7\u5728 %minutes% \u5206\u949f\u540e\u518d\u8bd5\u3002",
+                    "state": "needs-review-translation"
                 }
             },
             "zh_TW": {
@@ -12566,6 +12848,11 @@
                 "19": {
                     "id": "19",
                     "trans": "\u767b\u9304\u5931\u6557\u7684\u6b21\u6578\u904e\u591a\uff0c\u8acb\u5728%minutes%\u5206\u9418\u5f8c\u518d\u8a66\u3002"
+                },
+                "20": {
+                    "id": "20",
+                    "trans": "\u5617\u8a66\u767b\u5165\u5931\u6557\u6b21\u6578\u904e\u591a\uff0c\u8acb %minutes% \u5206\u9418\u5f8c\u518d\u8a66\u3002|\u5617\u8a66\u767b\u5165\u5931\u6557\u6b21\u6578\u904e\u591a\uff0c\u8acb %minutes% \u5206\u9418\u5f8c\u518d\u8a66\u3002",
+                    "state": "needs-review-translation"
                 }
             }
         },
