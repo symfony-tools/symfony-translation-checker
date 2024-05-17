@@ -10480,8 +10480,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "\u30ed\u30b0\u30a4\u30f3\u8a66\u884c\u306e\u5931\u6557\u304c\u591a\u3059\u304e\u307e\u3059\u3002%minutes% \u5206\u5f8c\u306b\u518d\u8a66\u884c\u3057\u3066\u304f\u3060\u3055\u3044\u3002|\u30ed\u30b0\u30a4\u30f3\u8a66\u884c\u306e\u5931\u6557\u304c\u591a\u3059\u304e\u307e\u3059\u3002%minutes% \u5206\u5f8c\u306b\u518d\u8a66\u884c\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u30ed\u30b0\u30a4\u30f3\u8a66\u884c\u56de\u6570\u304c\u591a\u3059\u304e\u307e\u3059\u3002%minutes%\u5206\u5f8c\u306b\u518d\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002"
                 }
             },
             "lb": {
@@ -24639,8 +24638,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306aIP\u30a2\u30c9\u30ec\u30b9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u6709\u52b9\u306aIP\u30a2\u30c9\u30ec\u30b9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 },
                 "38": {
                     "id": "38",
@@ -24696,8 +24694,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini\u306b\u4e00\u6642\u30d5\u30a9\u30eb\u30c0\u304c\u8a2d\u5b9a\u3055\u308c\u3066\u3044\u306a\u3044\u304b\u3001\u8a2d\u5b9a\u3055\u308c\u305f\u30d5\u30a9\u30eb\u30c0\u304c\u5b58\u5728\u3057\u307e\u305b\u3093\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "php.ini\u306b\u4e00\u6642\u30d5\u30a9\u30eb\u30c0\u304c\u8a2d\u5b9a\u3055\u308c\u3066\u3044\u306a\u3044\u304b\u3001\u8a2d\u5b9a\u3055\u308c\u305f\u30d5\u30a9\u30eb\u30c0\u304c\u5b58\u5728\u3057\u307e\u305b\u3093\u3002"
                 },
                 "52": {
                     "id": "52",
@@ -24729,8 +24726,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306a\u56fd\u969b\u9280\u884c\u53e3\u5ea7\u756a\u53f7\uff08IBAN\uff09\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u6709\u52b9\u306a\u56fd\u969b\u9280\u884c\u52d8\u5b9a\u756a\u53f7\uff08IBAN\uff09\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 },
                 "60": {
                     "id": "60",
@@ -24818,8 +24814,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306a\u30d3\u30b8\u30cd\u30b9\u8b58\u5225\u30b3\u30fc\u30c9\uff08BIC\uff09\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u6709\u52b9\u306aSWIFT\u30b3\u30fc\u30c9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 },
                 "82": {
                     "id": "82",
@@ -24827,8 +24822,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306aUUID\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u6709\u52b9\u306aUUID\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 },
                 "84": {
                     "id": "84",
@@ -24944,13 +24938,11 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306aMAC\u30a2\u30c9\u30ec\u30b9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u6709\u52b9\u306aMAC\u30a2\u30c9\u30ec\u30b9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u3053\u306eURL\u306f\u30c8\u30c3\u30d7\u30ec\u30d9\u30eb\u30c9\u30e1\u30a4\u30f3\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u3053\u306eURL\u306f\u30c8\u30c3\u30d7\u30ec\u30d9\u30eb\u30c9\u30e1\u30a4\u30f3\u304c\u3042\u308a\u307e\u305b\u3093\u3002"
                 }
             },
             "lb": {
