@@ -11113,8 +11113,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Te veel mislukte inlogpogingen, probeer het over %minutes% minuten opnieuw.",
-                    "state": "needs-review-translation"
+                    "trans": "Te veel mislukte inlogpogingen, probeer het over %minutes% minuten opnieuw."
                 }
             },
             "nn": {
