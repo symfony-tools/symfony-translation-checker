@@ -11348,8 +11348,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie za %minutes% minut\u0119.|Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie za %minutes% minuty.|Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie za %minutes% minut.",
-                    "state": "needs-review-translation"
+                    "trans": "Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie za %minutes% minut\u0119.|Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie za %minutes% minuty.|Zbyt wiele nieudanych pr\u00f3b logowania, spr\u00f3buj ponownie za %minutes% minut."
                 }
             },
             "pt": {
