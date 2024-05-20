@@ -10250,7 +10250,7 @@
             "id": {
                 "1": {
                     "id": "1",
-                    "trans": "Terjadi sebuah pengecualian otentikasi."
+                    "trans": "Terjadi kesalahan otentikasi."
                 },
                 "2": {
                     "id": "2",
@@ -10262,7 +10262,7 @@
                 },
                 "4": {
                     "id": "4",
-                    "trans": "Kredensial salah."
+                    "trans": "Kredensial tidak valid."
                 },
                 "5": {
                     "id": "5",
@@ -10274,7 +10274,7 @@
                 },
                 "7": {
                     "id": "7",
-                    "trans": "Token CSRF salah."
+                    "trans": "Token CSRF tidak valid."
                 },
                 "9": {
                     "id": "9",
@@ -10310,20 +10310,19 @@
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Terlalu banyak percobaan login yang salah, silahkan coba lagi nanti."
+                    "trans": "Terlalu banyak percobaan login yang gagal, silahkan coba lagi nanti."
                 },
                 "18": {
                     "id": "18",
-                    "trans": "Link login salah atau sudah kedaluwarsa."
+                    "trans": "Link login tidak valid atau sudah kedaluwarsa."
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Terlalu banyak percobaan login yang salah, silahkan coba lagi dalam %minutes% menit."
+                    "trans": "Terlalu banyak percobaan login yang gagal, silahkan coba lagi dalam %minutes% menit."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Terlalu banyak upaya login yang gagal, silakan coba lagi dalam %minutes% menit.|Terlalu banyak upaya login yang gagal, silakan coba lagi dalam %minutes% menit.",
-                    "state": "needs-review-translation"
+                    "trans": "Terlalu banyak upaya login yang gagal, silakan coba lagi dalam beberapa %minutes% menit."
                 }
             },
             "it": {
@@ -10716,8 +10715,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "P\u0101r\u0101k daudz neveiksm\u012bgu pieteik\u0161an\u0101s m\u0113\u0123in\u0101jumu, l\u016bdzu, m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016btes.|P\u0101r\u0101k daudz neveiksm\u012bgu pieteik\u0161an\u0101s m\u0113\u0123in\u0101jumu, l\u016bdzu, m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016bt\u0113m.",
-                    "state": "needs-review-translation"
+                    "trans": "P\u0101r\u0101k daudz neveiksm\u012bgu autentifik\u0101cijas m\u0113\u0123in\u0101jumu, l\u016bdzu, m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016btes.|P\u0101r\u0101k daudz neveiksm\u012bgu autentifik\u0101cijas m\u0113\u0123in\u0101jumu, l\u016bdzu, m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016bt\u0113m."
                 }
             },
             "mk": {
