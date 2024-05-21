@@ -9848,8 +9848,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Trop de tentatives de connexion \u00e9chou\u00e9es, veuillez r\u00e9essayer dans %minutes% minutes.",
-                    "state": "needs-review-translation"
+                    "trans": "Trop de tentatives de connexion \u00e9chou\u00e9es, veuillez r\u00e9essayer dans %minutes% minutes."
                 }
             },
             "gl": {
