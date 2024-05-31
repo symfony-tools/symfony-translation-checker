@@ -11579,8 +11579,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Prea multe \u00eencerc\u0103ri e\u0219uate de autentificare, v\u0103 rug\u0103m s\u0103 \u00eencerca\u021bi din nou peste %minutes% minut.|Prea multe \u00eencerc\u0103ri e\u0219uate de autentificare, v\u0103 rug\u0103m s\u0103 \u00eencerca\u021bi din nou peste %minutes% minute.",
-                    "state": "needs-review-translation"
+                    "trans": "Prea multe \u00eencerc\u0103ri e\u0219uate de autentificare, v\u0103 rug\u0103m s\u0103 \u00eencerca\u021bi din nou peste %minutes% minut.|Prea multe \u00eencerc\u0103ri e\u0219uate de autentificare, v\u0103 rug\u0103m s\u0103 \u00eencerca\u021bi din nou peste %minutes% minute."
                 }
             },
             "ru": {
