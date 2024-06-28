@@ -8872,7 +8872,7 @@
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Massa intents d'inici de sessi\u00f3 fallits, torneu-ho a provar m\u00e9s tard."
+                    "trans": "Massa intents d'inici de sessi\u00f3 fallits, si us plau torneu-ho a provar m\u00e9s tard."
                 },
                 "18": {
                     "id": "18",
@@ -8880,12 +8880,11 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Massa intents d'inici de sessi\u00f3 fallits, torneu-ho a provar en %minutes% minut."
+                    "trans": "Massa intents d'inici de sessi\u00f3 fallits, si us plau torneu-ho a provar en %minutes% minut."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Massa intents fallits d'inici de sessi\u00f3, torneu-ho a provar d'aqu\u00ed a %minutes% minuts.",
-                    "state": "needs-review-translation"
+                    "trans": "Massa intents d'inici de sessi\u00f3 fallits, si us plau torneu-ho a provar en %minutes% minuts."
                 }
             },
             "cs": {
