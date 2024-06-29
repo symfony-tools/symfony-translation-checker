@@ -11348,7 +11348,7 @@
             "pt": {
                 "1": {
                     "id": "1",
-                    "trans": "Ocorreu uma excep\u00e7\u00e3o durante a autentica\u00e7\u00e3o."
+                    "trans": "Ocorreu uma exce\u00e7\u00e3o durante a autentica\u00e7\u00e3o."
                 },
                 "2": {
                     "id": "2",
@@ -11356,7 +11356,7 @@
                 },
                 "3": {
                     "id": "3",
-                    "trans": "O pedido de autentica\u00e7\u00e3o n\u00e3o foi conclu\u00eddo devido a um problema no sistema."
+                    "trans": "A autentica\u00e7\u00e3o n\u00e3o foi conclu\u00edda devido a um problema no sistema."
                 },
                 "4": {
                     "id": "4",
@@ -11368,7 +11368,7 @@
                 },
                 "6": {
                     "id": "6",
-                    "trans": "N\u00e3o possui privil\u00e9gios para aceder a este recurso."
+                    "trans": "Sem privil\u00e9gios para solicitar este recurso."
                 },
                 "7": {
                     "id": "7",
@@ -11380,7 +11380,7 @@
                 },
                 "10": {
                     "id": "10",
-                    "trans": "N\u00e3o existe sess\u00e3o dispon\u00edvel, esta expirou ou os cookies est\u00e3o desativados."
+                    "trans": "Nenhuma sess\u00e3o dispon\u00edvel, esta expirou ou os cookies est\u00e3o desativados."
                 },
                 "11": {
                     "id": "11",
@@ -11388,7 +11388,7 @@
                 },
                 "12": {
                     "id": "12",
-                    "trans": "Nome de utilizador n\u00e3o encontrado."
+                    "trans": "Nome de usu\u00e1rio n\u00e3o encontrado."
                 },
                 "13": {
                     "id": "13",
@@ -11404,11 +11404,11 @@
                 },
                 "16": {
                     "id": "16",
-                    "trans": "A conta est\u00e1 trancada."
+                    "trans": "A conta est\u00e1 bloqueada."
                 },
                 "17": {
                     "id": "17",
-                    "trans": "V\u00e1rias tentativas de login falhadas, por favor tente mais tarde."
+                    "trans": "Muitas tentativas de login sem sucesso, por favor, tente mais tarde."
                 },
                 "18": {
                     "id": "18",
@@ -11416,12 +11416,11 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Demasiadas tentativas de login, tente novamente num minuto."
+                    "trans": "Muitas tentativas de login sem sucesso, por favor, tente novamente novamente em 1 minuto."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Muitas tentativas de login sem sucesso, por favor tente novamente em %minutes% minutos.",
-                    "state": "needs-review-translation"
+                    "trans": "Muitas tentativas de login sem sucesso, por favor, tente novamente em %minutes% minutos."
                 }
             },
             "pt_BR": {
@@ -11487,7 +11486,7 @@
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Muitas tentativas de login malsucedidas, tente novamente mais tarde."
+                    "trans": "Muitas tentativas de login malsucedidas, por favor, tente novamente mais tarde."
                 },
                 "18": {
                     "id": "18",
@@ -11499,8 +11498,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Muitas tentativas de login sem sucesso, por favor tente novamente em %minutes% minutos.",
-                    "state": "needs-review-translation"
+                    "trans": "Muitas tentativas de login sem sucesso, por favor, tente novamente em %minutes% minutos."
                 }
             },
             "ro": {
@@ -29978,7 +29976,7 @@
                 },
                 "22": {
                     "id": "22",
-                    "trans": "Este valor n\u00e3o deveria ser branco\/vazio."
+                    "trans": "Este valor n\u00e3o deveria ser vazio."
                 },
                 "23": {
                     "id": "23",
@@ -29998,7 +29996,7 @@
                 },
                 "27": {
                     "id": "27",
-                    "trans": "Este valor n\u00e3o \u00e9 um URL v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 uma URL v\u00e1lida."
                 },
                 "31": {
                     "id": "31",
@@ -30010,11 +30008,11 @@
                 },
                 "33": {
                     "id": "33",
-                    "trans": "O ficheiro \u00e9 muito grande."
+                    "trans": "O arquivo \u00e9 muito grande."
                 },
                 "34": {
                     "id": "34",
-                    "trans": "N\u00e3o foi poss\u00edvel carregar o ficheiro."
+                    "trans": "N\u00e3o foi poss\u00edvel enviar o arquivo."
                 },
                 "35": {
                     "id": "35",
@@ -30022,7 +30020,7 @@
                 },
                 "36": {
                     "id": "36",
-                    "trans": "Este ficheiro n\u00e3o \u00e9 uma imagem."
+                    "trans": "Este arquivo n\u00e3o \u00e9 uma imagem."
                 },
                 "37": {
                     "id": "37",
@@ -30034,11 +30032,11 @@
                 },
                 "39": {
                     "id": "39",
-                    "trans": "Este valor n\u00e3o \u00e9 um 'locale' v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 uma localidade v\u00e1lida."
                 },
                 "40": {
                     "id": "40",
-                    "trans": "Este valor n\u00e3o \u00e9 um Pa\u00eds v\u00e1lido."
+                    "trans": "Este valor n\u00e3o \u00e9 um pa\u00eds v\u00e1lido."
                 },
                 "41": {
                     "id": "41",
@@ -30046,7 +30044,7 @@
                 },
                 "42": {
                     "id": "42",
-                    "trans": "O tamanho da imagem n\u00e3o foi detetado."
+                    "trans": "O tamanho da imagem n\u00e3o foi detectado."
                 },
                 "43": {
                     "id": "43",
@@ -30054,7 +30052,7 @@
                 },
                 "44": {
                     "id": "44",
-                    "trans": "A largura da imagem ({{ width }}px) \u00e9 muito pequena. A largura min\u00edma da imagem \u00e9 de: {{ min_width }}px."
+                    "trans": "A largura da imagem ({{ width }}px) \u00e9 muito pequena. A largura m\u00ednima da imagem \u00e9 de: {{ min_width }}px."
                 },
                 "45": {
                     "id": "45",
@@ -30062,7 +30060,7 @@
                 },
                 "46": {
                     "id": "46",
-                    "trans": "A altura da imagem ({{ height }}px) \u00e9 muito pequena. A altura min\u00edma da imagem \u00e9 de: {{ min_height }}px."
+                    "trans": "A altura da imagem ({{ height }}px) \u00e9 muito pequena. A altura m\u00ednima da imagem \u00e9 de: {{ min_height }}px."
                 },
                 "47": {
                     "id": "47",
@@ -30070,7 +30068,7 @@
                 },
                 "48": {
                     "id": "48",
-                    "trans": "Este valor deve possuir exatamente {{ limit }} caracteres."
+                    "trans": "Este valor deve possuir exatamente {{ limit }} caractere.|Este valor deve possuir exatamente {{ limit }} caracteres."
                 },
                 "49": {
                     "id": "49",
@@ -30198,7 +30196,7 @@
                 },
                 "80": {
                     "id": "80",
-                    "trans": "O valor n\u00e3o corresponde ao conjunto de caracteres {{ charset }} esperado."
+                    "trans": "Este valor n\u00e3o corresponde ao conjunto de caracteres {{ charset }} esperado."
                 },
                 "81": {
                     "id": "81",
@@ -30230,7 +30228,7 @@
                 },
                 "88": {
                     "id": "88",
-                    "trans": "Este valor deve ser estritamente positivo."
+                    "trans": "Este valor deve ser positivo."
                 },
                 "89": {
                     "id": "89",
@@ -30238,7 +30236,7 @@
                 },
                 "90": {
                     "id": "90",
-                    "trans": "Este valor deve ser estritamente negativo."
+                    "trans": "Este valor deve ser negativo."
                 },
                 "91": {
                     "id": "91",
@@ -30250,11 +30248,11 @@
                 },
                 "93": {
                     "id": "93",
-                    "trans": "Esta senha foi divulgada durante uma fuga de dados, n\u00e3o deve ser usada de novamente. Por favor usar uma senha outra."
+                    "trans": "Esta senha foi divulgada durante um vazamento de dados, n\u00e3o deve ser usada de novamente. Por favor usar uma senha outra."
                 },
                 "94": {
                     "id": "94",
-                    "trans": "Este valor deve situar-se entre {{ min }} e {{ max }}."
+                    "trans": "Este valor deve estar entre {{ min }} e {{ max }}."
                 },
                 "95": {
                     "id": "95",
@@ -30266,7 +30264,7 @@
                 },
                 "97": {
                     "id": "97",
-                    "trans": "Este valor deve satisfazer pelo menos uma das seguintes restri\u00e7\u00f5es :"
+                    "trans": "Este valor deve satisfazer pelo menos uma das seguintes restri\u00e7\u00f5es:"
                 },
                 "98": {
                     "id": "98",
@@ -30318,11 +30316,11 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "A extens\u00e3o do ficheiro \u00e9 inv\u00e1lida ({{ extension }}). As extens\u00f5es permitidas s\u00e3o {{ extensions }}."
+                    "trans": "A extens\u00e3o do arquivo \u00e9 inv\u00e1lida ({{ extension }}). As extens\u00f5es permitidas s\u00e3o {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "A codifica\u00e7\u00e3o de carateres detetada \u00e9 inv\u00e1lida ({{ detected }}). As codifica\u00e7\u00f5es permitidas s\u00e3o {{ encodings }}."
+                    "trans": "A codifica\u00e7\u00e3o de carateres detectada \u00e9 inv\u00e1lida ({{ detected }}). As codifica\u00e7\u00f5es permitidas s\u00e3o {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
@@ -30330,8 +30328,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Esta URL est\u00e1 faltando um dom\u00ednio de topo.",
-                    "state": "needs-review-translation"
+                    "trans": "Esta URL est\u00e1 faltando o dom\u00ednio de n\u00edvel superior."
                 }
             },
             "pt_BR": {
@@ -30773,8 +30770,7 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Esta URL est\u00e1 faltando um dom\u00ednio de topo.",
-                    "state": "needs-review-translation"
+                    "trans": "Esta URL est\u00e1 faltando o dom\u00ednio de n\u00edvel superior."
                 }
             },
             "ro": {
