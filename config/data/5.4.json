@@ -25852,6 +25852,14 @@
                 "113": {
                     "id": "113",
                     "trans": "\u0160iam URL tr\u016bksta auk\u0161\u010diausio lygio domeno."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Per ma\u017eas \u017eod\u017ei\u0173 skai\u010dius. Turi susidaryti bent i\u0161 1 \u017eod\u017eio.|Per ma\u017eas \u017eod\u017ei\u0173 skai\u010dius. Turi susidaryti i\u0161 {{ min }} arba daugiau \u017eod\u017ei\u0173."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Per didelis \u017eod\u017ei\u0173 skai\u010dius. Turi susidaryti i\u0161 1 \u017eod\u017eio.|Per didelis \u017eod\u017ei\u0173 skai\u010dius. Turi susidaryti i\u0161 {{ max }} arba ma\u017eiau \u017eod\u017ei\u0173."
                 }
             },
             "lv": {
