@@ -25852,6 +25852,14 @@
                 "113": {
                     "id": "113",
                     "trans": "\u0160iam URL tr\u016bksta auk\u0161\u010diausio lygio domeno."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Per ma\u017eas \u017eod\u017ei\u0173 skai\u010dius. Turi susidaryti bent i\u0161 1 \u017eod\u017eio.|Per ma\u017eas \u017eod\u017ei\u0173 skai\u010dius. Turi susidaryti i\u0161 {{ min }} arba daugiau \u017eod\u017ei\u0173."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Per didelis \u017eod\u017ei\u0173 skai\u010dius. Turi susidaryti i\u0161 1 \u017eod\u017eio.|Per didelis \u017eod\u017ei\u0173 skai\u010dius. Turi susidaryti i\u0161 {{ max }} arba ma\u017eiau \u017eod\u017ei\u0173."
                 }
             },
             "lv": {
@@ -29918,6 +29926,14 @@
                 "113": {
                     "id": "113",
                     "trans": "Podany URL nie zawiera domeny najwy\u017cszego poziomu."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Podana warto\u015b\u0107 jest zbyt kr\u00f3tka. Powinna zawiera\u0107 co najmniej jedno s\u0142owo.|Podana warto\u015b\u0107 jest zbyt kr\u00f3tka. Powinna zawiera\u0107 co najmniej {{ min }} s\u0142\u00f3w."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Podana warto\u015b\u0107 jest zbyt d\u0142uga. Powinna zawiera\u0107 jedno s\u0142owo.|Podana warto\u015b\u0107 jest zbyt d\u0142uga. Powinna zawiera\u0107 {{ max }} s\u0142\u00f3w lub mniej."
                 }
             },
             "pt": {
