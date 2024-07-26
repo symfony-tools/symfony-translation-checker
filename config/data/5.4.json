@@ -8485,7 +8485,7 @@
                 },
                 "17": {
                     "id": "17",
-                    "trans": "\u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u062c\u062f\u0627 \u0645\u0646 \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629\u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0645\u0631\u0629 \u0623\u062e\u0631\u0649 \u0641\u064a \u0648\u0642\u062a \u0644\u0627\u062d\u0642."
+                    "trans": "\u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629\u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0645\u0631\u0629 \u0623\u062e\u0631\u0649 \u0641\u064a \u0648\u0642\u062a \u0644\u0627\u062d\u0642."
                 },
                 "18": {
                     "id": "18",
@@ -8493,12 +8493,11 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "\u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u062c\u062f\u0627 \u0645\u0646 \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629\u060c \u064a\u0631\u062c\u0649 \u0627\u0639\u0627\u062f\u0629 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0628\u0639\u062f %minutes% \u062f\u0642\u064a\u0642\u0629."
+                    "trans": "\u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629\u060c \u064a\u0631\u062c\u0649 \u0627\u0639\u0627\u062f\u0629 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0628\u0639\u062f %minutes% \u062f\u0642\u064a\u0642\u0629."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "\u0639\u062f\u062f \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629 \u0643\u062b\u064a\u0631\u0629\u060c \u0627\u0644\u0631\u062c\u0627\u0621 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0645\u0631\u0629 \u0623\u062e\u0631\u0649 \u0628\u0639\u062f %minutes% \u062f\u0642\u064a\u0642\u0629.|\u0639\u062f\u062f \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629 \u0643\u062b\u064a\u0631\u0629\u060c \u0627\u0644\u0631\u062c\u0627\u0621 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0645\u0631\u0629 \u0623\u062e\u0631\u0649 \u0628\u0639\u062f %minutes% \u062f\u0642\u0627\u0626\u0642.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u0627\u0644\u062f\u062e\u0648\u0644 \u0627\u0644\u0641\u0627\u0634\u0644\u0629 \u060c \u064a\u0631\u062c\u0649 \u0627\u0639\u0627\u062f\u0629 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0628\u0639\u062f %minutes% \u062f\u0642\u0627\u0626\u0642."
                 }
             },
             "az": {
@@ -15982,6 +15981,14 @@
                 "113": {
                     "id": "113",
                     "trans": "Aquesta URL no cont\u00e9 un domini de primer nivell."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Aquest valor \u00e9s massa curt. Ha de contenir almenys una paraula.|Aquest valor \u00e9s massa curt. Ha de contenir almenys {{ min }} paraules."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Aquest valor \u00e9s massa llarg. Ha de contenir una paraula.|Aquest valor \u00e9s massa llarg. Ha de contenir {{ max }} paraules o menys."
                 }
             },
             "cs": {
@@ -19134,6 +19141,14 @@
                 "113": {
                     "id": "113",
                     "trans": "Esta URL no contiene una extensi\u00f3n de dominio (TLD)."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Este valor es demasiado corto. Debe contener al menos una palabra.|Este valor es demasiado corto. Debe contener al menos {{ min }} palabras."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Este valor es demasiado largo. Debe contener una palabra.|Este valor es demasiado largo. Debe contener {{ max }} palabras o menos."
                 }
             },
             "et": {
