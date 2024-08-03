@@ -25924,7 +25924,7 @@
                 },
                 "12": {
                     "id": "12",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba ir neder\u012bgs datums un laiks"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba ir neder\u012bgs datums un laiks."
                 },
                 "13": {
                     "id": "13",
@@ -26317,6 +26317,14 @@
                 "113": {
                     "id": "113",
                     "trans": "\u0160im URL tr\u016bkst aug\u0161\u0113j\u0101 l\u012bme\u0146a dom\u0113na."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k \u012bsa. Tai b\u016btu j\u0101b\u016bt vismaz vienu v\u0101rdu garai.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k \u012bsa. Tai b\u016btu j\u0101b\u016bt ne maz\u0101k k\u0101 {{ min }} v\u0101rdus garai."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k gara. Tai b\u016btu j\u0101b\u016bt vienam v\u0101rdam.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k gara. Tai b\u016btu j\u0101b\u016bt ne vair\u0101k k\u0101 {{ max }} v\u0101rdus garai."
                 }
             },
             "mk": {
@@ -28585,6 +28593,14 @@
                 "113": {
                     "id": "113",
                     "trans": "Deze URL mist een top-level domein."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Deze waarde is te kort. Het moet ten minste \u00e9\u00e9n woord bevatten.|Deze waarde is te kort. Het moet ten minste {{ min }} woorden bevatten."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Deze waarde is te lang. Het moet \u00e9\u00e9n woord zijn.|Deze waarde is te lang. Het mag maximaal {{ max }} woorden bevatten."
                 }
             },
             "nn": {
