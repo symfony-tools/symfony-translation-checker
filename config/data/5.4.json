@@ -11112,7 +11112,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Te veel mislukte inlogpogingen, probeer het over %minutes% minuten opnieuw."
+                    "trans": "Te veel onjuiste inlogpogingen, probeer het opnieuw over %minutes% minuten."
                 }
             },
             "nn": {
