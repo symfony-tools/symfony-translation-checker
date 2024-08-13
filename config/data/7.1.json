@@ -660,6 +660,22 @@
             "115": {
                 "id": "115",
                 "source": "This value is too long. It should contain one word.|This value is too long. It should contain {{ max }} words or less."
+            },
+            "116": {
+                "id": "116",
+                "source": "This value does not represent a valid week in the ISO 8601 format."
+            },
+            "117": {
+                "id": "117",
+                "source": "This value is not a valid week."
+            },
+            "118": {
+                "id": "118",
+                "source": "This value should not be before week \"{{ min }}\"."
+            },
+            "119": {
+                "id": "119",
+                "source": "This value should not be after week \"{{ max }}\"."
             }
         }
     },
@@ -17806,6 +17822,22 @@
                 "115": {
                     "id": "115",
                     "trans": "Dieser Wert ist zu lang. Er darf maximal aus einem Wort bestehen.|Dieser Wert ist zu lang. Er darf maximal {{ max }} W\u00f6rter enthalten."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "Dieser Wert ist keine Wochenangabe im ISO 8601-Format."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "Dieser Wert ist keine g\u00fcltige Woche."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "Dieser Wert darf nicht vor der Woche \"{{ min }}\" sein."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "Dieser Wert darf nicht nach der Woche \"{{ max }}\" sein."
                 }
             },
             "el": {
@@ -18699,6 +18731,22 @@
                 "115": {
                     "id": "115",
                     "trans": "This value is too long. It should contain one word.|This value is too long. It should contain {{ max }} words or less."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "This value does not represent a valid week in the ISO 8601 format."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "This value is not a valid week."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "This value should not be before week \"{{ min }}\"."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "This value should not be after week \"{{ max }}\"."
                 }
             },
             "es": {
@@ -21394,6 +21442,22 @@
                 "115": {
                     "id": "115",
                     "trans": "Cette valeur est trop longue. Elle doit contenir au maximum un mot.|Cette valeur est trop longue. Elle doit contenir au maximum {{ max }} mots."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "Cette valeur ne repr\u00e9sente pas une semaine valide au format ISO 8601."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "Cette valeur n'est pas une semaine valide."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "Cette valeur ne doit pas \u00eatre ant\u00e9rieure \u00e0 la semaine \"{{ min }}\"."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "Cette valeur ne doit pas \u00eatre post\u00e9rieure \u00e0 la semaine \"{{ max }}\"."
                 }
             },
             "gl": {
