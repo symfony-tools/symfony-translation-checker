@@ -10418,8 +10418,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Troppi tentativi di accesso falliti, riprova tra %minutes% minuti.",
-                    "state": "needs-review-translation"
+                    "trans": "Troppi tentativi di login falliti, riprova tra %minutes% minuti."
                 }
             },
             "ja": {
