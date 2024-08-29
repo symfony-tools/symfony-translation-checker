@@ -11990,8 +11990,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442.|\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430.|\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442.|\u041f\u0440\u0435\u0432\u0438\u0448\u0435 \u043d\u0435\u0443\u0441\u043f\u0435\u0448\u043d\u0438\u0445 \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0430 \u043f\u0440\u0438\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045a\u0430, \u043f\u043e\u043a\u0443\u0448\u0430\u0458\u0442\u0435 \u043f\u043e\u043d\u043e\u0432\u043e \u0437\u0430 %minutes% \u043c\u0438\u043d\u0443\u0442\u0430."
                 }
             },
             "sr_Latn": {
@@ -12069,8 +12068,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, poku\u0161ajte ponovo za %minutes% minut.|Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, poku\u0161ajte ponovo za %minutes% minuta.|Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, poku\u0161ajte ponovo za %minutes% minuta.",
-                    "state": "needs-review-translation"
+                    "trans": "Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, poku\u0161ajte ponovo za %minutes% minut.|Previ\u0161e neuspe\u0161nih poku\u0161aja prijavljivanja, poku\u0161ajte ponovo za %minutes% minuta."
                 }
             },
             "sv": {
@@ -33284,8 +33282,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 IP \u0430\u0434\u0440\u0435\u0441\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 IP \u0430\u0434\u0440\u0435\u0441\u0430."
                 },
                 "38": {
                     "id": "38",
@@ -33341,8 +33338,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "\u041f\u0440\u0438\u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u0458\u0443\u043c \u043d\u0438\u0458\u0435 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0441\u0430\u043d \u0443 php.ini, \u0438\u043b\u0438 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0441\u0430\u043d\u0438 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u0458\u0443\u043c \u043d\u0435 \u043f\u043e\u0441\u0442\u043e\u0458\u0438.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041f\u0440\u0438\u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u0458\u0443\u043c \u043d\u0438\u0458\u0435 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0441\u0430\u043d \u0443 php.ini, \u0438\u043b\u0438 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0441\u0430\u043d\u0438 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0438\u0458\u0443\u043c \u043d\u0435 \u043f\u043e\u0441\u0442\u043e\u0458\u0438."
                 },
                 "52": {
                     "id": "52",
@@ -33374,8 +33370,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u041c\u0435\u0452\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438 \u0431\u0440\u043e\u0458 \u0431\u0430\u043d\u043a\u0430\u0440\u0441\u043a\u043e\u0433 \u0440\u0430\u0447\u0443\u043d\u0430 (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u041c\u0435\u0452\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438 \u0431\u0440\u043e\u0458 \u0431\u0430\u043d\u043a\u043e\u0432\u043d\u043e\u0433 \u0440\u0430\u0447\u0443\u043d\u0430 (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -33463,8 +33458,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u041a\u043e\u0434 \u0437\u0430 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0458\u0443 \u0431\u0438\u0437\u043d\u0438\u0441\u0430 (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u041a\u043e\u0434 \u0437\u0430 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0458\u0443 \u0431\u0438\u0437\u043d\u0438\u0441\u0430 (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -33472,8 +33466,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d UUID."
                 },
                 "84": {
                     "id": "84",
@@ -33593,8 +33586,31 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u041e\u0432\u043e\u043c URL \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0458\u0435 \u0434\u043e\u043c\u0435\u043d \u043d\u0430\u0458\u0432\u0438\u0448\u0435\u0433 \u043d\u0438\u0432\u043e\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u043e\u043c \u0423\u0420\u041b-\u0443 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0458\u0435 \u0434\u043e\u043c\u0435\u043d \u043d\u0430\u0458\u0432\u0438\u0448\u0435\u0433 \u043d\u0438\u0432\u043e\u0430."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043c\u0430\u043a\u0430\u0440 \u0458\u0435\u0434\u043d\u0443 \u0440\u0435\u0447.|\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043c\u0430\u043a\u0430\u0440 {{ min }} \u0440\u0435\u0447\u0438."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u0434\u0443\u0433\u0430\u0447\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u0441\u0430\u043c\u043e \u0458\u0435\u0434\u043d\u0443 \u0440\u0435\u0447.|\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u0434\u0443\u0433\u0430\u0447\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043d\u0430\u0458\u0432\u0438\u0448\u0435 {{ max }} \u0440\u0435\u0447\u0438."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0459\u0430 \u0432\u0430\u043b\u0438\u0434\u043d\u0443 \u043d\u0435\u0434\u0435\u0459\u0443 \u0443 ISO 8601 \u0444\u043e\u0440\u043c\u0430\u0442\u0443."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u043d\u0435\u0434\u0435\u0459\u0430."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u043f\u0440\u0435 \u043d\u0435\u0434\u0435\u0459\u0435 \"{{ min }}\"."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u043f\u043e\u0441\u043b\u0435 \u043d\u0435\u0434\u0435\u0459\u0435 \"{{ max }}\"."
                 }
             },
             "sr_Latn": {
@@ -33732,8 +33748,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ova vrednost nije validna IP adresa.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije validna IP adresa."
                 },
                 "38": {
                     "id": "38",
@@ -33789,8 +33804,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Privremeni direktorijum nije konfigurisan u php.ini, ili konfigurisani direktorijum ne postoji.",
-                    "state": "needs-review-translation"
+                    "trans": "Privremeni direktorijum nije konfigurisan u php.ini, ili direktorijum koji je konfigurisan ne postoji."
                 },
                 "52": {
                     "id": "52",
@@ -33822,8 +33836,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ova vrednost nije validan Me\u0111unarodni broj bankovnog ra\u010duna (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije validan Me\u0111unarodni broj bankovnog ra\u010duna (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -33911,8 +33924,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ova vrednost nije validan Kod za identifikaciju biznisa (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije validan Kod za identifikaciju biznisa (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -33920,8 +33932,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ova vrednost nije validan UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije validan UUID."
                 },
                 "84": {
                     "id": "84",
@@ -34037,13 +34048,35 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ova vrednost nije validna MAC adresa.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije validna MAC adresa."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ovom URL nedostaje domen najvi\u0161eg nivoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Ovom URL nedostaje domen najvi\u0161eg nivoa."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Ova vrednost je prekratka. Treba da sadr\u017ei makar jednu re\u010d.|Ova vrednost je prekratka. Treba da sadr\u017ei makar {{ min }} re\u010di."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Ova vrednost je preduga\u010dka. Treba da sadr\u017ei samo jednu re\u010d.|Ova vrednost je preduga\u010dka. Treba da sadr\u017ei najvi\u0161e {{ max }} re\u010di."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "Ova vrednost ne predstavlja validnu nedelju u ISO 8601 formatu."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "Ova vrednost nije validna nedelja"
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "Ova vrednost ne bi trebala da bude pre nedelje \"{{ min }}\"."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "Ova vrednost ne bi trebala da bude posle nedelje \"{{ max }}\"."
                 }
             },
             "sv": {
