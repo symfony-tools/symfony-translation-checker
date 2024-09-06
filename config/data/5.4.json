@@ -16001,6 +16001,22 @@
                 "115": {
                     "id": "115",
                     "trans": "Aquest valor \u00e9s massa llarg. Ha de contenir una paraula.|Aquest valor \u00e9s massa llarg. Ha de contenir {{ max }} paraules o menys."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "Aquest valor no representa una setmana v\u00e0lida en el format ISO 8601."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "Aquest valor no \u00e9s una setmana v\u00e0lida."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "Aquest valor no ha de ser anterior a la setmana \"{{ min }}\"."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "Aquest valor no ha de ser posterior a la setmana \"{{ max }}\"."
                 }
             },
             "cs": {
@@ -19193,6 +19209,22 @@
                 "115": {
                     "id": "115",
                     "trans": "Este valor es demasiado largo. Debe contener una palabra.|Este valor es demasiado largo. Debe contener {{ max }} palabras o menos."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "Este valor no representa una semana v\u00e1lida en formato ISO 8601."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "Este valor no es una semana v\u00e1lida."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "Este valor no debe ser anterior a la semana \"{{ min }}\"."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "Este valor no debe ser posterior a la semana \"{{ max }}\"."
                 }
             },
             "et": {
