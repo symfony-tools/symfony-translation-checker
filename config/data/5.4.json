@@ -11854,7 +11854,7 @@
                 },
                 "5": {
                     "id": "5",
-                    "trans": "Cookie \u00ebsht\u00eb p\u00ebrdorur tashm\u00eb nga dikush tjet\u00ebr."
+                    "trans": "\u201cCookie\u201d \u00ebsht\u00eb p\u00ebrdorur tashm\u00eb nga dikush tjet\u00ebr."
                 },
                 "6": {
                     "id": "6",
@@ -11910,8 +11910,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Shum\u00eb p\u00ebrpjekje t\u00eb pasuksesshme p\u00ebr t'u identifikuar, ju lutemi provoni p\u00ebrs\u00ebri pas %minutes% minutash.",
-                    "state": "needs-review-translation"
+                    "trans": "Shum\u00eb p\u00ebrpjekje t\u00eb d\u00ebshtuara p\u00ebr identifikim, ju lutemi provoni p\u00ebrs\u00ebri pas %minutes% minutash."
                 }
             },
             "sr_Cyrl": {
@@ -33175,6 +33174,30 @@
                     "id": "113",
                     "trans": "K\u00ebsaj URL i mungon nj\u00eb domain i nivelit t\u00eb lart\u00eb.",
                     "state": "needs-review-translation"
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb t\u00eb pakt\u00ebn nj\u00eb fjal\u00eb.|Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb t\u00eb pakt\u00ebn {{ min }} fjal\u00eb."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb nj\u00eb fjal\u00eb.|Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ max }} fjal\u00eb ose m\u00eb pak."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "Kjo vler\u00eb nuk p\u00ebrfaq\u00ebson nj\u00eb jav\u00eb t\u00eb vlefshme n\u00eb formatin ISO 8601."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb jav\u00eb e vlefshme."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "Kjo vler\u00eb nuk duhet t\u00eb jet\u00eb para jav\u00ebs \"{{ min }}\"."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "Kjo vler\u00eb nuk duhet t\u00eb jet\u00eb pas jav\u00ebs \"{{ max }}\"."
                 }
             },
             "sr_Cyrl": {
