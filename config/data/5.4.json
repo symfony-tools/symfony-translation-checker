@@ -8984,8 +8984,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minutu.|P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minuty.|P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minut.",
-                    "state": "needs-review-translation"
+                    "trans": "P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minutu.|P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minuty.|P\u0159\u00edli\u0161 mnoho ne\u00fasp\u011b\u0161n\u00fdch pokus\u016f o p\u0159ihl\u00e1\u0161en\u00ed, zkuste to pros\u00edm znovu za %minutes% minut."
                 }
             },
             "cy": {
@@ -16456,8 +16455,31 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "T\u00e9to URL chyb\u00ed dom\u00e9na nejvy\u0161\u0161\u00edho \u0159\u00e1du.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e9to URL nen\u00ed dom\u00e9na nejvy\u0161\u0161\u00edho \u0159\u00e1du."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Tato hodnota je p\u0159\u00edli\u0161 kr\u00e1tk\u00e1, m\u011bla by obsahovat alespo\u0148 jedno slovo|Tato hodnota je p\u0159\u00edli\u0161 kr\u00e1tk\u00e1, m\u011bla by obsahovat alespo\u0148 {{ min }} slova."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Tato hodnota je p\u0159\u00edli\u0161 dlouh\u00e1, m\u011bla obsahovat pouze jedno slovo.|Tato hodnota je p\u0159\u00edli\u0161 dlouh\u00e1, m\u011bla by obsahovat {{ max }} slova a nebo m\u00e9n\u011b."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "Tato hodnota nen\u00ed validn\u00ed t\u00fdden v ISO 8601 formatu."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "Tato hodnota nen\u00ed validn\u00ed t\u00fdden."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "Tato hodnota by nem\u011bla b\u00fdt t\u00fdden p\u0159ed \"{{ min }}\"."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "Tato hodnota by nem\u011bla b\u00fdt t\u00fdden za \"{{ max }}\"."
                 }
             },
             "cy": {
