@@ -33352,11 +33352,11 @@
                 },
                 "39": {
                     "id": "39",
-                    "trans": "\u0412\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u043b\u043e\u043a\u0430\u043b."
+                    "trans": "\u0412\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u043c\u0435\u0452\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430 \u043e\u0437\u043d\u0430\u043a\u0430 \u0458\u0435\u0437\u0438\u043a\u0430."
                 },
                 "40": {
                     "id": "40",
-                    "trans": "\u0412\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u0437\u0435\u043c\u0459\u0430."
+                    "trans": "\u0412\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u0434\u0440\u0436\u0430\u0432\u0430."
                 },
                 "41": {
                     "id": "41",
@@ -33368,19 +33368,19 @@
                 },
                 "43": {
                     "id": "43",
-                    "trans": "\u0428\u0438\u0440\u0438\u043d\u0430 \u0441\u043b\u0438\u043a\u0435 \u0458\u0435 \u043f\u0440\u0435\u0432\u0435\u043b\u0438\u043a\u0430 ({{ width }}px). \u041d\u0430\u0458\u0435\u045b\u0430 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u0448\u0438\u0440\u0438\u043d\u0430 \u0458\u0435 {{ max_width }}px."
+                    "trans": "\u0428\u0438\u0440\u0438\u043d\u0430 \u0441\u043b\u0438\u043a\u0435 \u0458\u0435 \u043f\u0440\u0435\u0432\u0435\u043b\u0438\u043a\u0430 ({{ width }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430). \u041d\u0430\u0458\u0435\u045b\u0430 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u0448\u0438\u0440\u0438\u043d\u0430 \u0458\u0435 {{ max_width }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430."
                 },
                 "44": {
                     "id": "44",
-                    "trans": "\u0428\u0438\u0440\u0438\u043d\u0430 \u0441\u043b\u0438\u043a\u0435 \u0458\u0435 \u043f\u0440\u0435\u043c\u0430\u043b\u0430 ({{ width }}px). \u041d\u0430\u0458\u043c\u0430\u045a\u0430 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u0448\u0438\u0440\u0438\u043d\u0430 \u0458\u0435 {{ min_width }}px."
+                    "trans": "\u0428\u0438\u0440\u0438\u043d\u0430 \u0441\u043b\u0438\u043a\u0435 \u0458\u0435 \u043f\u0440\u0435\u043c\u0430\u043b\u0430 ({{ width }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430). \u041d\u0430\u0458\u043c\u0430\u045a\u0430 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u0448\u0438\u0440\u0438\u043d\u0430 \u0458\u0435 {{ min_width }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430."
                 },
                 "45": {
                     "id": "45",
-                    "trans": "\u0412\u0438\u0441\u0438\u043d\u0430 \u0441\u043b\u0438\u043a\u0435 \u0458\u0435 \u043f\u0440\u0435\u0432\u0435\u043b\u0438\u043a\u0430 ({{ height }}px). \u041d\u0430\u0458\u0435\u045b\u0430 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u0432\u0438\u0441\u0438\u043d\u0430 \u0458\u0435 {{ max_height }}px."
+                    "trans": "\u0412\u0438\u0441\u0438\u043d\u0430 \u0441\u043b\u0438\u043a\u0435 \u0458\u0435 \u043f\u0440\u0435\u0432\u0435\u043b\u0438\u043a\u0430 ({{ height }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430). \u041d\u0430\u0458\u0435\u045b\u0430 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u0432\u0438\u0441\u0438\u043d\u0430 \u0458\u0435 {{ max_height }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430."
                 },
                 "46": {
                     "id": "46",
-                    "trans": "\u0412\u0438\u0441\u0438\u043d\u0430 \u0441\u043b\u0438\u043a\u0435 \u0458\u0435 \u043f\u0440\u0435\u043c\u0430\u043b\u0430 ({{ height }}px). \u041d\u0430\u0458\u043c\u0430\u045a\u0430 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u0432\u0438\u0441\u0438\u043d\u0430 \u0458\u0435 {{ min_height }}px."
+                    "trans": "\u0412\u0438\u0441\u0438\u043d\u0430 \u0441\u043b\u0438\u043a\u0435 \u0458\u0435 \u043f\u0440\u0435\u043c\u0430\u043b\u0430 ({{ height }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430). \u041d\u0430\u0458\u043c\u0430\u045a\u0430 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u0432\u0438\u0441\u0438\u043d\u0430 \u0458\u0435 {{ min_height }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430."
                 },
                 "47": {
                     "id": "47",
@@ -33392,7 +33392,7 @@
                 },
                 "49": {
                     "id": "49",
-                    "trans": "\u0414\u0430\u0442\u043e\u0442\u0435\u043a\u0430 \u0458\u0435 \u0441\u0430\u043c\u043e \u043f\u0430\u0440\u0446\u0438\u0458\u0430\u043b\u043d\u043e \u043e\u0442\u043f\u0440\u0435\u043c\u0459\u0435\u043d\u0430."
+                    "trans": "\u0414\u0430\u0442\u043e\u0442\u0435\u043a\u0430 \u0458\u0435 \u0441\u0430\u043c\u043e \u0434\u0435\u043b\u0438\u043c\u0438\u0447\u043d\u043e \u043e\u0442\u043f\u0440\u0435\u043c\u0459\u0435\u043d\u0430."
                 },
                 "50": {
                     "id": "50",
@@ -33436,23 +33436,23 @@
                 },
                 "60": {
                     "id": "60",
-                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d ISBN-10."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d ISBN-10."
                 },
                 "61": {
                     "id": "61",
-                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d ISBN-13."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d ISBN-13."
                 },
                 "62": {
                     "id": "62",
-                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d ISBN-10 \u0438\u043b\u0438 ISBN-13."
+                    "trans": "\u041e\u0432a \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u043d\u0438 \u0432\u0430\u043b\u0438\u0434\u0430\u043d ISBN-10 \u043d\u0438 \u0432\u0430\u043b\u0438\u0434\u0430\u043d ISBN-13."
                 },
                 "63": {
                     "id": "63",
-                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d ISSN."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d ISSN."
                 },
                 "64": {
                     "id": "64",
-                    "trans": "\u041e\u0432\u043e \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u0432\u0430\u043b\u0443\u0442\u0430."
+                    "trans": "\u041e\u0432\u043e \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u0432\u0430\u043b\u0443\u0442\u0430."
                 },
                 "65": {
                     "id": "65",
@@ -33496,15 +33496,15 @@
                 },
                 "75": {
                     "id": "75",
-                    "trans": "\u0421\u043b\u0438\u043a\u0430 \u0458\u0435 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u0430 ({{ width }}x{{ height }}px). \u041a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u0435 \u0441\u043b\u0438\u043a\u0435 \u043d\u0438\u0441\u0443 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0435."
+                    "trans": "\u0421\u043b\u0438\u043a\u0430 \u0458\u0435 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u0430 ({{ width }}x{{ height }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430). \u041a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u0435 \u0441\u043b\u0438\u043a\u0435 \u043d\u0438\u0441\u0443 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0435."
                 },
                 "76": {
                     "id": "76",
-                    "trans": "\u0421\u043b\u0438\u043a\u0430 \u0458\u0435 \u043e\u0440\u0438\u0458\u0435\u043d\u0442\u0430\u0446\u0438\u0458\u0435 \u043f\u0435\u0458\u0437\u0430\u0436\u0430 ({{ width }}x{{ height }}px). \u041f\u0435\u0458\u0437\u0430\u0436\u043d\u0430 \u043e\u0440\u0438\u0458\u0435\u043d\u0442\u0430\u0446\u0438\u0458\u0430 \u0441\u043b\u0438\u043a\u0430 \u043d\u0438\u0458\u0435 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430."
+                    "trans": "\u0421\u043b\u0438\u043a\u0430 \u0458\u0435 \u043e\u0440\u0438\u0458\u0435\u043d\u0442\u0430\u0446\u0438\u0458\u0435 \u043f\u0435\u0458\u0437\u0430\u0436\u0430 ({{ width }}x{{ height }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430). \u041f\u0435\u0458\u0437\u0430\u0436\u043d\u0430 \u043e\u0440\u0438\u0458\u0435\u043d\u0442\u0430\u0446\u0438\u0458\u0430 \u0441\u043b\u0438\u043a\u0430 \u043d\u0438\u0458\u0435 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430."
                 },
                 "77": {
                     "id": "77",
-                    "trans": "\u0421\u043b\u0438\u043a\u0430 \u0458\u0435 \u043e\u0440\u0438\u0458\u0430\u043d\u0442\u0430\u0446\u0438\u0458\u0435 \u043f\u043e\u0440\u0442\u0440\u0435\u0442\u0430 ({{ width }}x{{ height }}px). \u041f\u043e\u0440\u0442\u0440\u0435\u0442\u043d\u0430 \u043e\u0440\u0438\u0458\u0435\u043d\u0442\u0430\u0446\u0438\u0458\u0430 \u0441\u043b\u0438\u043a\u0430 \u043d\u0438\u0458\u0435 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430."
+                    "trans": "\u0421\u043b\u0438\u043a\u0430 \u0458\u0435 \u043e\u0440\u0438\u0458\u0430\u043d\u0442\u0430\u0446\u0438\u0458\u0435 \u043f\u043e\u0440\u0442\u0440\u0435\u0442\u0430 ({{ width }}x{{ height }} \u043f\u0438\u043a\u0441\u0435\u043b\u0430). \u041f\u043e\u0440\u0442\u0440\u0435\u0442\u043d\u0430 \u043e\u0440\u0438\u0458\u0435\u043d\u0442\u0430\u0446\u0438\u0458\u0430 \u0441\u043b\u0438\u043a\u0430 \u043d\u0438\u0458\u0435 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430."
                 },
                 "78": {
                     "id": "78",
@@ -33520,7 +33520,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u041a\u043e\u0434 \u0437\u0430 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0458\u0443 \u0431\u0438\u0437\u043d\u0438\u0441\u0430 (BIC)."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u041a\u043e\u0434 \u0437\u0430 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0458\u0443 \u0431\u0438\u0437\u043d\u0438\u0441\u0430 (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -33532,7 +33532,7 @@
                 },
                 "84": {
                     "id": "84",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u043e \u0434\u0430 \u0431\u0443\u0434\u0435 \u0434\u0435\u0459\u0438\u0432\u0430 \u0441\u0430 {{ compared_value }}."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u0434\u0435\u0459\u0438\u0432\u0430 \u0441\u0430 {{ compared_value }}."
                 },
                 "85": {
                     "id": "85",
@@ -33540,27 +33540,27 @@
                 },
                 "86": {
                     "id": "86",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u043e \u0434\u0430 \u0431\u0443\u0434\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d JSON."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d JSON."
                 },
                 "87": {
                     "id": "87",
-                    "trans": "\u041e\u0432\u0430 \u043a\u043e\u043b\u0435\u043a\u0446\u0438\u0458\u0430 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u0441\u0430\u043c\u043e \u0458\u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u0435 \u0435\u043b\u0435\u043c\u0435\u043d\u0442\u0435."
+                    "trans": "\u041e\u0432\u0430 \u043a\u043e\u043b\u0435\u043a\u0446\u0438\u0458\u0430 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u0441\u0430\u043c\u043e \u0458\u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u0435 \u0435\u043b\u0435\u043c\u0435\u043d\u0442\u0435."
                 },
                 "88": {
                     "id": "88",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u0430 \u0431\u0438\u0442\u0438 \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u0430."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u0430."
                 },
                 "89": {
                     "id": "89",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u0430 \u0431\u0438\u0442\u0438 \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u0430 \u0438\u043b\u0438 \u043d\u0443\u043b\u0430."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u0438\u043b\u0438 \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u0430 \u0438\u043b\u0438 \u043d\u0443\u043b\u0430."
                 },
                 "90": {
                     "id": "90",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u0430 \u0431\u0438\u0442\u0438 \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u0430."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u0430."
                 },
                 "91": {
                     "id": "91",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u0430 \u0431\u0438\u0442\u0438 \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u0430 \u0438\u043b\u0438 \u043d\u0443\u043b\u0430."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u0438\u043b\u0438 \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u0430 \u0438\u043b\u0438 \u043d\u0443\u043b\u0430."
                 },
                 "92": {
                     "id": "92",
@@ -33580,19 +33580,19 @@
                 },
                 "96": {
                     "id": "96",
-                    "trans": "\u0411\u0440\u043e\u0458 \u0435\u043b\u0435\u043c\u0435\u043d\u0430\u0442\u0430 \u0443 \u043e\u0432\u043e\u0458 \u043a\u043e\u043b\u0435\u043a\u0446\u0438\u0458\u0438 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u043e \u0434\u0430 \u0431\u0443\u0434\u0435 \u0434\u0435\u0459\u0438\u0432 \u0441\u0430 {{ compared_value }}."
+                    "trans": "\u0411\u0440\u043e\u0458 \u0435\u043b\u0435\u043c\u0435\u043d\u0430\u0442\u0430 \u0443 \u043e\u0432\u043e\u0458 \u043a\u043e\u043b\u0435\u043a\u0446\u0438\u0458\u0438 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u0434\u0435\u0459\u0438\u0432 \u0441\u0430 {{ compared_value }}."
                 },
                 "97": {
                     "id": "97",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u043e \u0434\u0430 \u0437\u0430\u0434\u043e\u0432\u043e\u0459\u0430\u0432\u0430 \u043d\u0430\u0458\u043c\u0430\u045a\u0435 \u0458\u0435\u0434\u043d\u043e \u043e\u0434 \u043d\u0430\u0440\u0435\u0434\u043d\u0438\u0445 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u045a\u0430:"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0437\u0430\u0434\u043e\u0432\u043e\u0459\u0430\u0432\u0430 \u043d\u0430\u0458\u043c\u0430\u045a\u0435 \u0458\u0435\u0434\u043d\u043e \u043e\u0434 \u043d\u0430\u0440\u0435\u0434\u043d\u0438\u0445 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u045a\u0430:"
                 },
                 "98": {
                     "id": "98",
-                    "trans": "\u0421\u0432\u0430\u043a\u0438 \u0435\u043b\u0435\u043c\u0435\u043d\u0442 \u043e\u0432\u0435 \u043a\u043e\u043b\u0435\u043a\u0446\u0438\u0458\u0435 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u043e \u0434\u0430 \u0437\u0430\u0434\u043e\u0432\u043e\u0459\u0438 \u0441\u043e\u043f\u0441\u0442\u0432\u0435\u043d\u0438 \u0441\u043a\u0443\u043f \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u045a\u0430."
+                    "trans": "\u0421\u0432\u0430\u043a\u0438 \u0435\u043b\u0435\u043c\u0435\u043d\u0442 \u043e\u0432\u0435 \u043a\u043e\u043b\u0435\u043a\u0446\u0438\u0458\u0435 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0437\u0430\u0434\u043e\u0432\u043e\u0459\u0438 \u0441\u043e\u043f\u0441\u0442\u0432\u0435\u043d\u0438 \u0441\u043a\u0443\u043f \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u045a\u0430."
                 },
                 "99": {
                     "id": "99",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 \u043c\u0435\u0452\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u0430 \u043e\u0437\u043d\u0430\u043a\u0430 \u0445\u0430\u0440\u0442\u0438\u0458\u0430 \u043e\u0434 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442\u0438 (ISIN)."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u043c\u0435\u0452\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u0430 \u043e\u0437\u043d\u0430\u043a\u0430 \u0445\u0430\u0440\u0442\u0438\u0458\u0430 \u043e\u0434 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442\u0438 (ISIN)."
                 },
                 "100": {
                     "id": "100",
@@ -33600,19 +33600,19 @@
                 },
                 "101": {
                     "id": "101",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 CSS \u0431\u043e\u0458\u0430."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 CSS \u0431\u043e\u0458\u0430."
                 },
                 "102": {
                     "id": "102",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 CIDR \u043d\u043e\u0442\u0430\u0446\u0438\u0458\u0430."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 CIDR \u043d\u043e\u0442\u0430\u0446\u0438\u0458\u0430."
                 },
                 "103": {
                     "id": "103",
-                    "trans": "\u0412\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043c\u0440\u0435\u0436\u043d\u0435 \u043c\u0430\u0441\u043a\u0435 \u0442\u0440\u0435\u0431\u0430 \u0431\u0438\u0442\u0438 \u0438\u0437\u043c\u0435\u0452\u0443 {{ min }} \u0438 {{ max }}."
+                    "trans": "\u0412\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043c\u0440\u0435\u0436\u043d\u0435 \u043c\u0430\u0441\u043a\u0435 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u0438\u0437\u043c\u0435\u0452\u0443 {{ min }} \u0438 {{ max }}."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "\u041d\u0430\u0437\u0438\u0432 \u0434\u0430\u0442\u043e\u0442\u0435\u043a\u0435 \u0458\u0435 \u0441\u0443\u0432\u0438\u0448\u0435 \u0434\u0443\u0433\u0430\u0447\u0430\u043a. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0438\u043c\u0430 {{ filename_max_length }} \u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440 \u0438\u043b\u0438 \u043c\u0430\u045a\u0435.|\u041d\u0430\u0437\u0438\u0432 \u0434\u0430\u0442\u043e\u0442\u0435\u043a\u0435 \u0458\u0435 \u0441\u0443\u0432\u0438\u0448\u0435 \u0434\u0443\u0433\u0430\u0447\u0430\u043a. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0438\u043c\u0430 {{ filename_max_length }} \u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0430 \u0438\u043b\u0438 \u043c\u0430\u045a\u0435."
+                    "trans": "\u041d\u0430\u0437\u0438\u0432 \u0434\u0430\u0442\u043e\u0442\u0435\u043a\u0435 \u0458\u0435 \u0441\u0443\u0432\u0438\u0448\u0435 \u0434\u0443\u0433\u0430\u0447\u0430\u043a. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0438\u043c\u0430 {{ filename_max_length }} \u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440 \u0438\u043b\u0438 \u043c\u0430\u045a\u0435.|\u041d\u0430\u0437\u0438\u0432 \u0434\u0430\u0442\u043e\u0442\u0435\u043a\u0435 \u0458\u0435 \u0441\u0443\u0432\u0438\u0448\u0435 \u0434\u0443\u0433\u0430\u0447\u0430\u043a. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0438\u043c\u0430 {{ filename_max_length }} \u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0430 \u0438\u043b\u0438 \u043c\u0430\u045a\u0435.|\u041d\u0430\u0437\u0438\u0432 \u0434\u0430\u0442\u043e\u0442\u0435\u043a\u0435 \u0458\u0435 \u0441\u0443\u0432\u0438\u0448\u0435 \u0434\u0443\u0433\u0430\u0447\u0430\u043a. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0438\u043c\u0430 {{ filename_max_length }} \u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0430 \u0438\u043b\u0438 \u043c\u0430\u045a\u0435."
                 },
                 "105": {
                     "id": "105",
@@ -33640,7 +33640,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u041e\u0442\u043a\u0440\u0438\u0432\u0435\u043d\u043e \u043a\u043e\u0434\u0438\u0440\u0430\u045a\u0435 \u0437\u043d\u0430\u043a\u043e\u0432\u0430 \u0458\u0435 \u043d\u0435\u0432\u0430\u0436\u0435\u045b\u0435 ({{ detected }}). \u0414\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u043a\u043e\u0434\u0438\u0440\u0430\u045a\u0430 \u0441\u0443 {{  encodings }}."
+                    "trans": "\u0414\u0435\u0442\u0435\u043a\u0442\u043e\u0432\u0430\u043d\u043e \u043a\u043e\u0434\u0438\u0440\u0430\u045a\u0435 \u0437\u043d\u0430\u043a\u043e\u0432\u0430 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u043e ({{ detected }}). \u0414\u043e\u0437\u0432\u043e\u0459\u0435\u043d\u0430 \u043a\u043e\u0434\u0438\u0440\u0430\u045a\u0430 \u0441\u0443 {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
@@ -33648,15 +33648,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u041e\u0432\u043e\u043c \u0423\u0420\u041b-\u0443 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0458\u0435 \u0434\u043e\u043c\u0435\u043d \u043d\u0430\u0458\u0432\u0438\u0448\u0435\u0433 \u043d\u0438\u0432\u043e\u0430."
+                    "trans": "\u041e\u0432\u043e\u043c URL-\u0443 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0458\u0435 \u0434\u043e\u043c\u0435\u043d \u043d\u0430\u0458\u0432\u0438\u0448\u0435\u0433 \u043d\u0438\u0432\u043e\u0430."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043c\u0430\u043a\u0430\u0440 \u0458\u0435\u0434\u043d\u0443 \u0440\u0435\u0447.|\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043c\u0430\u043a\u0430\u0440 {{ min }} \u0440\u0435\u0447\u0438."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043c\u0430\u043a\u0430\u0440 \u0458\u0435\u0434\u043d\u0443 \u0440\u0435\u0447.|\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043c\u0430\u043a\u0430\u0440 {{ min }} \u0440\u0435\u0447\u0438.|\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043c\u0430\u043a\u0430\u0440 {{ min }} \u0440\u0435\u0447\u0438."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u0434\u0443\u0433\u0430\u0447\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u0441\u0430\u043c\u043e \u0458\u0435\u0434\u043d\u0443 \u0440\u0435\u0447.|\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u0434\u0443\u0433\u0430\u0447\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043d\u0430\u0458\u0432\u0438\u0448\u0435 {{ max }} \u0440\u0435\u0447\u0438."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u0434\u0443\u0433\u0430\u0447\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u0441\u0430\u043c\u043e \u0458\u0435\u0434\u043d\u0443 \u0440\u0435\u0447.|\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u0434\u0443\u0433\u0430\u0447\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043d\u0430\u0458\u0432\u0438\u0448\u0435 {{ max }} \u0440\u0435\u0447\u0438.|\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u0458\u0435 \u043f\u0440\u0435\u0434\u0443\u0433\u0430\u0447\u043a\u0430. \u0422\u0440\u0435\u0431\u0430 \u0434\u0430 \u0441\u0430\u0434\u0440\u0436\u0438 \u043d\u0430\u0458\u0432\u0438\u0448\u0435 {{ max }} \u0440\u0435\u0447\u0438."
                 },
                 "116": {
                     "id": "116",
@@ -33668,45 +33668,45 @@
                 },
                 "118": {
                     "id": "118",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u043f\u0440\u0435 \u043d\u0435\u0434\u0435\u0459\u0435 \"{{ min }}\"."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u043f\u0440\u0435 \u043d\u0435\u0434\u0435\u0459\u0435 \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0431\u0438 \u0442\u0440\u0435\u0431\u0430\u043b\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u043f\u043e\u0441\u043b\u0435 \u043d\u0435\u0434\u0435\u0459\u0435 \"{{ max }}\"."
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u043f\u043e\u0441\u043b\u0435 \u043d\u0435\u0434\u0435\u0459\u0435 \"{{ max }}\"."
                 }
             },
             "sr_Latn": {
                 "1": {
                     "id": "1",
-                    "trans": "Vrednost bi trebala da bude neta\u010dna."
+                    "trans": "Vrednost treba da bude neta\u010dna."
                 },
                 "2": {
                     "id": "2",
-                    "trans": "Vrednost bi trebala da bude ta\u010dna."
+                    "trans": "Vrednost treba da bude ta\u010dna."
                 },
                 "3": {
                     "id": "3",
-                    "trans": "Vrednost bi trebala da bude tipa {{ type }}."
+                    "trans": "Vrednost treba da bude tipa {{ type }}."
                 },
                 "4": {
                     "id": "4",
-                    "trans": "Vrednost bi trebala da bude prazna."
+                    "trans": "Vrednost treba da bude prazna."
                 },
                 "5": {
                     "id": "5",
-                    "trans": "Vrednost koju ste izabrali nije validan izbor."
+                    "trans": "Vrednost treba da bude jedna od ponu\u0111enih."
                 },
                 "6": {
                     "id": "6",
-                    "trans": "Morate izabrati najmanje {{ limit }} mogu\u0107nosti.|Morate izabrati najmanje {{ limit }} mogu\u0107nosti."
+                    "trans": "Izaberite bar {{ limit }} mogu\u0107nost.|Izaberite bar {{ limit }} mogu\u0107nosti.|Izaberite bar {{ limit }} mogu\u0107nosti."
                 },
                 "7": {
                     "id": "7",
-                    "trans": "Morate izabrati najvi\u0161e {{ limit }} mogu\u0107nosti.|Morate izabrati najvi\u0161e {{ limit }} mogu\u0107nosti."
+                    "trans": "Izaberite najvi\u0161e {{ limit }} mogu\u0107nost.|Izaberite najvi\u0161e {{ limit }} mogu\u0107nosti.|Izaberite najvi\u0161e {{ limit }} mogu\u0107nosti."
                 },
                 "8": {
                     "id": "8",
-                    "trans": "Jedna ili vi\u0161e od odabranih vrednosti nisu validne."
+                    "trans": "Jedna ili vi\u0161e vrednosti je nevalidna."
                 },
                 "9": {
                     "id": "9",
@@ -33718,11 +33718,11 @@
                 },
                 "11": {
                     "id": "11",
-                    "trans": "Vrednost nije validna kao datum."
+                    "trans": "Vrednost nije validan datum."
                 },
                 "12": {
                     "id": "12",
-                    "trans": "Vrednost nije validna kao datum i vreme."
+                    "trans": "Vrednost nije validan datum-vreme."
                 },
                 "13": {
                     "id": "13",
@@ -33730,47 +33730,47 @@
                 },
                 "14": {
                     "id": "14",
-                    "trans": "Fajl ne mo\u017ee biti prona\u0111en."
+                    "trans": "Datoteka ne mo\u017ee biti prona\u0111ena."
                 },
                 "15": {
                     "id": "15",
-                    "trans": "Fajl nije \u010ditljiv."
+                    "trans": "Datoteka nije \u010ditljiva."
                 },
                 "16": {
                     "id": "16",
-                    "trans": "Fajl je preveliki ({{ size }} {{ suffix }}). Najve\u0107a dozvoljena veli\u010dina fajla je {{ limit }} {{ suffix }}."
+                    "trans": "Datoteka je prevelika ({{ size }} {{ suffix }}). Najve\u0107a dozvoljena veli\u010dina je {{ limit }} {{ suffix }}."
                 },
                 "17": {
                     "id": "17",
-                    "trans": "MIME tip fajla nije validan ({{ type }}). Dozvoljeni MIME tipovi su {{ types }}."
+                    "trans": "MIME tip datoteke nije validan ({{ type }}). Dozvoljeni MIME tipovi su {{ types }}."
                 },
                 "18": {
                     "id": "18",
-                    "trans": "Vrednost bi trebala da bude {{ limit }} ili manje."
+                    "trans": "Vrednost treba da bude {{ limit }} ili manje."
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Vrednost je preduga\u010dka. Trebalo bi da ima {{ limit }} karaktera ili manje.|Vrednost je preduga\u010dka. Trebalo bi da ima {{ limit }} karaktera ili manje."
+                    "trans": "Vrednost je preduga\u010dka. Treba da ima {{ limit }} karakter ili manje.|Vrednost je preduga\u010dka. Treba da ima {{ limit }} karaktera ili manje.|Vrednost je preduga\u010dka. Treba da ima {{ limit }} karaktera ili manje."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Vrednost bi trebala da bude {{ limit }} ili vi\u0161e."
+                    "trans": "Vrednost treba da bude {{ limit }} ili vi\u0161e."
                 },
                 "21": {
                     "id": "21",
-                    "trans": "Vrednost je prekratka. Trebalo bi da ima {{ limit }} karaktera ili vi\u0161e.|Vrednost je prekratka. Trebalo bi da ima {{ limit }} karaktera ili vi\u0161e."
+                    "trans": "Vrednost je prekratka. Treba da ima {{ limit }} karakter ili vi\u0161e.|Vrednost je prekratka. Treba da ima {{ limit }} karaktera ili vi\u0161e.|Vrednost je prekratka. Treba da ima {{ limit }} karaktera ili vi\u0161e."
                 },
                 "22": {
                     "id": "22",
-                    "trans": "Vrednost ne bi trebala da bude prazna."
+                    "trans": "Vrednost ne treba da bude prazna."
                 },
                 "23": {
                     "id": "23",
-                    "trans": "Vrednost ne bi trebala da bude null."
+                    "trans": "Vrednost ne treba da bude null."
                 },
                 "24": {
                     "id": "24",
-                    "trans": "Vrednost bi trebala da bude null."
+                    "trans": "Vrednost treba da bude null."
                 },
                 "25": {
                     "id": "25",
@@ -33786,27 +33786,27 @@
                 },
                 "31": {
                     "id": "31",
-                    "trans": "Obe vrednosti bi trebale da budu jednake."
+                    "trans": "Obe vrednosti treba da budu jednake."
                 },
                 "32": {
                     "id": "32",
-                    "trans": "Fajl je preveliki. Najve\u0107a dozvoljena veli\u010dina je {{ limit }} {{ suffix }}."
+                    "trans": "Datoteka je prevelika. Najve\u0107a dozvoljena veli\u010dina je {{ limit }} {{ suffix }}."
                 },
                 "33": {
                     "id": "33",
-                    "trans": "Fajl je preveliki."
+                    "trans": "Datoteka je prevelikia."
                 },
                 "34": {
                     "id": "34",
-                    "trans": "Fajl ne mo\u017ee biti otpremljen."
+                    "trans": "Datoteka ne mo\u017ee biti otpremljena."
                 },
                 "35": {
                     "id": "35",
-                    "trans": "Vrednost bi trebala da bude validan broj."
+                    "trans": "Vrednost treba da bude validan broj."
                 },
                 "36": {
                     "id": "36",
-                    "trans": "Ovaj fajl nije validan kao slika."
+                    "trans": "Ova datoteka nije validna slika."
                 },
                 "37": {
                     "id": "37",
@@ -33850,27 +33850,27 @@
                 },
                 "47": {
                     "id": "47",
-                    "trans": "Vrednost bi trebala da bude trenutna korisni\u010dka lozinka."
+                    "trans": "Vrednost treba da bude trenutna korisni\u010dka lozinka."
                 },
                 "48": {
                     "id": "48",
-                    "trans": "Vrednost bi trebala da ima ta\u010dno {{ limit }} karaktera.|Vrednost bi trebala da ima ta\u010dno {{ limit }} karaktera."
+                    "trans": "Vrednost treba da ima ta\u010dno {{ limit }} karakter.|Vrednost treba da ima ta\u010dno {{ limit }} karaktera.|Vrednost treba da ima ta\u010dno {{ limit }} karaktera."
                 },
                 "49": {
                     "id": "49",
-                    "trans": "Fajl je samo parcijalno otpremljena."
+                    "trans": "Datoteka je samo delimi\u010dno otpremljena."
                 },
                 "50": {
                     "id": "50",
-                    "trans": "Fajl nije otpremljen."
+                    "trans": "Datoteka nije otpremljena."
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Privremeni direktorijum nije konfigurisan u php.ini, ili direktorijum koji je konfigurisan ne postoji."
+                    "trans": "Privremeni direktorijum nije konfigurisan u php.ini, ili konfigurisani direktorijum ne postoji."
                 },
                 "52": {
                     "id": "52",
-                    "trans": "Nije mogu\u0107e upisati privremeni fajl na disk."
+                    "trans": "Nemogu\u0107e pisanje privremene datoteke na disk."
                 },
                 "53": {
                     "id": "53",
@@ -33878,15 +33878,15 @@
                 },
                 "54": {
                     "id": "54",
-                    "trans": "Ova kolekcija bi trebala da sadr\u017ei {{ limit }} ili vi\u0161e elemenata.|Ova kolekcija bi trebala da sadr\u017ei {{ limit }} ili vi\u0161e elemenata."
+                    "trans": "Ova kolekcija treba da sadr\u017ei {{ limit }} ili vi\u0161e elemenata.|Ova kolekcija treba da sadr\u017ei {{ limit }} ili vi\u0161e elemenata.|Ova kolekcija treba da sadr\u017ei {{ limit }} ili vi\u0161e elemenata."
                 },
                 "55": {
                     "id": "55",
-                    "trans": "Ova kolekcija bi trebala da sadr\u017ei {{ limit }} ili manje elemenata.|Ova kolekcija bi trebala da sadr\u017ei {{ limit }} ili manje elemenata."
+                    "trans": "Ova kolekcija treba da sadr\u017ei {{ limit }} ili manje elemenata.|Ova kolekcija treba da sadr\u017ei {{ limit }} ili manje elemenata.|Ova kolekcija treba da sadr\u017ei {{ limit }} ili manje elemenata."
                 },
                 "56": {
                     "id": "56",
-                    "trans": "Ova kolekcija bi trebala da sadr\u017ei ta\u010dno {{ limit }} element.|Ova kolekcija bi trebala da sadr\u017ei ta\u010dno {{ limit }} elementa."
+                    "trans": "Ova kolekcija treba da sadr\u017ei ta\u010dno {{ limit }} element.|Ova kolekcija treba da sadr\u017ei ta\u010dno {{ limit }} elementa.|Ova kolekcija treba da sadr\u017ei ta\u010dno {{ limit }} elemenata."
                 },
                 "57": {
                     "id": "57",
@@ -33894,7 +33894,7 @@
                 },
                 "58": {
                     "id": "58",
-                    "trans": "Nevalidan broj kartice ili nepodr\u017ean tip kartice."
+                    "trans": "Nevalidan broj kartice ili tip kartice nije podr\u017ean."
                 },
                 "59": {
                     "id": "59",
@@ -33902,55 +33902,55 @@
                 },
                 "60": {
                     "id": "60",
-                    "trans": "Nevalidna vrednost ISBN-10."
+                    "trans": "Ova vrednost nije validan ISBN-10."
                 },
                 "61": {
                     "id": "61",
-                    "trans": "Nevalidna vrednost ISBN-13."
+                    "trans": "Ova vrednost nije validan ISBN-13."
                 },
                 "62": {
                     "id": "62",
-                    "trans": "Vrednost nije ni validan ISBN-10 ni validan ISBN-13."
+                    "trans": "Ova vrednost nije ni validan ISBN-10 ni validan ISBN-13."
                 },
                 "63": {
                     "id": "63",
-                    "trans": "Nevalidna vrednost ISSN."
+                    "trans": "Ova vrednost nije validan ISSN."
                 },
                 "64": {
                     "id": "64",
-                    "trans": "Vrednost nije validna valuta."
+                    "trans": "Ova vrednost nije validna valuta."
                 },
                 "65": {
                     "id": "65",
-                    "trans": "Ova vrednost bi trebala da bude jednaka {{ compared_value }}."
+                    "trans": "Ova vrednost treba da bude {{ compared_value }}."
                 },
                 "66": {
                     "id": "66",
-                    "trans": "Ova vrednost bi trebala da bude ve\u0107a od {{ compared_value }}."
+                    "trans": "Ova vrednost treba da bude ve\u0107a od {{ compared_value }}."
                 },
                 "67": {
                     "id": "67",
-                    "trans": "Ova vrednost bi trebala da je ve\u0107a ili jednaka {{ compared_value }}."
+                    "trans": "Ova vrednost treba da bude ve\u0107a ili jednaka {{ compared_value }}."
                 },
                 "68": {
                     "id": "68",
-                    "trans": "Ova vrednost bi trebala da bude identi\u010dna sa {{ compared_value_type }} {{ compared_value }}."
+                    "trans": "Ova vrednost treba da bude identi\u010dna sa {{ compared_value_type }} {{ compared_value }}."
                 },
                 "69": {
                     "id": "69",
-                    "trans": "Ova vrednost bi trebala da bude manja od {{ compared_value }}."
+                    "trans": "Ova vrednost treba da bude manja od {{ compared_value }}."
                 },
                 "70": {
                     "id": "70",
-                    "trans": "Ova vrednost bi trebala da bude manja ili jednaka {{ compared_value }}."
+                    "trans": "Ova vrednost treba da bude manja ili jednaka {{ compared_value }}."
                 },
                 "71": {
                     "id": "71",
-                    "trans": "Ova vrednost ne bi trebala da bude jednaka {{ compared_value }}."
+                    "trans": "Ova vrednost ne treba da bude jednaka {{ compared_value }}."
                 },
                 "72": {
                     "id": "72",
-                    "trans": "Ova vrednost ne bi trebala da bude identi\u010dna sa {{ compared_value_type }} {{ compared_value }}."
+                    "trans": "Ova vrednost ne treba da bude identi\u010dna sa {{ compared_value_type }} {{ compared_value }}."
                 },
                 "73": {
                     "id": "73",
@@ -33966,15 +33966,15 @@
                 },
                 "76": {
                     "id": "76",
-                    "trans": "Slika je pejza\u017eno orijentisana ({{ width }}x{{ height }} piksela). Pejza\u017eno orijentisane slike nisu dozvoljene."
+                    "trans": "Slika je orijentacije pejza\u017ea ({{ width }}x{{ height }} piksela). Pejza\u017ena orijentacija slika nije dozvoljena."
                 },
                 "77": {
                     "id": "77",
-                    "trans": "Slika je portretno orijentisana ({{ width }}x{{ height }} piksela). Portretno orijentisane slike nisu dozvoljene."
+                    "trans": "Slika je orijentacije portreta ({{ width }}x{{ height }} piksela). Portretna orijentacija slika nije dozvoljena."
                 },
                 "78": {
                     "id": "78",
-                    "trans": "Prazan fajl nije dozvoljen."
+                    "trans": "Prazna datoteka nije dozvoljena."
                 },
                 "79": {
                     "id": "79",
@@ -33998,7 +33998,7 @@
                 },
                 "84": {
                     "id": "84",
-                    "trans": "Ova vrednost bi trebala da bude vi\u0161estruka u odnosu na {{ compared_value }}."
+                    "trans": "Ova vrednost treba da bude deljiva sa {{ compared_value }}."
                 },
                 "85": {
                     "id": "85",
@@ -34006,27 +34006,27 @@
                 },
                 "86": {
                     "id": "86",
-                    "trans": "Ova vrednost bi trebala da bude validan JSON."
+                    "trans": "Ova vrednost treba da bude validan JSON."
                 },
                 "87": {
                     "id": "87",
-                    "trans": "Ova kolekcija bi trebala da sadr\u017ei samo jedinstvene elemente."
+                    "trans": "Ova kolekcija treba da sadr\u017ei samo jedinstvene elemente."
                 },
                 "88": {
                     "id": "88",
-                    "trans": "Ova vrednost bi trebala biti pozitivna."
+                    "trans": "Ova vrednost treba da bude pozitivna."
                 },
                 "89": {
                     "id": "89",
-                    "trans": "Ova vrednost bi trebala biti ili pozitivna ili nula."
+                    "trans": "Ova vrednost treba da bude ili pozitivna ili nula."
                 },
                 "90": {
                     "id": "90",
-                    "trans": "Ova vrednost bi trebala biti negativna."
+                    "trans": "Ova vrednost treba da bude negativna."
                 },
                 "91": {
                     "id": "91",
-                    "trans": "Ova vrednost bi trebala biti ili negativna ili nula."
+                    "trans": "Ova vrednost treba da bude ili negativna ili nula."
                 },
                 "92": {
                     "id": "92",
@@ -34034,7 +34034,7 @@
                 },
                 "93": {
                     "id": "93",
-                    "trans": "Lozinka je kompromitovana prilikom curenja podataka usled napada, nemojte je koristiti. Koristite drugu lozinku."
+                    "trans": "Ova lozinka je kompromitovana prilikom prethodnih napada, nemojte je koristiti. Koristite drugu lozinku."
                 },
                 "94": {
                     "id": "94",
@@ -34042,23 +34042,23 @@
                 },
                 "95": {
                     "id": "95",
-                    "trans": "Ova vrednost nije ispravno ime poslu\u017eitelja (hostname)."
+                    "trans": "Ova vrednost nije ispravno ime hosta."
                 },
                 "96": {
                     "id": "96",
-                    "trans": "Broj elemenata u ovoj kolekciji bi trebala da bude vi\u0161estruka u odnosu na {{ compared_value }}."
+                    "trans": "Broj elemenata u ovoj kolekciji treba da bude deljiv sa {{ compared_value }}."
                 },
                 "97": {
                     "id": "97",
-                    "trans": "Ova vrednost bi trebala da zadovoljava namjanje jedno od narednih ograni\u010denja:"
+                    "trans": "Ova vrednost treba da zadovoljava namjanje jedno od narednih ograni\u010denja:"
                 },
                 "98": {
                     "id": "98",
-                    "trans": "Svaki element ove kolekcije bi trebalo da zadovolji sopstveni skup ograni\u010denja."
+                    "trans": "Svaki element ove kolekcije treba da zadovolji sopstveni skup ograni\u010denja."
                 },
                 "99": {
                     "id": "99",
-                    "trans": "Ova vrednost nije ispravan me\u0111unarodni sigurnosni i identifikacioni broj (ISIN)."
+                    "trans": "Ova vrednost nije validna me\u0111unarodna identifikaciona oznaka hartija od vrednosti (ISIN)."
                 },
                 "100": {
                     "id": "100",
@@ -34074,11 +34074,11 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Vrednost mre\u017ene maske treba biti izme\u0111u {{ min }} i {{ max }}."
+                    "trans": "Vrednost mre\u017ene maske treba da bude izme\u0111u {{ min }} i {{ max }}."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Naziv fajla je suvi\u0161e duga\u010dak. Treba da ima {{ filename_max_length }} karaktera ili manje.|Naziv fajla je suvi\u0161e duga\u010dak. Treba da ima {{ filename_max_length }} karaktera ili manje."
+                    "trans": "Naziv datoteke je suvi\u0161e duga\u010dak. Treba da ima {{ filename_max_length }} karakter ili manje.|Naziv datoteke je suvi\u0161e duga\u010dak. Treba da ima {{ filename_max_length }} karaktera ili manje.|Naziv datoteke je suvi\u0161e duga\u010dak. Treba da ima {{ filename_max_length }} karaktera ili manje."
                 },
                 "105": {
                     "id": "105",
@@ -34098,15 +34098,15 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Kori\u0161\u0107enje skrivenih pokrivenih karaktera nije dozvoljeno."
+                    "trans": "Kori\u0161\u0107enje skrivenih preklopnih karaktera nije dozvoljeno."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Ekstenzija fajla je nevalidna ({{ extension }}). Dozvoljene ekstenzije su {{ extensions }}."
+                    "trans": "Ekstenzija fajla nije validna ({{ extension }}). Dozvoljene ekstenzije su {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Detektovani enkoding karaktera nije validan ({{ detected }}). Dozvoljne vrednosti za enkoding su: {{ encodings }}."
+                    "trans": "Detektovano kodiranje znakova nije validno ({{ detected }}). Dozvoljena kodiranja su {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
@@ -34118,11 +34118,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ova vrednost je prekratka. Treba da sadr\u017ei makar jednu re\u010d.|Ova vrednost je prekratka. Treba da sadr\u017ei makar {{ min }} re\u010di."
+                    "trans": "Ova vrednost je prekratka. Treba da sadr\u017ei makar jednu re\u010d.|Ova vrednost je prekratka. Treba da sadr\u017ei makar {{ min }} re\u010di.|Ova vrednost je prekratka. Treba da sadr\u017ei makar {{ min }} re\u010di."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ova vrednost je preduga\u010dka. Treba da sadr\u017ei samo jednu re\u010d.|Ova vrednost je preduga\u010dka. Treba da sadr\u017ei najvi\u0161e {{ max }} re\u010di."
+                    "trans": "Ova vrednost je preduga\u010dka. Treba da sadr\u017ei samo jednu re\u010d.|Ova vrednost je preduga\u010dka. Treba da sadr\u017ei najvi\u0161e {{ max }} re\u010di.|Ova vrednost je preduga\u010dka. Treba da sadr\u017ei najvi\u0161e {{ max }} re\u010di."
                 },
                 "116": {
                     "id": "116",
@@ -34134,11 +34134,11 @@
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ova vrednost ne bi trebala da bude pre nedelje \"{{ min }}\"."
+                    "trans": "Ova vrednost ne treba da bude pre nedelje \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ova vrednost ne bi trebala da bude posle nedelje \"{{ max }}\"."
+                    "trans": "Ova vrednost ne treba da bude posle nedelje \"{{ max }}\"."
                 }
             },
             "sv": {
