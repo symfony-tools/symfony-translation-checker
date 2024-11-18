@@ -28327,7 +28327,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Deze waarde is te lang. Hij mag maximaal {{ limit }} teken bevatten.|Deze waarde is te lang. Hij mag maximaal {{ limit }} tekens bevatten."
+                    "trans": "Deze waarde is te lang. Deze mag maximaal \u00e9\u00e9n teken bevatten.|Deze waarde is te lang. Deze mag maximaal {{ limit }} tekens bevatten."
                 },
                 "20": {
                     "id": "20",
@@ -28335,7 +28335,7 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "Deze waarde is te kort. Hij moet tenminste {{ limit }} teken bevatten.|Deze waarde is te kort. Hij moet tenminste {{ limit }} tekens bevatten."
+                    "trans": "Deze waarde is te kort. Deze moet ten minste \u00e9\u00e9n teken bevatten.|Deze waarde is te kort. Deze moet ten minste {{ limit }} tekens bevatten."
                 },
                 "22": {
                     "id": "22",
@@ -28411,7 +28411,7 @@
                 },
                 "43": {
                     "id": "43",
-                    "trans": "De afbeelding is te breed ({{ width }}px). De maximaal breedte is {{ max_width }}px."
+                    "trans": "De afbeelding is te breed ({{ width }}px). De maximale breedte is {{ max_width }}px."
                 },
                 "44": {
                     "id": "44",
@@ -28419,7 +28419,7 @@
                 },
                 "45": {
                     "id": "45",
-                    "trans": "De afbeelding is te hoog ({{ height }}px). De maximaal hoogte is {{ max_height }}px."
+                    "trans": "De afbeelding is te hoog ({{ height }}px). De maximale hoogte is {{ max_height }}px."
                 },
                 "46": {
                     "id": "46",
@@ -28431,7 +28431,7 @@
                 },
                 "48": {
                     "id": "48",
-                    "trans": "Deze waarde moet exact {{ limit }} teken lang zijn.|Deze waarde moet exact {{ limit }} tekens lang zijn."
+                    "trans": "Deze waarde moet exact \u00e9\u00e9n teken lang zijn.|Deze waarde moet exact {{ limit }} tekens lang zijn."
                 },
                 "49": {
                     "id": "49",
@@ -28447,7 +28447,7 @@
                 },
                 "52": {
                     "id": "52",
-                    "trans": "Kan het tijdelijke bestand niet wegschrijven op disk."
+                    "trans": "Kan het tijdelijke bestand niet wegschrijven op de schijf."
                 },
                 "53": {
                     "id": "53",
@@ -28455,15 +28455,15 @@
                 },
                 "54": {
                     "id": "54",
-                    "trans": "Deze collectie moet {{ limit }} element of meer bevatten.|Deze collectie moet {{ limit }} elementen of meer bevatten."
+                    "trans": "Deze collectie moet \u00e9\u00e9n of meer elementen bevatten.|Deze collectie moet {{ limit }} of meer elementen bevatten."
                 },
                 "55": {
                     "id": "55",
-                    "trans": "Deze collectie moet {{ limit }} element of minder bevatten.|Deze collectie moet {{ limit }} elementen of minder bevatten."
+                    "trans": "Deze collectie moet \u00e9\u00e9n of minder elementen bevatten.|Deze collectie moet {{ limit }} of minder elementen bevatten."
                 },
                 "56": {
                     "id": "56",
-                    "trans": "Deze collectie moet exact {{ limit }} element bevatten.|Deze collectie moet exact {{ limit }} elementen bevatten."
+                    "trans": "Deze collectie moet exact \u00e9\u00e9n element bevatten.|Deze collectie moet exact {{ limit }} elementen bevatten."
                 },
                 "57": {
                     "id": "57",
@@ -28487,11 +28487,11 @@
                 },
                 "62": {
                     "id": "62",
-                    "trans": "Deze waarde is geen geldige ISBN-10 of ISBN-13 waarde."
+                    "trans": "Deze waarde is geen geldige ISBN-10 of ISBN-13."
                 },
                 "63": {
                     "id": "63",
-                    "trans": "Deze waarde is geen geldige ISSN waarde."
+                    "trans": "Deze waarde is geen geldige ISSN."
                 },
                 "64": {
                     "id": "64",
@@ -28507,7 +28507,7 @@
                 },
                 "67": {
                     "id": "67",
-                    "trans": "Deze waarde moet groter dan of gelijk aan {{ compared_value }} zijn."
+                    "trans": "Deze waarde moet groter of gelijk aan {{ compared_value }} zijn."
                 },
                 "68": {
                     "id": "68",
@@ -28555,7 +28555,7 @@
                 },
                 "79": {
                     "id": "79",
-                    "trans": "De hostnaam kon niet worden bepaald."
+                    "trans": "De hostnaam kon niet worden gevonden."
                 },
                 "80": {
                     "id": "80",
@@ -28563,7 +28563,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Deze waarde is geen geldige zakelijke identificatiecode (BIC)."
+                    "trans": "Deze waarde is geen geldige bankidentificatiecode (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -28579,7 +28579,7 @@
                 },
                 "85": {
                     "id": "85",
-                    "trans": "Deze bedrijfsidentificatiecode (BIC) is niet gekoppeld aan IBAN {{ iban }}."
+                    "trans": "Deze bankidentificatiecode (BIC) is niet gekoppeld aan IBAN {{ iban }}."
                 },
                 "86": {
                     "id": "86",
@@ -28611,7 +28611,7 @@
                 },
                 "93": {
                     "id": "93",
-                    "trans": "Dit wachtwoord is gelekt vanwege een data-inbreuk, het moet niet worden gebruikt. Kies een ander wachtwoord."
+                    "trans": "Dit wachtwoord is gelekt bij een datalek en mag niet worden gebruikt. Kies een ander wachtwoord."
                 },
                 "94": {
                     "id": "94",
@@ -28651,11 +28651,11 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "De waarde van de netmask moet zich tussen {{ min }} en {{ max }} bevinden."
+                    "trans": "De waarde van het netmasker moet tussen {{ min }} en {{ max }} liggen."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "De bestandsnaam is te lang. Het moet {{ filename_max_length }} karakter of minder zijn.|De bestandsnaam is te lang. Het moet {{ filename_max_length }} karakters of minder zijn."
+                    "trans": "De bestandsnaam is te lang. Het moet {{ filename_max_length }} of minder karakters zijn.|De bestandsnaam is te lang. Het moet {{ filename_max_length }} of minder karakters zijn."
                 },
                 "105": {
                     "id": "105",
@@ -28700,6 +28700,22 @@
                 "115": {
                     "id": "115",
                     "trans": "Deze waarde is te lang. Het moet \u00e9\u00e9n woord zijn.|Deze waarde is te lang. Het mag maximaal {{ max }} woorden bevatten."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "Deze waarde vertegenwoordigt geen geldige week in het ISO 8601-formaat."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "Deze waarde is geen geldige week."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "Deze waarde mag niet v\u00f3\u00f3r week \"{{ min }}\" liggen."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "Deze waarde mag niet na week \"{{ max }}\" liggen."
                 }
             },
             "nn": {

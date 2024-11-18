@@ -24634,6 +24634,30 @@
                 "113": {
                     "id": "113",
                     "trans": "Questo URL \u00e8 privo di un dominio di primo livello."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Questo valore \u00e8 troppo corto. Dovrebbe contenere almeno una parola.|Questo valore \u00e8 troppo corto. Dovrebbe contenere almeno {{ min }} parole."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Questo valore \u00e8 troppo lungo. Dovrebbe contenere una parola.|Questo valore \u00e8 troppo lungo. Dovrebbe contenere {{ max }} parole o meno."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "Questo valore non rappresenta una settimana valida nel formato ISO 8601."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "Questo valore non \u00e8 una settimana valida."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "Questo valore non dovrebbe essere prima della settimana \"{{ min }}\"."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "Questo valore non dovrebbe essere dopo la settimana \"{{ max }}\"."
                 }
             },
             "ja": {
