@@ -10729,7 +10729,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "P\u0101r\u0101k daudz neveiksm\u012bgu autentifik\u0101cijas m\u0113\u0123in\u0101jumu, l\u016bdzu, m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016btes.|P\u0101r\u0101k daudz neveiksm\u012bgu autentifik\u0101cijas m\u0113\u0123in\u0101jumu, l\u016bdzu, m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016bt\u0113m."
+                    "trans": "P\u0101r\u0101k daudz neveiksm\u012bgu autentifik\u0101cijas m\u0113\u0123in\u0101jumu, l\u016bdzu, m\u0113\u0123iniet v\u0113lreiz p\u0113c %minutes% min\u016bt\u0113m."
                 }
             },
             "mk": {
@@ -24634,6 +24634,30 @@
                 "113": {
                     "id": "113",
                     "trans": "Questo URL \u00e8 privo di un dominio di primo livello."
+                },
+                "114": {
+                    "id": "114",
+                    "trans": "Questo valore \u00e8 troppo corto. Dovrebbe contenere almeno una parola.|Questo valore \u00e8 troppo corto. Dovrebbe contenere almeno {{ min }} parole."
+                },
+                "115": {
+                    "id": "115",
+                    "trans": "Questo valore \u00e8 troppo lungo. Dovrebbe contenere una parola.|Questo valore \u00e8 troppo lungo. Dovrebbe contenere {{ max }} parole o meno."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "Questo valore non rappresenta una settimana valida nel formato ISO 8601."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "Questo valore non \u00e8 una settimana valida."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "Questo valore non dovrebbe essere prima della settimana \"{{ min }}\"."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "Questo valore non dovrebbe essere dopo la settimana \"{{ max }}\"."
                 }
             },
             "ja": {
@@ -26424,6 +26448,22 @@
                 "115": {
                     "id": "115",
                     "trans": "\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k gara. Tai b\u016btu j\u0101b\u016bt vienam v\u0101rdam.|\u0160\u012b v\u0113rt\u012bba ir p\u0101r\u0101k gara. Tai b\u016btu j\u0101b\u016bt ne vair\u0101k k\u0101 {{ max }} v\u0101rdus garai."
+                },
+                "116": {
+                    "id": "116",
+                    "trans": "\u0160\u012b v\u0113rt\u012bba neatspogu\u013co ned\u0113\u013cu ISO 8601 format\u0101."
+                },
+                "117": {
+                    "id": "117",
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga ned\u0113\u013ca."
+                },
+                "118": {
+                    "id": "118",
+                    "trans": "\u0160ai v\u0113rt\u012bbai nevajadz\u0113tu b\u016bt pirms \"{{ min }}\" ned\u0113\u013cas."
+                },
+                "119": {
+                    "id": "119",
+                    "trans": "\u0160ai v\u0113rt\u012bbai nevajadz\u0113tu b\u016bt p\u0113c \"{{ max }}\" ned\u0113\u013cas."
                 }
             },
             "mk": {
