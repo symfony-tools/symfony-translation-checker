@@ -32545,38 +32545,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 con\u021bin\u0103 cel pu\u021bin un cuv\u00e2nt.|Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 con\u021bin\u0103 cel pu\u021bin {{ min }} cuvinte.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare este prea scurt\u0103. Trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin un cuv\u00e2nt.|Aceast\u0103 valoare este prea scurt\u0103. Trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ min }} cuvinte."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 con\u021bin\u0103 doar un cuv\u00e2nt.|Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 con\u021bin\u0103 {{ max }} cuvinte sau mai pu\u021bine.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare este prea lung\u0103. Trebuie s\u0103 con\u021bin\u0103 un singur cuv\u00e2nt.|Aceast\u0103 valoare este prea lung\u0103. Trebuie s\u0103 con\u021bin\u0103 cel mult {{ max }} cuvinte."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Aceast\u0103 valoare nu reprezint\u0103 o s\u0103pt\u0103m\u00e2n\u0103 valid\u0103 \u00een formatul ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu reprezint\u0103 o s\u0103pt\u0103m\u00e2n\u0103 valid\u0103 \u00een formatul ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Aceast\u0103 valoare nu este o s\u0103pt\u0103m\u00e2n\u0103 valid\u0103.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este o s\u0103pt\u0103m\u00e2n\u0103 valid\u0103."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Aceast\u0103 valoare nu trebuie s\u0103 fie \u00eenainte de s\u0103pt\u0103m\u00e2na \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu trebuie s\u0103 fie \u00eenainte de s\u0103pt\u0103m\u00e2na \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Aceast\u0103 valoare nu trebuie s\u0103 fie dup\u0103 s\u0103pt\u0103m\u00e2na \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu trebuie s\u0103 fie dup\u0103 s\u0103pt\u0103m\u00e2na \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Aceast\u0103 valoare nu este un slug valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este un slug valid."
                 }
             },
             "ru": {
