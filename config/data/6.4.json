@@ -23396,38 +23396,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem jednu rije\u010d.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem jednu rije\u010d.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati samo jednu rije\u010d.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati samo jednu rije\u010d.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Ova vrijednost ne predstavlja valjani tjedan u ISO 8601 formatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne predstavlja valjani tjedan u ISO 8601 formatu."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ova vrijednost nije valjani tjedan.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani tjedan."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ova vrijednost ne bi trebala biti prije tjedna \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne bi trebala biti prije tjedna \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ova vrijednost ne bi trebala biti nakon tjedna \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne bi trebala biti nakon tjedna \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Ova vrijednost nije valjani slug.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani slug."
                 }
             },
             "hu": {
@@ -37798,38 +37791,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 \u043e\u0434\u043d\u0435 \u0441\u043b\u043e\u0432\u043e.|\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 {{ min }} \u0441\u043b\u043e\u0432\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 \u043e\u0434\u043d\u0435 \u0441\u043b\u043e\u0432\u043e.|\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u0435. \u041c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0441\u043b\u0456\u0432 \u2014 {{ min }}."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0434\u043e\u0432\u0433\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 \u043b\u0438\u0448\u0435 \u043e\u0434\u043d\u0435 \u0441\u043b\u043e\u0432\u043e.|\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0434\u043e\u0432\u0433\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 {{ max }} \u0441\u043b\u043e\u0432\u0430 \u0430\u0431\u043e \u043c\u0435\u043d\u0448\u0435.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0434\u043e\u0432\u0433\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 \u043b\u0438\u0448\u0435 \u043e\u0434\u043d\u0435 \u0441\u043b\u043e\u0432\u043e.|\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0434\u043e\u0432\u0433\u0435. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0441\u043b\u0456\u0432 \u2014 {{ max }}."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u0439 \u0442\u0438\u0436\u0434\u0435\u043d\u044c \u0443 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u0439 \u0442\u0438\u0436\u0434\u0435\u043d\u044c \u0443 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c \u0442\u0438\u0436\u043d\u0435\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c \u0442\u0438\u0436\u043d\u0435\u043c."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u043e \u0431\u0443\u0442\u0438 \u0440\u0430\u043d\u0456\u0448\u0435 \u0442\u0438\u0436\u043d\u044f \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u043e \u0431\u0443\u0442\u0438 \u0440\u0430\u043d\u0456\u0448\u0435 \u0442\u0438\u0436\u043d\u044f \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u043e \u0431\u0443\u0442\u0438 \u043f\u0456\u0441\u043b\u044f \u0442\u0438\u0436\u043d\u044f \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u043e \u0431\u0443\u0442\u0438 \u043f\u0456\u0441\u043b\u044f \u0442\u0438\u0436\u043d\u044f \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c slug.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c slug."
                 }
             },
             "ur": {
@@ -40232,8 +40218,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684 slug\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684 slug\u3002"
                 }
             }
         }
