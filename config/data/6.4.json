@@ -31109,36 +31109,35 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Podany URL nie zawiera domeny najwy\u017cszego poziomu."
+                    "trans": "Ten URL nie zawiera domeny najwy\u017cszego poziomu."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Podana warto\u015b\u0107 jest zbyt kr\u00f3tka. Powinna zawiera\u0107 co najmniej jedno s\u0142owo.|Podana warto\u015b\u0107 jest zbyt kr\u00f3tka. Powinna zawiera\u0107 co najmniej {{ min }} s\u0142\u00f3w."
+                    "trans": "Ta warto\u015b\u0107 jest zbyt kr\u00f3tka. Powinna zawiera\u0107 co najmniej jedno s\u0142owo.|Ta warto\u015b\u0107 jest zbyt kr\u00f3tka. Powinna zawiera\u0107 co najmniej {{ min }} s\u0142\u00f3w."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Podana warto\u015b\u0107 jest zbyt d\u0142uga. Powinna zawiera\u0107 jedno s\u0142owo.|Podana warto\u015b\u0107 jest zbyt d\u0142uga. Powinna zawiera\u0107 {{ max }} s\u0142\u00f3w lub mniej."
+                    "trans": "Ta warto\u015b\u0107 jest zbyt d\u0142uga. Powinna zawiera\u0107 jedno s\u0142owo.|Ta warto\u015b\u0107 jest zbyt d\u0142uga. Powinna zawiera\u0107 {{ max }} s\u0142\u00f3w lub mniej."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Podana warto\u015b\u0107 nie jest poprawnym oznaczeniem tygodnia w formacie ISO 8601."
+                    "trans": "Ta warto\u015b\u0107 nie jest poprawnym oznaczeniem tygodnia w formacie ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Podana warto\u015b\u0107 nie jest poprawnym oznaczeniem tygodnia."
+                    "trans": "Ta warto\u015b\u0107 nie jest poprawnym oznaczeniem tygodnia."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Podana warto\u015b\u0107 nie powinna by\u0107 przed tygodniem \"{{ min }}\"."
+                    "trans": "Ta warto\u015b\u0107 nie powinna by\u0107 przed tygodniem \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Podana warto\u015b\u0107 nie powinna by\u0107 po tygodniu \"{{ max }}\"."
+                    "trans": "Ta warto\u015b\u0107 nie powinna by\u0107 po tygodniu \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym slugiem.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym slugiem."
                 }
             },
             "pt": {
@@ -37067,8 +37066,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini'de ge\u00e7ici bir klas\u00f6r yap\u0131land\u0131r\u0131lmad\u0131, veya yap\u0131land\u0131r\u0131lan klas\u00f6r mevcut de\u011fildir.",
-                    "state": "needs-review-translation"
+                    "trans": "php.ini'de ge\u00e7ici bir klas\u00f6r yap\u0131land\u0131r\u0131lmad\u0131 veya yap\u0131land\u0131r\u0131lan klas\u00f6r mevcut de\u011fildir."
                 },
                 "52": {
                     "id": "52",
@@ -37344,8 +37342,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Bu de\u011fer ge\u00e7erli bir slug de\u011fildir.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir \u201cslug\u201d de\u011fildir."
                 }
             },
             "uk": {
