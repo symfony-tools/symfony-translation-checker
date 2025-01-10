@@ -21013,8 +21013,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 \u0627\u0633\u0644\u0627\u06af \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 slug \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a."
                 }
             },
             "fi": {
@@ -23830,7 +23829,7 @@
                 },
                 "105": {
                     "id": "105",
-                    "trans": "A jelsz\u00f3 t\u00fal egyszer\u0171. K\u00e9rj\u00fck, haszn\u00e1ljon egy bonyolultabb jelsz\u00f3t."
+                    "trans": "A jelsz\u00f3 t\u00fal egyszer\u0171. K\u00e9rj\u00fck, haszn\u00e1ljon egy er\u0151sebb jelsz\u00f3t."
                 },
                 "106": {
                     "id": "106",
@@ -23838,7 +23837,7 @@
                 },
                 "107": {
                     "id": "107",
-                    "trans": "L\u00e1thatatlan karaktert haszn\u00e1lata nem megengedett."
+                    "trans": "L\u00e1thatatlan karakterek haszn\u00e1lata nem megengedett."
                 },
                 "108": {
                     "id": "108",
@@ -23866,38 +23865,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ez az \u00e9rt\u00e9k t\u00fal r\u00f6vid. Tartalmaznia kell legal\u00e1bb egy sz\u00f3t.|Ez az \u00e9rt\u00e9k t\u00fal r\u00f6vid. Tartalmaznia kell legal\u00e1bb {{ min }} sz\u00f3t.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k t\u00fal r\u00f6vid. Tartalmaznia kell legal\u00e1bb egy sz\u00f3t.|Ez az \u00e9rt\u00e9k t\u00fal r\u00f6vid. Tartalmaznia kell legal\u00e1bb {{ min }} sz\u00f3t."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ez az \u00e9rt\u00e9k t\u00fal hossz\u00fa. Csak egy sz\u00f3t tartalmazhat.|Ez az \u00e9rt\u00e9k t\u00fal hossz\u00fa. {{ max }} vagy kevesebb sz\u00f3t tartalmazhat.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k t\u00fal hossz\u00fa. Csak egy sz\u00f3t tartalmazhat.|Ez az \u00e9rt\u00e9k t\u00fal hossz\u00fa. Legfeljebb {{ max }} sz\u00f3t vagy kevesebbet tartalmazhat."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Ez a \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes hetet jelent az ISO 8601 form\u00e1tumban.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez a \u00e9rt\u00e9k \u00e9rv\u00e9nytelen hetet jelent az ISO 8601 form\u00e1tumban."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes h\u00e9t.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k \u00e9rv\u00e9nytelen h\u00e9t."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ennek az \u00e9rt\u00e9knek nem szabad a \"{{ min }}\" h\u00e9t el\u0151tt lennie.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem lehet a \"{{ min }}\". h\u00e9tn\u00e9l kor\u00e1bbi."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ez az \u00e9rt\u00e9k nem lehet a \"{{ max }}\" h\u00e9t ut\u00e1n.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem lehet a \"{{ max }}\". h\u00e9tn\u00e9l k\u00e9s\u0151bbi."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes slug.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes slug."
                 }
             },
             "hy": {
@@ -32060,38 +32052,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Este valor \u00e9 muito curto. Deve conter pelo menos uma palavra.|Este valor \u00e9 muito curto. Deve conter pelo menos {{ min }} palavras.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor \u00e9 muito curto. Deve conter pelo menos uma palavra.|Este valor \u00e9 muito curto. Deve conter pelo menos {{ min }} palavras."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Este valor \u00e9 muito longo. Deve conter apenas uma palavra.|Este valor \u00e9 muito longo. Deve conter {{ max }} palavras ou menos.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor \u00e9 muito longo. Deve conter apenas uma palavra.|Este valor \u00e9 muito longo. Deve conter {{ max }} palavras ou menos."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Este valor n\u00e3o representa uma semana v\u00e1lida no formato ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o representa uma semana v\u00e1lida no formato ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Este valor n\u00e3o \u00e9 uma semana v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 uma semana v\u00e1lida."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Este valor n\u00e3o deve ser anterior \u00e0 semana \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o deve ser anterior \u00e0 semana \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Este valor n\u00e3o deve estar ap\u00f3s a semana \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o deve estar ap\u00f3s a semana \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Este valor n\u00e3o \u00e9 um slug v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um slug v\u00e1lido."
                 }
             },
             "ro": {
