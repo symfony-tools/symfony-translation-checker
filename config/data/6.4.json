@@ -24883,7 +24883,7 @@
                 },
                 "5": {
                     "id": "5",
-                    "trans": "Questo valore dovrebbe essere una delle opzioni disponibili."
+                    "trans": "Il valore selezionato non \u00e8 una scelta valida."
                 },
                 "6": {
                     "id": "6",
@@ -25171,7 +25171,7 @@
                 },
                 "80": {
                     "id": "80",
-                    "trans": "Questo valore non corrisponde al charset {{ charset }}."
+                    "trans": "Questo valore non corrisponde al charset {{ charset }} previsto."
                 },
                 "81": {
                     "id": "81",
@@ -25331,8 +25331,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Questo valore non \u00e8 uno slug valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 uno slug valido."
                 }
             },
             "ja": {
