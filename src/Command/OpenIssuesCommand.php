@@ -67,7 +67,7 @@ final class OpenIssuesCommand extends Command
                 $details .= '| Id | English | Translation | Status |'.\PHP_EOL;
                 $details .= '| -- | -- | -- | -- |'.\PHP_EOL;
                 foreach ($missingTranslation->getMissingTranslations() as $missing) {
-                    $details .= sprintf('| %d | %s | %s | %s |', $missing['id'], $missing['source'], $missing['trans'], 'needs-review-translation' === $missing['state'] ? 'Needs review' : 'Missing').\PHP_EOL;
+                    $details .= sprintf('| %d | %s | %s | %s |', $missing['id'], str_replace('|', '\|', $missing['source']), $missing['trans'] === null ? '' : str_replace('|', '\|', $missing['trans']), 'needs-review-translation' === $missing['state'] ? 'Needs review' : 'Missing').\PHP_EOL;
                 }
                 $details .= \PHP_EOL;
             }
