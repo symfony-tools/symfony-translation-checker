@@ -11754,8 +11754,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00fatu.|Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00faty.|Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00fat.",
-                    "state": "needs-review-translation"
+                    "trans": "Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00fatu.|Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00faty.|Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00fat."
                 }
             },
             "sl": {
@@ -11833,8 +11832,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minuto.|Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minut.",
-                    "state": "needs-review-translation"
+                    "trans": "Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minuto.|Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minuti.|Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minute.|Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minut."
                 }
             },
             "sq": {
@@ -33209,8 +33207,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "V php.ini nie je nastaven\u00fd \u017eiadny do\u010dasn\u00fd adres\u00e1r, alebo nastaven\u00fd adres\u00e1r neexistuje.",
-                    "state": "needs-review-translation"
+                    "trans": "V php.ini nie je nastaven\u00fd \u017eiadny do\u010dasn\u00fd adres\u00e1r, alebo nastaven\u00fd adres\u00e1r neexistuje."
                 },
                 "52": {
                     "id": "52",
@@ -33242,8 +33239,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fdm Medzin\u00e1rodn\u00fdm bankov\u00fdm \u010d\u00edslom \u00fa\u010dtu (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00fdm Medzin\u00e1rodn\u00fdm bankov\u00fdm \u010d\u00edslom \u00fa\u010dtu (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -33331,8 +33327,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fdm Obchodn\u00fdm identifika\u010dn\u00fdm k\u00f3dom (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00fdm Obchodn\u00fdm identifika\u010dn\u00fdm k\u00f3dom (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -33340,8 +33335,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fdm UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00e9 UUID."
                 },
                 "84": {
                     "id": "84",
@@ -33457,48 +33451,39 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "T\u00e1to hodnota nie je platnou MAC adresou.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platnou MAC adresou."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Tomuto URL ch\u00fdba dom\u00e9na najvy\u0161\u0161ej \u00farovne.",
-                    "state": "needs-review-translation"
+                    "trans": "Tejto URL ch\u00fdba dom\u00e9na najvy\u0161\u0161ej \u00farovne."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "T\u00e1to hodnota je pr\u00edli\u0161 kr\u00e1tka. Mala by obsahova\u0165 aspo\u0148 jedno slovo.|T\u00e1to hodnota je pr\u00edli\u0161 kr\u00e1tka. Mala by obsahova\u0165 aspo\u0148 {{ min }} slov.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota je pr\u00edli\u0161 kr\u00e1tka. Mala by obsahova\u0165 aspo\u0148 jedno slovo.|T\u00e1to hodnota je pr\u00edli\u0161 kr\u00e1tka. Mala by obsahova\u0165 aspo\u0148 {{ min }} slov."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "T\u00e1to hodnota je pr\u00edli\u0161 dlh\u00e1. Mala by obsahova\u0165 len jedno slovo.|T\u00e1to hodnota je pr\u00edli\u0161 dlh\u00e1. Mala by obsahova\u0165 {{ max }} slov alebo menej.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota je pr\u00edli\u0161 dlh\u00e1. Mala by obsahova\u0165 len jedno slovo.|T\u00e1to hodnota je pr\u00edli\u0161 dlh\u00e1. Mala by obsahova\u0165 {{ max }} slov alebo menej."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "T\u00e1to hodnota nepredstavuje platn\u00fd t\u00fd\u017ede\u0148 vo form\u00e1te ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nepredstavuje platn\u00fd t\u00fd\u017ede\u0148 vo form\u00e1te ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fd t\u00fd\u017ede\u0148.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00fd t\u00fd\u017ede\u0148."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "T\u00e1to hodnota by nemala by\u0165 pred t\u00fd\u017ed\u0148om \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota by nemala by\u0165 pred t\u00fd\u017ed\u0148om \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "T\u00e1to hodnota by nemala by\u0165 po t\u00fd\u017edni \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota by nemala by\u0165 po t\u00fd\u017edni \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fd slug.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00fd slug."
                 }
             },
             "sl": {
@@ -33940,43 +33925,35 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Temu URL manjka domena najvi\u0161je ravni.",
-                    "state": "needs-review-translation"
+                    "trans": "URL-ju manjka vrhnja domena."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ta vrednost je prekratka. Vsebovati mora vsaj eno besedo.|Ta vrednost je prekratka. Vsebovati mora vsaj {{ min }} besed.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost je prekratka. Vsebovati mora vsaj eno besedo.|Ta vrednost je prekratka. Vsebovati mora vsaj {{ min }} besedi.|Ta vrednost je prekratka. Vsebovati mora vsaj {{ min }} besede.|Ta vrednost je prekratka. Vsebovati mora vsaj {{ min }} besed."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ta vrednost je predolga. Vsebovati mora samo eno besedo.|Ta vrednost je predolga. Vsebovati mora {{ max }} besed ali manj.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost je predolga. Vsebovati mora najve\u010d eno besedo.|Ta vrednost je predolga. Vsebovati mora najve\u010d {{ max }}.|Ta vrednost je predolga. Vsebovati mora najve\u010d {{ max }} besede.|Ta vrednost je predolga. Vsebovati mora najve\u010d {{ max }} besed."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Ta vrednost ne predstavlja veljavnega tedna v ISO 8601 formatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ne predstavlja veljavnega tedna v ISO 8601 formatu."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ta vrednost ni veljaven teden.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven teden."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ta vrednost ne sme biti pred tednom \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ne sme biti pred tednom \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ta vrednost ne sme biti po tednu \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ne sme biti po tednu \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Ta vrednost ni veljaven slug.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven URL slug."
                 }
             },
             "sq": {

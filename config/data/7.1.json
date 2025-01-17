@@ -11754,8 +11754,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00fatu.|Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00faty.|Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00fat.",
-                    "state": "needs-review-translation"
+                    "trans": "Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00fatu.|Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00faty.|Pr\u00edli\u0161 ve\u013ea ne\u00faspe\u0161n\u00fdch pokusov o prihl\u00e1senie, sk\u00faste to pros\u00edm znova o %minutes% min\u00fat."
                 }
             },
             "sl": {
@@ -11833,8 +11832,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minuto.|Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minut.",
-                    "state": "needs-review-translation"
+                    "trans": "Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minuto.|Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minuti.|Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minute.|Preve\u010d neuspe\u0161nih poskusov prijave, poskusite znova \u010dez %minutes% minut."
                 }
             },
             "sq": {
@@ -21013,8 +21011,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 \u0627\u0633\u0644\u0627\u06af \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 slug \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a."
                 }
             },
             "fi": {
@@ -23396,38 +23393,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem jednu rije\u010d.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem jednu rije\u010d.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati samo jednu rije\u010d.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati samo jednu rije\u010d.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Ova vrijednost ne predstavlja valjani tjedan u ISO 8601 formatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne predstavlja valjani tjedan u ISO 8601 formatu."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ova vrijednost nije valjani tjedan.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani tjedan."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ova vrijednost ne bi trebala biti prije tjedna \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne bi trebala biti prije tjedna \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ova vrijednost ne bi trebala biti nakon tjedna \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne bi trebala biti nakon tjedna \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Ova vrijednost nije valjani slug.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani slug."
                 }
             },
             "hu": {
@@ -23837,7 +23827,7 @@
                 },
                 "105": {
                     "id": "105",
-                    "trans": "A jelsz\u00f3 t\u00fal egyszer\u0171. K\u00e9rj\u00fck, haszn\u00e1ljon egy bonyolultabb jelsz\u00f3t."
+                    "trans": "A jelsz\u00f3 t\u00fal egyszer\u0171. K\u00e9rj\u00fck, haszn\u00e1ljon egy er\u0151sebb jelsz\u00f3t."
                 },
                 "106": {
                     "id": "106",
@@ -23845,7 +23835,7 @@
                 },
                 "107": {
                     "id": "107",
-                    "trans": "L\u00e1thatatlan karaktert haszn\u00e1lata nem megengedett."
+                    "trans": "L\u00e1thatatlan karakterek haszn\u00e1lata nem megengedett."
                 },
                 "108": {
                     "id": "108",
@@ -23873,38 +23863,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ez az \u00e9rt\u00e9k t\u00fal r\u00f6vid. Tartalmaznia kell legal\u00e1bb egy sz\u00f3t.|Ez az \u00e9rt\u00e9k t\u00fal r\u00f6vid. Tartalmaznia kell legal\u00e1bb {{ min }} sz\u00f3t.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k t\u00fal r\u00f6vid. Tartalmaznia kell legal\u00e1bb egy sz\u00f3t.|Ez az \u00e9rt\u00e9k t\u00fal r\u00f6vid. Tartalmaznia kell legal\u00e1bb {{ min }} sz\u00f3t."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ez az \u00e9rt\u00e9k t\u00fal hossz\u00fa. Csak egy sz\u00f3t tartalmazhat.|Ez az \u00e9rt\u00e9k t\u00fal hossz\u00fa. {{ max }} vagy kevesebb sz\u00f3t tartalmazhat.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k t\u00fal hossz\u00fa. Csak egy sz\u00f3t tartalmazhat.|Ez az \u00e9rt\u00e9k t\u00fal hossz\u00fa. Legfeljebb {{ max }} sz\u00f3t vagy kevesebbet tartalmazhat."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Ez a \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes hetet jelent az ISO 8601 form\u00e1tumban.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez a \u00e9rt\u00e9k \u00e9rv\u00e9nytelen hetet jelent az ISO 8601 form\u00e1tumban."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes h\u00e9t.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k \u00e9rv\u00e9nytelen h\u00e9t."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ennek az \u00e9rt\u00e9knek nem szabad a \"{{ min }}\" h\u00e9t el\u0151tt lennie.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem lehet a \"{{ min }}\". h\u00e9tn\u00e9l kor\u00e1bbi."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ez az \u00e9rt\u00e9k nem lehet a \"{{ max }}\" h\u00e9t ut\u00e1n.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem lehet a \"{{ max }}\". h\u00e9tn\u00e9l k\u00e9s\u0151bbi."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes slug.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes slug."
                 }
             },
             "hy": {
@@ -24898,7 +24881,7 @@
                 },
                 "5": {
                     "id": "5",
-                    "trans": "Questo valore dovrebbe essere una delle opzioni disponibili."
+                    "trans": "Il valore selezionato non \u00e8 una scelta valida."
                 },
                 "6": {
                     "id": "6",
@@ -25186,7 +25169,7 @@
                 },
                 "80": {
                     "id": "80",
-                    "trans": "Questo valore non corrisponde al charset {{ charset }}."
+                    "trans": "Questo valore non corrisponde al charset {{ charset }} previsto."
                 },
                 "81": {
                     "id": "81",
@@ -25346,8 +25329,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Questo valore non \u00e8 uno slug valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 uno slug valido."
                 }
             },
             "ja": {
@@ -29689,8 +29671,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Deze waarde is geen geldige slug.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldige slug."
                 }
             },
             "nn": {
@@ -31116,36 +31097,35 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Podany URL nie zawiera domeny najwy\u017cszego poziomu."
+                    "trans": "Ten URL nie zawiera domeny najwy\u017cszego poziomu."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Podana warto\u015b\u0107 jest zbyt kr\u00f3tka. Powinna zawiera\u0107 co najmniej jedno s\u0142owo.|Podana warto\u015b\u0107 jest zbyt kr\u00f3tka. Powinna zawiera\u0107 co najmniej {{ min }} s\u0142\u00f3w."
+                    "trans": "Ta warto\u015b\u0107 jest zbyt kr\u00f3tka. Powinna zawiera\u0107 co najmniej jedno s\u0142owo.|Ta warto\u015b\u0107 jest zbyt kr\u00f3tka. Powinna zawiera\u0107 co najmniej {{ min }} s\u0142\u00f3w."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Podana warto\u015b\u0107 jest zbyt d\u0142uga. Powinna zawiera\u0107 jedno s\u0142owo.|Podana warto\u015b\u0107 jest zbyt d\u0142uga. Powinna zawiera\u0107 {{ max }} s\u0142\u00f3w lub mniej."
+                    "trans": "Ta warto\u015b\u0107 jest zbyt d\u0142uga. Powinna zawiera\u0107 jedno s\u0142owo.|Ta warto\u015b\u0107 jest zbyt d\u0142uga. Powinna zawiera\u0107 {{ max }} s\u0142\u00f3w lub mniej."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Podana warto\u015b\u0107 nie jest poprawnym oznaczeniem tygodnia w formacie ISO 8601."
+                    "trans": "Ta warto\u015b\u0107 nie jest poprawnym oznaczeniem tygodnia w formacie ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Podana warto\u015b\u0107 nie jest poprawnym oznaczeniem tygodnia."
+                    "trans": "Ta warto\u015b\u0107 nie jest poprawnym oznaczeniem tygodnia."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Podana warto\u015b\u0107 nie powinna by\u0107 przed tygodniem \"{{ min }}\"."
+                    "trans": "Ta warto\u015b\u0107 nie powinna by\u0107 przed tygodniem \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Podana warto\u015b\u0107 nie powinna by\u0107 po tygodniu \"{{ max }}\"."
+                    "trans": "Ta warto\u015b\u0107 nie powinna by\u0107 po tygodniu \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym slugiem.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym slugiem."
                 }
             },
             "pt": {
@@ -32068,38 +32048,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Este valor \u00e9 muito curto. Deve conter pelo menos uma palavra.|Este valor \u00e9 muito curto. Deve conter pelo menos {{ min }} palavras.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor \u00e9 muito curto. Deve conter pelo menos uma palavra.|Este valor \u00e9 muito curto. Deve conter pelo menos {{ min }} palavras."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Este valor \u00e9 muito longo. Deve conter apenas uma palavra.|Este valor \u00e9 muito longo. Deve conter {{ max }} palavras ou menos.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor \u00e9 muito longo. Deve conter apenas uma palavra.|Este valor \u00e9 muito longo. Deve conter {{ max }} palavras ou menos."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Este valor n\u00e3o representa uma semana v\u00e1lida no formato ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o representa uma semana v\u00e1lida no formato ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Este valor n\u00e3o \u00e9 uma semana v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 uma semana v\u00e1lida."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Este valor n\u00e3o deve ser anterior \u00e0 semana \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o deve ser anterior \u00e0 semana \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Este valor n\u00e3o deve estar ap\u00f3s a semana \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o deve estar ap\u00f3s a semana \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Este valor n\u00e3o \u00e9 um slug v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um slug v\u00e1lido."
                 }
             },
             "ro": {
@@ -32545,38 +32518,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 con\u021bin\u0103 cel pu\u021bin un cuv\u00e2nt.|Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 con\u021bin\u0103 cel pu\u021bin {{ min }} cuvinte.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare este prea scurt\u0103. Trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin un cuv\u00e2nt.|Aceast\u0103 valoare este prea scurt\u0103. Trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ min }} cuvinte."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 con\u021bin\u0103 doar un cuv\u00e2nt.|Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 con\u021bin\u0103 {{ max }} cuvinte sau mai pu\u021bine.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare este prea lung\u0103. Trebuie s\u0103 con\u021bin\u0103 un singur cuv\u00e2nt.|Aceast\u0103 valoare este prea lung\u0103. Trebuie s\u0103 con\u021bin\u0103 cel mult {{ max }} cuvinte."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Aceast\u0103 valoare nu reprezint\u0103 o s\u0103pt\u0103m\u00e2n\u0103 valid\u0103 \u00een formatul ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu reprezint\u0103 o s\u0103pt\u0103m\u00e2n\u0103 valid\u0103 \u00een formatul ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Aceast\u0103 valoare nu este o s\u0103pt\u0103m\u00e2n\u0103 valid\u0103.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este o s\u0103pt\u0103m\u00e2n\u0103 valid\u0103."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Aceast\u0103 valoare nu trebuie s\u0103 fie \u00eenainte de s\u0103pt\u0103m\u00e2na \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu trebuie s\u0103 fie \u00eenainte de s\u0103pt\u0103m\u00e2na \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Aceast\u0103 valoare nu trebuie s\u0103 fie dup\u0103 s\u0103pt\u0103m\u00e2na \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu trebuie s\u0103 fie dup\u0103 s\u0103pt\u0103m\u00e2na \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Aceast\u0103 valoare nu este un slug valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este un slug valid."
                 }
             },
             "ru": {
@@ -33022,38 +32988,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0435. \u041e\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c \u043e\u0434\u043d\u043e \u0441\u043b\u043e\u0432\u043e.|\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0435. \u041e\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c {{ min }} \u0441\u043b\u043e\u0432\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0435. \u041e\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c \u043e\u0434\u043d\u043e \u0441\u043b\u043e\u0432\u043e.|\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0435. \u041e\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c {{ min }} \u0441\u043b\u043e\u0432\u0430.|\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0435. \u041e\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c {{ min }} \u0441\u043b\u043e\u0432."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0434\u043b\u0438\u043d\u043d\u043e\u0435. \u041e\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0434\u043d\u043e \u0441\u043b\u043e\u0432\u043e.|\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0434\u043b\u0438\u043d\u043d\u043e\u0435. \u041e\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c {{ max }} \u0441\u043b\u043e\u0432\u0430 \u0438\u043b\u0438 \u043c\u0435\u043d\u044c\u0448\u0435.",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0434\u043b\u0438\u043d\u043d\u043e\u0435. \u041e\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0434\u043d\u043e \u0441\u043b\u043e\u0432\u043e.|\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0434\u043b\u0438\u043d\u043d\u043e\u0435. \u041e\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c {{ max }} \u0441\u043b\u043e\u0432\u0430 \u0438\u043b\u0438 \u043c\u0435\u043d\u044c\u0448\u0435.|\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0434\u043b\u0438\u043d\u043d\u043e\u0435. \u041e\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c {{ max }} \u0441\u043b\u043e\u0432 \u0438\u043b\u0438 \u043c\u0435\u043d\u044c\u0448\u0435."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0443\u044e \u043d\u0435\u0434\u0435\u043b\u044e \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0443\u044e \u043d\u0435\u0434\u0435\u043b\u044e \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0439 \u043d\u0435\u0434\u0435\u043b\u0435\u0439.",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0439 \u043d\u0435\u0434\u0435\u043b\u0435\u0439."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u0440\u0430\u043d\u044c\u0448\u0435 \u043d\u0435\u0434\u0435\u043b\u0438 \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u0440\u0430\u043d\u044c\u0448\u0435 \u043d\u0435\u0434\u0435\u043b\u0438 \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u043f\u043e\u0441\u043b\u0435 \u043d\u0435\u0434\u0435\u043b\u0438 \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u043f\u043e\u0441\u043b\u0435 \u043d\u0435\u0434\u0435\u043b\u0438 \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u044b\u043c slug.",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u044b\u043c slug."
                 }
             },
             "sk": {
@@ -33248,8 +33207,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "V php.ini nie je nastaven\u00fd \u017eiadny do\u010dasn\u00fd adres\u00e1r, alebo nastaven\u00fd adres\u00e1r neexistuje.",
-                    "state": "needs-review-translation"
+                    "trans": "V php.ini nie je nastaven\u00fd \u017eiadny do\u010dasn\u00fd adres\u00e1r, alebo nastaven\u00fd adres\u00e1r neexistuje."
                 },
                 "52": {
                     "id": "52",
@@ -33281,8 +33239,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fdm Medzin\u00e1rodn\u00fdm bankov\u00fdm \u010d\u00edslom \u00fa\u010dtu (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00fdm Medzin\u00e1rodn\u00fdm bankov\u00fdm \u010d\u00edslom \u00fa\u010dtu (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -33370,8 +33327,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fdm Obchodn\u00fdm identifika\u010dn\u00fdm k\u00f3dom (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00fdm Obchodn\u00fdm identifika\u010dn\u00fdm k\u00f3dom (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -33379,8 +33335,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fdm UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00e9 UUID."
                 },
                 "84": {
                     "id": "84",
@@ -33496,48 +33451,39 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "T\u00e1to hodnota nie je platnou MAC adresou.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platnou MAC adresou."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Tomuto URL ch\u00fdba dom\u00e9na najvy\u0161\u0161ej \u00farovne.",
-                    "state": "needs-review-translation"
+                    "trans": "Tejto URL ch\u00fdba dom\u00e9na najvy\u0161\u0161ej \u00farovne."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "T\u00e1to hodnota je pr\u00edli\u0161 kr\u00e1tka. Mala by obsahova\u0165 aspo\u0148 jedno slovo.|T\u00e1to hodnota je pr\u00edli\u0161 kr\u00e1tka. Mala by obsahova\u0165 aspo\u0148 {{ min }} slov.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota je pr\u00edli\u0161 kr\u00e1tka. Mala by obsahova\u0165 aspo\u0148 jedno slovo.|T\u00e1to hodnota je pr\u00edli\u0161 kr\u00e1tka. Mala by obsahova\u0165 aspo\u0148 {{ min }} slov."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "T\u00e1to hodnota je pr\u00edli\u0161 dlh\u00e1. Mala by obsahova\u0165 len jedno slovo.|T\u00e1to hodnota je pr\u00edli\u0161 dlh\u00e1. Mala by obsahova\u0165 {{ max }} slov alebo menej.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota je pr\u00edli\u0161 dlh\u00e1. Mala by obsahova\u0165 len jedno slovo.|T\u00e1to hodnota je pr\u00edli\u0161 dlh\u00e1. Mala by obsahova\u0165 {{ max }} slov alebo menej."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "T\u00e1to hodnota nepredstavuje platn\u00fd t\u00fd\u017ede\u0148 vo form\u00e1te ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nepredstavuje platn\u00fd t\u00fd\u017ede\u0148 vo form\u00e1te ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fd t\u00fd\u017ede\u0148.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00fd t\u00fd\u017ede\u0148."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "T\u00e1to hodnota by nemala by\u0165 pred t\u00fd\u017ed\u0148om \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota by nemala by\u0165 pred t\u00fd\u017ed\u0148om \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "T\u00e1to hodnota by nemala by\u0165 po t\u00fd\u017edni \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota by nemala by\u0165 po t\u00fd\u017edni \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fd slug.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00fd slug."
                 }
             },
             "sl": {
@@ -33979,43 +33925,35 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Temu URL manjka domena najvi\u0161je ravni.",
-                    "state": "needs-review-translation"
+                    "trans": "URL-ju manjka vrhnja domena."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ta vrednost je prekratka. Vsebovati mora vsaj eno besedo.|Ta vrednost je prekratka. Vsebovati mora vsaj {{ min }} besed.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost je prekratka. Vsebovati mora vsaj eno besedo.|Ta vrednost je prekratka. Vsebovati mora vsaj {{ min }} besedi.|Ta vrednost je prekratka. Vsebovati mora vsaj {{ min }} besede.|Ta vrednost je prekratka. Vsebovati mora vsaj {{ min }} besed."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ta vrednost je predolga. Vsebovati mora samo eno besedo.|Ta vrednost je predolga. Vsebovati mora {{ max }} besed ali manj.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost je predolga. Vsebovati mora najve\u010d eno besedo.|Ta vrednost je predolga. Vsebovati mora najve\u010d {{ max }}.|Ta vrednost je predolga. Vsebovati mora najve\u010d {{ max }} besede.|Ta vrednost je predolga. Vsebovati mora najve\u010d {{ max }} besed."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Ta vrednost ne predstavlja veljavnega tedna v ISO 8601 formatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ne predstavlja veljavnega tedna v ISO 8601 formatu."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ta vrednost ni veljaven teden.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven teden."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ta vrednost ne sme biti pred tednom \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ne sme biti pred tednom \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ta vrednost ne sme biti po tednu \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ne sme biti po tednu \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Ta vrednost ni veljaven slug.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven URL slug."
                 }
             },
             "sq": {
@@ -34957,8 +34895,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u0436\u0435\u045b\u0438 \u0441\u043b\u0443\u0433.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u0441\u043b\u0443\u0433."
                 }
             },
             "sr_Latn": {
@@ -35428,8 +35365,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Ova vrednost nije va\u017ee\u0107i slug.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije validan slug."
                 }
             },
             "sv": {
@@ -37081,8 +37017,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini'de ge\u00e7ici bir klas\u00f6r yap\u0131land\u0131r\u0131lmad\u0131, veya yap\u0131land\u0131r\u0131lan klas\u00f6r mevcut de\u011fildir.",
-                    "state": "needs-review-translation"
+                    "trans": "php.ini'de ge\u00e7ici bir klas\u00f6r yap\u0131land\u0131r\u0131lmad\u0131 veya yap\u0131land\u0131r\u0131lan klas\u00f6r mevcut de\u011fildir."
                 },
                 "52": {
                     "id": "52",
@@ -37358,8 +37293,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Bu de\u011fer ge\u00e7erli bir slug de\u011fildir.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir \u201cslug\u201d de\u011fildir."
                 }
             },
             "uk": {
@@ -37805,38 +37739,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 \u043e\u0434\u043d\u0435 \u0441\u043b\u043e\u0432\u043e.|\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 {{ min }} \u0441\u043b\u043e\u0432\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 \u043e\u0434\u043d\u0435 \u0441\u043b\u043e\u0432\u043e.|\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u0435. \u041c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0441\u043b\u0456\u0432 \u2014 {{ min }}."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0434\u043e\u0432\u0433\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 \u043b\u0438\u0448\u0435 \u043e\u0434\u043d\u0435 \u0441\u043b\u043e\u0432\u043e.|\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0434\u043e\u0432\u0433\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 {{ max }} \u0441\u043b\u043e\u0432\u0430 \u0430\u0431\u043e \u043c\u0435\u043d\u0448\u0435.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0434\u043e\u0432\u0433\u0435. \u0412\u043e\u043d\u043e \u043c\u0430\u0454 \u043c\u0456\u0441\u0442\u0438\u0442\u0438 \u043b\u0438\u0448\u0435 \u043e\u0434\u043d\u0435 \u0441\u043b\u043e\u0432\u043e.|\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0434\u043e\u0432\u0433\u0435. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0441\u043b\u0456\u0432 \u2014 {{ max }}."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u0439 \u0442\u0438\u0436\u0434\u0435\u043d\u044c \u0443 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u0439 \u0442\u0438\u0436\u0434\u0435\u043d\u044c \u0443 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c \u0442\u0438\u0436\u043d\u0435\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c \u0442\u0438\u0436\u043d\u0435\u043c."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u043e \u0431\u0443\u0442\u0438 \u0440\u0430\u043d\u0456\u0448\u0435 \u0442\u0438\u0436\u043d\u044f \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u043e \u0431\u0443\u0442\u0438 \u0440\u0430\u043d\u0456\u0448\u0435 \u0442\u0438\u0436\u043d\u044f \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u043e \u0431\u0443\u0442\u0438 \u043f\u0456\u0441\u043b\u044f \u0442\u0438\u0436\u043d\u044f \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u043e \u0431\u0443\u0442\u0438 \u043f\u0456\u0441\u043b\u044f \u0442\u0438\u0436\u043d\u044f \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c slug.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c slug."
                 }
             },
             "ur": {
@@ -40239,8 +40166,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684 slug\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684 slug\u3002"
                 }
             }
         }
