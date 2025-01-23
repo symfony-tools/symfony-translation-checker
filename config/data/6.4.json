@@ -24827,38 +24827,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Nilai ini terlalu pendek. Seharusnya berisi setidaknya satu kata.|Nilai ini terlalu pendek. Seharusnya berisi setidaknya {{ min }} kata.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini terlalu pendek. Seharusnya berisi setidaknya satu kata.|Nilai ini terlalu pendek. Seharusnya berisi setidaknya {{ min }} kata."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Nilai ini terlalu panjang. Seharusnya hanya berisi satu kata.|Nilai ini terlalu panjang. Seharusnya berisi {{ max }} kata atau kurang.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini terlalu panjang. Seharusnya hanya berisi satu kata.|Nilai ini terlalu panjang. Seharusnya berisi {{ max }} kata atau kurang."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Nilai ini tidak mewakili minggu yang valid dalam format ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini tidak mewakili minggu yang valid dalam format ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Nilai ini bukan minggu yang valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan minggu yang valid."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Nilai ini tidak boleh sebelum minggu \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini tidak boleh sebelum minggu \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Nilai ini tidak boleh setelah minggu \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini tidak boleh setelah minggu \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Nilai ini bukan slug yang valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan slug yang valid."
                 }
             },
             "it": {
