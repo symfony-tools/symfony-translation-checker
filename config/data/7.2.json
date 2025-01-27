@@ -9955,15 +9955,15 @@
             "he": {
                 "1": {
                     "id": "1",
-                    "trans": "\u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05d0\u05d9\u05de\u05d5\u05ea"
+                    "trans": "\u05d4\u05ea\u05e8\u05d7\u05e9\u05d4 \u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05d0\u05d9\u05de\u05d5\u05ea."
                 },
                 "2": {
                     "id": "2",
-                    "trans": "\u05e4\u05e8\u05d8\u05d9 \u05d6\u05d9\u05d4\u05d5\u05d9 \u05dc\u05d0 \u05e0\u05de\u05e6\u05d0\u05d5."
+                    "trans": "\u05e4\u05e8\u05d8\u05d9 \u05d4\u05d6\u05d9\u05d4\u05d5\u05d9 \u05dc\u05d0 \u05e0\u05de\u05e6\u05d0\u05d5."
                 },
                 "3": {
                     "id": "3",
-                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05e2\u05d1\u05d3 \u05d0\u05ea \u05d1\u05e7\u05e9\u05ea \u05d0\u05d9\u05de\u05d5\u05ea \u05d1\u05d2\u05dc\u05dc \u05d1\u05e2\u05d9\u05d9\u05ea \u05de\u05e2\u05e8\u05db\u05ea."
+                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05e2\u05d1\u05d3 \u05d0\u05ea \u05d1\u05e7\u05e9\u05ea \u05d4\u05d0\u05d9\u05de\u05d5\u05ea \u05d1\u05d2\u05dc\u05dc \u05d1\u05e2\u05d9\u05d9\u05ea \u05de\u05e2\u05e8\u05db\u05ea."
                 },
                 "4": {
                     "id": "4",
@@ -9971,7 +9971,7 @@
                 },
                 "5": {
                     "id": "5",
-                    "trans": "\u05e2\u05d5\u05d2\u05d9\u05d4 \u05db\u05d1\u05e8 \u05e9\u05d5\u05de\u05e9\u05d4."
+                    "trans": "\u05e2\u05d5\u05d2\u05d9\u05d4 \u05db\u05d1\u05e8 \u05e9\u05d5\u05de\u05e9\u05d4 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05d9\u05e9\u05d4\u05d5 \u05d0\u05d7\u05e8."
                 },
                 "6": {
                     "id": "6",
@@ -9983,15 +9983,15 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "\u05dc\u05d0 \u05e0\u05de\u05e6\u05d0 \u05e1\u05e4\u05e7 \u05d0\u05d9\u05de\u05d5\u05ea \u05d4\u05de\u05ea\u05d0\u05d9\u05de\u05d4 \u05dc\u05d1\u05e7\u05e9\u05d4."
+                    "trans": "\u05dc\u05d0 \u05e0\u05de\u05e6\u05d0 \u05e1\u05e4\u05e7 \u05d0\u05d9\u05de\u05d5\u05ea \u05d4\u05de\u05ea\u05d0\u05d9\u05dd \u05dc\u05d1\u05e7\u05e9\u05d4."
                 },
                 "10": {
                     "id": "10",
-                    "trans": "\u05d0\u05d9\u05df \u05e1\u05d9\u05d9\u05e9\u05df \u05d6\u05de\u05d9\u05df, \u05d0\u05d5 \u05e9\u05ea\u05dd \u05d4\u05d6\u05de\u05df \u05d4\u05e7\u05e6\u05d5\u05d1 \u05d0\u05d5 \u05d4\u05e2\u05d5\u05d2\u05d9\u05d5\u05ea \u05d0\u05d9\u05e0\u05df \u05de\u05d5\u05e4\u05e2\u05dc\u05d5\u05ea."
+                    "trans": "\u05d0\u05d9\u05df \u05de\u05e4\u05d2\u05e9 \u05d6\u05de\u05d9\u05df, \u05ea\u05dd \u05d4\u05d6\u05de\u05df \u05d4\u05e7\u05e6\u05d5\u05d1 \u05d0\u05d5 \u05e9\u05d4\u05e2\u05d5\u05d2\u05d9\u05d5\u05ea \u05d0\u05d9\u05e0\u05df \u05de\u05d5\u05e4\u05e2\u05dc\u05d5\u05ea."
                 },
                 "11": {
                     "id": "11",
-                    "trans": "\u05d4\u05d8\u05d5\u05e7\u05df \u05dc\u05d0 \u05e0\u05de\u05e6\u05d0."
+                    "trans": "\u05d0\u05e1\u05d9\u05de\u05d5\u05df \u05dc\u05d0 \u05e0\u05de\u05e6\u05d0."
                 },
                 "12": {
                     "id": "12",
@@ -10023,12 +10023,11 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e0\u05d9\u05e1\u05d9\u05d5\u05e0\u05d5\u05ea \u05db\u05e0\u05d9\u05e1\u05d4 \u05db\u05d5\u05e9\u05dc\u05d9\u05dd, \u05d0\u05e0\u05d0 \u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1 \u05d1\u05d5\u05d3 %minutes% \u05d3\u05e7\u05d4."
+                    "trans": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e0\u05d9\u05e1\u05d9\u05d5\u05e0\u05d5\u05ea \u05db\u05e0\u05d9\u05e1\u05d4 \u05db\u05d5\u05e9\u05dc\u05d9\u05dd, \u05d0\u05e0\u05d0 \u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1 \u05d1\u05e2\u05d5\u05d3 %minutes% \u05d3\u05e7\u05d4."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e0\u05d9\u05e1\u05d9\u05d5\u05e0\u05d5\u05ea \u05db\u05e0\u05d9\u05e1\u05d4 \u05db\u05d5\u05e9\u05dc\u05d9\u05dd, \u05d0\u05e0\u05d0 \u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1 \u05d1\u05e2\u05d5\u05d3 %minutes% \u05d3\u05e7\u05d5\u05ea.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e0\u05d9\u05e1\u05d9\u05d5\u05e0\u05d5\u05ea \u05db\u05e0\u05d9\u05e1\u05d4 \u05db\u05d5\u05e9\u05dc\u05d9\u05dd, \u05d0\u05e0\u05d0 \u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1 \u05d1\u05e2\u05d5\u05d3 %minutes% \u05d3\u05e7\u05d5\u05ea."
                 }
             },
             "hr": {
@@ -13357,7 +13356,7 @@
                 },
                 "2": {
                     "id": "2",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u064a\u062c\u0628 \u0623\u0646 \u062a\u0643\u0648\u0646 \u062d\u0642\u064a\u0642\u064a\u0629."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u064a\u062c\u0628 \u0623\u0646 \u062a\u0643\u0648\u0646 \u0635\u062d\u064a\u062d\u0629."
                 },
                 "3": {
                     "id": "3",
@@ -13369,7 +13368,7 @@
                 },
                 "5": {
                     "id": "5",
-                    "trans": "\u0627\u0644\u0642\u064a\u0645\u0629 \u0627\u0644\u0645\u062e\u062a\u0627\u0631\u0629 \u0644\u064a\u0633\u062a \u062e\u064a\u0627\u0631\u0627 \u0635\u062d\u064a\u062d\u0627."
+                    "trans": "\u0627\u0644\u0642\u064a\u0645\u0629 \u0627\u0644\u0645\u062e\u062a\u0627\u0631\u0629 \u0644\u064a\u0633\u062a \u062e\u064a\u0627\u0631 \u0635\u062d\u064a\u062d."
                 },
                 "6": {
                     "id": "6",
@@ -13385,23 +13384,23 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "\u0644\u0645 \u064a\u0643\u0646 \u0645\u0646 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0647\u0630\u0627 \u0627\u0644\u0645\u062c\u0627\u0644."
+                    "trans": "\u0644\u0645 \u064a\u0643\u0646 \u0645\u0646 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0647\u0630\u0627 \u0627\u0644\u062d\u0642\u0644."
                 },
                 "10": {
                     "id": "10",
-                    "trans": "\u0647\u0630\u0627 \u0627\u0644\u0645\u062c\u0627\u0644 \u0645\u0641\u0642\u0648\u062f."
+                    "trans": "\u0647\u0630\u0627 \u0627\u0644\u062d\u0642\u0644 \u0645\u0641\u0642\u0648\u062f."
                 },
                 "11": {
                     "id": "11",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062a\u0627\u0631\u064a\u062e\u0627 \u0635\u0627\u0644\u062d\u0627."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062a\u0627\u0631\u064a\u062e \u0635\u0627\u0644\u062d."
                 },
                 "12": {
                     "id": "12",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062a\u0627\u0631\u064a\u062e\u0627 \u0648 \u0648\u0642\u062a\u0627 \u0635\u0627\u0644\u062d\u0627."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062a\u0627\u0631\u064a\u062e \u0648 \u0648\u0642\u062a \u0635\u0627\u0644\u062d."
                 },
                 "13": {
                     "id": "13",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0646\u0648\u0627\u0646 \u0628\u0631\u064a\u062f \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0635\u062d\u064a\u062d."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0644\u0647\u0627 \u0639\u0646\u0648\u0627\u0646 \u0628\u0631\u064a\u062f \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0635\u062d\u064a\u062d."
                 },
                 "14": {
                     "id": "14",
@@ -13437,11 +13436,11 @@
                 },
                 "22": {
                     "id": "22",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u064a\u062c\u0628 \u0627\u0644\u0627 \u062a\u0643\u0648\u0646 \u0641\u0627\u0631\u063a\u0629."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u064a\u062c\u0628 \u0644\u0627 \u062a\u0643\u0648\u0646 \u0641\u0627\u0631\u063a\u0629."
                 },
                 "23": {
                     "id": "23",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u064a\u062c\u0628 \u0627\u0644\u0627 \u062a\u0643\u0648\u0646 \u0641\u0627\u0631\u063a\u0629."
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u064a\u062c\u0628 \u0644\u0627 \u062a\u0643\u0648\u0646 \u0641\u0627\u0631\u063a\u0629."
                 },
                 "24": {
                     "id": "24",
@@ -13473,7 +13472,7 @@
                 },
                 "34": {
                     "id": "34",
-                    "trans": "\u0644\u0645 \u0627\u0633\u062a\u0637\u0639 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 \u0627\u0644\u0645\u0644\u0641."
+                    "trans": "\u062a\u0639\u0630\u0631 \u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0645\u0644\u0641."
                 },
                 "35": {
                     "id": "35",
@@ -13481,7 +13480,7 @@
                 },
                 "36": {
                     "id": "36",
-                    "trans": "\u0647\u0630\u0627 \u0627\u0644\u0645\u0644\u0641 \u0644\u064a\u0633 \u0635\u0648\u0631\u0629 \u0635\u062d\u064a\u062d\u0629."
+                    "trans": "\u0647\u0630\u0627 \u0627\u0644\u0645\u0644\u0641 \u063a\u064a\u0631 \u0635\u0627\u0644\u062d \u0644\u0644\u0635\u0648\u0631\u0629."
                 },
                 "37": {
                     "id": "37",
@@ -13793,38 +13792,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0642\u0635\u064a\u0631\u0629 \u062c\u062f\u064b\u0627. \u064a\u062c\u0628 \u0623\u0646 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0643\u0644\u0645\u0629 \u0648\u0627\u062d\u062f\u0629 \u0639\u0644\u0649 \u0627\u0644\u0623\u0642\u0644.|\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0642\u0635\u064a\u0631\u0629 \u062c\u062f\u064b\u0627. \u064a\u062c\u0628 \u0623\u0646 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 {{ min }} \u0643\u0644\u0645\u0629 \u0639\u0644\u0649 \u0627\u0644\u0623\u0642\u0644.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0642\u0635\u064a\u0631\u0629 \u062c\u062f\u064b\u0627. \u064a\u062c\u0628 \u0623\u0646 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0643\u0644\u0645\u0629 \u0648\u0627\u062d\u062f\u0629 \u0639\u0644\u0649 \u0627\u0644\u0623\u0642\u0644.|\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0642\u0635\u064a\u0631\u0629 \u062c\u062f\u064b\u0627. \u064a\u062c\u0628 \u0623\u0646 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 {{ min }} \u0643\u0644\u0645\u0629 \u0639\u0644\u0649 \u0627\u0644\u0623\u0642\u0644."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0637\u0648\u064a\u0644\u0629 \u062c\u062f\u064b\u0627. \u064a\u062c\u0628 \u0623\u0646 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0643\u0644\u0645\u0629 \u0648\u0627\u062d\u062f\u0629 \u0641\u0642\u0637.|\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0637\u0648\u064a\u0644\u0629 \u062c\u062f\u064b\u0627. \u064a\u062c\u0628 \u0623\u0646 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 {{ max }} \u0643\u0644\u0645\u0629 \u0623\u0648 \u0623\u0642\u0644.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0637\u0648\u064a\u0644\u0629 \u062c\u062f\u064b\u0627. \u064a\u062c\u0628 \u0623\u0646 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0643\u0644\u0645\u0629 \u0648\u0627\u062d\u062f\u0629 \u0641\u0642\u0637.|\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0637\u0648\u064a\u0644\u0629 \u062c\u062f\u064b\u0627. \u064a\u062c\u0628 \u0623\u0646 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 {{ max }} \u0643\u0644\u0645\u0629 \u0623\u0648 \u0623\u0642\u0644."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u0627 \u062a\u0645\u062b\u0644 \u0623\u0633\u0628\u0648\u0639\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627 \u0641\u064a \u062a\u0646\u0633\u064a\u0642 ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u0627 \u062a\u0645\u062b\u0644 \u0623\u0633\u0628\u0648\u0639\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627 \u0648\u0641\u0642 \u062a\u0646\u0633\u064a\u0642 ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0623\u0633\u0628\u0648\u0639\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0623\u0633\u0628\u0648\u0639\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "\u064a\u062c\u0628 \u0623\u0644\u0627 \u062a\u0643\u0648\u0646 \u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0642\u0628\u0644 \u0627\u0644\u0623\u0633\u0628\u0648\u0639 \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u064a\u062c\u0628 \u0623\u0644\u0627 \u062a\u0643\u0648\u0646 \u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0642\u0628\u0644 \u0627\u0644\u0623\u0633\u0628\u0648\u0639 \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u064a\u062c\u0628 \u0623\u0644\u0627 \u062a\u0643\u0648\u0646 \u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0628\u0639\u062f \u0627\u0644\u0623\u0633\u0628\u0648\u0639 \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u064a\u062c\u0628 \u0623\u0644\u0627 \u062a\u0643\u0648\u0646 \u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0628\u0639\u062f \u0627\u0644\u0623\u0633\u0628\u0648\u0639 \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0634\u0631\u064a\u062d\u0629 \u0635\u0627\u0644\u062d\u0629.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0631\u0645\u0632\u0627 \u0635\u0627\u0644\u062d\u0627."
                 }
             },
             "az": {
@@ -16697,8 +16689,7 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Tato hodnota nen\u00ed platn\u00fd slug.",
-                    "state": "needs-review-translation"
+                    "trans": "Tato hodnota nen\u00ed platn\u00fd slug."
                 }
             },
             "cy": {
@@ -24828,38 +24819,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Nilai ini terlalu pendek. Seharusnya berisi setidaknya satu kata.|Nilai ini terlalu pendek. Seharusnya berisi setidaknya {{ min }} kata.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini terlalu pendek. Seharusnya berisi setidaknya satu kata.|Nilai ini terlalu pendek. Seharusnya berisi setidaknya {{ min }} kata."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Nilai ini terlalu panjang. Seharusnya hanya berisi satu kata.|Nilai ini terlalu panjang. Seharusnya berisi {{ max }} kata atau kurang.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini terlalu panjang. Seharusnya hanya berisi satu kata.|Nilai ini terlalu panjang. Seharusnya berisi {{ max }} kata atau kurang."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Nilai ini tidak mewakili minggu yang valid dalam format ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini tidak mewakili minggu yang valid dalam format ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Nilai ini bukan minggu yang valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan minggu yang valid."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Nilai ini tidak boleh sebelum minggu \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini tidak boleh sebelum minggu \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Nilai ini tidak boleh setelah minggu \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini tidak boleh setelah minggu \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Nilai ini bukan slug yang valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan slug yang valid."
                 }
             },
             "it": {
@@ -33351,7 +33335,7 @@
                 },
                 "87": {
                     "id": "87",
-                    "trans": "T\u00e1to kolekcia by mala obsahova\u0165 len unik\u00e1tne prkvy."
+                    "trans": "T\u00e1to kolekcia by mala obsahova\u0165 len unik\u00e1tne prvky."
                 },
                 "88": {
                     "id": "88",
