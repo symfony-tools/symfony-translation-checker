@@ -12297,12 +12297,11 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Napakaraming nabigong mga pagtatangka sa pag-login, pakisubukan ulit sa% minuto% minuto."
+                    "trans": "Napakaraming nabigong mga pagtatangka sa pag-login, pakisubukan ulit matapos ang %minutes% minuto."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Napakaraming nabigong pagtatangka ng pag-login, mangyaring subukang muli sa loob ng %minutes% minuto.|Napakaraming nabigong pagtatangka ng pag-login, mangyaring subukang muli sa loob ng %minutes% minuto.",
-                    "state": "needs-review-translation"
+                    "trans": "Napakaraming nabigong mga pagtatangka sa pag-login, pakisubukan ulit matapos ang %minutes% minuto."
                 }
             },
             "tr": {
@@ -36423,8 +36422,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ang halagang ito ay hindi isang wastong IP address.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi isang wastong IP address."
                 },
                 "38": {
                     "id": "38",
@@ -36480,7 +36478,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Walang pansamantalang folder na na-configure sa php.ini, o ang naka-configure na folder ay hindi umiiral.",
+                    "trans": "Walang pansamantalang folder na na-configure sa php.ini, o ang naka-configure na folder ay hindi naroroon.",
                     "state": "needs-review-translation"
                 },
                 "52": {
@@ -36513,8 +36511,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ang halagang ito ay hindi isang wastong International Bank Account Number (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi isang wastong International Bank Account Number (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -36602,8 +36599,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ang halagang ito ay hindi isang wastong Business Identifier Code (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi isang wastong Business Identifier Code (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -36611,8 +36607,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ang halagang ito ay hindi isang wastong UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi isang wastong UUID."
                 },
                 "84": {
                     "id": "84",
@@ -36688,98 +36683,79 @@
                 },
                 "102": {
                     "id": "102",
-                    "trans": "Ang halagang ito ay hindi wastong notasyong CIDR.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi wastong notasyon ng CIDR."
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Ang halaga ng netmask ay dapat nasa pagitan ng {{ min }} at {{ max }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halaga ng netmask ay dapat nasa pagitan ng {{ min }} at {{ max }}."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Ang pangalan ng file ay masyadong mahaba. Dapat itong magkaroon ng {{ filename_max_length }} karakter o mas kaunti.|Ang pangalan ng file ay masyadong mahaba. Dapat itong magkaroon ng {{ filename_max_length }} mga karakter o mas kaunti.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang pangalan ng file ay masyadong mahaba. Dapat itong magkaroon ng {{ filename_max_length }} karakter o mas kaunti.|Ang pangalan ng file ay masyadong mahaba. Dapat itong magkaroon ng {{ filename_max_length }} mga karakter o mas kaunti."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "Ang lakas ng password ay masyadong mababa. Mangyaring gumamit ng mas malakas na password.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang lakas ng password ay masyadong mababa. Mangyaring gumamit ng mas malakas na password."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Ang halagang ito ay naglalaman ng mga karakter na hindi pinapayagan ng kasalukuyang antas ng paghihigpit.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay naglalaman ng mga karakter na hindi pinapayagan ng kasalukuyang antas ng paghihigpit."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Hindi pinapayagan ang paggamit ng mga hindi nakikitang karakter.",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi pinapayagan ang paggamit ng mga hindi nakikitang karakter."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Hindi pinapayagan ang paghahalo ng mga numero mula sa iba't ibang script.",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi pinapayagan ang paghahalo ng mga numero mula sa iba't ibang script."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Hindi pinapayagan ang paggamit ng mga nakatagong overlay na karakter.",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi pinapayagan ang paggamit ng mga nakatagong overlay na karakter."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Ang extension ng file ay hindi wasto ({{ extension }}). Ang mga pinapayagang extension ay {{ extensions }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang extension ng file ay hindi wasto ({{ extension }}). Ang mga pinapayagang extension ay {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Ang nakitang encoding ng karakter ay hindi wasto ({{ detected }}). Ang mga pinapayagang encoding ay {{ encodings }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang nakitang encoding ng karakter ay hindi wasto ({{ detected }}). Ang mga pinapayagang encoding ay {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ang halagang ito ay hindi isang wastong MAC address.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi isang wastong MAC address."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Kulang ang URL na ito sa top-level domain.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang URL na ito ay kulang ng top-level domain."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Masyadong maikli ang halagang ito. Dapat itong maglaman ng hindi bababa sa isang salita.|Masyadong maikli ang halagang ito. Dapat itong maglaman ng hindi bababa sa {{ min }} salita.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong maikli ang halagang ito. Dapat itong maglaman ng hindi bababa sa isang salita.|Masyadong maikli ang halagang ito. Dapat itong maglaman ng hindi bababa sa {{ min }} salita."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Masyadong mahaba ang halagang ito. Dapat itong maglaman lamang ng isang salita.|Masyadong mahaba ang halagang ito. Dapat itong maglaman ng {{ max }} salita o mas kaunti.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong mahaba ang halagang ito. Dapat itong maglaman lamang ng isang salita.|Masyadong mahaba ang halagang ito. Dapat itong maglaman ng {{ max }} salita o mas kaunti."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Ang halagang ito ay hindi kumakatawan sa isang wastong linggo sa format ng ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi kumakatawan sa isang wastong linggo sa format ng ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ang halagang ito ay hindi isang wastong linggo.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi isang wastong linggo."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ang halagang ito ay hindi dapat bago sa linggo \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi dapat bago sa linggo \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ang halagang ito ay hindi dapat pagkatapos ng linggo \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi dapat pagkatapos ng linggo \"{{ max }}\"."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Ang halagang ito ay hindi isang wastong slug.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi isang wastong slug."
                 }
             },
             "tr": {
