@@ -680,6 +680,10 @@
             "120": {
                 "id": "120",
                 "source": "This value is not a valid slug."
+            },
+            "121": {
+                "id": "121",
+                "source": "This value is not a valid Twig template."
             }
         }
     },
@@ -18153,6 +18157,10 @@
                 "120": {
                     "id": "120",
                     "trans": "Dieser Wert ist kein g\u00fcltiger Slug."
+                },
+                "121": {
+                    "id": "121",
+                    "trans": "Dieser Wert ist kein valides Twig-Template."
                 }
             },
             "el": {
@@ -19097,6 +19105,10 @@
                 "120": {
                     "id": "120",
                     "trans": "This value is not a valid slug."
+                },
+                "121": {
+                    "id": "121",
+                    "trans": "This value is not a valid Twig template."
                 }
             },
             "es": {
