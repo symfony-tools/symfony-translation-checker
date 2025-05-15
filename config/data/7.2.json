@@ -27208,8 +27208,11 @@
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs slug.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs URL slug."
+                },
+                "121": {
+                    "id": "121",
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs Twig \u0161ablons."
                 }
             },
             "mk": {
