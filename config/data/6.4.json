@@ -22050,8 +22050,7 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Cette valeur n'est pas un mod\u00e8le Twig valide.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette valeur n'est pas un mod\u00e8le Twig valide."
                 }
             },
             "gl": {
@@ -23504,8 +23503,7 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Ova vrijednost nije valjani Twig predlo\u017eak.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani Twig predlo\u017eak."
                 }
             },
             "hu": {
