@@ -677,10 +677,6 @@
                 "id": "119",
                 "source": "This value should not be after week \"{{ max }}\"."
             },
-            "120": {
-                "id": "120",
-                "source": "This value is not a valid slug."
-            },
             "121": {
                 "id": "121",
                 "source": "This value is not a valid Twig template."
@@ -13346,11 +13342,6 @@
                     "trans": "Hierdie waarde mag nie na week \"{{ max }}\" kom nie.",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Hierdie waarde is nie 'n geldige slug nie.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Hierdie waarde is nie 'n geldige Twig-sjabloon nie.",
@@ -13821,10 +13812,6 @@
                 "119": {
                     "id": "119",
                     "trans": "\u064a\u062c\u0628 \u0623\u0644\u0627 \u062a\u0643\u0648\u0646 \u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0628\u0639\u062f \u0627\u0644\u0623\u0633\u0628\u0648\u0639 \"{{ max }}\"."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0631\u0645\u0632\u0627 \u0635\u0627\u0644\u062d\u0627."
                 },
                 "121": {
                     "id": "121",
@@ -14308,11 +14295,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Bu d\u0259y\u0259r \"{{ max }}\" h\u0259ft\u0259sind\u0259n sonra olmamal\u0131d\u0131r.",
-                    "state": "needs-review-translation"
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 slug deyil.",
                     "state": "needs-review-translation"
                 },
                 "121": {
@@ -14800,11 +14782,6 @@
                     "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u043f\u0430\u0432\u0456\u043d\u043d\u0430 \u0431\u044b\u0446\u044c \u043f\u0430\u0441\u043b\u044f \u0442\u044b\u0434\u043d\u044f \"{{ max }}\".",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b\u043c \u0441\u043b\u0443\u0433\u0430\u043c.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b\u043c \u0448\u0430\u0431\u043b\u043e\u043d\u0430\u043c Twig.",
@@ -15280,11 +15257,6 @@
                 "119": {
                     "id": "119",
                     "trans": "\u0422\u0430\u0437\u0438 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \u043d\u0435 \u0442\u0440\u044f\u0431\u0432\u0430 \u0434\u0430 \u0431\u044a\u0434\u0435 \u0441\u043b\u0435\u0434 \u0441\u0435\u0434\u043c\u0438\u0446\u0430 \"{{ max }}\".",
-                    "state": "needs-review-translation"
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "\u0422\u0430\u0437\u0438 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d \u0441\u043b\u0430\u0433.",
                     "state": "needs-review-translation"
                 },
                 "121": {
@@ -15773,11 +15745,6 @@
                     "trans": "Ova vrijednost ne bi trebala biti nakon sedmice \"{{ max }}\".",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i slug.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Ova vrijednost nije va\u017ee\u0107i Twig \u0161ablon.",
@@ -16249,11 +16216,6 @@
                     "id": "119",
                     "trans": "Aquest valor no ha de ser posterior a la setmana \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Aquest valor no \u00e9s un slug v\u00e0lid.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Aquest valor no \u00e9s una plantilla Twig v\u00e0lida.",
@@ -16724,10 +16686,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Tato hodnota by nem\u011bla b\u00fdt t\u00fdden za \"{{ max }}\"."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Tato hodnota nen\u00ed platn\u00fd slug."
                 },
                 "121": {
                     "id": "121",
@@ -17239,11 +17197,6 @@
                     "trans": "Ni ddylai'r gwerth hwn fod ar \u00f4l yr wythnos \"{{ max }}\".",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Nid yw'r gwerth hwn yn slug dilys.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Nid yw'r gwerth hwn yn dempled Twig dilys.",
@@ -17728,11 +17681,6 @@
                     "trans": "Denne v\u00e6rdi b\u00f8r ikke v\u00e6re efter uge \"{{ max }}\".",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Denne v\u00e6rdi er ikke en gyldig slug.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Denne v\u00e6rdi er ikke en gyldig Twig-skabelon.",
@@ -18203,10 +18151,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Dieser Wert darf nicht nach der Woche \"{{ max }}\" sein."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Dieser Wert ist kein g\u00fcltiger Slug."
                 },
                 "121": {
                     "id": "121",
@@ -18682,10 +18626,6 @@
                     "id": "119",
                     "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03c4\u03b9\u03bc\u03ae \u03b4\u03b5\u03bd \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1 \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03c4\u03b9\u03bc\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf slug."
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03c4\u03b9\u03bc\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf \u03c0\u03c1\u03cc\u03c4\u03c5\u03c0\u03bf Twig.",
@@ -19157,10 +19097,6 @@
                     "id": "119",
                     "trans": "This value should not be after week \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "This value is not a valid slug."
-                },
                 "121": {
                     "id": "121",
                     "trans": "This value is not a valid Twig template."
@@ -19630,11 +19566,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Este valor no debe ser posterior a la semana \"{{ max }}\"."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Este valor no es un slug v\u00e1lido.",
-                    "state": "needs-review-translation"
                 },
                 "121": {
                     "id": "121",
@@ -20112,11 +20043,6 @@
                 "119": {
                     "id": "119",
                     "trans": "See v\u00e4\u00e4rtus ei tohiks olla p\u00e4rast n\u00e4dalat \"{{ max }}\".",
-                    "state": "needs-review-translation"
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv slug.",
                     "state": "needs-review-translation"
                 },
                 "121": {
@@ -20605,11 +20531,6 @@
                     "trans": "Balio hau ez luke astearen \"{{ max }}\" ondoren egon behar.",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Balio hau ez da slug balioduna.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Balio hau ez da Twig txantiloi baliozko bat.",
@@ -21080,10 +21001,6 @@
                 "119": {
                     "id": "119",
                     "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u0646\u0628\u0627\u06cc\u062f \u0628\u0639\u062f \u0627\u0632 \u0647\u0641\u062a\u0647 \"{{ max }}\" \u0628\u0627\u0634\u062f."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 slug \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a."
                 },
                 "121": {
                     "id": "121",
@@ -21568,11 +21485,6 @@
                     "trans": "T\u00e4m\u00e4n arvon ei pit\u00e4isi olla viikon \"{{ max }}\" j\u00e4lkeen.",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen slug.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen Twig-malli.",
@@ -22043,10 +21955,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Cette valeur ne doit pas \u00eatre post\u00e9rieure \u00e0 la semaine \"{{ max }}\"."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Cette valeur n'est pas un slug valide."
                 },
                 "121": {
                     "id": "121",
@@ -22538,11 +22446,6 @@
                     "trans": "Este valor non debe estar despois da semana \"{{ max }}\".",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Este valor non \u00e9 un slug v\u00e1lido.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Este valor non \u00e9 un modelo Twig v\u00e1lido.",
@@ -23021,11 +22924,6 @@
                     "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05dc\u05d0 \u05d0\u05de\u05d5\u05e8 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d0\u05d7\u05e8 \u05e9\u05d1\u05d5\u05e2 \"{{ max }}\".",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 slug \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d1\u05e0\u05d9\u05ea Twig \u05d7\u05d5\u05e7\u05d9\u05ea.",
@@ -23497,10 +23395,6 @@
                     "id": "119",
                     "trans": "Ova vrijednost ne bi trebala biti nakon tjedna \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Ova vrijednost nije valjani slug."
-                },
                 "121": {
                     "id": "121",
                     "trans": "Ova vrijednost nije valjani Twig predlo\u017eak."
@@ -23970,10 +23864,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Ez az \u00e9rt\u00e9k nem lehet a \"{{ max }}\". h\u00e9tn\u00e9l k\u00e9s\u0151bbi."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes slug."
                 },
                 "121": {
                     "id": "121",
@@ -24470,11 +24360,6 @@
                     "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0579\u057a\u0565\u057f\u0584 \u0567 \u056c\u056b\u0576\u056b \u00ab{{ max }}\u00bb \u0577\u0561\u0562\u0561\u0569\u056b\u0581 \u0570\u0565\u057f\u0578\u0589",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 slug \u0579\u0567:",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 Twig \u0571\u0587\u0561\u0576\u0574\u0578\u0582\u0577 \u0579\u0567:",
@@ -24945,10 +24830,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Nilai ini tidak boleh setelah minggu \"{{ max }}\"."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Nilai ini bukan slug yang valid."
                 },
                 "121": {
                     "id": "121",
@@ -25421,10 +25302,6 @@
                     "id": "119",
                     "trans": "Questo valore non dovrebbe essere dopo la settimana \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Questo valore non \u00e8 uno slug valido."
-                },
                 "121": {
                     "id": "121",
                     "trans": "Questo valore non \u00e8 un template Twig valido.",
@@ -25895,10 +25772,6 @@
                 "119": {
                     "id": "119",
                     "trans": "\u3053\u306e\u5024\u306f\u9031 \"{{ max }}\" \u4ee5\u964d\u3067\u3042\u3063\u3066\u306f\u3044\u3051\u307e\u305b\u3093\u3002"
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306a\u30b9\u30e9\u30b0\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
                 },
                 "121": {
                     "id": "121",
@@ -26383,11 +26256,6 @@
                     "trans": "D\u00ebse W\u00e4ert sollt net no Woch \"{{ max }}\" sinn.",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00fcltege Slug.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "D\u00ebse W\u00e4ert ass kee valabelen Twig-Template.",
@@ -26863,11 +26731,6 @@
                     "trans": "\u0160i reik\u0161m\u0117 netur\u0117t\u0173 b\u016bti po savait\u0117s \"{{ max }}\".",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra tinkamas slug.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u0160i reik\u0161m\u0117 n\u0117ra tinkamas \u201eTwig\u201c \u0161ablonas.",
@@ -27338,10 +27201,6 @@
                 "119": {
                     "id": "119",
                     "trans": "\u0160ai v\u0113rt\u012bbai nevajadz\u0113tu b\u016bt p\u0113c \"{{ max }}\" ned\u0113\u013cas."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs URL slug."
                 },
                 "121": {
                     "id": "121",
@@ -27824,11 +27683,6 @@
                 "119": {
                     "id": "119",
                     "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0438\u0434\u0435 \u043f\u043e \u043d\u0435\u0434\u0435\u043b\u0430 \"{{ max }}\".",
-                    "state": "needs-review-translation"
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "\u041e\u0432\u0430\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d slug.",
                     "state": "needs-review-translation"
                 },
                 "121": {
@@ -28326,11 +28180,6 @@
                     "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u043d\u044c \u0434\u043e\u043b\u043e\u043e \u0445\u043e\u043d\u043e\u0433 \"{{ max }}\" -\u0430\u0430\u0441 \u0445\u043e\u0439\u0448 \u0431\u0430\u0439\u0445 \u0451\u0441\u0433\u04af\u0439.",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 slug \u0431\u0438\u0448 \u0431\u0430\u0439\u043d\u0430.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u043d\u044c Twig-\u0438\u0439\u043d \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 \u0437\u0430\u0433\u0432\u0430\u0440 \u0431\u0438\u0448 \u044e\u043c.",
@@ -28826,11 +28675,6 @@
                     "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u101e\u102e\u1010\u1004\u103a\u1038\u1015\u1010\u103a \"{{ max }}\" \u1015\u103c\u102e\u1038\u1014\u1031\u102c\u1000\u103a \u1016\u103c\u1005\u103a\u101e\u1004\u1037\u103a\u101e\u100a\u103a\u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u1012\u102e\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a\u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c slug \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c Twig \u1010\u1004\u103a\u1038\u1015\u101c\u102d\u1010\u103a\u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b",
@@ -29323,11 +29167,6 @@
                     "trans": "Denne verdien b\u00f8r ikke v\u00e6re etter uke \"{{ max }}\".",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Denne verdien er ikke en gyldig slug.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Denne verdien er ikke en gyldig Twig-mal.",
@@ -29798,10 +29637,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Deze waarde mag niet na week \"{{ max }}\" liggen."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Deze waarde is geen geldige slug."
                 },
                 "121": {
                     "id": "121",
@@ -30293,11 +30128,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Denne verdien b\u00f8r ikkje vere etter veke \"{{ max }}\".",
-                    "state": "needs-review-translation"
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Denne verdien er ikkje ein gyldig slug.",
                     "state": "needs-review-translation"
                 },
                 "121": {
@@ -30792,11 +30622,6 @@
                     "trans": "Denne verdien b\u00f8r ikke v\u00e6re etter uke \"{{ max }}\".",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Denne verdien er ikke en gyldig slug.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Denne verdien er ikke en gyldig Twig-mal.",
@@ -31268,10 +31093,6 @@
                     "id": "119",
                     "trans": "Ta warto\u015b\u0107 nie powinna by\u0107 po tygodniu \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym slugiem."
-                },
                 "121": {
                     "id": "121",
                     "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym szablonem Twig."
@@ -31741,10 +31562,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Este valor n\u00e3o deve estar ap\u00f3s a semana \"{{ max }}\"."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Este valor n\u00e3o \u00e9 um slug v\u00e1lido."
                 },
                 "121": {
                     "id": "121",
@@ -32217,10 +32034,6 @@
                     "id": "119",
                     "trans": "Este valor n\u00e3o deve estar ap\u00f3s a semana \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Este valor n\u00e3o \u00e9 um slug v\u00e1lido."
-                },
                 "121": {
                     "id": "121",
                     "trans": "Este valor n\u00e3o \u00e9 um modelo Twig v\u00e1lido.",
@@ -32692,10 +32505,6 @@
                     "id": "119",
                     "trans": "Aceast\u0103 valoare nu trebuie s\u0103 fie dup\u0103 s\u0103pt\u0103m\u00e2na \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Aceast\u0103 valoare nu este un slug valid."
-                },
                 "121": {
                     "id": "121",
                     "trans": "Aceast\u0103 valoare nu este un \u0219ablon Twig valid.",
@@ -33166,10 +32975,6 @@
                 "119": {
                     "id": "119",
                     "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u043f\u043e\u0441\u043b\u0435 \u043d\u0435\u0434\u0435\u043b\u0438 \"{{ max }}\"."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u044b\u043c slug."
                 },
                 "121": {
                     "id": "121",
@@ -33643,10 +33448,6 @@
                     "id": "119",
                     "trans": "T\u00e1to hodnota by nemala by\u0165 po t\u00fd\u017edni \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fd slug."
-                },
                 "121": {
                     "id": "121",
                     "trans": "T\u00e1to hodnota nie je platn\u00e1 \u0161abl\u00f3na Twig.",
@@ -34117,10 +33918,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Ta vrednost ne sme biti po tednu \"{{ max }}\"."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Ta vrednost ni veljaven URL slug."
                 },
                 "121": {
                     "id": "121",
@@ -34594,11 +34391,6 @@
                     "id": "119",
                     "trans": "Kjo vler\u00eb nuk duhet t\u00eb jet\u00eb pas jav\u00ebs \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb slug i vlefsh\u00ebm.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb shabllon Twig i vlefsh\u00ebm.",
@@ -35070,10 +34862,6 @@
                     "id": "119",
                     "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0442\u0440\u0435\u0431\u0430 \u0434\u0430 \u0431\u0443\u0434\u0435 \u043f\u043e\u0441\u043b\u0435 \u043d\u0435\u0434\u0435\u0459\u0435 \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u043b\u0438\u0434\u0430\u043d \u0441\u043b\u0443\u0433."
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u0436\u0435\u045b\u0438 Twig \u0448\u0430\u0431\u043b\u043e\u043d.",
@@ -35544,10 +35332,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Ova vrednost ne treba da bude posle nedelje \"{{ max }}\"."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Ova vrednost nije validan slug."
                 },
                 "121": {
                     "id": "121",
@@ -36025,11 +35809,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Det h\u00e4r v\u00e4rdet b\u00f6r inte vara efter vecka \"{{ max }}\".",
-                    "state": "needs-review-translation"
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Detta v\u00e4rde \u00e4r inte en giltig slug.",
                     "state": "needs-review-translation"
                 },
                 "121": {
@@ -36518,11 +36297,6 @@
                     "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23\u0e08\u0e30\u0e2d\u0e22\u0e39\u0e48\u0e2b\u0e25\u0e31\u0e07\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c \"{{ max }}\"",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48 slug \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e17\u0e21\u0e40\u0e1e\u0e25\u0e15 Twig \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07",
@@ -36995,10 +36769,6 @@
                     "id": "119",
                     "trans": "Ang halagang ito ay hindi dapat pagkatapos ng linggo \"{{ max }}\"."
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Ang halagang ito ay hindi isang wastong slug."
-                },
                 "121": {
                     "id": "121",
                     "trans": "Ang halagang ito ay hindi isang balidong Twig template.",
@@ -37470,14 +37240,9 @@
                     "id": "119",
                     "trans": "Bu de\u011fer \u201c{{ max }}\u201d haftas\u0131ndan sonra olmamal\u0131d\u0131r"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Bu de\u011fer ge\u00e7erli bir \u201cslug\u201d de\u011fildir."
-                },
                 "121": {
                     "id": "121",
-                    "trans": "Bu de\u011fer ge\u00e7erli bir Twig \u015fablonu de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir Twig \u015fablonu olarak kabul edilmiyor."
                 }
             },
             "uk": {
@@ -37944,10 +37709,6 @@
                 "119": {
                     "id": "119",
                     "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u043e \u0431\u0443\u0442\u0438 \u043f\u0456\u0441\u043b\u044f \u0442\u0438\u0436\u043d\u044f \"{{ max }}\"."
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c slug."
                 },
                 "121": {
                     "id": "121",
@@ -38441,11 +38202,6 @@
                     "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u06c1\u0641\u062a\u06c1 \"{{ max }}\" \u06a9\u06d2 \u0628\u0639\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u0646\u0627 \u0686\u0627\u06c1\u06cc\u06d2\u06d4",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u062f\u0631\u0633\u062a \u0633\u0644\u0627\u06af \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a Twig \u0633\u0627\u0646\u0686\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
@@ -38929,11 +38685,6 @@
                 "119": {
                     "id": "119",
                     "trans": "Bu qiymat \"{{ max }}\" haftadan keyin bo'lmasligi kerak.",
-                    "state": "needs-review-translation"
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "Bu qiymat yaroqli slug emas.",
                     "state": "needs-review-translation"
                 },
                 "121": {
@@ -39421,11 +39172,6 @@
                     "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng n\u00ean sau tu\u1ea7n \"{{ max }}\".",
                     "state": "needs-review-translation"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t slug h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t m\u1eabu Twig h\u1ee3p l\u1ec7.",
@@ -39897,11 +39643,6 @@
                     "id": "119",
                     "trans": "\u8be5\u503c\u4e0d\u5e94\u4f4d\u4e8e \"{{ max }}\"\u5468\u4e4b\u540e\u3002"
                 },
-                "120": {
-                    "id": "120",
-                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684 slug\u3002",
-                    "state": "needs-review-translation"
-                },
                 "121": {
                     "id": "121",
                     "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684 Twig \u6a21\u677f\u3002",
@@ -40372,10 +40113,6 @@
                 "119": {
                     "id": "119",
                     "trans": "\u9019\u500b\u6578\u503c\u4e0d\u61c9\u665a\u65bc\u7b2c\u300c{{ max }}\u300d\u9031\u3002"
-                },
-                "120": {
-                    "id": "120",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684 slug\u3002"
                 },
                 "121": {
                     "id": "121",
