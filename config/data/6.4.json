@@ -29624,8 +29624,7 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Deze waarde is geen geldige Twig-template.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldige Twig-template."
                 }
             },
             "nn": {
