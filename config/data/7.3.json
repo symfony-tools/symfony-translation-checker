@@ -31013,7 +31013,7 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Nazwa pliku jest za d\u0142uga. Powinna mie\u0107 {{ filename_max_length }} znak lub mniej.|Nazwa pliku jest za d\u0142uga. Powinna mie\u0107 {{ filename_max_length }} znak\u00f3w lub mniej."
+                    "trans": "Nazwa pliku jest za d\u0142uga. Powinna mie\u0107 {{ filename_max_length }} znak lub mniej.|Nazwa pliku jest za d\u0142uga. Powinna mie\u0107 {{ filename_max_length }} znaki lub mniej.|Nazwa pliku jest za d\u0142uga. Powinna mie\u0107 {{ filename_max_length }} znak\u00f3w lub mniej."
                 },
                 "105": {
                     "id": "105",
