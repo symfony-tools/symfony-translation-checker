@@ -1496,87 +1496,87 @@
                 },
                 "29": {
                     "id": "29",
-                    "trans": "L'arxiu pujat \u00e9s massa gran. Per favor, pugi un arxiu m\u00e9s petit."
+                    "trans": "El fitxer pujat \u00e9s massa gran. Pujeu un fitxer m\u00e9s petit."
                 },
                 "30": {
                     "id": "30",
-                    "trans": "El token CSRF no \u00e9s v\u00e0lid. Per favor, provi d'enviar novament el formulari."
+                    "trans": "El token CSRF no \u00e9s v\u00e0lid. Torneu a enviar el formulari."
                 },
                 "99": {
                     "id": "99",
-                    "trans": "Aquest valor no \u00e9s un color HTML5 valid."
+                    "trans": "Aquest valor no \u00e9s un color HTML5 v\u00e0lid."
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Per favor introdueix una data d'aniversari valida."
+                    "trans": "Introdu\u00efu una data d'aniversari v\u00e0lida."
                 },
                 "101": {
                     "id": "101",
-                    "trans": "L'opci\u00f3 escollida \u00e9s invalida."
+                    "trans": "L'opci\u00f3 escollida no \u00e9s v\u00e0lida."
                 },
                 "102": {
                     "id": "102",
-                    "trans": "La col\u00b7lecci\u00f3 \u00e9s invalida."
+                    "trans": "La col\u00b7lecci\u00f3 no \u00e9s v\u00e0lida."
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Per favor selecciona un color v\u00e0lid."
+                    "trans": "Seleccioneu un color v\u00e0lid."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Per favor selecciona una ciutat v\u00e0lida."
+                    "trans": "Seleccioneu una ciutat v\u00e0lida."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "Per favor selecciona una moneda v\u00e0lida."
+                    "trans": "Seleccioneu una moneda v\u00e0lida."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Per favor escull un interval de dates v\u00e0lides."
+                    "trans": "Escolliu un interval de dates v\u00e0lides."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Per favor introdueix una data i temps v\u00e0lid."
+                    "trans": "Introdu\u00efu una data i hora v\u00e0lides."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Per favor introdueix una data v\u00e0lida."
+                    "trans": "Introdu\u00efu una data v\u00e0lida."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Per favor selecciona un arxiu v\u00e0lid."
+                    "trans": "Seleccioneu un fitxer v\u00e0lid."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "El camp ocult \u00e9s inv\u00e0lid."
+                    "trans": "El camp ocult no \u00e9s v\u00e0lid."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Per favor introdueix un enter."
+                    "trans": "Introdu\u00efu un enter."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Per favor selecciona un idioma v\u00e0lid."
+                    "trans": "Seleccioneu un idioma v\u00e0lid."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Per favor seleccioneu una configuraci\u00f3 regional v\u00e0lida"
+                    "trans": "Seleccioneu una configuraci\u00f3 regional v\u00e0lida"
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Per favor introdueix una quantitat de diners v\u00e0lids."
+                    "trans": "Introdu\u00efu una quantitat de diners v\u00e0lida."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Per favor introdueix un n\u00famero."
+                    "trans": "Introdu\u00efu un n\u00famero."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "La contrasenya es inv\u00e0lida."
+                    "trans": "La contrasenya no \u00e9s v\u00e0lida."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Per favor introdueix un valor percentual."
+                    "trans": "Introdu\u00efu un valor percentual."
                 },
                 "118": {
                     "id": "118",
@@ -1584,43 +1584,43 @@
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Per favor introdueix un temps v\u00e0lid."
+                    "trans": "Introdu\u00efu una hora v\u00e0lida."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Per favor selecciona una zona hor\u00e0ria v\u00e0lida."
+                    "trans": "Seleccioneu una zona hor\u00e0ria v\u00e0lida."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Per favor introdueix una URL v\u00e0lida."
+                    "trans": "Introdu\u00efu una URL v\u00e0lida."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Per favor introdueix un concepte de cerca v\u00e0lid."
+                    "trans": "Introdu\u00efu un terme de cerca v\u00e0lid."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Per favor introdueix un n\u00famero de tel\u00e8fon v\u00e0lid."
+                    "trans": "Introdu\u00efu un n\u00famero de tel\u00e8fon v\u00e0lid."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "La casella de selecci\u00f3 te un valor inv\u00e0lid."
+                    "trans": "La casella de selecci\u00f3 te un valor no v\u00e0lid."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Per favor introdueix un correu electr\u00f2nic v\u00e0lid."
+                    "trans": "Introdu\u00efu un correu electr\u00f2nic v\u00e0lid."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Per favor selecciona una opci\u00f3 v\u00e0lida."
+                    "trans": "Seleccioneu una opci\u00f3 v\u00e0lida."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Per favor selecciona un rang v\u00e0lid."
+                    "trans": "Seleccioneu un rang v\u00e0lid."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Per favor introdueix una setmana v\u00e0lida."
+                    "trans": "Introdu\u00efu una setmana v\u00e0lida."
                 }
             },
             "cs": {
