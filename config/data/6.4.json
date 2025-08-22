@@ -9475,8 +9475,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Demasiados intentos fallidos de inicio de sesi\u00f3n, int\u00e9ntelo de nuevo en %minutes% minutos.",
-                    "state": "needs-review-translation"
+                    "trans": "Demasiados intentos fallidos de inicio de sesi\u00f3n, int\u00e9ntelo de nuevo en %minutes% minutos."
                 }
             },
             "et": {
@@ -19551,8 +19550,7 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Este valor no es una plantilla Twig v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es una plantilla Twig v\u00e1lida."
                 }
             },
             "et": {
