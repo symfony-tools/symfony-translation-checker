@@ -32019,11 +32019,11 @@
             "ro": {
                 "1": {
                     "id": "1",
-                    "trans": "Aceast\u0103 valoare ar trebui s\u0103 fie fals\u0103 (false)."
+                    "trans": "Aceast\u0103 valoare ar trebui s\u0103 fie fals\u0103."
                 },
                 "2": {
                     "id": "2",
-                    "trans": "Aceast\u0103 valoare ar trebui s\u0103 fie adev\u0103rat\u0103 (true)."
+                    "trans": "Aceast\u0103 valoare ar trebui s\u0103 fie adev\u0103rat\u0103."
                 },
                 "3": {
                     "id": "3",
@@ -32031,7 +32031,7 @@
                 },
                 "4": {
                     "id": "4",
-                    "trans": "Aceast\u0103 valoare ar trebui sa fie goal\u0103."
+                    "trans": "Aceast\u0103 valoare ar trebui s\u0103 fie necompletat\u0103."
                 },
                 "5": {
                     "id": "5",
@@ -32039,11 +32039,11 @@
                 },
                 "6": {
                     "id": "6",
-                    "trans": "Trebuie s\u0103 selecta\u021bi cel pu\u021bin {{ limit }} op\u021biune.|Trebuie s\u0103 selecta\u021bi cel pu\u021bin {{ limit }} op\u021biuni.|Trebuie s\u0103 selecta\u021bi cel pu\u021bin {{ limit }} de op\u021biuni"
+                    "trans": "Trebuie s\u0103 selecta\u021bi cel pu\u021bin {{ limit }} op\u021biune.|Trebuie s\u0103 selecta\u021bi cel pu\u021bin {{ limit }} op\u021biuni."
                 },
                 "7": {
                     "id": "7",
-                    "trans": "Trebuie s\u0103 selecta\u021bi cel mult {{ limit }} op\u021biune.|Trebuie s\u0103 selecta\u021bi cel mult {{ limit }} op\u021biuni.|Trebuie s\u0103 selecta\u021bi cel mult {{ limit }} de op\u021biuni."
+                    "trans": "Trebuie s\u0103 selecta\u021bi cel mult {{ limit }} op\u021biune.|Trebuie s\u0103 selecta\u021bi cel mult {{ limit }} op\u021biuni."
                 },
                 "8": {
                     "id": "8",
@@ -32051,11 +32051,11 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "Acest c\u00e2mp nu era de a\u015fteptat."
+                    "trans": "Acest c\u00e2mp nu era prev\u0103zut."
                 },
                 "10": {
                     "id": "10",
-                    "trans": "Acest c\u00e2mp este lips\u0103."
+                    "trans": "Acest c\u00e2mp lipse\u0219te."
                 },
                 "11": {
                     "id": "11",
@@ -32083,7 +32083,7 @@
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Tipul fi\u0219ierului este invalid ({{ type }}). Tipurile permise de fi\u0219iere sunt ({{ types }})."
+                    "trans": "Tipul fi\u0219ierului este invalid ({{ type }}). Tipurile de fi\u0219iere permise sunt {{ types }}."
                 },
                 "18": {
                     "id": "18",
@@ -32091,7 +32091,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 aib\u0103 maxim {{ limit }} caracter.|Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 aib\u0103 maxim {{ limit }} caractere.|Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 aib\u0103 maxim {{ limit }} de caractere."
+                    "trans": "Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 aib\u0103 maxim {{ limit }} caracter.|Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 aib\u0103 maxim {{ limit }} caractere."
                 },
                 "20": {
                     "id": "20",
@@ -32099,19 +32099,19 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 aib\u0103 minim {{ limit }} caracter.|Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 aib\u0103 minim {{ limit }} caractere.|Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 aib\u0103 minim {{ limit }} de caractere."
+                    "trans": "Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 aib\u0103 minim {{ limit }} caracter.|Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 aib\u0103 minim {{ limit }} caractere."
                 },
                 "22": {
                     "id": "22",
-                    "trans": "Aceast\u0103 valoare nu ar trebui s\u0103 fie goal\u0103."
+                    "trans": "Aceast\u0103 valoare nu ar trebui s\u0103 fie necompletat\u0103."
                 },
                 "23": {
                     "id": "23",
-                    "trans": "Aceast\u0103 valoare nu ar trebui s\u0103 fie nul\u0103 (null)."
+                    "trans": "Aceast\u0103 valoare nu ar trebui s\u0103 fie nul\u0103."
                 },
                 "24": {
                     "id": "24",
-                    "trans": "Aceast\u0103 valoare ar trebui s\u0103 fie nul\u0103 (null)."
+                    "trans": "Aceast\u0103 valoare ar trebui s\u0103 fie nul\u0103."
                 },
                 "25": {
                     "id": "25",
@@ -32123,7 +32123,7 @@
                 },
                 "27": {
                     "id": "27",
-                    "trans": "Aceast\u0103 valoare nu reprezint\u0103 un URL (link) valid."
+                    "trans": "Aceast\u0103 valoare nu reprezint\u0103 un URL valid."
                 },
                 "31": {
                     "id": "31",
@@ -32131,7 +32131,7 @@
                 },
                 "32": {
                     "id": "32",
-                    "trans": "Fi\u0219ierul este prea mare. M\u0103rimea maxim\u0103 permis\u0103 este {{ limit }} {{ suffix }}."
+                    "trans": "Fi\u0219ierul este prea mare. M\u0103rimea maxim\u0103 permis\u0103 este de {{ limit }} {{ suffix }}."
                 },
                 "33": {
                     "id": "33",
@@ -32159,7 +32159,7 @@
                 },
                 "39": {
                     "id": "39",
-                    "trans": "Aceast\u0103 valoare nu reprezint\u0103 un dialect (o limb\u0103) corect."
+                    "trans": "Aceast\u0103 valoare nu este o localizare valid\u0103."
                 },
                 "40": {
                     "id": "40",
@@ -32195,7 +32195,7 @@
                 },
                 "48": {
                     "id": "48",
-                    "trans": "Aceast\u0103 valoare trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} caracter.|Aceast\u0103 valoare trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} caractere.|Aceast\u0103 valoare trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} de caractere."
+                    "trans": "Aceast\u0103 valoare trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} caracter.|Aceast\u0103 valoare trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} caractere."
                 },
                 "49": {
                     "id": "49",
@@ -32203,7 +32203,7 @@
                 },
                 "50": {
                     "id": "50",
-                    "trans": "Nu a fost \u00eenc\u0103rcat nici un fi\u0219ier."
+                    "trans": "Nu a fost \u00eenc\u0103rcat niciun fi\u0219ier."
                 },
                 "51": {
                     "id": "51",
@@ -32215,27 +32215,27 @@
                 },
                 "53": {
                     "id": "53",
-                    "trans": "O extensie PHP a prevenit \u00eenc\u0103rcarea cu succes a fi\u0219ierului."
+                    "trans": "O extensie PHP a cauzat e\u0219ecul \u00eenc\u0103rc\u0103rii."
                 },
                 "54": {
                     "id": "54",
-                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ limit }} elemente.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ limit }} de elemente."
+                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ limit }} elemente."
                 },
                 "55": {
                     "id": "55",
-                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel mult {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel mult {{ limit }} elemente.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel mult {{ limit }} de elemente."
+                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel mult {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel mult {{ limit }} elemente."
                 },
                 "56": {
                     "id": "56",
-                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 {{ limit }} elemente.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 {{ limit }} de elemente."
+                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} elemente."
                 },
                 "57": {
                     "id": "57",
-                    "trans": "Num\u0103rul card invalid."
+                    "trans": "Num\u0103rul cardului este invalid."
                 },
                 "58": {
                     "id": "58",
-                    "trans": "Tipul sau num\u0103rul cardului nu sunt valide."
+                    "trans": "Tipul sau num\u0103rul cardului sunt invalide."
                 },
                 "59": {
                     "id": "59",
@@ -32267,7 +32267,7 @@
                 },
                 "66": {
                     "id": "66",
-                    "trans": "Aceast\u0103 valoare trebuie s\u0103 fie mai mare de {{ compared_value }}."
+                    "trans": "Aceast\u0103 valoare trebuie s\u0103 fie mai mare dec\u00e2t {{ compared_value }}."
                 },
                 "67": {
                     "id": "67",
@@ -32275,11 +32275,11 @@
                 },
                 "68": {
                     "id": "68",
-                    "trans": "Aceast\u0103 valoare trebuie identic\u0103 cu {{ compared_value_type }} {{ compared_value }}."
+                    "trans": "Aceast\u0103 valoare trebuie s\u0103 fie identic\u0103 cu {{ compared_value_type }} {{ compared_value }}."
                 },
                 "69": {
                     "id": "69",
-                    "trans": "Aceast\u0103 valoare trebuie s\u0103 fie mai mic\u0103 de {{ compared_value }}."
+                    "trans": "Aceast\u0103 valoare trebuie s\u0103 fie mai mic\u0103 dec\u00e2t {{ compared_value }}."
                 },
                 "70": {
                     "id": "70",
@@ -32303,11 +32303,11 @@
                 },
                 "75": {
                     "id": "75",
-                    "trans": "Imaginea este un p\u0103trat ({{ width }}x{{ height }}px). Imaginile p\u0103trat nu sunt permise."
+                    "trans": "Imaginea este p\u0103trat\u0103 ({{ width }}x{{ height }}px). Imaginile p\u0103trate nu sunt permise."
                 },
                 "76": {
                     "id": "76",
-                    "trans": "Imaginea are orientarea peisaj ({{ width }}x{{ height }}px). Imaginile cu orientare peisaj nu sunt permise."
+                    "trans": "Imaginea are orientarea orizontal\u0103 ({{ width }}x{{ height }}px). Imaginile cu orientare orizontal\u0103 nu sunt permise."
                 },
                 "77": {
                     "id": "77",
@@ -32319,7 +32319,7 @@
                 },
                 "79": {
                     "id": "79",
-                    "trans": "Numele host nu a putut fi rezolvat c\u0103tre o adres\u0103 IP."
+                    "trans": "Host-ul nu a putut fi rezolvat."
                 },
                 "80": {
                     "id": "80",
@@ -32351,7 +32351,7 @@
                 },
                 "87": {
                     "id": "87",
-                    "trans": "Acest set ar trebui s\u0103 con\u021bin\u0103 numai elemente unice."
+                    "trans": "Aceast\u0103 colec\u021bie ar trebui s\u0103 con\u021bin\u0103 numai elemente unice."
                 },
                 "88": {
                     "id": "88",
@@ -32383,19 +32383,19 @@
                 },
                 "95": {
                     "id": "95",
-                    "trans": "Aceast\u0103 valoare nu este un numele gazdei valid."
+                    "trans": "Aceast\u0103 valoare nu este un hostname valid."
                 },
                 "96": {
                     "id": "96",
-                    "trans": "Num\u0103rul de elemente din aceast\u0103 colec\u021bie ar trebui s\u0103 fie un multiplu al {{ compared_value }}."
+                    "trans": "Num\u0103rul de elemente din aceast\u0103 colec\u021bie ar trebui s\u0103 fie un multiplu de {{ compared_value }}."
                 },
                 "97": {
                     "id": "97",
-                    "trans": "Aceast\u0103 valoare trebuie s\u0103 \u00eendeplineasc\u0103 cel pu\u021bin una dintre urm\u0103toarele reguli:"
+                    "trans": "Aceast\u0103 valoare trebuie s\u0103 \u00eendeplineasc\u0103 cel pu\u021bin una dintre urm\u0103toarele condi\u021bii:"
                 },
                 "98": {
                     "id": "98",
-                    "trans": "Fiecare element din acest set ar trebui s\u0103 \u00eendeplineasc\u0103 propriul set de reguli."
+                    "trans": "Fiecare element din acest set ar trebui s\u0103 \u00eendeplineasc\u0103 propriul set de condi\u021bii."
                 },
                 "99": {
                     "id": "99",
@@ -32415,11 +32415,11 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Valoarea netmask-ului trebuie sa fie intre {{ min }} si {{ max }}."
+                    "trans": "Valoarea m\u0103\u0219tii de re\u021bea trebuie s\u0103 fie \u00eentre {{ min }} \u0219i {{ max }}."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Denumirea fi\u0219ierului este prea lung\u0103. Ea trebuie s\u0103 con\u021bin\u0103 {{ filename_max_length }} caractere sau mai pu\u021bine.|Denumirea fi\u0219ierului este prea lung\u0103. Ea trebuie s\u0103 con\u021bin\u0103 {{ filename_max_length }} caractere sau mai pu\u021bine."
+                    "trans": "Denumirea fi\u0219ierului este prea lung\u0103. Trebuie s\u0103 con\u021bin\u0103 {{ filename_max_length }} caracter sau mai pu\u021bin.|Denumirea fi\u0219ierului este prea lung\u0103. Trebuie s\u0103 con\u021bin\u0103 {{ filename_max_length }} caractere sau mai pu\u021bine."
                 },
                 "105": {
                     "id": "105",
@@ -32439,7 +32439,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Folosirea caracterelor invizibile suprapuse nu este permis\u0103."
+                    "trans": "Folosirea caracterelor ascunse nu este permis\u0103."
                 },
                 "110": {
                     "id": "110",
@@ -32447,7 +32447,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Codificarea caracterelor detectate nu este valabil\u0103 ({{ detected }}). Codific\u0103rile permise sunt {{ encodings }}."
+                    "trans": "Codificarea caracterelor detectate este invalid\u0103 ({{ detected }}). Codific\u0103rile permise sunt {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
@@ -32483,8 +32483,7 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Aceast\u0103 valoare nu este un \u0219ablon Twig valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este un \u0219ablon Twig valid."
                 }
             },
             "ru": {
