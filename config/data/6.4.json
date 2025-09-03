@@ -31542,8 +31542,7 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Este valor n\u00e3o \u00e9 um modelo Twig v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um modelo Twig v\u00e1lido."
                 }
             },
             "pt_BR": {
@@ -39152,23 +39151,23 @@
             "zh_CN": {
                 "1": {
                     "id": "1",
-                    "trans": "\u8be5\u53d8\u91cf\u7684\u503c\u5e94\u4e3a false \u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a false \u3002"
                 },
                 "2": {
                     "id": "2",
-                    "trans": "\u8be5\u53d8\u91cf\u7684\u503c\u5e94\u4e3a true \u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a true \u3002"
                 },
                 "3": {
                     "id": "3",
-                    "trans": "\u8be5\u53d8\u91cf\u7684\u7c7b\u578b\u5e94\u4e3a {{ type }} \u3002"
+                    "trans": "\u8be5\u503c\u7684\u7c7b\u578b\u5e94\u4e3a {{ type }} \u3002"
                 },
                 "4": {
                     "id": "4",
-                    "trans": "\u8be5\u53d8\u91cf\u503c\u5e94\u4e3a\u7a7a\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a\u7a7a\u3002"
                 },
                 "5": {
                     "id": "5",
-                    "trans": "\u9009\u5b9a\u53d8\u91cf\u7684\u503c\u4e0d\u662f\u6709\u6548\u7684\u9009\u9879\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u9009\u9879\u3002"
                 },
                 "6": {
                     "id": "6",
@@ -39184,11 +39183,11 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "\u6b64\u5b57\u6bb5\u662f\u591a\u4f59\u7684\u3002"
+                    "trans": "\u8be5\u5b57\u6bb5\u662f\u591a\u4f59\u7684\u3002"
                 },
                 "10": {
                     "id": "10",
-                    "trans": "\u6b64\u5b57\u6bb5\u7f3a\u5931\u3002"
+                    "trans": "\u8be5\u5b57\u6bb5\u7f3a\u5931\u3002"
                 },
                 "11": {
                     "id": "11",
@@ -39212,43 +39211,43 @@
                 },
                 "16": {
                     "id": "16",
-                    "trans": "\u6587\u4ef6\u592a\u5927 ({{ size }} {{ suffix }})\u3002\u6587\u4ef6\u5927\u5c0f\u4e0d\u53ef\u4ee5\u8d85\u8fc7 {{ limit }} {{ suffix }} \u3002"
+                    "trans": "\u6587\u4ef6\u592a\u5927 ({{ size }} {{ suffix }})\uff0c\u6587\u4ef6\u5927\u5c0f\u4e0d\u5e94\u8d85\u8fc7 {{ limit }} {{ suffix }} \u3002"
                 },
                 "17": {
                     "id": "17",
-                    "trans": "\u65e0\u6548\u7684\u6587\u4ef6\u7c7b\u578b ({{ type }}) \u3002\u5141\u8bb8\u7684\u6587\u4ef6\u7c7b\u578b\u6709 {{ types }} \u3002"
+                    "trans": "\u65e0\u6548\u7684\u6587\u4ef6\u7c7b\u578b ({{ type }}) \uff0c\u5141\u8bb8\u7684\u6587\u4ef6\u7c7b\u578b\u6709 {{ types }} \u3002"
                 },
                 "18": {
                     "id": "18",
-                    "trans": "\u8fd9\u4e2a\u53d8\u91cf\u7684\u503c\u5e94\u8be5\u5c0f\u4e8e\u6216\u7b49\u4e8e {{ limit }}\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u5c0f\u4e8e\u6216\u7b49\u4e8e {{ limit }} \u3002"
                 },
                 "19": {
                     "id": "19",
-                    "trans": "\u5b57\u7b26\u4e32\u592a\u957f\uff0c\u957f\u5ea6\u4e0d\u53ef\u8d85\u8fc7 {{ limit }} \u4e2a\u5b57\u7b26\u3002"
+                    "trans": "\u8be5\u503c\u592a\u957f\uff0c\u957f\u5ea6\u4e0d\u5e94\u8d85\u8fc7 {{ limit }} \u4e2a\u5b57\u7b26\u3002"
                 },
                 "20": {
                     "id": "20",
-                    "trans": "\u8be5\u53d8\u91cf\u7684\u503c\u5e94\u8be5\u5927\u4e8e\u6216\u7b49\u4e8e {{ limit }}\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u5927\u4e8e\u6216\u7b49\u4e8e {{ limit }} \u3002"
                 },
                 "21": {
                     "id": "21",
-                    "trans": "\u5b57\u7b26\u4e32\u592a\u77ed\uff0c\u957f\u5ea6\u4e0d\u53ef\u5c11\u4e8e {{ limit }} \u4e2a\u5b57\u7b26\u3002"
+                    "trans": "\u8be5\u503c\u592a\u77ed\uff0c\u957f\u5ea6\u4e0d\u5e94\u5c11\u4e8e {{ limit }} \u4e2a\u5b57\u7b26\u3002"
                 },
                 "22": {
                     "id": "22",
-                    "trans": "\u8be5\u53d8\u91cf\u4e0d\u5e94\u4e3a\u7a7a\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u5e94\u4e3a\u7a7a\u3002"
                 },
                 "23": {
                     "id": "23",
-                    "trans": "\u8be5\u53d8\u91cf\u4e0d\u5e94\u4e3a null \u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u5e94\u4e3a null \u3002"
                 },
                 "24": {
                     "id": "24",
-                    "trans": "\u8be5\u53d8\u91cf\u5e94\u4e3a\u7a7a null \u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a null \u3002"
                 },
                 "25": {
                     "id": "25",
-                    "trans": "\u8be5\u53d8\u91cf\u503c\u65e0\u6548 \u3002"
+                    "trans": "\u8be5\u503c\u65e0\u6548\u3002"
                 },
                 "26": {
                     "id": "26",
@@ -39260,11 +39259,11 @@
                 },
                 "31": {
                     "id": "31",
-                    "trans": "\u8fd9\u4e24\u4e2a\u53d8\u91cf\u7684\u503c\u5e94\u8be5\u76f8\u7b49\u3002"
+                    "trans": "\u8be5\u4e24\u4e2a\u53d8\u91cf\u503c\u5e94\u76f8\u7b49\u3002"
                 },
                 "32": {
                     "id": "32",
-                    "trans": "\u6587\u4ef6\u592a\u5927\uff0c\u6587\u4ef6\u5927\u5c0f\u4e0d\u53ef\u4ee5\u8d85\u8fc7 {{ limit }} {{ suffix }}\u3002 "
+                    "trans": "\u6587\u4ef6\u592a\u5927\uff0c\u6587\u4ef6\u5927\u5c0f\u4e0d\u53ef\u4ee5\u8d85\u8fc7 {{ limit }} {{ suffix }} \u3002"
                 },
                 "33": {
                     "id": "33",
@@ -39276,7 +39275,7 @@
                 },
                 "35": {
                     "id": "35",
-                    "trans": "\u8be5\u503c\u5e94\u8be5\u4e3a\u6709\u6548\u7684\u6570\u5b57\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a\u6709\u6548\u7684\u6570\u5b57\u3002"
                 },
                 "36": {
                     "id": "36",
@@ -39284,19 +39283,19 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684IP\u5730\u5740\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684 IP \u5730\u5740\u3002"
                 },
                 "38": {
                     "id": "38",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u8bed\u8a00\u540d\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u8bed\u8a00\u540d\u79f0\uff08language\uff09\u3002"
                 },
                 "39": {
                     "id": "39",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u533a\u57df\u503c\uff08locale\uff09\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u533a\u57df\u540d\u79f0\uff08locale\uff09\u3002"
                 },
                 "40": {
                     "id": "40",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u56fd\u5bb6\u540d\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u56fd\u5bb6\u540d\u79f0\uff08country\uff09\u3002"
                 },
                 "41": {
                     "id": "41",
@@ -39324,15 +39323,15 @@
                 },
                 "47": {
                     "id": "47",
-                    "trans": "\u8be5\u53d8\u91cf\u7684\u503c\u5e94\u4e3a\u7528\u6237\u5f53\u524d\u7684\u5bc6\u7801\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a\u7528\u6237\u5f53\u524d\u7684\u5bc6\u7801\u3002"
                 },
                 "48": {
                     "id": "48",
-                    "trans": "\u8be5\u53d8\u91cf\u5e94\u4e3a {{ limit }} \u4e2a\u5b57\u7b26\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a {{ limit }} \u4e2a\u5b57\u7b26\u3002"
                 },
                 "49": {
                     "id": "49",
-                    "trans": "\u8be5\u6587\u4ef6\u7684\u4e0a\u4f20\u4e0d\u5b8c\u6574\u3002"
+                    "trans": "\u6587\u4ef6\u7684\u4e0a\u4f20\u4e0d\u5b8c\u6574\u3002"
                 },
                 "50": {
                     "id": "50",
@@ -39352,15 +39351,15 @@
                 },
                 "54": {
                     "id": "54",
-                    "trans": "\u8be5\u96c6\u5408\u6700\u5c11\u5e94\u5305\u542b {{ limit }} \u4e2a\u5143\u7d20\u3002"
+                    "trans": "\u8be5\u96c6\u5408\u4e0d\u5e94\u5c11\u4e8e {{ limit }} \u4e2a\u5143\u7d20\u3002"
                 },
                 "55": {
                     "id": "55",
-                    "trans": "\u8be5\u96c6\u5408\u6700\u591a\u5305\u542b {{ limit }} \u4e2a\u5143\u7d20\u3002"
+                    "trans": "\u8be5\u96c6\u5408\u4e0d\u5e94\u8d85\u8fc7 {{ limit }} \u4e2a\u5143\u7d20\u3002"
                 },
                 "56": {
                     "id": "56",
-                    "trans": "\u8be5\u96c6\u5408\u5e94\u5305\u542b {{ limit }} \u4e2a\u5143\u7d20 element \u3002"
+                    "trans": "\u8be5\u96c6\u5408\u5e94\u4e3a {{ limit }} \u4e2a\u5143\u7d20\u3002"
                 },
                 "57": {
                     "id": "57",
@@ -39376,11 +39375,11 @@
                 },
                 "60": {
                     "id": "60",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u768410\u4f4d\u56fd\u9645\u6807\u51c6\u4e66\u53f7\uff08ISBN-10\uff09\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684 10 \u4f4d\u56fd\u9645\u6807\u51c6\u4e66\u53f7\uff08ISBN-10\uff09\u3002"
                 },
                 "61": {
                     "id": "61",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u768413\u4f4d\u56fd\u9645\u6807\u51c6\u4e66\u53f7\uff08ISBN-13\uff09\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684 13 \u4f4d\u56fd\u9645\u6807\u51c6\u4e66\u53f7\uff08ISBN-13\uff09\u3002"
                 },
                 "62": {
                     "id": "62",
@@ -39392,7 +39391,7 @@
                 },
                 "64": {
                     "id": "64",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u8d27\u5e01\u540d\uff08currency\uff09\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u8d27\u5e01\u540d\u79f0\uff08currency\uff09\u3002"
                 },
                 "65": {
                     "id": "65",
@@ -39420,7 +39419,7 @@
                 },
                 "71": {
                     "id": "71",
-                    "trans": "\u8be5\u503c\u4e0d\u5e94\u5148\u7b49\u4e8e {{ compared_value }} \u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u5e94\u7b49\u4e8e {{ compared_value }} \u3002"
                 },
                 "72": {
                     "id": "72",
@@ -39428,11 +39427,11 @@
                 },
                 "73": {
                     "id": "73",
-                    "trans": "\u56fe\u7247\u5bbd\u9ad8\u6bd4\u592a\u5927 ({{ ratio }})\u3002\u5141\u8bb8\u7684\u6700\u5927\u5bbd\u9ad8\u6bd4\u4e3a {{ max_ratio }}\u3002"
+                    "trans": "\u56fe\u7247\u5bbd\u9ad8\u6bd4\u592a\u5927 ({{ ratio }})\u3002\u5141\u8bb8\u7684\u6700\u5927\u5bbd\u9ad8\u6bd4\u4e3a {{ max_ratio }} \u3002"
                 },
                 "74": {
                     "id": "74",
-                    "trans": "\u56fe\u7247\u5bbd\u9ad8\u6bd4\u592a\u5c0f ({{ ratio }})\u3002\u5141\u8bb8\u7684\u6700\u5927\u5bbd\u9ad8\u6bd4\u4e3a {{ min_ratio }}\u3002"
+                    "trans": "\u56fe\u7247\u5bbd\u9ad8\u6bd4\u592a\u5c0f ({{ ratio }})\u3002\u5141\u8bb8\u7684\u6700\u5927\u5bbd\u9ad8\u6bd4\u4e3a {{ min_ratio }} \u3002"
                 },
                 "75": {
                     "id": "75",
@@ -39468,43 +39467,43 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684UUID\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684 UUID \u3002"
                 },
                 "84": {
                     "id": "84",
-                    "trans": "\u6b64\u503c\u5e94\u4e3a {{ compared_value }} \u7684\u500d\u6570\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a {{ compared_value }} \u7684\u500d\u6570\u3002"
                 },
                 "85": {
                     "id": "85",
-                    "trans": "\u6b64\u4e1a\u52a1\u6807\u8bc6\u7b26\u4ee3\u7801\uff08BIC\uff09\u4e0eIBAN {{ iban }} \u65e0\u5173\u3002"
+                    "trans": "\u8be5\u4e1a\u52a1\u6807\u8bc6\u7b26\u4ee3\u7801\uff08BIC\uff09\u4e0e IBAN {{ iban }} \u65e0\u5173\u3002"
                 },
                 "86": {
                     "id": "86",
-                    "trans": "\u8be5\u503c\u5e94\u8be5\u662f\u6709\u6548\u7684JSON\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a\u6709\u6548\u7684 JSON \u3002"
                 },
                 "87": {
                     "id": "87",
-                    "trans": "\u8be5\u96c6\u5408\u5e94\u4ec5\u5305\u542b\u72ec\u4e00\u65e0\u4e8c\u7684\u5143\u7d20\u3002"
+                    "trans": "\u8be5\u96c6\u5408\u4e0d\u80fd\u5305\u542b\u91cd\u590d\u9879\u3002"
                 },
                 "88": {
                     "id": "88",
-                    "trans": "\u6570\u503c\u5e94\u4e3a\u6b63\u6570\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a\u6b63\u6570\u3002"
                 },
                 "89": {
                     "id": "89",
-                    "trans": "\u6570\u503c\u5e94\u662f\u6b63\u6570\uff0c\u6216\u4e3a\u96f6\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a\u6b63\u6570\u6216\u96f6\u3002"
                 },
                 "90": {
                     "id": "90",
-                    "trans": "\u6570\u503c\u5e94\u4e3a\u8d1f\u6570\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a\u8d1f\u6570\u3002"
                 },
                 "91": {
                     "id": "91",
-                    "trans": "\u6570\u503c\u5e94\u662f\u8d1f\u6570\uff0c\u6216\u4e3a\u96f6\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a\u8d1f\u6570\u6216\u96f6\u3002"
                 },
                 "92": {
                     "id": "92",
-                    "trans": "\u65e0\u6548\u65f6\u533a\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u65f6\u533a\u3002"
                 },
                 "93": {
                     "id": "93",
@@ -39512,7 +39511,7 @@
                 },
                 "94": {
                     "id": "94",
-                    "trans": "\u8be5\u6570\u503c\u5e94\u5728 {{ min }} \u548c {{ max }} \u4e4b\u95f4\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u5728 {{ min }} \u548c {{ max }} \u4e4b\u95f4\u3002"
                 },
                 "95": {
                     "id": "95",
@@ -39520,31 +39519,31 @@
                 },
                 "96": {
                     "id": "96",
-                    "trans": "\u8be5\u96c6\u5408\u5185\u7684\u5143\u7d20\u6570\u91cf\u5f97\u662f {{ compared_value }} \u7684\u500d\u6570\u3002"
+                    "trans": "\u8be5\u96c6\u5408\u7684\u5143\u7d20\u6570\u91cf\u5e94\u4e3a {{ compared_value }} \u7684\u500d\u6570\u3002"
                 },
                 "97": {
                     "id": "97",
-                    "trans": "\u8be5\u503c\u9700\u7b26\u5408\u4ee5\u4e0b\u5176\u4e2d\u4e00\u4e2a\u7ea6\u675f\uff1a"
+                    "trans": "\u8be5\u503c\u5e94\u7b26\u5408\u4ee5\u4e0b\u5176\u4e2d\u4e00\u4e2a\u7ea6\u675f\uff1a"
                 },
                 "98": {
                     "id": "98",
-                    "trans": "\u8be5\u96c6\u5408\u5185\u7684\u6bcf\u4e2a\u5143\u7d20\u9700\u7b26\u5408\u5143\u7d20\u672c\u8eab\u89c4\u5b9a\u7684\u7ea6\u675f\u3002"
+                    "trans": "\u8be5\u96c6\u5408\u7684\u6bcf\u4e2a\u5143\u7d20\u5e94\u7b26\u5408\u5143\u7d20\u672c\u8eab\u89c4\u5b9a\u7684\u7ea6\u675f\u3002"
                 },
                 "99": {
                     "id": "99",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u56fd\u9645\u8bc1\u5238\u8bc6\u522b\u7801 \uff08ISIN\uff09\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684\u56fd\u9645\u8bc1\u5238\u8bc6\u522b\u7801\uff08ISIN\uff09\u3002"
                 },
                 "100": {
                     "id": "100",
-                    "trans": "\u8be5\u503c\u9700\u4e3a\u4e00\u4e2a\u6709\u6548\u7684\u8868\u8fbe\u5f0f\u3002"
+                    "trans": "\u8be5\u503c\u5e94\u4e3a\u4e00\u4e2a\u6709\u6548\u7684\u8868\u8fbe\u5f0f\u3002"
                 },
                 "101": {
                     "id": "101",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684CSS\u989c\u8272\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684 CSS \u989c\u8272\u3002"
                 },
                 "102": {
                     "id": "102",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u4e00\u4e2a\u6709\u6548\u7684CIDR\u8868\u793a\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u4e00\u4e2a\u6709\u6548\u7684 CIDR \u8868\u793a\u3002"
                 },
                 "103": {
                     "id": "103",
@@ -39552,11 +39551,11 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "\u8be5\u6587\u4ef6\u540d\u8fc7\u957f\uff0c\u6700\u957f\u4e0d\u5e94\u8d85\u8fc7{{ filename_max_length }} \u4e2a\u5b57\u7b26\u3002"
+                    "trans": "\u6587\u4ef6\u540d\u8fc7\u957f\uff0c\u6700\u957f\u4e0d\u5e94\u8d85\u8fc7{{ filename_max_length }} \u4e2a\u5b57\u7b26\u3002"
                 },
                 "105": {
                     "id": "105",
-                    "trans": "\u8be5\u5bc6\u7801\u5f3a\u5ea6\u592a\u4f4e\u3002\u8bf7\u4f7f\u7528\u66f4\u590d\u6742\u7684\u5bc6\u7801\u3002"
+                    "trans": "\u5bc6\u7801\u5f3a\u5ea6\u592a\u4f4e\u3002\u8bf7\u4f7f\u7528\u66f4\u590d\u6742\u7684\u5bc6\u7801\u3002"
                 },
                 "106": {
                     "id": "106",
@@ -39576,27 +39575,27 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "\u6587\u4ef6\u7684\u6269\u5c55\u540d\u65e0\u6548 ({{ extension }})\u3002\u5141\u8bb8\u7684\u6269\u5c55\u540d\u4e3a {{ extensions }}\u3002"
+                    "trans": "\u6587\u4ef6\u7684\u6269\u5c55\u540d\u65e0\u6548 ({{ extension }})\u3002\u5141\u8bb8\u7684\u6269\u5c55\u540d\u4e3a {{ extensions }} \u3002"
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u68c0\u6d4b\u5230\u7684\u5b57\u7b26\u7f16\u7801\u65e0\u6548 ({{ detected }})\u3002\u5141\u8bb8\u7684\u7f16\u7801\u4e3a {{ encodings }}\u3002"
+                    "trans": "\u68c0\u6d4b\u5230\u7684\u5b57\u7b26\u7f16\u7801\u65e0\u6548 ({{ detected }})\u3002\u5141\u8bb8\u7684\u7f16\u7801\u4e3a {{ encodings }} \u3002"
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684MAC\u5730\u5740\u3002"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684 MAC \u5730\u5740\u3002"
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u6b64URL\u7f3a\u5c11\u9876\u7ea7\u57df\u540d\u3002"
+                    "trans": "\u8be5 URL \u7f3a\u5c11\u9876\u7ea7\u57df\u540d\u3002"
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u8be5\u503c\u592a\u77ed\uff0c\u5e94\u8be5\u81f3\u5c11\u5305\u542b\u4e00\u4e2a\u8bcd\u3002|\u8be5\u503c\u592a\u77ed\uff0c\u5e94\u8be5\u81f3\u5c11\u5305\u542b {{ min }} \u4e2a\u8bcd\u3002"
+                    "trans": "\u8be5\u503c\u592a\u77ed\uff0c\u5e94\u81f3\u5c11\u5305\u542b\u4e00\u4e2a\u8bcd\u3002|\u8be5\u503c\u592a\u77ed\uff0c\u5e94\u81f3\u5c11\u5305\u542b {{ min }} \u4e2a\u8bcd\u3002"
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u8be5\u503c\u592a\u957f\uff0c\u5e94\u8be5\u53ea\u5305\u542b\u4e00\u4e2a\u8bcd\u3002|\u8be5\u503c\u592a\u957f\uff0c\u5e94\u8be5\u53ea\u5305\u542b {{ max }} \u4e2a\u6216\u66f4\u5c11\u4e2a\u8bcd\u3002"
+                    "trans": "\u8be5\u503c\u592a\u957f\uff0c\u5e94\u53ea\u5305\u542b\u4e00\u4e2a\u8bcd\u3002|\u8be5\u503c\u592a\u957f\uff0c\u5e94\u53ea\u5305\u542b {{ max }} \u4e2a\u6216\u66f4\u5c11\u4e2a\u8bcd\u3002"
                 },
                 "116": {
                     "id": "116",
@@ -39616,7 +39615,7 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684 Twig \u6a21\u677f\u3002",
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684 Twig \u6a21\u677f\u3002",
                     "state": "needs-review-translation"
                 }
             },
