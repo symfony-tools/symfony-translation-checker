@@ -19273,108 +19273,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Diese Datei ist kein g\u00fcltiges Video.",
-                    "state": "needs-review-translation"
+                    "trans": "Diese Datei ist kein g\u00fcltiges Video."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Die Gr\u00f6\u00dfe des Videos konnte nicht ermittelt werden.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Gr\u00f6\u00dfe des Videos konnte nicht ermittelt werden."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Die Videobreite ist zu gro\u00df ({{ width }}px). Zul\u00e4ssige maximale Breite ist {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Video ist zu breit ({{ width }}px). Die zul\u00e4ssige maximale Breite ist {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Die Videobreite ist zu klein ({{ width }}px). Erwartete Mindestbreite ist {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Video ist nicht breit genug ({{ width }}px). Die erwartete Mindestbreite ist {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Die Videoh\u00f6he ist zu gro\u00df ({{ height }}px). Zul\u00e4ssige maximale H\u00f6he ist {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Videoh\u00f6he ist zu hoch ({{ height }}px). Die zul\u00e4ssige maximale H\u00f6he ist {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Die Videoh\u00f6he ist zu klein ({{ height }}px). Erwartete Mindesth\u00f6he ist {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Videoh\u00f6he ist zu klein ({{ height }}px). Die erwartete Mindesth\u00f6he ist {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Das Video hat zu wenige Pixel ({{ pixels }}). Erwartete Mindestmenge ist {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Video hat zu wenige Pixel ({{ pixels }}). Die erwartete Mindestanzahl ist {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Das Video hat zu viele Pixel ({{ pixels }}). Die erwartete H\u00f6chstanzahl ist {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Video hat zu viele Pixel ({{ pixels }}). Die erwartete H\u00f6chstanzahl ist {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Das Videoverh\u00e4ltnis ist zu gro\u00df ({{ ratio }}). Zul\u00e4ssiges maximales Verh\u00e4ltnis ist {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Video-Seitenverh\u00e4ltnis ist zu hoch ({{ ratio }}). Das zul\u00e4ssige maximale Verh\u00e4ltnis ist {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Das Video-Seitenverh\u00e4ltnis ist zu klein ({{ ratio }}). Erwartetes Mindestverh\u00e4ltnis ist {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Video-Seitenverh\u00e4ltnis ist zu klein ({{ ratio }}). Das erwartete Mindestverh\u00e4ltnis ist {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Das Video ist quadratisch ({{ width }}x{{ height }}px). Quadratische Videos sind nicht erlaubt.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Video ist quadratisch ({{ width }}x{{ height }}px). Quadratische Videos sind nicht erlaubt."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Das Video ist im Querformat ({{ width }}x{{ height }} px). Querformat-Videos sind nicht erlaubt.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Video ist im Querformat ({{ width }}x{{ height }} px). Querformat-Videos sind nicht erlaubt."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Das Video ist hochkant ausgerichtet ({{ width }}x{{ height }}px). Hochkant-Videos sind nicht erlaubt.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Video ist hochkant ausgerichtet ({{ width }}x{{ height }}px). Hochkant-Videos sind nicht erlaubt."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Die Videodatei ist besch\u00e4digt.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Videodatei ist besch\u00e4digt."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Das Video enth\u00e4lt mehrere Streams. Es ist nur ein Stream erlaubt.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Video enth\u00e4lt mehrere Streams. Es ist nur ein Stream erlaubt."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nicht unterst\u00fctzter Videocodec \u201e{{ codec }}\u201c.",
-                    "state": "needs-review-translation"
+                    "trans": "Nicht unterst\u00fctzter Videocodec \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nicht unterst\u00fctzter Videocontainer \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nicht unterst\u00fctzter Videocontainer \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Die Bilddatei ist besch\u00e4digt.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Bilddatei ist besch\u00e4digt."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Das Bild hat zu wenige Pixel ({{ pixels }}). Erwartete Mindestmenge ist {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Bild hat zu wenige Pixel ({{ pixels }}). Erwartete Mindestanzahl ist {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Das Bild hat zu viele Pixel ({{ pixels }}). Erwartete H\u00f6chstmenge ist {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Das Bild hat zu viele Pixel ({{ pixels }}). Erwartete H\u00f6chstanzahl ist {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Dieser Dateiname entspricht nicht dem erwarteten Zeichensatz.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Dateiname entspricht nicht dem erwarteten Zeichensatz."
                 }
             },
             "el": {
@@ -23894,108 +23873,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ce fichier n\u2019est pas une vid\u00e9o valide.",
-                    "state": "needs-review-translation"
+                    "trans": "Ce fichier n\u2019est pas une vid\u00e9o valide."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "La taille de la vid\u00e9o n\u2019a pas pu \u00eatre d\u00e9tect\u00e9e.",
-                    "state": "needs-review-translation"
+                    "trans": "La taille de la vid\u00e9o n\u2019a pas pu \u00eatre d\u00e9tect\u00e9e."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "La largeur de la vid\u00e9o est trop grande ({{ width }}px). La largeur maximale autoris\u00e9e est de {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "La largeur de la vid\u00e9o est trop grande ({{ width }}px). La largeur maximale autoris\u00e9e est de {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "La largeur de la vid\u00e9o est trop petite ({{ width }}px). La largeur minimale attendue est de {{ min_width }} px.",
-                    "state": "needs-review-translation"
+                    "trans": "La largeur de la vid\u00e9o est trop petite ({{ width }}px). La largeur minimale attendue est de {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "La hauteur de la vid\u00e9o est trop grande ({{ height }}px). La hauteur maximale autoris\u00e9e est de {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "La hauteur de la vid\u00e9o est trop grande ({{ height }}px). La hauteur maximale autoris\u00e9e est de {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "La hauteur de la vid\u00e9o est trop petite ({{ height }}px). La hauteur minimale attendue est de {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "La hauteur de la vid\u00e9o est trop petite ({{ height }}px). La hauteur minimale attendue est de {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "La vid\u00e9o a trop peu de pixels ({{ pixels }}). La quantit\u00e9 minimale attendue est {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "La vid\u00e9o a trop peu de pixels ({{ pixels }}). La quantit\u00e9 minimale attendue est de {{ min_pixels }} pixels."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "La vid\u00e9o contient trop de pixels ({{ pixels }}). La quantit\u00e9 maximale attendue est {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "La vid\u00e9o contient trop de pixels ({{ pixels }}). La quantit\u00e9 maximale attendue est de {{ max_pixels }} pixels."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Le ratio de la vid\u00e9o est trop \u00e9lev\u00e9 ({{ ratio }}). Le ratio maximal autoris\u00e9 est {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Le ratio de la vid\u00e9o est trop \u00e9lev\u00e9 ({{ ratio }}). Le ratio maximal autoris\u00e9 est de {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Le ratio de la vid\u00e9o est trop petit ({{ ratio }}). Le ratio minimum attendu est {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Le ratio de la vid\u00e9o est trop petit ({{ ratio }}). Le ratio minimum attendu est de {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "La vid\u00e9o est carr\u00e9e ({{ width }}x{{ height }}px). Les vid\u00e9os carr\u00e9es ne sont pas autoris\u00e9es.",
-                    "state": "needs-review-translation"
+                    "trans": "La vid\u00e9o est carr\u00e9e ({{ width }}x{{ height }}px). Les vid\u00e9os carr\u00e9es ne sont pas autoris\u00e9es."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "La vid\u00e9o est au format paysage ({{ width }}x{{ height }} px). Les vid\u00e9os au format paysage ne sont pas autoris\u00e9es.",
-                    "state": "needs-review-translation"
+                    "trans": "La vid\u00e9o est au format paysage ({{ width }}x{{ height }} px). Les vid\u00e9os au format paysage ne sont pas autoris\u00e9es."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "La vid\u00e9o est orient\u00e9e en portrait ({{ width }}x{{ height }} px). Les vid\u00e9os en orientation portrait ne sont pas autoris\u00e9es.",
-                    "state": "needs-review-translation"
+                    "trans": "La vid\u00e9o est orient\u00e9e en portrait ({{ width }}x{{ height }} px). Les vid\u00e9os en orientation portrait ne sont pas autoris\u00e9es."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Le fichier vid\u00e9o est corrompu.",
-                    "state": "needs-review-translation"
+                    "trans": "Le fichier vid\u00e9o est corrompu."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "La vid\u00e9o contient plusieurs flux. Un seul flux est autoris\u00e9.",
-                    "state": "needs-review-translation"
+                    "trans": "La vid\u00e9o contient plusieurs flux. Un seul flux est autoris\u00e9."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Codec vid\u00e9o non pris en charge \u00ab {{ codec }} \u00bb.",
-                    "state": "needs-review-translation"
+                    "trans": "Le codec vid\u00e9o \u00ab{{ codec }}\u00bb est non pris en charge."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Conteneur vid\u00e9o non pris en charge \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Le conteneur vid\u00e9o \u00ab{{ container }}\u00bb est non pris en charge."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Le fichier image est corrompu.",
-                    "state": "needs-review-translation"
+                    "trans": "Le fichier image est corrompu."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "L\u2019image comporte trop peu de pixels ({{ pixels }}). La quantit\u00e9 minimale attendue est {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "L\u2019image comporte trop peu de pixels ({{ pixels }}). La quantit\u00e9 minimale attendue est de {{ min_pixels }} pixels."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "L\u2019image contient trop de pixels ({{ pixels }}). La quantit\u00e9 maximale attendue est {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "L\u2019image contient trop de pixels ({{ pixels }}). La quantit\u00e9 maximale attendue est de {{ max_pixels }} pixels."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Ce nom de fichier ne correspond pas au jeu de caract\u00e8res attendu.",
-                    "state": "needs-review-translation"
+                    "trans": "Le nom de fichier ne correspond pas au jeu de caract\u00e8res attendu."
                 }
             },
             "gl": {
@@ -33255,108 +33213,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Dit bestand is geen geldige video.",
-                    "state": "needs-review-translation"
+                    "trans": "Dit bestand is geen geldige video."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "De grootte van de video kon niet worden gedetecteerd.",
-                    "state": "needs-review-translation"
+                    "trans": "De grootte van de video kon niet worden gedetecteerd."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "De videobreedte is te groot ({{ width }}px). Toegestane maximale breedte is {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "De videobreedte is te groot ({{ width }}px). Toegestane maximale breedte is {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "De videobreedte is te klein ({{ width }}px). Verwachte minimum breedte is {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "De videobreedte is te klein ({{ width }}px). Verwachte minimum breedte is {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "De videohogte is te groot ({{ height }}px). Toegestane maximale hoogte is {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "De videohoogte is te groot ({{ height }}px). Toegestane maximale hoogte is {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "De videohoogte is te klein ({{ height }}px). Verwachte minimale hoogte is {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "De videohoogte is te klein ({{ height }}px). Verwachte minimale hoogte is {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "De video heeft te weinig pixels ({{ pixels }}). Verwachte minimumaantal is {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "De video heeft te weinig pixels ({{ pixels }}). Verwachte minimumaantal is {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "De video heeft te veel pixels ({{ pixels }}). Het verwachte maximum is {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "De video heeft te veel pixels ({{ pixels }}). Het verwachte maximum is {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "De videoratio is te groot ({{ ratio }}). Toegestane maximale ratio is {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "De videoratio is te groot ({{ ratio }}). Toegestane maximale ratio is {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "De videoratio is te klein ({{ ratio }}). Verwachte minimumverhouding is {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "De videoratio is te klein ({{ ratio }}). Verwachte minimumverhouding is {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "De video is vierkant ({{ width }}x{{ height }}px). Vierkante video's zijn niet toegestaan.",
-                    "state": "needs-review-translation"
+                    "trans": "De video is vierkant ({{ width }}x{{ height }}px). Vierkante video's zijn niet toegestaan."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "De video is in liggende ori\u00ebntatie ({{ width }}x{{ height }} px). Liggende video's zijn niet toegestaan.",
-                    "state": "needs-review-translation"
+                    "trans": "De video is in liggende ori\u00ebntatie ({{ width }}x{{ height }} px). Liggende video's zijn niet toegestaan."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "De video is in portretstand ({{ width }}x{{ height }}px). Video's in portretstand zijn niet toegestaan.",
-                    "state": "needs-review-translation"
+                    "trans": "De video is in portretstand ({{ width }}x{{ height }}px). Video's in portretstand zijn niet toegestaan."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Het videobestand is beschadigd.",
-                    "state": "needs-review-translation"
+                    "trans": "Het videobestand is beschadigd."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "De video bevat meerdere streams. Slechts \u00e9\u00e9n stream is toegestaan.",
-                    "state": "needs-review-translation"
+                    "trans": "De video bevat meerdere streams. Slechts \u00e9\u00e9n stream is toegestaan."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Niet-ondersteunde videocodec \u2018{{ codec }}\u2019.",
-                    "state": "needs-review-translation"
+                    "trans": "Niet-ondersteunde videocodec \u2018{{ codec }}\u2019."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Niet-ondersteunde videocontainer \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Niet-ondersteunde videocontainer \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Het afbeeldingsbestand is beschadigd.",
-                    "state": "needs-review-translation"
+                    "trans": "Het afbeeldingsbestand is beschadigd."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "De afbeelding heeft te weinig pixels ({{ pixels }}). Verwachte minimumhoeveelheid is {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "De afbeelding heeft te weinig pixels ({{ pixels }}). Verwachte minimumhoeveelheid is {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "De afbeelding heeft te veel pixels ({{ pixels }}). Het verwachte maximum is {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "De afbeelding heeft te veel pixels ({{ pixels }}). Het verwachte maximum is {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Deze bestandsnaam komt niet overeen met de verwachte tekenset.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze bestandsnaam komt niet overeen met de verwachte tekencodering."
                 }
             },
             "nn": {
