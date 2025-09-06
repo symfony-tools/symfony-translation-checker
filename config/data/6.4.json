@@ -34961,108 +34961,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ten plik nie jest prawid\u0142owym plikiem wideo.",
-                    "state": "needs-review-translation"
+                    "trans": "Ten plik nie jest prawid\u0142owym plikiem wideo."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Nie mo\u017cna by\u0142o wykry\u0107 rozmiaru wideo.",
-                    "state": "needs-review-translation"
+                    "trans": "Nie mo\u017cna wykry\u0107 rozmiaru wideo."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Szeroko\u015b\u0107 wideo jest zbyt du\u017ca ({{ width }}px). Dozwolona maksymalna szeroko\u015b\u0107 to {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Szeroko\u015b\u0107 wideo jest zbyt du\u017ca ({{ width }}px). Maksymalna dopuszczalna szeroko\u015b\u0107 to {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Szeroko\u015b\u0107 wideo jest zbyt ma\u0142a ({{ width }}px). Minimalna oczekiwana szeroko\u015b\u0107 to {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Szeroko\u015b\u0107 wideo jest zbyt ma\u0142a ({{ width }}px). Oczekiwana minimalna szeroko\u015b\u0107 to {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Wysoko\u015b\u0107 wideo jest zbyt du\u017ca ({{ height }}px). Dozwolona maksymalna wysoko\u015b\u0107 to {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Wysoko\u015b\u0107 wideo jest zbyt du\u017ca ({{ height }}px). Maksymalna dopuszczalna wysoko\u015b\u0107 to {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Wysoko\u015b\u0107 wideo jest zbyt ma\u0142a ({{ height }}px). Oczekiwana minimalna wysoko\u015b\u0107 to {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Wysoko\u015b\u0107 wideo jest zbyt ma\u0142a ({{ height }}px). Oczekiwana minimalna wysoko\u015b\u0107 to {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Wideo ma za ma\u0142o pikseli ({{ pixels }}). Oczekiwana minimalna ilo\u015b\u0107 to {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo ma zbyt ma\u0142o ({{ pixels }} pikseli). Oczekiwana minimalna liczba to {{ min_pixels }} pikseli."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Wideo ma zbyt wiele pikseli ({{ pixels }}). Oczekiwana maksymalna liczba to {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo ma zbyt wiele ({{ pixels }} pikseli). Oczekiwana maksymalna liczba to {{ max_pixels }} pikseli."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Wsp\u00f3\u0142czynnik wideo jest zbyt du\u017cy ({{ ratio }}). Dozwolony maksymalny wsp\u00f3\u0142czynnik to {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Wsp\u00f3\u0142czynnik proporcji wideo jest zbyt du\u017cy ({{ ratio }}). Maksymalny dopuszczalny wsp\u00f3\u0142czynnik to {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Proporcje wideo s\u0105 zbyt ma\u0142e ({{ ratio }}). Oczekiwany minimalny wsp\u00f3\u0142czynnik to {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Wsp\u00f3\u0142czynnik proporcji wideo jest zbyt ma\u0142y ({{ ratio }}). Oczekiwany minimalny wsp\u00f3\u0142czynnik to {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Wideo ma kszta\u0142t kwadratu ({{ width }}x{{ height }}px). Kwadratowe filmy s\u0105 niedozwolone.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo jest w formacie kwadratowym ({{ width }}x{{ height }}px). Filmy w tym formacie s\u0105 niedozwolone."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Wideo ma orientacj\u0119 poziom\u0105 ({{ width }}x{{ height }} px). Filmy w orientacji poziomej s\u0105 niedozwolone.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo ma orientacj\u0119 poziom\u0105 ({{ width }}x{{ height }}px). Filmy w orientacji poziomej s\u0105 niedozwolone."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Wideo ma orientacj\u0119 pionow\u0105 ({{ width }}x{{ height }}px). Filmy w orientacji pionowej s\u0105 niedozwolone.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo ma orientacj\u0119 pionow\u0105 ({{ width }}x{{ height }}px). Filmy w orientacji pionowej s\u0105 niedozwolone."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Plik wideo jest uszkodzony.",
-                    "state": "needs-review-translation"
+                    "trans": "Plik wideo jest uszkodzony."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Wideo zawiera wiele strumieni. Dozwolony jest tylko jeden strumie\u0144.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo zawiera wiele strumieni. Dozwolony jest tylko jeden strumie\u0144."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nieobs\u0142ugiwany kodek wideo \u201e{{ codec }}\u201d.",
-                    "state": "needs-review-translation"
+                    "trans": "Nieobs\u0142ugiwany kodek wideo \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nieobs\u0142ugiwany kontener wideo \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nieobs\u0142ugiwany kontener wideo \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Plik obrazu jest uszkodzony.",
-                    "state": "needs-review-translation"
+                    "trans": "Plik obrazu jest uszkodzony."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Obraz ma zbyt ma\u0142o pikseli ({{ pixels }}). Oczekiwana minimalna liczba to {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Obraz ma zbyt ma\u0142o ({{ pixels }} pikseli). Oczekiwana minimalna liczba to {{ min_pixels }} pikseli."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Obraz ma zbyt wiele pikseli ({{ pixels }}). Oczekiwana maksymalna liczba to {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Obraz ma zbyt wiele ({{ pixels }} pikseli). Oczekiwana maksymalna liczba to {{ max_pixels }} pikseli."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Ta nazwa pliku nie odpowiada oczekiwanemu zestawowi znak\u00f3w.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta nazwa pliku nie odpowiada oczekiwanemu zestawowi znak\u00f3w."
                 }
             },
             "pt": {
