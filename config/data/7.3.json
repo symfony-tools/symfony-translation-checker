@@ -25606,108 +25606,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ova datoteka nije valjani videozapis.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova datoteka nije valjani videozapis."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Veli\u010dina videozapisa nije mogla biti odre\u0111ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Veli\u010dina videozapisa nije mogla biti odre\u0111ena."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u0160irina videozapisa je prevelika ({{ width }}px). Dopu\u0161ten\u0430 maksimalna \u0161irina je {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160irina videozapisa je prevelika ({{ width }}px). Dopu\u0161ten\u0430 maksimalna \u0161irina je {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u0160irina videozapisa je premala ({{ width }}px). O\u010dekivana minimalna \u0161irina je {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160irina videozapisa je premala ({{ width }}px). O\u010dekivana minimalna \u0161irina je {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Visina videozapisa je prevelika ({{ height }}px). Dopu\u0161tena maksimalna visina je {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Visina videozapisa je prevelika ({{ height }}px). Dopu\u0161tena maksimalna visina je {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Visina videozapisa je premala ({{ height }}px). O\u010dekivana minimalna visina je {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Visina videozapisa je premala ({{ height }}px). O\u010dekivana minimalna visina je {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Video ima premalo piksela ({{ pixels }}). O\u010dekivana minimalna koli\u010dina je {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Video ima previ\u0161e piksela ({{ pixels }}). O\u010dekivana maksimalna koli\u010dina je {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Omjer videa je prevelik ({{ ratio }}). Dopu\u0161teni maksimalni omjer je {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Omjer videa je prevelik ({{ ratio }}). Dopu\u0161teni maksimalni omjer je {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Omjer videa je premalen ({{ ratio }}). Minimalni o\u010dekivani omjer je {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Omjer videa je premalen ({{ ratio }}). Minimalni o\u010dekivani omjer je {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video je kvadratan ({{ width }}x{{ height }}px). Kvadratni videozapisi nisu dopu\u0161teni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je kvadratan ({{ width }}x{{ height }}px). Kvadratni videozapisi nisu dopu\u0161teni."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video je vodoravne orijentacije ({{ width }}x{{ height }} px). Vodoravni videozapisi nisu dopu\u0161teni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je vodoravne orijentacije ({{ width }}x{{ height }} px). Vodoravni videozapisi nisu dopu\u0161teni."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video je okomitog usmjerenja ({{ width }}x{{ height }} px). Videozapisi okomite orijentacije nisu dopu\u0161teni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je okomite orijentacije ({{ width }}x{{ height }} px). Videozapisi okomite orijentacije nisu dopu\u0161teni."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Videodatoteka je o\u0161te\u0107ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Videodatoteka je o\u0161te\u0107ena."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video sadr\u017ei vi\u0161e tokova. Dopu\u0161ten je samo jedan tok.",
-                    "state": "needs-review-translation"
+                    "trans": "Video sadr\u017ei vi\u0161e tokova. Dopu\u0161ten je samo jedan tok."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nepodr\u017eani video kodek \u201e{{ codec }}\u201c.",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017eani video kodek \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nepodr\u017eani video kontejner \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017eani video spremnik \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Datoteka slike je o\u0161te\u0107ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Datoteka slike je o\u0161te\u0107ena."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Slika ima premalo piksela ({{ pixels }}). O\u010dekivana minimalna koli\u010dina je {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Slika ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Slika ima previ\u0161e piksela ({{ pixels }}). O\u010dekivana maksimalna koli\u010dina je {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Slika ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Naziv ove datoteke ne odgovara o\u010dekivanom skupu znakova.",
-                    "state": "needs-review-translation"
+                    "trans": "Naziv ove datoteke ne odgovara o\u010dekivanom skupu znakova."
                 }
             },
             "hu": {
@@ -34961,108 +34940,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ten plik nie jest prawid\u0142owym plikiem wideo.",
-                    "state": "needs-review-translation"
+                    "trans": "Ten plik nie jest prawid\u0142owym plikiem wideo."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Nie mo\u017cna by\u0142o wykry\u0107 rozmiaru wideo.",
-                    "state": "needs-review-translation"
+                    "trans": "Nie mo\u017cna wykry\u0107 rozmiaru wideo."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Szeroko\u015b\u0107 wideo jest zbyt du\u017ca ({{ width }}px). Dozwolona maksymalna szeroko\u015b\u0107 to {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Szeroko\u015b\u0107 wideo jest zbyt du\u017ca ({{ width }}px). Maksymalna dopuszczalna szeroko\u015b\u0107 to {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Szeroko\u015b\u0107 wideo jest zbyt ma\u0142a ({{ width }}px). Minimalna oczekiwana szeroko\u015b\u0107 to {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Szeroko\u015b\u0107 wideo jest zbyt ma\u0142a ({{ width }}px). Oczekiwana minimalna szeroko\u015b\u0107 to {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Wysoko\u015b\u0107 wideo jest zbyt du\u017ca ({{ height }}px). Dozwolona maksymalna wysoko\u015b\u0107 to {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Wysoko\u015b\u0107 wideo jest zbyt du\u017ca ({{ height }}px). Maksymalna dopuszczalna wysoko\u015b\u0107 to {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Wysoko\u015b\u0107 wideo jest zbyt ma\u0142a ({{ height }}px). Oczekiwana minimalna wysoko\u015b\u0107 to {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Wysoko\u015b\u0107 wideo jest zbyt ma\u0142a ({{ height }}px). Oczekiwana minimalna wysoko\u015b\u0107 to {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Wideo ma za ma\u0142o pikseli ({{ pixels }}). Oczekiwana minimalna ilo\u015b\u0107 to {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo ma zbyt ma\u0142o ({{ pixels }} pikseli). Oczekiwana minimalna liczba to {{ min_pixels }} pikseli."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Wideo ma zbyt wiele pikseli ({{ pixels }}). Oczekiwana maksymalna liczba to {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo ma zbyt wiele ({{ pixels }} pikseli). Oczekiwana maksymalna liczba to {{ max_pixels }} pikseli."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Wsp\u00f3\u0142czynnik wideo jest zbyt du\u017cy ({{ ratio }}). Dozwolony maksymalny wsp\u00f3\u0142czynnik to {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Wsp\u00f3\u0142czynnik proporcji wideo jest zbyt du\u017cy ({{ ratio }}). Maksymalny dopuszczalny wsp\u00f3\u0142czynnik to {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Proporcje wideo s\u0105 zbyt ma\u0142e ({{ ratio }}). Oczekiwany minimalny wsp\u00f3\u0142czynnik to {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Wsp\u00f3\u0142czynnik proporcji wideo jest zbyt ma\u0142y ({{ ratio }}). Oczekiwany minimalny wsp\u00f3\u0142czynnik to {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Wideo ma kszta\u0142t kwadratu ({{ width }}x{{ height }}px). Kwadratowe filmy s\u0105 niedozwolone.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo jest w formacie kwadratowym ({{ width }}x{{ height }}px). Filmy w tym formacie s\u0105 niedozwolone."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Wideo ma orientacj\u0119 poziom\u0105 ({{ width }}x{{ height }} px). Filmy w orientacji poziomej s\u0105 niedozwolone.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo ma orientacj\u0119 poziom\u0105 ({{ width }}x{{ height }}px). Filmy w orientacji poziomej s\u0105 niedozwolone."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Wideo ma orientacj\u0119 pionow\u0105 ({{ width }}x{{ height }}px). Filmy w orientacji pionowej s\u0105 niedozwolone.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo ma orientacj\u0119 pionow\u0105 ({{ width }}x{{ height }}px). Filmy w orientacji pionowej s\u0105 niedozwolone."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Plik wideo jest uszkodzony.",
-                    "state": "needs-review-translation"
+                    "trans": "Plik wideo jest uszkodzony."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Wideo zawiera wiele strumieni. Dozwolony jest tylko jeden strumie\u0144.",
-                    "state": "needs-review-translation"
+                    "trans": "Wideo zawiera wiele strumieni. Dozwolony jest tylko jeden strumie\u0144."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nieobs\u0142ugiwany kodek wideo \u201e{{ codec }}\u201d.",
-                    "state": "needs-review-translation"
+                    "trans": "Nieobs\u0142ugiwany kodek wideo \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nieobs\u0142ugiwany kontener wideo \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nieobs\u0142ugiwany kontener wideo \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Plik obrazu jest uszkodzony.",
-                    "state": "needs-review-translation"
+                    "trans": "Plik obrazu jest uszkodzony."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Obraz ma zbyt ma\u0142o pikseli ({{ pixels }}). Oczekiwana minimalna liczba to {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Obraz ma zbyt ma\u0142o ({{ pixels }} pikseli). Oczekiwana minimalna liczba to {{ min_pixels }} pikseli."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Obraz ma zbyt wiele pikseli ({{ pixels }}). Oczekiwana maksymalna liczba to {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Obraz ma zbyt wiele ({{ pixels }} pikseli). Oczekiwana maksymalna liczba to {{ max_pixels }} pikseli."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Ta nazwa pliku nie odpowiada oczekiwanemu zestawowi znak\u00f3w.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta nazwa pliku nie odpowiada oczekiwanemu zestawowi znak\u00f3w."
                 }
             },
             "pt": {
@@ -42467,108 +42425,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Bu dosya ge\u00e7erli bir video de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu dosya ge\u00e7erli bir video dosyas\u0131 de\u011fil."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Videonun boyutu tespit edilemedi.",
-                    "state": "needs-review-translation"
+                    "trans": "Videonun boyutu tespit edilemedi."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Video geni\u015fli\u011fi \u00e7ok b\u00fcy\u00fck ({{ width }}px). \u0130zin verilen maksimum geni\u015flik {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video geni\u015fli\u011fi \u00e7ok b\u00fcy\u00fck ({{ width }}px). \u0130zin verilen maksimum geni\u015flik {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Video geni\u015fli\u011fi \u00e7ok k\u00fc\u00e7\u00fck ({{ width }}px). Beklenen minimum geni\u015flik {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video geni\u015fli\u011fi \u00e7ok k\u00fc\u00e7\u00fck ({{ width }}px). Beklenen minimum geni\u015flik {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Video y\u00fcksekli\u011fi \u00e7ok b\u00fcy\u00fck ({{ height }}px). \u0130zin verilen azami y\u00fckseklik {{ max_height }}px'tir.",
-                    "state": "needs-review-translation"
+                    "trans": "Video y\u00fcksekli\u011fi \u00e7ok b\u00fcy\u00fck ({{ height }}px). \u0130zin verilen maksimum y\u00fckseklik {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Video y\u00fcksekli\u011fi \u00e7ok k\u00fc\u00e7\u00fck ({{ height }}px). Beklenen minimum y\u00fckseklik {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video y\u00fcksekli\u011fi \u00e7ok k\u00fc\u00e7\u00fck ({{ height }}px). Beklenen minimum y\u00fckseklik {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Videoda piksel say\u0131s\u0131 \u00e7ok az ({{ pixels }}). Beklenen asgari miktar {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videodaki piksel say\u0131s\u0131 \u00e7ok az ({{ pixels }} piksel). Beklenen minimum miktar {{ min_pixels }} pikseldir."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Videoda \u00e7ok fazla piksel var ({{ pixels }}). Beklenen azami miktar {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videodaki piksel say\u0131s\u0131 \u00e7ok fazla ({{ pixels }} piksel). Beklenen maksimum miktar {{ max_pixels }} pikseldir."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Video oran\u0131 \u00e7ok b\u00fcy\u00fck ({{ ratio }}). \u0130zin verilen azami oran {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video oran\u0131 \u00e7ok b\u00fcy\u00fck ({{ ratio }}). \u0130zin verilen maksimum oran {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Video oran\u0131 \u00e7ok k\u00fc\u00e7\u00fck ({{ ratio }}). Beklenen minimum oran {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video oran\u0131 \u00e7ok k\u00fc\u00e7\u00fck ({{ ratio }}). Beklenen minimum oran {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video kare bi\u00e7iminde ({{ width }}x{{ height }}px). Kare videolara izin verilmez.",
-                    "state": "needs-review-translation"
+                    "trans": "Video kare bi\u00e7imde ({{ width }}x{{ height }}px). Kare videolara izin verilmez."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video yatay y\u00f6nde ({{ width }}x{{ height }} px). Yatay videolara izin verilmiyor.",
-                    "state": "needs-review-translation"
+                    "trans": "Video yatay bi\u00e7imde ({{ width }}x{{ height }}px). Yatay videolara izin verilmez."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video dikey y\u00f6nde ({{ width }}x{{ height }}px). Dikey y\u00f6nlendirilmi\u015f videolara izin verilmez.",
-                    "state": "needs-review-translation"
+                    "trans": "Video dikey bi\u00e7imde ({{ width }}x{{ height }}px). Dikey videolara izin verilmez."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Video dosyas\u0131 bozuk.",
-                    "state": "needs-review-translation"
+                    "trans": "Video dosyas\u0131 bozuk."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video birden fazla ak\u0131\u015f i\u00e7eriyor. Yaln\u0131zca bir ak\u0131\u015fa izin verilir.",
-                    "state": "needs-review-translation"
+                    "trans": "Video birden fazla ak\u0131\u015f i\u00e7eriyor. Yaln\u0131zca tek ak\u0131\u015fa izin verilir."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Desteklenmeyen video codec'i \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Desteklenmeyen video codec'i \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Desteklenmeyen video kapsay\u0131c\u0131s\u0131 \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Desteklenmeyen video kapsay\u0131c\u0131s\u0131 \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "G\u00f6r\u00fcnt\u00fc dosyas\u0131 bozulmu\u015f.",
-                    "state": "needs-review-translation"
+                    "trans": "G\u00f6r\u00fcnt\u00fc dosyas\u0131 bozulmu\u015f."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "G\u00f6r\u00fcnt\u00fcde piksel say\u0131s\u0131 \u00e7ok az ({{ pixels }}). Beklenen asgari miktar {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "G\u00f6r\u00fcnt\u00fcdeki piksel say\u0131s\u0131 \u00e7ok az ({{ pixels }}). Beklenen minimum miktar {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "G\u00f6r\u00fcnt\u00fcde \u00e7ok fazla piksel var ({{ pixels }}). Beklenen maksimum miktar {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "G\u00f6r\u00fcnt\u00fcdeki piksel say\u0131s\u0131 \u00e7ok fazla ({{ pixels }}). Beklenen maksimum miktar {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Bu dosya ad\u0131 beklenen karakter k\u00fcmesiyle e\u015fle\u015fmiyor.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu dosya ad\u0131 beklenen karakter k\u00fcmesiyle e\u015fle\u015fmiyor."
                 }
             },
             "uk": {
@@ -45630,7 +45567,7 @@
                 },
                 "36": {
                     "id": "36",
-                    "trans": "\u9019\u500b\u6a94\u6848\u4e0d\u662f\u6709\u6548\u7684\u5f71\u50cf\u3002"
+                    "trans": "\u9019\u500b\u6a94\u6848\u4e0d\u662f\u6709\u6548\u7684\u5716\u7247\u3002"
                 },
                 "37": {
                     "id": "37",
@@ -45654,23 +45591,23 @@
                 },
                 "42": {
                     "id": "42",
-                    "trans": "\u7121\u6cd5\u5075\u6e2c\u9019\u500b\u5f71\u50cf\u7684\u5927\u5c0f\u3002"
+                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u5716\u7247\u7684\u5927\u5c0f\u3002"
                 },
                 "43": {
                     "id": "43",
-                    "trans": "\u5f71\u50cf\u904e\u5bec\uff08{{ width }}px\uff09\u3002\u5141\u8a31\u7684\u5bec\u5ea6\u4e0a\u9650\u662f {{ max_width }}px\u3002"
+                    "trans": "\u5716\u7247\u5bec\u5ea6\u904e\u5927 ({{ width }}px)\u3002\u5141\u8a31\u7684\u6700\u5927\u5bec\u5ea6\u70ba {{ max_width }}px\u3002"
                 },
                 "44": {
                     "id": "44",
-                    "trans": "\u5f71\u50cf\u904e\u7a84\uff08{{ width }}px\uff09\u3002\u5141\u8a31\u7684\u5bec\u5ea6\u4e0b\u9650\u662f {{ max_width }}px\u3002"
+                    "trans": "\u5716\u7247\u5bec\u5ea6\u904e\u5c0f ({{ width }}px)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u5bec\u5ea6\u70ba {{ max_width }}px\u3002"
                 },
                 "45": {
                     "id": "45",
-                    "trans": "\u5f71\u50cf\u904e\u9577\uff08{{ height }}px\uff09\u3002\u5141\u8a31\u7684\u9577\u5ea6\u4e0a\u9650\u662f {{ max_height }}px\u3002"
+                    "trans": "\u5716\u7247\u9ad8\u5ea6\u904e\u5927 ({{ height }}px)\u3002\u5141\u8a31\u7684\u6700\u5927\u9577\u5ea6\u70ba {{ max_height }}px\u3002"
                 },
                 "46": {
                     "id": "46",
-                    "trans": "\u5f71\u50cf\u904e\u77ed\uff08{{ height }}px\uff09\u3002\u5141\u8a31\u7684\u9577\u5ea6\u4e0b\u9650\u662f {{ max_height }}px\u3002"
+                    "trans": "\u5716\u7247\u9ad8\u5ea6\u904e\u5c0f ({{ height }}px)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u9ad8\u5ea6\u70ba {{ max_height }}px\u3002"
                 },
                 "47": {
                     "id": "47",
@@ -45778,23 +45715,23 @@
                 },
                 "73": {
                     "id": "73",
-                    "trans": "\u5f71\u50cf\u7684\u6bd4\u4f8b\u904e\u5927\uff08{{ ratio }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u6bd4\u4f8b\u662f {{ max_ratio }}\u3002"
+                    "trans": "\u5716\u7247\u7684\u6bd4\u4f8b\u904e\u5927 ({{ ratio }})\u3002\u5141\u8a31\u7684\u6700\u5927\u6bd4\u4f8b\u70ba {{ max_ratio }}\u3002"
                 },
                 "74": {
                     "id": "74",
-                    "trans": "\u5f71\u50cf\u7684\u6bd4\u4f8b\u904e\u5c0f\uff08{{ ratio }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u6bd4\u4f8b\u662f {{ min_ratio }}\u3002"
+                    "trans": "\u5716\u7247\u7684\u6bd4\u4f8b\u904e\u5c0f ({{ ratio }})\u3002\u5141\u8a31\u7684\u6700\u5c0f\u6bd4\u4f8b\u70ba {{ min_ratio }}\u3002"
                 },
                 "75": {
                     "id": "75",
-                    "trans": "\u5f71\u50cf\u70ba\u6b63\u65b9\u5f62\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6b63\u65b9\u5f62\u5f71\u50cf\u3002"
+                    "trans": "\u5716\u7247\u70ba\u6b63\u65b9\u5f62 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6b63\u65b9\u5f62\u5716\u7247\u3002"
                 },
                 "76": {
                     "id": "76",
-                    "trans": "\u5f71\u50cf\u70ba\u6a6b\u5411\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6a6b\u5411\u5f71\u50cf\u3002"
+                    "trans": "\u5716\u7247\u70ba\u6a6b\u5411 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6a6b\u5411\u5716\u7247\u3002"
                 },
                 "77": {
                     "id": "77",
-                    "trans": "\u5f71\u50cf\u70ba\u7e31\u5411\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u7e31\u5411\u5f71\u50cf\u3002"
+                    "trans": "\u5716\u7247\u70ba\u7e31\u5411 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u7e31\u5411\u5716\u7247\u3002"
                 },
                 "78": {
                     "id": "78",
@@ -45970,108 +45907,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u6b64\u6a94\u6848\u4e0d\u662f\u6709\u6548\u7684\u5f71\u7247\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u6a94\u6848\u4e0d\u662f\u6709\u6548\u7684\u5f71\u7247\u3002"
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u8996\u8a0a\u7684\u5927\u5c0f\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u5f71\u7247\u7684\u5927\u5c0f\u3002"
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u5f71\u7247\u5bec\u5ea6\u904e\u5927\uff08{{ width }}px\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u5bec\u5ea6\u70ba {{ max_width }}px\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u5bec\u5ea6\u904e\u5927 ({{ width }}px)\u3002\u5141\u8a31\u7684\u6700\u5927\u5bec\u5ea6\u70ba {{ max_width }}px\u3002"
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u8996\u8a0a\u5bec\u5ea6\u592a\u5c0f\uff08{{ width }}px\uff09\u3002\u9810\u671f\u7684\u6700\u5c0f\u5bec\u5ea6\u70ba {{ min_width }} \u50cf\u7d20\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u5bec\u5ea6\u904e\u5c0f ({{ width }}p)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u5bec\u5ea6\u70ba {{ min_width }}px\u3002"
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u5f71\u7247\u9ad8\u5ea6\u904e\u5927\uff08{{ height }}px\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u9ad8\u5ea6\u70ba {{ max_height }}px\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u9ad8\u5ea6\u904e\u5927 ({{ height }}px)\u3002\u5141\u8a31\u7684\u6700\u5927\u9ad8\u5ea6\u70ba {{ max_height }}px\u3002"
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u5f71\u7247\u9ad8\u5ea6\u592a\u5c0f\uff08{{ height }}px\uff09\u3002\u9810\u671f\u7684\u6700\u5c0f\u9ad8\u5ea6\u70ba {{ min_height }}px\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u9ad8\u5ea6\u904e\u5c0f ({{ height }}px)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u9ad8\u5ea6\u70ba {{ min_height }}px\u3002"
                 },
                 "128": {
                     "id": "128",
-                    "trans": "\u6b64\u5f71\u7247\u7684\u50cf\u7d20\u904e\u5c11 ({{ pixels }}). \u9810\u671f\u7684\u6700\u5c0f\u503c\u70ba {{ min_pixels }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u7684\u50cf\u7d20\u904e\u5c11 ({{ pixels }} \u50cf\u7d20). \u5141\u8a31\u7684\u6700\u5c0f\u503c\u70ba {{ min_pixels }} \u50cf\u7d20\u3002"
                 },
                 "129": {
                     "id": "129",
-                    "trans": "\u6b64\u5f71\u7247\u7684\u50cf\u7d20\u904e\u591a\uff08{{ pixels }}\uff09\u3002\u9810\u671f\u7684\u6700\u5927\u6578\u91cf\u70ba {{ max_pixels }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u7684\u50cf\u7d20\u904e\u591a ({{ pixels }} \u50cf\u7d20)\u3002\u5141\u8a31\u7684\u6700\u5927\u503c\u70ba {{ max_pixels }} \u50cf\u7d20\u3002"
                 },
                 "130": {
                     "id": "130",
-                    "trans": "\u8996\u8a0a\u9577\u5bec\u6bd4\u904e\u5927\uff08{{ ratio }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u9577\u5bec\u6bd4\u70ba {{ max_ratio }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u7684\u6bd4\u4f8b\u904e\u5927 ({{ ratio }})\u3002\u5141\u8a31\u7684\u6700\u5927\u6bd4\u4f8b\u70ba {{ max_ratio }}\u3002"
                 },
                 "131": {
                     "id": "131",
-                    "trans": "\u8996\u8a0a\u9577\u5bec\u6bd4\u904e\u5c0f\uff08{{ ratio }}\uff09\u3002\u9810\u671f\u7684\u6700\u4f4e\u6bd4\u4f8b\u70ba {{ min_ratio }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u7684\u6bd4\u4f8b\u904e\u5c0f ({{ ratio }})\u3002\u5141\u8a31\u7684\u6700\u5c0f\u6bd4\u4f8b\u70ba {{ min_ratio }}\u3002"
                 },
                 "132": {
                     "id": "132",
-                    "trans": "\u5f71\u7247\u70ba\u6b63\u65b9\u5f62 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u6b63\u65b9\u5f62\u5f71\u7247\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u70ba\u6b63\u65b9\u5f62 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6b63\u65b9\u5f62\u5f71\u7247\u3002"
                 },
                 "133": {
                     "id": "133",
-                    "trans": "\u5f71\u7247\u70ba\u6a6b\u5411\uff08{{ width }}x{{ height }} \u50cf\u7d20\uff09\u3002\u4e0d\u5141\u8a31\u6a6b\u5411\u5f71\u7247\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u70ba\u6a6b\u5411 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6a6b\u5411\u5f71\u7247\u3002"
                 },
                 "134": {
                     "id": "134",
-                    "trans": "\u6b64\u5f71\u7247\u70ba\u76f4\u5411\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8a31\u76f4\u5411\u5f71\u7247\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u70ba\u7e31\u5411 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u7e31\u5411\u5f71\u7247\u3002"
                 },
                 "135": {
                     "id": "135",
-                    "trans": "\u8996\u8a0a\u6a94\u6848\u5df2\u640d\u58de\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u6a94\u6848\u5df2\u640d\u58de\u3002"
                 },
                 "136": {
                     "id": "136",
-                    "trans": "\u6b64\u5f71\u7247\u5305\u542b\u591a\u500b\u4e32\u6d41\u3002\u53ea\u5141\u8a31\u4e00\u500b\u4e32\u6d41\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f71\u7247\u5305\u542b\u591a\u500b\u4e32\u6d41\u3002\u53ea\u5141\u8a31\u55ae\u500b\u4e32\u6d41\u3002"
                 },
                 "137": {
                     "id": "137",
-                    "trans": "\u4e0d\u652f\u63f4\u7684\u8996\u8a0a\u7de8\u89e3\u78bc\u5668\u300c{{ codec }}\u300d\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u4e0d\u652f\u63f4\u7684\u5f71\u7247\u7de8\u89e3\u78bc\u5668: {{ codec }}\u3002"
                 },
                 "138": {
                     "id": "138",
-                    "trans": "\u4e0d\u652f\u63f4\u7684\u5f71\u7247\u5bb9\u5668 \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u4e0d\u652f\u63f4\u7684\u5f71\u7247\u5bb9\u5668\u683c\u5f0f: {{ container }}\u3002"
                 },
                 "139": {
                     "id": "139",
-                    "trans": "\u5716\u50cf\u6a94\u6848\u5df2\u640d\u58de\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5716\u7247\u6a94\u6848\u5df2\u640d\u58de\u3002"
                 },
                 "140": {
                     "id": "140",
-                    "trans": "\u5f71\u50cf\u7684\u50cf\u7d20\u592a\u5c11\uff08{{ pixels }}\uff09\u3002\u9810\u671f\u7684\u6700\u5c0f\u6578\u91cf\u70ba {{ min_pixels }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5716\u7247\u7684\u50cf\u7d20\u904e\u5c11 ({{ pixels }} \u50cf\u7d20)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u503c\u70ba {{ min_pixels }} \u50cf\u7d20\u3002"
                 },
                 "141": {
                     "id": "141",
-                    "trans": "\u5f71\u50cf\u7684\u50cf\u7d20\u904e\u591a ({{ pixels }}). \u9810\u671f\u7684\u6700\u5927\u6578\u91cf\u70ba {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u5716\u7247\u7684\u50cf\u7d20\u904e\u591a ({{ pixels }} \u50cf\u7d20)\u3002\u5141\u8a31\u7684\u6700\u5927\u503c\u70ba {{ max_pixels }} \u50cf\u7d20\u3002"
                 },
                 "142": {
                     "id": "142",
-                    "trans": "\u6b64\u6a94\u540d\u8207\u9810\u671f\u7684\u5b57\u5143\u96c6\u4e0d\u76f8\u7b26\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u6a94\u540d\u8207\u9810\u671f\u7684\u5b57\u5143\u96c6\u4e0d\u76f8\u7b26\u3002"
                 }
             }
         }
