@@ -38527,23 +38527,23 @@
                 },
                 "13": {
                     "id": "13",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb adres\u00eb email-i e vlefshme."
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb email adres\u00eb e vlefshme."
                 },
                 "14": {
                     "id": "14",
-                    "trans": "Skeda nuk u gjet."
+                    "trans": "Fajli nuk u gjet."
                 },
                 "15": {
                     "id": "15",
-                    "trans": "Skeda nuk \u00ebsht\u00eb e lexueshme."
+                    "trans": "Fajli nuk \u00ebsht\u00eb e lexueshme."
                 },
                 "16": {
                     "id": "16",
-                    "trans": "Skeda \u00ebsht\u00eb shum\u00eb e madhe ({{ size }} {{ suffix }}). Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
+                    "trans": "Fajli \u00ebsht\u00eb shum\u00eb e madhe ({{ size }} {{ suffix }}). Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Lloji \u201cmime\u201d i sked\u00ebs \u00ebsht\u00eb i pavlefsh\u00ebm ({{ type }}). Llojet \u201cmime\u201d t\u00eb lejuara jan\u00eb {{ types }}."
+                    "trans": "Lloji \u201cmime\u201d i fajlit \u00ebsht\u00eb i pavlefsh\u00ebm ({{ type }}). Llojet \u201cmime\u201d t\u00eb lejuara jan\u00eb {{ types }}."
                 },
                 "18": {
                     "id": "18",
@@ -38591,15 +38591,15 @@
                 },
                 "32": {
                     "id": "32",
-                    "trans": "Kjo sked\u00eb \u00ebsht\u00eb shum\u00eb e madhe. Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
+                    "trans": "Ky fajl \u00ebsht\u00eb shum\u00eb i madh\u00eb. Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
                 },
                 "33": {
                     "id": "33",
-                    "trans": "Kjo sked\u00eb \u00ebsht\u00eb shum\u00eb e madhe."
+                    "trans": "Ky fajl \u00ebsht\u00eb shum\u00eb i madh\u00eb."
                 },
                 "34": {
                     "id": "34",
-                    "trans": "Kjo sked\u00eb nuk mund t\u00eb ngarkohet."
+                    "trans": "Ky fajl nuk mund t\u00eb ngarkohet."
                 },
                 "35": {
                     "id": "35",
@@ -38607,7 +38607,7 @@
                 },
                 "36": {
                     "id": "36",
-                    "trans": "Kjo sked\u00eb nuk \u00ebsht\u00eb nj\u00eb imazh i vlefsh\u00ebm."
+                    "trans": "Ky fajl nuk \u00ebsht\u00eb nj\u00eb imazh i vlefsh\u00ebm."
                 },
                 "37": {
                     "id": "37",
@@ -38659,19 +38659,19 @@
                 },
                 "49": {
                     "id": "49",
-                    "trans": "Kjo sked\u00eb \u00ebsht\u00eb ngarkuar pjes\u00ebrisht."
+                    "trans": "Ky fajl \u00ebsht\u00eb ngarkuar pjes\u00ebrisht."
                 },
                 "50": {
                     "id": "50",
-                    "trans": "Nuk \u00ebsht\u00eb ngarkuar ndonj\u00eb sked\u00eb."
+                    "trans": "Nuk \u00ebsht\u00eb ngarkuar ndonj\u00eb fajl."
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Nuk \u00ebsht\u00eb konfiguruar asnj\u00eb skedar i p\u00ebrkohsh\u00ebm n\u00eb php.ini, ose skedari i konfiguruar nuk ekziston."
+                    "trans": "Nuk \u00ebsht\u00eb konfiguruar asnj\u00eb dosje e p\u00ebrkohsh\u00ebm n\u00eb php.ini, ose dosja e konfiguruar nuk ekziston."
                 },
                 "52": {
                     "id": "52",
-                    "trans": "Nuk mund t\u00eb shkruhet skeda e p\u00ebrkohshme n\u00eb disk."
+                    "trans": "Nuk mund t\u00eb shkruhet fajli e p\u00ebrkohshme n\u00eb disk."
                 },
                 "53": {
                     "id": "53",
@@ -38695,7 +38695,7 @@
                 },
                 "58": {
                     "id": "58",
-                    "trans": "Lloj karte i papranuar ose num\u00ebr karte i pavlefsh\u00ebm."
+                    "trans": "Lloji i kart\u00ebs i pap\u00ebrkrahur ose num\u00ebr kart\u00ebs i pavlefsh\u00ebm."
                 },
                 "59": {
                     "id": "59",
@@ -38775,7 +38775,7 @@
                 },
                 "78": {
                     "id": "78",
-                    "trans": "Nj\u00eb sked\u00eb e zbraz\u00ebt nuk lejohet."
+                    "trans": "Nj\u00eb fajl i zbraz\u00ebt nuk lejohet."
                 },
                 "79": {
                     "id": "79",
@@ -38879,7 +38879,7 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Emri i sked\u00ebs \u00ebsht\u00eb shum\u00eb i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karakter ose m\u00eb pak.|Emri i sked\u00ebs \u00ebsht\u00eb shum\u00eb i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karaktere ose m\u00eb pak."
+                    "trans": "Emri i fajlit \u00ebsht\u00eb shum\u00eb i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karakter ose m\u00eb pak.|Emri i fajlit \u00ebsht\u00eb shum\u00eb i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karaktere ose m\u00eb pak."
                 },
                 "105": {
                     "id": "105",
@@ -38903,7 +38903,7 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Shtesa e skedarit \u00ebsht\u00eb e pavlefshme ({{ extension }}). Shtesat e lejuara jan\u00eb {{ extensions }}."
+                    "trans": "Shtesa e fajlit \u00ebsht\u00eb e pavlefshme ({{ extension }}). Shtesat e lejuara jan\u00eb {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
@@ -38947,108 +38947,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ky skedar nuk \u00ebsht\u00eb video e vlefshme.",
-                    "state": "needs-review-translation"
+                    "trans": "Ky fajl nuk \u00ebsht\u00eb video e vlefshme."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Nuk u zbulua dot madh\u00ebsia e videos.",
-                    "state": "needs-review-translation"
+                    "trans": "Madh\u00ebsia e videos nuk mund t\u00eb zbulohej."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Gjer\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e madhe ({{ width }}px). Gjer\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Gjer\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e madhe ({{ width }}px). Gjer\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Gjer\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e vog\u00ebl ({{ width }}px). Gjer\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Gjer\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e vog\u00ebl ({{ width }}px). Gjer\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Lart\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e madhe ({{ height }}px). Lart\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Lart\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e madhe ({{ height }}px). Lart\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Lart\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e vog\u00ebl ({{ height }}px). Lart\u00ebsia minimale e pritshme \u00ebsht\u00eb {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Lart\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e vog\u00ebl ({{ height }}px). Lart\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Video ka shum\u00eb pak piksel\u00eb ({{ pixels }}). Sasia minimale e pritur \u00ebsht\u00eb {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ka shum\u00eb pak piksel\u00eb ({{ pixels }}). Sasia minimale e pritur \u00ebsht\u00eb {{ min_pixels }}px."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Videoja ka tep\u00ebr piksele ({{ pixels }}). Sasia maksimale e pritur \u00ebsht\u00eb {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoja ka tep\u00ebr piksele ({{ pixels }}). Sasia maksimale e pritur \u00ebsht\u00eb {{ max_pixels }}px."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Raporti i videos \u00ebsht\u00eb shum\u00eb i madh ({{ ratio }}). Raporti maksimal i lejuar \u00ebsht\u00eb {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Raporti i videos \u00ebsht\u00eb shum\u00eb i madh ({{ ratio }}). Raporti maksimal i lejuar \u00ebsht\u00eb {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Raporti i videos \u00ebsht\u00eb shum\u00eb i vog\u00ebl ({{ ratio }}). Raporti minimal i pritsh\u00ebm \u00ebsht\u00eb {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Raporti i videos \u00ebsht\u00eb shum\u00eb i vog\u00ebl ({{ ratio }}). Raporti minimal i pritur \u00ebsht\u00eb {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Videoja \u00ebsht\u00eb katrore ({{ width }}x{{ height }}px). Videot katrore nuk lejohen.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoja \u00ebsht\u00eb katrore ({{ width }}x{{ height }}px). Videot katrore nuk lejohen."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Videoja \u00ebsht\u00eb me orientim horizontal ({{ width }}x{{ height }} px). Videot horizontale nuk lejohen.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoja \u00ebsht\u00eb me orientim horizontal ({{ width }}x{{ height }}px). Videot horizontale nuk lejohen."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Videoja \u00ebsht\u00eb me orientim portret ({{ width }}x{{ height }}px). Videot me orientim portret nuk lejohen.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoja \u00ebsht\u00eb me orientim portret ({{ width }}x{{ height }}px). Videot me orientim portret nuk lejohen."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Skedari i videos \u00ebsht\u00eb i korruptuar.",
-                    "state": "needs-review-translation"
+                    "trans": "Fajli i videos \u00ebsht\u00eb i korruptuar."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Videoja p\u00ebrmban disa rrjedha. Lejohet vet\u00ebm nj\u00eb rrjedh\u00eb.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoja p\u00ebrmban disa rrjedha. Lejohet vet\u00ebm nj\u00eb rrjedh\u00eb."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Kodek video i pamb\u00ebshtetur \u201e{{ codec }}\u201c.",
-                    "state": "needs-review-translation"
+                    "trans": "Kodeku videos \u00ebsht\u00eb i pamb\u00ebshtetur \u201e{{ codec }}\u201c."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Konteiner video i pamb\u00ebshtetur \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Kontejneri videos \u00ebsht\u00eb i pamb\u00ebshtetur \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Skedari i imazhit \u00ebsht\u00eb i d\u00ebmtuar.",
-                    "state": "needs-review-translation"
+                    "trans": "Fajli i imazhit \u00ebsht\u00eb korruptuar."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Imazhi ka shum\u00eb pak piksel\u00eb ({{ pixels }}). Sasia minimale e pritur \u00ebsht\u00eb {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Imazhi ka shum\u00eb pak piksel\u00eb ({{ pixels }}). Sasia minimale e pritur \u00ebsht\u00eb {{ min_pixels }}px."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Imazhi ka shum\u00eb piksel\u00eb ({{ pixels }}). Shuma maksimale e pritur \u00ebsht\u00eb {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Imazhi ka shum\u00eb piksel\u00eb ({{ pixels }}). Shuma maksimale e pritur \u00ebsht\u00eb {{ max_pixels }}px."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Ky em\u00ebr skedari nuk p\u00ebrputhet me grupin e pritur t\u00eb karaktereve.",
-                    "state": "needs-review-translation"
+                    "trans": "Ky em\u00ebr fajlit nuk p\u00ebrputhet me grupin e pritur t\u00eb karaktereve."
                 }
             },
             "sr_Cyrl": {
