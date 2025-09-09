@@ -37437,8 +37437,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "T\u00e1to hodnota nie je platn\u00e1 IP adresa.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00e1 IP adresa."
                 },
                 "38": {
                     "id": "38",
@@ -37770,113 +37769,91 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "T\u00e1to hodnota nie je platn\u00e1 \u0161abl\u00f3na Twig.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platnou Twig \u0161abl\u00f3nou."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Tento s\u00fabor nie je platn\u00e9 video.",
-                    "state": "needs-review-translation"
+                    "trans": "Tento s\u00fabor nie je platn\u00e9 video."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Ve\u013ekos\u0165 videa sa nepodarilo zisti\u0165.",
-                    "state": "needs-review-translation"
+                    "trans": "Ve\u013ekos\u0165 videa sa nepodarilo zisti\u0165."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u0160\u00edrka videa je pr\u00edli\u0161 ve\u013ek\u00e1 ({{ width }}px). Povolen\u00e1 maxim\u00e1lna \u0161\u00edrka je {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u00edrka videa je pr\u00edli\u0161 ve\u013ek\u00e1 ({{ width }}px). Povolen\u00e1 maxim\u00e1lna \u0161\u00edrka je {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u0160\u00edrka videa je pr\u00edli\u0161 mal\u00e1 ({{ width }}px). O\u010dak\u00e1van\u00e1 minim\u00e1lna \u0161\u00edrka je {{ min_width }} px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u00edrka videa je pr\u00edli\u0161 mal\u00e1 ({{ width }}px). O\u010dak\u00e1van\u00e1 minim\u00e1lna \u0161\u00edrka je {{ min_width }} px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "V\u00fd\u0161ka videa je pr\u00edli\u0161 ve\u013ek\u00e1 ({{ height }}px). Povolen\u00e1 maxim\u00e1lna v\u00fd\u0161ka je {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00fd\u0161ka videa je pr\u00edli\u0161 ve\u013ek\u00e1 ({{ height }}px). Povolen\u00e1 maxim\u00e1lna v\u00fd\u0161ka je {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "V\u00fd\u0161ka videa je pr\u00edli\u0161 mal\u00e1 ({{ height }}px). O\u010dak\u00e1van\u00e1 minim\u00e1lna v\u00fd\u0161ka je {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00fd\u0161ka videa je pr\u00edli\u0161 mal\u00e1 ({{ height }}px). O\u010dak\u00e1van\u00e1 minim\u00e1lna v\u00fd\u0161ka je {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Video m\u00e1 pr\u00edli\u0161 m\u00e1lo pixelov ({{ pixels }}). O\u010dak\u00e1van\u00e9 minim\u00e1lne mno\u017estvo je {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video m\u00e1 pr\u00edli\u0161 m\u00e1lo pixelov ({{ pixels }}). O\u010dak\u00e1van\u00e9 minim\u00e1lne mno\u017estvo je {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Video m\u00e1 pr\u00edli\u0161 ve\u013ea pixelov ({{ pixels }}). O\u010dak\u00e1van\u00e9 maximum je {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video m\u00e1 pr\u00edli\u0161 ve\u013ea pixelov ({{ pixels }}). O\u010dak\u00e1van\u00e9 maxim\u00e1lne mno\u017estvo je {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Pomer videa je pr\u00edli\u0161 ve\u013ek\u00fd ({{ ratio }}). Povolen\u00fd maxim\u00e1lny pomer je {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Pomer str\u00e1n videa je pr\u00edli\u0161 ve\u013ek\u00fd ({{ ratio }}). Povolen\u00fd maxim\u00e1lny pomer str\u00e1n je {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Pomer videa je pr\u00edli\u0161 mal\u00fd ({{ ratio }}). O\u010dak\u00e1van\u00fd minim\u00e1lny pomer je {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Pomer str\u00e1n videa je pr\u00edli\u0161 mal\u00fd ({{ ratio }}). O\u010dak\u00e1van\u00fd minim\u00e1lny pomer str\u00e1n je {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video je \u0161tvorcov\u00e9 ({{ width }}x{{ height }}px). \u0160tvorcov\u00e9 vide\u00e1 nie s\u00fa povolen\u00e9.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je \u0161tvorcov\u00e9 ({{ width }}x{{ height }}px). \u0160tvorcov\u00e9 vide\u00e1 nie s\u00fa povolen\u00e9."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video je na \u0161\u00edrku ({{ width }}x{{ height }} px). Vide\u00e1 na \u0161\u00edrku nie s\u00fa povolen\u00e9.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je orientovan\u00e9 na \u0161\u00edrku ({{ width }}x{{ height }} px). Vide\u00e1 orientovan\u00e9 na \u0161\u00edrku nie s\u00fa povolen\u00e9."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video je orientovan\u00e9 na v\u00fd\u0161ku ({{ width }}x{{ height }}px). Vide\u00e1 s orient\u00e1ciou na v\u00fd\u0161ku nie s\u00fa povolen\u00e9.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je orientovan\u00e9 na v\u00fd\u0161ku ({{ width }}x{{ height }}px). Vide\u00e1 orientovan\u00e9 na v\u00fd\u0161ku nie s\u00fa povolen\u00e9."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Videos\u00fabor je po\u0161koden\u00fd.",
-                    "state": "needs-review-translation"
+                    "trans": "Videos\u00fabor je po\u0161koden\u00fd."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video obsahuje viacero tokov. Povolen\u00fd je len jeden tok.",
-                    "state": "needs-review-translation"
+                    "trans": "Video obsahuje viacero tokov. Povolen\u00fd je len jeden tok."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nepodporovan\u00fd videokodek \u201e{{ codec }}\u201c.",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodporovan\u00fd videokodek \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nepodporovan\u00fd kontajner videa \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodporovan\u00fd kontajner videa \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "S\u00fabor obr\u00e1zka je po\u0161koden\u00fd.",
-                    "state": "needs-review-translation"
+                    "trans": "S\u00fabor obr\u00e1zka je po\u0161koden\u00fd."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Obr\u00e1zok m\u00e1 pr\u00edli\u0161 m\u00e1lo pixelov ({{ pixels }}). O\u010dak\u00e1van\u00e9 minimum je {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Obr\u00e1zok m\u00e1 pr\u00edli\u0161 m\u00e1lo pixelov ({{ pixels }}). O\u010dak\u00e1van\u00e9 minim\u00e1lne mno\u017estvo je {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Obr\u00e1zok m\u00e1 pr\u00edli\u0161 ve\u013ea pixelov ({{ pixels }}). O\u010dak\u00e1van\u00e9 maximum je {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Obr\u00e1zok m\u00e1 pr\u00edli\u0161 ve\u013ea pixelov ({{ pixels }}). O\u010dak\u00e1van\u00e9 maxim\u00e1lne mno\u017estvo je {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Tento n\u00e1zov s\u00faboru nezodpoved\u00e1 o\u010dak\u00e1vanej znakovej sade.",
-                    "state": "needs-review-translation"
+                    "trans": "Tento n\u00e1zov s\u00faboru nezodpoved\u00e1 o\u010dak\u00e1vanej znakovej sade."
                 }
             },
             "sl": {
