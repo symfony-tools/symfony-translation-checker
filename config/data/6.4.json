@@ -36644,108 +36644,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Acest fi\u0219ier nu este un videoclip valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Acest fi\u0219ier nu este un videoclip valid."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Dimensiunea videoclipului nu a putut fi detectat\u0103.",
-                    "state": "needs-review-translation"
+                    "trans": "Dimensiunea videoclipului nu a putut fi detectat\u0103."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "L\u0103\u021bimea videoclipului este prea mare ({{ width }}px). L\u0103\u021bimea maxim\u0103 permis\u0103 este {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "L\u0103\u021bimea videoclipului este prea mare ({{ width }}px). L\u0103\u021bimea maxim\u0103 permis\u0103 este {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "L\u0103\u021bimea videoclipului este prea mic\u0103 ({{ width }}px). L\u0103\u021bimea minim\u0103 a\u0219teptat\u0103 este {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "L\u0103\u021bimea videoclipului este prea mic\u0103 ({{ width }}px). L\u0103\u021bimea minim\u0103 a\u0219teptat\u0103 este {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u00cen\u0103l\u021bimea videoclipului este prea mare ({{ height }}px). \u00cen\u0103l\u021bimea maxim\u0103 permis\u0103 este {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u00cen\u0103l\u021bimea videoclipului este prea mare ({{ height }}px). \u00cen\u0103l\u021bimea maxim\u0103 permis\u0103 este {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u00cen\u0103l\u021bimea videoclipului este prea mic\u0103 ({{ height }}px). \u00cen\u0103l\u021bimea minim\u0103 a\u0219teptat\u0103 este {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u00cen\u0103l\u021bimea videoclipului este prea mic\u0103 ({{ height }}px). \u00cen\u0103l\u021bimea minim\u0103 a\u0219teptat\u0103 este {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Videoclipul are prea pu\u021bini pixeli ({{ pixels }}). Cantitatea minim\u0103 a\u0219teptat\u0103 este {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoclipul are prea pu\u021bini pixeli ({{ pixels }}). Cantitatea minim\u0103 a\u0219teptat\u0103 este {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Videoclipul are prea mul\u021bi pixeli ({{ pixels }}). Cantitatea maxim\u0103 a\u0219teptat\u0103 este {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoclipul are prea mul\u021bi pixeli ({{ pixels }}). Cantitatea maxim\u0103 a\u0219teptat\u0103 este {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Raportul video este prea mare ({{ ratio }}). Raportul maxim permis este {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Raportul video este prea mare ({{ ratio }}). Raportul maxim permis este {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Raportul video este prea mic ({{ ratio }}). Raportul minim a\u0219teptat este {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Raportul video este prea mic ({{ ratio }}). Raportul minim a\u0219teptat este {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Videoclipul este p\u0103trat ({{ width }}x{{ height }}px). Videoclipurile p\u0103trate nu sunt permise.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoclipul este p\u0103trat ({{ width }}x{{ height }}px). Videoclipurile p\u0103trate nu sunt permise."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Videoclipul are orientare peisaj ({{ width }}x{{ height }} px). Videoclipurile \u00een orientare peisaj nu sunt permise.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoclipul are orientare peisaj ({{ width }}x{{ height }} px). Videoclipurile \u00een orientare peisaj nu sunt permise."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Videoclipul este \u00een orientare portret ({{ width }}x{{ height }}px). Videoclipurile cu orientare portret nu sunt permise.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoclipul este \u00een orientare portret ({{ width }}x{{ height }}px). Videoclipurile cu orientare portret nu sunt permise."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Fi\u0219ierul video este corupt.",
-                    "state": "needs-review-translation"
+                    "trans": "Fi\u0219ierul video este corupt."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Videoclipul con\u021bine mai multe fluxuri. Doar un singur flux este permis.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoclipul con\u021bine mai multe fluxuri. Doar un singur flux este permis."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Codec video neacceptat \u201e{{ codec }}\u201d.",
-                    "state": "needs-review-translation"
+                    "trans": "Codec video nesuportat \u201e{{ codec }}\u201d."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Container video nesuportat \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Container video nesuportat \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Fi\u0219ierul imagine este deteriorat.",
-                    "state": "needs-review-translation"
+                    "trans": "Fi\u0219ierul imagine este corupt."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Imaginea are prea pu\u021bini pixeli ({{ pixels }}). Cantitatea minim\u0103 a\u0219teptat\u0103 este {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Imaginea are prea pu\u021bini pixeli ({{ pixels }}). Cantitatea minim\u0103 a\u0219teptat\u0103 este {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Imaginea are prea mul\u021bi pixeli ({{ pixels }}). Cantitatea maxim\u0103 a\u0219teptat\u0103 este {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Imaginea are prea mul\u021bi pixeli ({{ pixels }}). Cantitatea maxim\u0103 a\u0219teptat\u0103 este {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Acest nume de fi\u0219ier nu corespunde setului de caractere a\u0219teptat.",
-                    "state": "needs-review-translation"
+                    "trans": "Acest nume de fi\u0219ier nu corespunde setului de caractere a\u0219teptat."
                 }
             },
             "ru": {
