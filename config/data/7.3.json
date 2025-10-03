@@ -9246,8 +9246,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "For mange mislykkede loginfors\u00f8g, pr\u00f8v igen om %minutes% minutter.",
-                    "state": "needs-review-translation"
+                    "trans": "For mange mislykkede loginfors\u00f8g, pr\u00f8v igen om %minutes% minutter."
                 }
             },
             "de": {
@@ -18306,8 +18305,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Denne v\u00e6rdi er ikke en gyldig IP-adresse.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er ikke en gyldig IP-adresse."
                 },
                 "38": {
                     "id": "38",
@@ -18363,8 +18361,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Der blev ikke konfigureret en midlertidig mappe i php.ini, eller den konfigurerede mappe eksisterer ikke.",
-                    "state": "needs-review-translation"
+                    "trans": "Der blev ikke konfigureret en midlertidig mappe i php.ini, eller den konfigurerede mappe eksisterer ikke."
                 },
                 "52": {
                     "id": "52",
@@ -18396,8 +18393,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Denne v\u00e6rdi er ikke et gyldigt internationalt bankkontonummer (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er ikke et gyldigt internationalt bankkontonummer (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -18485,8 +18481,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Denne v\u00e6rdi er ikke en gyldig forretningsidentifikationskode (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er ikke en gyldig forretningsidentifikationskode (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -18494,8 +18489,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Denne v\u00e6rdi er ikke en gyldig UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er ikke en gyldig UUID."
                 },
                 "84": {
                     "id": "84",
@@ -18611,153 +18605,123 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Denne v\u00e6rdi er ikke en gyldig MAC-adresse.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er ikke en gyldig MAC-adresse."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Denne URL mangler et topdom\u00e6ne.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne URL mangler et topdom\u00e6ne."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Denne v\u00e6rdi er for kort. Den skal indeholde mindst \u00e9t ord.|Denne v\u00e6rdi er for kort. Den skal indeholde mindst {{ min }} ord.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er for kort. Den skal indeholde mindst \u00e9t ord.|Denne v\u00e6rdi er for kort. Den skal indeholde mindst {{ min }} ord."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Denne v\u00e6rdi er for lang. Den skal indeholde \u00e9t ord.|Denne v\u00e6rdi er for lang. Den skal indeholde {{ max }} ord eller f\u00e6rre.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er for lang. Den skal indeholde \u00e9t ord.|Denne v\u00e6rdi er for lang. Den skal indeholde {{ max }} ord eller f\u00e6rre."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Denne v\u00e6rdi repr\u00e6senterer ikke en gyldig uge i ISO 8601-formatet.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi repr\u00e6senterer ikke en gyldig uge i ISO 8601-formatet."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Denne v\u00e6rdi er ikke en gyldig uge.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er ikke en gyldig uge."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Denne v\u00e6rdi b\u00f8r ikke v\u00e6re f\u00f8r uge \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi b\u00f8r ikke v\u00e6re f\u00f8r uge \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Denne v\u00e6rdi b\u00f8r ikke v\u00e6re efter uge \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi b\u00f8r ikke v\u00e6re efter uge \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Denne v\u00e6rdi er ikke en gyldig Twig-skabelon.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er ikke en gyldig Twig-skabelon."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Denne fil er ikke en gyldig video.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne fil er ikke en gyldig video."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Videost\u00f8rrelsen kunne ikke registreres.",
-                    "state": "needs-review-translation"
+                    "trans": "Videost\u00f8rrelsen kunne ikke registreres."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Videobredden er for stor ({{ width }}px). Tilladt maksimal bredde er {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Videobredden er for stor ({{ width }}px). Tilladt maksimal bredde er {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Videobredden er for lille ({{ width }}px). Mindste forventede bredde er {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Videobredden er for lille ({{ width }}px). Mindste forventede bredde er {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Videoens h\u00f8jde er for stor ({{ height }}px). Tilladt maksimal h\u00f8jde er {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoens h\u00f8jde er for stor ({{ height }}px). Tilladt maksimal h\u00f8jde er {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Videoens h\u00f8jde er for lille ({{ height }}px). Forventet minimumsh\u00f8jde er {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoens h\u00f8jde er for lille ({{ height }}px). Forventet minimumsh\u00f8jde er {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Videoen har for f\u00e5 pixels ({{ pixels }}). Forventet minimum er {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoen har for f\u00e5 pixels ({{ pixels }}). Forventet minimum er {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Videoen har for mange pixels ({{ pixels }}). Forventet maksimumm\u00e6ngde er {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoen har for mange pixels ({{ pixels }}). Forventet maksimumm\u00e6ngde er {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Videoforholdet er for stort ({{ ratio }}). Tilladt maksimalforhold er {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoforholdet er for stort ({{ ratio }}). Tilladt maksimalforhold er {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Videoforholdet er for lille ({{ ratio }}). Forventet minimumsforhold er {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoforholdet er for lille ({{ ratio }}). Forventet minimumsforhold er {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Videoen er kvadratisk ({{ width }}x{{ height }}px). Kvadratiske videoer er ikke tilladt.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoen er kvadratisk ({{ width }}x{{ height }}px). Kvadratiske videoer er ikke tilladt."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Videoen er i liggende format ({{ width }}x{{ height }} px). Liggende videoer er ikke tilladt.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoen er i liggende format ({{ width }}x{{ height }} px). Liggende videoer er ikke tilladt."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Videoen er i portr\u00e6tformat ({{ width }}x{{ height }}px). Portr\u00e6tvideoer er ikke tilladt.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoen er i portr\u00e6tformat ({{ width }}x{{ height }}px). Portr\u00e6tvideoer er ikke tilladt."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Videofilen er beskadiget.",
-                    "state": "needs-review-translation"
+                    "trans": "Videofilen er beskadiget."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Videoen indeholder flere streams. Kun \u00e9n stream er tilladt.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoen indeholder flere streams. Kun \u00e9n stream er tilladt."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Ikke-underst\u00f8ttet videokodek \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ikke-underst\u00f8ttet videokodek \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Ikke-underst\u00f8ttet videocontainer \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ikke-underst\u00f8ttet videocontainer \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Billedfilen er beskadiget.",
-                    "state": "needs-review-translation"
+                    "trans": "Billedfilen er beskadiget."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Billedet har for f\u00e5 pixels ({{ pixels }}). Forventet minimum er {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Billedet har for f\u00e5 pixels ({{ pixels }}). Forventet minimum er {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Billedet har for mange pixels ({{ pixels }}). Forventet maksimalt antal er {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Billedet har for mange pixels ({{ pixels }}). Forventet maksimalt antal er {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Dette filnavn matcher ikke det forventede tegns\u00e6t.",
-                    "state": "needs-review-translation"
+                    "trans": "Dette filnavn matcher ikke det forventede tegns\u00e6t."
                 }
             },
             "de": {
