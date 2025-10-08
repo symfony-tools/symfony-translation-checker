@@ -10029,8 +10029,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Demasiados intentos fallidos de inicio de sesi\u00f3n, int\u00e9ntao de novo en %minutes% minutos.",
-                    "state": "needs-review-translation"
+                    "trans": "Demasiados intentos errados de inicio de sesi\u00f3n, int\u00e9ntao de novo en %minutes% minutos."
                 }
             },
             "he": {
@@ -24013,8 +24012,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Este valor non \u00e9 un enderezo IP v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor non \u00e9 un enderezo IP v\u00e1lido."
                 },
                 "38": {
                     "id": "38",
@@ -24102,8 +24100,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Este valor non \u00e9 un N\u00famero de Conta Bancaria Internacional (IBAN) v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor non \u00e9 un N\u00famero de Conta Bancaria Internacional (IBAN) v\u00e1lido."
                 },
                 "60": {
                     "id": "60",
@@ -24191,8 +24188,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Este valor non \u00e9 un C\u00f3digo de Identificaci\u00f3n de Negocios (BIC) v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor non \u00e9 un C\u00f3digo de Identificaci\u00f3n de Negocios (BIC) v\u00e1lido."
                 },
                 "82": {
                     "id": "82",
@@ -24200,8 +24196,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Este valor non \u00e9 un UUID v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor non \u00e9 un UUID v\u00e1lido."
                 },
                 "84": {
                     "id": "84",
@@ -24285,193 +24280,155 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "O nome do ficheiro \u00e9 demasiado longo. Debe ter {{ filename_max_length }} caracteres ou menos.",
-                    "state": "needs-review-translation"
+                    "trans": "O nome do ficheiro \u00e9 demasiado longo. Debe ter {{ filename_max_length }} caracteres ou menos."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "A forza do contrasinal \u00e9 demasiado baixa. Utilice un contrasinal m\u00e1is forte.",
-                    "state": "needs-review-translation"
+                    "trans": "O contrasinal \u00e9 demasiado d\u00e9bil. Utilice un contrasinal m\u00e1is seguro."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Este valor cont\u00e9n caracteres que non est\u00e1n permitidos polo nivel de restrici\u00f3n actual.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor cont\u00e9n caracteres que non est\u00e1n permitidos polo nivel de restrici\u00f3n actual."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Non se permite usar caracteres invisibles.",
-                    "state": "needs-review-translation"
+                    "trans": "Non se permite usar caracteres invis\u00edbeis."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Non se permite mesturar n\u00fameros de diferentes scripts.",
-                    "state": "needs-review-translation"
+                    "trans": "Non se permite mesturar n\u00fameros de diferentes scripts."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Non se permite usar caracteres de superposici\u00f3n ocultos.",
-                    "state": "needs-review-translation"
+                    "trans": "Non se permite usar caracteres de superposici\u00f3n ocultos."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "A extensi\u00f3n do ficheiro non \u00e9 v\u00e1lida ({{ extension }}). As extensi\u00f3ns permitidas son {{ extensions }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A extensi\u00f3n do ficheiro non \u00e9 v\u00e1lida ({{ extension }}). As extensi\u00f3ns permitidas son {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "A codificaci\u00f3n de caracteres detectada non \u00e9 v\u00e1lida ({{ detected }}). As codificaci\u00f3ns permitidas son {{ encodings }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A codificaci\u00f3n de caracteres detectada non \u00e9 v\u00e1lida ({{ detected }}). As codificaci\u00f3ns permitidas son {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Este valor non \u00e9 un enderezo MAC v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor non \u00e9 un enderezo MAC v\u00e1lido."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Esta URL non cont\u00e9n un dominio de nivel superior.",
-                    "state": "needs-review-translation"
+                    "trans": "A esta URL f\u00e1ltalle un dominio de nivel superior."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Este valor \u00e9 demasiado curto. Debe conter polo menos unha palabra.|Este valor \u00e9 demasiado curto. Debe conter polo menos {{ min }} palabras.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor \u00e9 curto de m\u00e1is. Debe conter polo menos unha palabra.|Este valor \u00e9 curto de m\u00e1is. Debe conter polo menos {{ min }} palabras."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Este valor \u00e9 demasiado longo. Debe conter s\u00f3 unha palabra.|Este valor \u00e9 demasiado longo. Debe conter {{ max }} palabras ou menos.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor \u00e9 longo de m\u00e1is. Debe conter s\u00f3 unha palabra.|Este valor \u00e9 longo de m\u00e1is. Debe conter {{ max }} palabras ou menos."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Este valor non representa unha semana v\u00e1lida no formato ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor non representa unha semana v\u00e1lida no formato ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Este valor non \u00e9 unha semana v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor non \u00e9 unha semana v\u00e1lida."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Este valor non debe ser anterior \u00e1 semana \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor non debe ser anterior \u00e1 semana \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Este valor non debe estar despois da semana \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor non debe estar despois da semana \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Este valor non \u00e9 un modelo Twig v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor non \u00e9 un modelo Twig v\u00e1lido."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Este ficheiro non \u00e9 un v\u00eddeo v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este ficheiro non \u00e9 un v\u00eddeo v\u00e1lido."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Non se puido detectar o tama\u00f1o do v\u00eddeo.",
-                    "state": "needs-review-translation"
+                    "trans": "Non se puido detectar o tama\u00f1o do v\u00eddeo."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "A largura do v\u00eddeo \u00e9 demasiado grande ({{ width }}px). A largura m\u00e1xima permitida \u00e9 {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "A anchura do v\u00eddeo \u00e9 demasiado grande ({{ width }}px). A anchura m\u00e1xima permitida \u00e9 {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "A largura do v\u00eddeo \u00e9 demasiado pequena ({{ width }}px). A largura m\u00ednima agardada \u00e9 {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "A anchura do v\u00eddeo \u00e9 demasiado pequena ({{ width }}px). A anchura m\u00ednima agardada \u00e9 {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "A altura do v\u00eddeo \u00e9 demasiado grande ({{ height }}px). A altura m\u00e1xima permitida \u00e9 {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "A altura do v\u00eddeo \u00e9 demasiado grande ({{ height }}px). A altura m\u00e1xima permitida \u00e9 {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "A altura do v\u00eddeo \u00e9 demasiado pequena ({{ height }}px). A altura m\u00ednima agardada \u00e9 {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "A altura do v\u00eddeo \u00e9 demasiado pequena ({{ height }}px). A altura m\u00ednima agardada \u00e9 {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "O v\u00eddeo ten moi poucos p\u00edxeles ({{ pixels }}). A cantidade m\u00ednima agardada \u00e9 {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "O v\u00eddeo ten moi poucos p\u00edxeles ({{ pixels }}). A cantidade m\u00ednima agardada \u00e9 {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "O v\u00eddeo ten demasiados p\u00edxeles ({{ pixels }}). A cantidade m\u00e1xima agardada \u00e9 {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "O v\u00eddeo ten demasiados p\u00edxeles ({{ pixels }}). A cantidade m\u00e1xima agardada \u00e9 {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "A relaci\u00f3n do v\u00eddeo \u00e9 demasiado grande ({{ ratio }}). A relaci\u00f3n m\u00e1xima permitida \u00e9 {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A relaci\u00f3n do v\u00eddeo \u00e9 demasiado grande ({{ ratio }}). A relaci\u00f3n m\u00e1xima permitida \u00e9 {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "A relaci\u00f3n do v\u00eddeo \u00e9 demasiado pequena ({{ ratio }}). A relaci\u00f3n m\u00ednima agardada \u00e9 {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A relaci\u00f3n do v\u00eddeo \u00e9 demasiado pequena ({{ ratio }}). A relaci\u00f3n m\u00ednima agardada \u00e9 {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "O v\u00eddeo \u00e9 cadrado ({{ width }}x{{ height }}px). Non se permiten v\u00eddeos cadrados.",
-                    "state": "needs-review-translation"
+                    "trans": "O v\u00eddeo \u00e9 cadrado ({{ width }}x{{ height }}px). Non se permiten v\u00eddeos cadrados."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "O v\u00eddeo est\u00e1 en orientaci\u00f3n horizontal ({{ width }}x{{ height }} px). Non se permiten v\u00eddeos en horizontal.",
-                    "state": "needs-review-translation"
+                    "trans": "O v\u00eddeo est\u00e1 en orientaci\u00f3n horizontal ({{ width }}x{{ height }} px). Non se permiten v\u00eddeos en horizontal."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "O v\u00eddeo est\u00e1 en orientaci\u00f3n vertical ({{ width }}x{{ height }} px). Non se permiten v\u00eddeos en orientaci\u00f3n vertical.",
-                    "state": "needs-review-translation"
+                    "trans": "O v\u00eddeo est\u00e1 en orientaci\u00f3n vertical ({{ width }}x{{ height }} px). Non se permiten v\u00eddeos en orientaci\u00f3n vertical."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "O ficheiro de v\u00eddeo est\u00e1 danado.",
-                    "state": "needs-review-translation"
+                    "trans": "O ficheiro de v\u00eddeo est\u00e1 danado."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "O v\u00eddeo cont\u00e9n m\u00faltiples fluxos. S\u00f3 se permite un fluxo.",
-                    "state": "needs-review-translation"
+                    "trans": "O v\u00eddeo cont\u00e9n m\u00faltiples fluxos. S\u00f3 se permite un fluxo."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "C\u00f3dec de v\u00eddeo non compatible \u00ab{{ codec }}\u00bb.",
-                    "state": "needs-review-translation"
+                    "trans": "C\u00f3dec de v\u00eddeo non compatible \u00ab{{ codec }}\u00bb."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Contedor de v\u00eddeo non compatible \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Contedor de v\u00eddeo non compatible \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "O ficheiro de imaxe est\u00e1 danado.",
-                    "state": "needs-review-translation"
+                    "trans": "O ficheiro de imaxe est\u00e1 danado."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "A imaxe ten moi poucos p\u00edxeles ({{ pixels }}). A cantidade m\u00ednima esperada \u00e9 {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A imaxe ten moi poucos p\u00edxeles ({{ pixels }}). A cantidade m\u00ednima esperada \u00e9 {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "A imaxe ten demasiados p\u00edxeles ({{ pixels }}). A cantidade m\u00e1xima esperada \u00e9 {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A imaxe ten demasiados p\u00edxeles ({{ pixels }}). A cantidade m\u00e1xima esperada \u00e9 {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Este nome de ficheiro non coincide co conxunto de caracteres agardado.",
-                    "state": "needs-review-translation"
+                    "trans": "Este nome de ficheiro non coincide co charset agardado."
                 }
             },
             "he": {
