@@ -16891,113 +16891,91 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Aquest valor no \u00e9s una plantilla Twig v\u00e0lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s una plantilla Twig v\u00e0lida."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Aquest fitxer no \u00e9s un v\u00eddeo v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest fitxer no \u00e9s un v\u00eddeo v\u00e0lid."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "No s'ha pogut detectar la mida del v\u00eddeo.",
-                    "state": "needs-review-translation"
+                    "trans": "No s'ha pogut detectar la mida del v\u00eddeo."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "L'amplada del v\u00eddeo \u00e9s massa gran ({{ width }}px). L'amplada m\u00e0xima permesa \u00e9s {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "L'amplada del v\u00eddeo \u00e9s massa gran ({{ width }}px). L'amplada m\u00e0xima permesa \u00e9s {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "L\u2019amplada del v\u00eddeo \u00e9s massa petita ({{ width }}px). L\u2019amplada m\u00ednima esperada \u00e9s {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "L'amplada del v\u00eddeo \u00e9s massa petita ({{ width }}px). L'amplada m\u00ednima esperada \u00e9s {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "L'al\u00e7ada del v\u00eddeo \u00e9s massa gran ({{ height }}px). L'al\u00e7ada m\u00e0xima permesa \u00e9s {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "L'altura del v\u00eddeo \u00e9s massa gran ({{ height }}px). L'altura m\u00e0xima permesa \u00e9s {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "L'al\u00e7ada del v\u00eddeo \u00e9s massa petita ({{ height }}px). L'al\u00e7ada m\u00ednima esperada \u00e9s {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "L'altura del v\u00eddeo \u00e9s massa petita ({{ height }}px). L'altura m\u00ednima esperada \u00e9s {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "El v\u00eddeo t\u00e9 massa pocs p\u00edxels ({{ pixels }}). La quantitat m\u00ednima esperada \u00e9s {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "El v\u00eddeo no t\u00e9 suficients p\u00edxels ({{ pixels }}). La quantitat m\u00ednima esperada \u00e9s {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "El v\u00eddeo t\u00e9 massa p\u00edxels ({{ pixels }}). La quantitat m\u00e0xima prevista \u00e9s {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "El v\u00eddeo t\u00e9 massa p\u00edxels ({{ pixels }}). La quantitat m\u00e0xima prevista \u00e9s {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "La relaci\u00f3 del v\u00eddeo \u00e9s massa gran ({{ ratio }}). La relaci\u00f3 m\u00e0xima permesa \u00e9s {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "La relaci\u00f3 del v\u00eddeo \u00e9s massa gran ({{ ratio }}). La relaci\u00f3 m\u00e0xima permesa \u00e9s {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "La relaci\u00f3 del v\u00eddeo \u00e9s massa petita ({{ ratio }}). La relaci\u00f3 m\u00ednima esperada \u00e9s {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "La relaci\u00f3 del v\u00eddeo \u00e9s massa petita ({{ ratio }}). La relaci\u00f3 m\u00ednima esperada \u00e9s {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "El v\u00eddeo \u00e9s quadrat ({{ width }}x{{ height }}px). No es permeten v\u00eddeos quadrats.",
-                    "state": "needs-review-translation"
+                    "trans": "El v\u00eddeo \u00e9s quadrat ({{ width }}x{{ height }}px). No es permeten v\u00eddeos quadrats."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "El v\u00eddeo t\u00e9 orientaci\u00f3 horitzontal ({{ width }}x{{ height }} px). No es permeten v\u00eddeos horitzontals.",
-                    "state": "needs-review-translation"
+                    "trans": "El v\u00eddeo t\u00e9 orientaci\u00f3 horitzontal ({{ width }}x{{ height }} px). No es permeten v\u00eddeos horitzontals."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "El v\u00eddeo \u00e9s en orientaci\u00f3 vertical ({{ width }}x{{ height }} px). No es permeten v\u00eddeos en orientaci\u00f3 vertical.",
-                    "state": "needs-review-translation"
+                    "trans": "El v\u00eddeo \u00e9s en orientaci\u00f3 vertical ({{ width }}x{{ height }} px). No es permeten v\u00eddeos en orientaci\u00f3 vertical."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "El fitxer de v\u00eddeo est\u00e0 corrupte.",
-                    "state": "needs-review-translation"
+                    "trans": "El fitxer de v\u00eddeo est\u00e0 espatllat."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "El v\u00eddeo cont\u00e9 diversos fluxos. Nom\u00e9s es permet un sol flux.",
-                    "state": "needs-review-translation"
+                    "trans": "El v\u00eddeo cont\u00e9 diversos fluxos. Nom\u00e9s es permet un sol flux."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "C\u00f2dec de v\u00eddeo no compatible \u00ab{{ codec }}\u00bb.",
-                    "state": "needs-review-translation"
+                    "trans": "C\u00f2dec de v\u00eddeo incompatible \u00ab{{ codec }}\u00bb."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Contenidor de v\u00eddeo no compatible \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Contenidor de v\u00eddeo incompatible \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "El fitxer d'imatge est\u00e0 malm\u00e8s.",
-                    "state": "needs-review-translation"
+                    "trans": "El fitxer d'imatge est\u00e0 espatllat."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "La imatge t\u00e9 massa pocs p\u00edxels ({{ pixels }}). La quantitat m\u00ednima esperada \u00e9s {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "La imatge no t\u00e9 suficients p\u00edxels ({{ pixels }}). La quantitat m\u00ednima esperada \u00e9s {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "La imatge t\u00e9 massa p\u00edxels ({{ pixels }}). El nombre m\u00e0xim esperat \u00e9s {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "La imatge t\u00e9 massa p\u00edxels ({{ pixels }}). El nombre m\u00e0xim esperat \u00e9s {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Aquest nom de fitxer no coincideix amb el joc de car\u00e0cters esperat.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest nom de fitxer no coincideix amb el charset esperat."
                 }
             },
             "cs": {
