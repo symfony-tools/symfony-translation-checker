@@ -9798,7 +9798,7 @@
             "fi": {
                 "1": {
                     "id": "1",
-                    "trans": "Autentikointi poikkeus tapahtui."
+                    "trans": "Autentikointipoikkeus tapahtui."
                 },
                 "2": {
                     "id": "2",
@@ -9814,7 +9814,7 @@
                 },
                 "5": {
                     "id": "5",
-                    "trans": "Ev\u00e4ste on jo jonkin muun k\u00e4yt\u00f6ss\u00e4."
+                    "trans": "Ev\u00e4ste on jo jonkun muun k\u00e4yt\u00f6ss\u00e4."
                 },
                 "6": {
                     "id": "6",
@@ -9822,11 +9822,11 @@
                 },
                 "7": {
                     "id": "7",
-                    "trans": "Virheellinen CSRF tunnus."
+                    "trans": "Virheellinen CSRF-tunnus."
                 },
                 "9": {
                     "id": "9",
-                    "trans": "Autentikointi tunnukselle ei l\u00f6ydetty tuettua autentikointi tarjoajaa."
+                    "trans": "Autentikointitunnukselle ei l\u00f6ydetty tuettua autentikoinnintarjoajaa."
                 },
                 "10": {
                     "id": "10",
@@ -9838,7 +9838,7 @@
                 },
                 "12": {
                     "id": "12",
-                    "trans": "K\u00e4ytt\u00e4j\u00e4tunnusta ei l\u00f6ydetty."
+                    "trans": "K\u00e4ytt\u00e4j\u00e4tunnusta ei l\u00f6ytynyt."
                 },
                 "13": {
                     "id": "13",
@@ -9870,8 +9870,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Liian monta ep\u00e4onnistunutta kirjautumisyrityst\u00e4, yrit\u00e4 uudelleen %minutes% minuutin kuluttua.",
-                    "state": "needs-review-translation"
+                    "trans": "Liian monta ep\u00e4onnistunutta kirjautumisyrityst\u00e4, yrit\u00e4 uudelleen %minutes% minuutin kuluttua."
                 }
             },
             "fr": {
@@ -22842,8 +22841,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen IP-osoite.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen IP-osoite."
                 },
                 "38": {
                     "id": "38",
@@ -22899,8 +22897,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "V\u00e4liaikaista kansiota ei ole m\u00e4\u00e4ritetty php.ini:ss\u00e4, tai m\u00e4\u00e4ritetty kansio ei ole olemassa.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4liaikaista kansiota ei ole m\u00e4\u00e4ritetty php.ini:ss\u00e4, tai m\u00e4\u00e4ritetty kansio ei ole olemassa."
                 },
                 "52": {
                     "id": "52",
@@ -22932,8 +22929,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen kansainv\u00e4linen pankkitilinumero (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen kansainv\u00e4linen pankkitilinumero (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -23021,8 +23017,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen liiketoiminnan tunnistekoodi (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen liiketoiminnan tunnistekoodi (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -23030,8 +23025,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen UUID."
                 },
                 "84": {
                     "id": "84",
@@ -23151,148 +23145,119 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "T\u00e4st\u00e4 URL-osoitteesta puuttuu yl\u00e4tason verkkotunnus.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4st\u00e4 URL-osoitteesta puuttuu yl\u00e4tason verkkotunnus."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "T\u00e4m\u00e4 arvo on liian lyhyt. Sen pit\u00e4isi sis\u00e4lt\u00e4\u00e4 v\u00e4hint\u00e4\u00e4n yksi sana.|T\u00e4m\u00e4 arvo on liian lyhyt. Sen pit\u00e4isi sis\u00e4lt\u00e4\u00e4 v\u00e4hint\u00e4\u00e4n {{ min }} sanaa.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 arvo on liian lyhyt. Sen pit\u00e4isi sis\u00e4lt\u00e4\u00e4 v\u00e4hint\u00e4\u00e4n yksi sana.|T\u00e4m\u00e4 arvo on liian lyhyt. Sen pit\u00e4isi sis\u00e4lt\u00e4\u00e4 v\u00e4hint\u00e4\u00e4n {{ min }} sanaa."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "T\u00e4m\u00e4 arvo on liian pitk\u00e4. Sen pit\u00e4isi sis\u00e4lt\u00e4\u00e4 vain yksi sana.|T\u00e4m\u00e4 arvo on liian pitk\u00e4. Sen pit\u00e4isi sis\u00e4lt\u00e4\u00e4 {{ max }} sanaa tai v\u00e4hemm\u00e4n.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 arvo on liian pitk\u00e4. Sen pit\u00e4isi sis\u00e4lt\u00e4\u00e4 vain yksi sana.|T\u00e4m\u00e4 arvo on liian pitk\u00e4. Sen pit\u00e4isi sis\u00e4lt\u00e4\u00e4 {{ max }} sanaa tai v\u00e4hemm\u00e4n."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "T\u00e4m\u00e4 arvo ei esit\u00e4 kelvollista viikkoa ISO 8601 -muodossa.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 arvo ei esit\u00e4 kelvollista viikkoa ISO 8601 -muodossa."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen viikko.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen viikko."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "T\u00e4m\u00e4n arvon ei pit\u00e4isi olla ennen viikkoa \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4n arvon ei pit\u00e4isi olla ennen viikkoa \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "T\u00e4m\u00e4n arvon ei pit\u00e4isi olla viikon \"{{ max }}\" j\u00e4lkeen.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4n arvon ei pit\u00e4isi olla viikon \"{{ max }}\" j\u00e4lkeen."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen Twig-malli.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollinen Twig-malli."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "T\u00e4m\u00e4 tiedosto ei ole kelvollinen video.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 tiedosto ei ole kelvollinen video."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Videon kokoa ei voitu tunnistaa.",
-                    "state": "needs-review-translation"
+                    "trans": "Videon kokoa ei voitu tunnistaa."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Videon leveys on liian suuri ({{ width }}px). Sallittu enimm\u00e4isleveys on {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Videon leveys on liian suuri ({{ width }} px). Leveyden tulee olla enint\u00e4\u00e4n {{ max_width }} px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Videon leveys on liian pieni ({{ width }}px). Odotettu v\u00e4himm\u00e4isleveys on {{ min_width }} px.",
-                    "state": "needs-review-translation"
+                    "trans": "Videon leveys on liian pieni ({{ width }} px). Leveyden tulee olla v\u00e4hint\u00e4\u00e4n {{ min_width }} px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Videon korkeus on liian suuri ({{ height }}px). Sallittu enimm\u00e4iskorkeus on {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Videon korkeus on liian suuri ({{ height }} px). Korkeuden tulee olla enint\u00e4\u00e4n {{ max_height }} px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Videon korkeus on liian pieni ({{ height }}px). Odotettu v\u00e4himm\u00e4iskorkeus on {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Videon korkeus on liian pieni ({{ height }} px). Korkeuden tulee olla v\u00e4hint\u00e4\u00e4n {{ min_height }} px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Videossa on liian v\u00e4h\u00e4n pikseleit\u00e4 ({{ pixels }}). Odotettu v\u00e4himm\u00e4ism\u00e4\u00e4r\u00e4 on {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videossa on liian v\u00e4h\u00e4n pikseleit\u00e4 ({{ pixels }}). Pikseleit\u00e4 tulee olla v\u00e4hint\u00e4\u00e4n {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Videossa on liikaa pikseleit\u00e4 ({{ pixels }}). Odotettu enimm\u00e4ism\u00e4\u00e4r\u00e4 on {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videossa on liikaa pikseleit\u00e4 ({{ pixels }}). Pikseleit\u00e4 tulee olla enint\u00e4\u00e4n {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Videon suhde on liian suuri ({{ ratio }}). Sallittu enimm\u00e4issuhde on {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videon kuvasuhde on liian suuri ({{ ratio }}). Suurin sallittu suhde on {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Videon kuvasuhde on liian pieni ({{ ratio }}). Odotettu v\u00e4himm\u00e4issuhde on {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videon kuvasuhde on liian pieni ({{ ratio }}). Pienin sallittu suhde on {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video on neli\u00f6m\u00e4inen ({{ width }}x{{ height }}px). Neli\u00f6videot eiv\u00e4t ole sallittuja.",
-                    "state": "needs-review-translation"
+                    "trans": "Video on neli\u00f6n muotoinen ({{ width }}x{{ height }}px). Neli\u00f6nmuotoiset videot eiv\u00e4t ole sallittuja."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video on vaakan\u00e4yt\u00f6ss\u00e4 ({{ width }}x{{ height }} px). Vaaka-asentoiset videot eiv\u00e4t ole sallittuja.",
-                    "state": "needs-review-translation"
+                    "trans": "Video on vaakasuuntainen ({{ width }}x{{ height }} px). Vaakasuuntaiset videot eiv\u00e4t ole sallittuja."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video on pystysuunnassa ({{ width }}x{{ height }} px). Pystyvideot eiv\u00e4t ole sallittuja.",
-                    "state": "needs-review-translation"
+                    "trans": "Video on pystysuuntainen ({{ width }}x{{ height }} px). Pystysuuntaiset videot eiv\u00e4t ole sallittuja."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Videotiedosto on vioittunut.",
-                    "state": "needs-review-translation"
+                    "trans": "Videotiedosto on vioittunut."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Videossa on useita virtoja. Vain yksi virta on sallittu.",
-                    "state": "needs-review-translation"
+                    "trans": "Videossa on useita virtoja. Vain yksi virta on sallittu."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Ei-tuettu videokoodekki \u201d{{ codec }}\u201d.",
-                    "state": "needs-review-translation"
+                    "trans": "Videokoodekkia ei tueta ({{ codec }})."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Ei-tuettu videokontti \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Videon s\u00e4ili\u00f6muotoa ei tueta ({{ container }})."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Kuvatiedosto on vioittunut.",
-                    "state": "needs-review-translation"
+                    "trans": "Kuvatiedosto on vioittunut."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Kuvassa on liian v\u00e4h\u00e4n pikseleit\u00e4 ({{ pixels }}). Odotettu v\u00e4himm\u00e4ism\u00e4\u00e4r\u00e4 on {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Kuvassa on liian v\u00e4h\u00e4n pikseleit\u00e4 ({{ pixels }}). Pikseleit\u00e4 tulee olla v\u00e4hint\u00e4\u00e4n {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Kuvassa on liikaa pikseleit\u00e4 ({{ pixels }}). Odotettu enimm\u00e4ism\u00e4\u00e4r\u00e4 on {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Kuvassa on liikaa pikseleit\u00e4 ({{ pixels }}). Pikseleit\u00e4 tulee olla enint\u00e4\u00e4n {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "T\u00e4m\u00e4n tiedostonimi ei vastaa odotettua merkist\u00f6\u00e4.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e4m\u00e4 tiedostonimi ei vastaa odotettua merkist\u00f6\u00e4."
                 }
             },
             "fr": {
