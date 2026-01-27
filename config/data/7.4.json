@@ -44712,113 +44712,91 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684 Twig \u6a21\u677f\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684 Twig \u6a21\u677f\u3002"
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u6b64\u6587\u4ef6\u4e0d\u662f\u6709\u6548\u7684\u89c6\u9891\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u6b64\u6587\u4ef6\u4e0d\u662f\u6709\u6548\u7684\u89c6\u9891\u3002"
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u65e0\u6cd5\u68c0\u6d4b\u5230\u89c6\u9891\u7684\u5927\u5c0f\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u65e0\u6cd5\u68c0\u6d4b\u5230\u89c6\u9891\u7684\u5927\u5c0f\u3002"
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u89c6\u9891\u5bbd\u5ea6\u8fc7\u5927\uff08{{ width }}px\uff09\u3002\u5141\u8bb8\u7684\u6700\u5927\u5bbd\u5ea6\u4e3a {{ max_width }}px\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u89c6\u9891\u5bbd\u5ea6\u8fc7\u5927\uff08{{ width }}px\uff09\u3002\u5141\u8bb8\u7684\u6700\u5927\u5bbd\u5ea6\u4e3a {{ max_width }}px\u3002"
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u89c6\u9891\u5bbd\u5ea6\u592a\u5c0f\uff08{{ width }}px\uff09\u3002\u9884\u671f\u7684\u6700\u5c0f\u5bbd\u5ea6\u4e3a {{ min_width }} \u50cf\u7d20\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u89c6\u9891\u5bbd\u5ea6\u592a\u5c0f\uff08{{ width }}px\uff09\u3002\u9884\u671f\u7684\u6700\u5c0f\u5bbd\u5ea6\u4e3a {{ min_width }} \u50cf\u7d20\u3002"
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u89c6\u9891\u9ad8\u5ea6\u8fc7\u5927\uff08{{ height }}px\uff09\u3002\u5141\u8bb8\u7684\u6700\u5927\u9ad8\u5ea6\u4e3a {{ max_height }}px\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u89c6\u9891\u9ad8\u5ea6\u8fc7\u5927\uff08{{ height }}px\uff09\u3002\u5141\u8bb8\u7684\u6700\u5927\u9ad8\u5ea6\u4e3a {{ max_height }}px\u3002"
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u89c6\u9891\u9ad8\u5ea6\u592a\u5c0f\uff08{{ height }}px\uff09\u3002\u671f\u671b\u7684\u6700\u5c0f\u9ad8\u5ea6\u4e3a {{ min_height }}px\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u89c6\u9891\u9ad8\u5ea6\u592a\u5c0f\uff08{{ height }}px\uff09\u3002\u671f\u671b\u7684\u6700\u5c0f\u9ad8\u5ea6\u4e3a {{ min_height }}px\u3002"
                 },
                 "128": {
                     "id": "128",
-                    "trans": "\u8be5\u89c6\u9891\u50cf\u7d20\u8fc7\u5c11 ({{ pixels }}). \u671f\u671b\u7684\u6700\u5c0f\u503c\u4e3a {{ min_pixels }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u8be5\u89c6\u9891\u50cf\u7d20\u8fc7\u5c11 ({{ pixels }}). \u671f\u671b\u7684\u6700\u5c0f\u503c\u4e3a {{ min_pixels }}\u3002"
                 },
                 "129": {
                     "id": "129",
-                    "trans": "\u8be5\u89c6\u9891\u7684\u50cf\u7d20\u8fc7\u591a\uff08{{ pixels }}\uff09\u3002\u9884\u671f\u7684\u6700\u5927\u6570\u91cf\u4e3a {{ max_pixels }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u8be5\u89c6\u9891\u7684\u50cf\u7d20\u8fc7\u591a\uff08{{ pixels }}\uff09\u3002\u9884\u671f\u7684\u6700\u5927\u6570\u91cf\u4e3a {{ max_pixels }}\u3002"
                 },
                 "130": {
                     "id": "130",
-                    "trans": "\u89c6\u9891\u7eb5\u6a2a\u6bd4\u8fc7\u5927\uff08{{ ratio }}\uff09\u3002\u5141\u8bb8\u7684\u6700\u5927\u7eb5\u6a2a\u6bd4\u4e3a {{ max_ratio }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u89c6\u9891\u7eb5\u6a2a\u6bd4\u8fc7\u5927\uff08{{ ratio }}\uff09\u3002\u5141\u8bb8\u7684\u6700\u5927\u7eb5\u6a2a\u6bd4\u4e3a {{ max_ratio }}\u3002"
                 },
                 "131": {
                     "id": "131",
-                    "trans": "\u89c6\u9891\u7eb5\u6a2a\u6bd4\u8fc7\u5c0f\uff08{{ ratio }}\uff09\u3002\u9884\u671f\u7684\u6700\u4f4e\u6bd4\u4f8b\u4e3a {{ min_ratio }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u89c6\u9891\u7eb5\u6a2a\u6bd4\u8fc7\u5c0f\uff08{{ ratio }}\uff09\u3002\u9884\u671f\u7684\u6700\u4f4e\u6bd4\u4f8b\u4e3a {{ min_ratio }}\u3002"
                 },
                 "132": {
                     "id": "132",
-                    "trans": "\u89c6\u9891\u4e3a\u6b63\u65b9\u5f62 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8bb8\u6b63\u65b9\u5f62\u89c6\u9891\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u89c6\u9891\u4e3a\u6b63\u65b9\u5f62 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8bb8\u6b63\u65b9\u5f62\u89c6\u9891\u3002"
                 },
                 "133": {
                     "id": "133",
-                    "trans": "\u89c6\u9891\u4e3a\u6a2a\u5411\uff08{{ width }}x{{ height }} \u50cf\u7d20\uff09\u3002\u4e0d\u5141\u8bb8\u6a2a\u5411\u89c6\u9891\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u89c6\u9891\u4e3a\u6a2a\u5411\uff08{{ width }}x{{ height }} \u50cf\u7d20\uff09\u3002\u4e0d\u5141\u8bb8\u6a2a\u5411\u89c6\u9891\u3002"
                 },
                 "134": {
                     "id": "134",
-                    "trans": "\u8be5\u89c6\u9891\u4e3a\u7ad6\u5c4f\u65b9\u5411\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8bb8\u7ad6\u5c4f\u89c6\u9891\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u8be5\u89c6\u9891\u4e3a\u7ad6\u5c4f\u65b9\u5411\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8bb8\u7ad6\u5c4f\u89c6\u9891\u3002"
                 },
                 "135": {
                     "id": "135",
-                    "trans": "\u89c6\u9891\u6587\u4ef6\u5df2\u635f\u574f\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u89c6\u9891\u6587\u4ef6\u5df2\u635f\u574f\u3002"
                 },
                 "136": {
                     "id": "136",
-                    "trans": "\u8be5\u89c6\u9891\u5305\u542b\u591a\u4e2a\u6d41\u3002\u53ea\u5141\u8bb8\u4e00\u4e2a\u6d41\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u8be5\u89c6\u9891\u5305\u542b\u591a\u4e2a\u6d41\u3002\u53ea\u5141\u8bb8\u4e00\u4e2a\u6d41\u3002"
                 },
                 "137": {
                     "id": "137",
-                    "trans": "\u4e0d\u652f\u6301\u7684\u89c6\u9891\u7f16\u89e3\u7801\u5668\u201c{{ codec }}\u201d\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u4e0d\u652f\u6301\u7684\u89c6\u9891\u7f16\u89e3\u7801\u5668\u201c{{ codec }}\u201d\u3002"
                 },
                 "138": {
                     "id": "138",
-                    "trans": "\u4e0d\u652f\u6301\u7684\u89c6\u9891\u5bb9\u5668 \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u4e0d\u652f\u6301\u7684\u89c6\u9891\u5bb9\u5668 \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "\u56fe\u50cf\u6587\u4ef6\u5df2\u635f\u574f\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u56fe\u50cf\u6587\u4ef6\u5df2\u635f\u574f\u3002"
                 },
                 "140": {
                     "id": "140",
-                    "trans": "\u56fe\u50cf\u7684\u50cf\u7d20\u592a\u5c11\uff08{{ pixels }}\uff09\u3002\u9884\u671f\u7684\u6700\u5c0f\u6570\u91cf\u4e3a {{ min_pixels }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u56fe\u50cf\u7684\u50cf\u7d20\u592a\u5c11\uff08{{ pixels }}\uff09\u3002\u9884\u671f\u7684\u6700\u5c0f\u6570\u91cf\u4e3a {{ min_pixels }}\u3002"
                 },
                 "141": {
                     "id": "141",
-                    "trans": "\u56fe\u50cf\u7684\u50cf\u7d20\u8fc7\u591a ({{ pixels }}). \u9884\u671f\u7684\u6700\u5927\u6570\u91cf\u4e3a {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u56fe\u50cf\u7684\u50cf\u7d20\u8fc7\u591a ({{ pixels }}). \u9884\u671f\u7684\u6700\u5927\u6570\u91cf\u4e3a {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "\u8be5\u6587\u4ef6\u540d\u4e0e\u9884\u671f\u7684\u5b57\u7b26\u96c6\u4e0d\u5339\u914d\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u8be5\u6587\u4ef6\u540d\u4e0e\u9884\u671f\u7684\u5b57\u7b26\u96c6\u4e0d\u5339\u914d\u3002"
                 }
             },
             "zh_TW": {
