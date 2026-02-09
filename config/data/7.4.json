@@ -35717,11 +35717,11 @@
                 },
                 "6": {
                     "id": "6",
-                    "trans": "Trebuie s\u0103 selecta\u021bi cel pu\u021bin {{ limit }} op\u021biune.|Trebuie s\u0103 selecta\u021bi cel pu\u021bin {{ limit }} op\u021biuni."
+                    "trans": "Trebuie s\u0103 selecta\u021bi cel pu\u021bin {{ limit }} op\u021biune.|Trebuie s\u0103 selecta\u021bi cel pu\u021bin {{ limit }} op\u021biuni.|Trebuie s\u0103 selecta\u021bi cel pu\u021bin {{ limit }} de op\u021biuni."
                 },
                 "7": {
                     "id": "7",
-                    "trans": "Trebuie s\u0103 selecta\u021bi cel mult {{ limit }} op\u021biune.|Trebuie s\u0103 selecta\u021bi cel mult {{ limit }} op\u021biuni."
+                    "trans": "Trebuie s\u0103 selecta\u021bi cel mult {{ limit }} op\u021biune.|Trebuie s\u0103 selecta\u021bi cel mult {{ limit }} op\u021biuni.|Trebuie s\u0103 selecta\u021bi cel mult {{ limit }} de op\u021biuni."
                 },
                 "8": {
                     "id": "8",
@@ -35769,7 +35769,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 aib\u0103 maxim {{ limit }} caracter.|Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 aib\u0103 maxim {{ limit }} caractere."
+                    "trans": "Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 aib\u0103 maxim {{ limit }} caracter.|Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 aib\u0103 maxim {{ limit }} caractere.|Aceast\u0103 valoare este prea lung\u0103. Ar trebui s\u0103 aib\u0103 maxim {{ limit }} de caractere."
                 },
                 "20": {
                     "id": "20",
@@ -35777,7 +35777,7 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 aib\u0103 minim {{ limit }} caracter.|Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 aib\u0103 minim {{ limit }} caractere."
+                    "trans": "Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 aib\u0103 minim {{ limit }} caracter.|Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 aib\u0103 minim {{ limit }} caractere.|Aceast\u0103 valoare este prea scurt\u0103. Ar trebui s\u0103 aib\u0103 minim {{ limit }} de caractere."
                 },
                 "22": {
                     "id": "22",
@@ -35829,7 +35829,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Aceast\u0103 valoare nu este o adres\u0103 de IP valid\u0103."
+                    "trans": "Aceast\u0103 valoare nu este o adres\u0103 IP valid\u0103."
                 },
                 "38": {
                     "id": "38",
@@ -35873,7 +35873,7 @@
                 },
                 "48": {
                     "id": "48",
-                    "trans": "Aceast\u0103 valoare trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} caracter.|Aceast\u0103 valoare trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} caractere."
+                    "trans": "Aceast\u0103 valoare trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} caracter.|Aceast\u0103 valoare trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} caractere.|Aceast\u0103 valoare trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} de caractere."
                 },
                 "49": {
                     "id": "49",
@@ -35889,7 +35889,7 @@
                 },
                 "52": {
                     "id": "52",
-                    "trans": "Nu a fost posibil\u0103 scrierea fi\u0219ierului temporar pe disk."
+                    "trans": "Nu a fost posibil\u0103 scrierea fi\u0219ierului temporar pe disc."
                 },
                 "53": {
                     "id": "53",
@@ -35897,15 +35897,15 @@
                 },
                 "54": {
                     "id": "54",
-                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ limit }} elemente."
+                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ limit }} elemente.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin {{ limit }} de elemente."
                 },
                 "55": {
                     "id": "55",
-                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel mult {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel mult {{ limit }} elemente."
+                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel mult {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel mult {{ limit }} elemente.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 cel mult {{ limit }} de elemente."
                 },
                 "56": {
                     "id": "56",
-                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} elemente."
+                    "trans": "Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} element.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} elemente.|Aceast\u0103 colec\u021bie trebuie s\u0103 con\u021bin\u0103 exact {{ limit }} de elemente."
                 },
                 "57": {
                     "id": "57",
@@ -36105,7 +36105,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Aceast\u0103 valoare con\u021bine caractere care nu sunt premise de nivelul de restric\u021bionare curent."
+                    "trans": "Aceast\u0103 valoare con\u021bine caractere care nu sunt permise de nivelul de restric\u021bionare curent."
                 },
                 "107": {
                     "id": "107",
