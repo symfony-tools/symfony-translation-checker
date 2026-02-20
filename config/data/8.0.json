@@ -29859,108 +29859,87 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u0160\u012b datne nav der\u012bgs video fails.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b datne nav der\u012bgs video fails."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Neizdev\u0101s noteikt video izm\u0113ru.",
-                    "state": "needs-review-translation"
+                    "trans": "Neizdev\u0101s noteikt video izm\u0113ru."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Video platums ir p\u0101r\u0101k liels ({{ width }}px). At\u013cautais maksim\u0101lais platums ir {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video platums ir p\u0101r\u0101k liels ({{ width }}px). At\u013cautais maksim\u0101lais platums ir {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Video platums ir p\u0101r\u0101k mazs ({{ width }}px). Sagaid\u0101mais minim\u0101lais platums ir {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video platums ir p\u0101r\u0101k mazs ({{ width }}px). Sagaid\u0101mais minim\u0101lais platums ir {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Video augstums ir p\u0101r\u0101k liels ({{ height }}px). At\u013cautais maksim\u0101lais augstums ir {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video augstums ir p\u0101r\u0101k liels ({{ height }}px). At\u013cautais maksim\u0101lais augstums ir {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Video augstums ir p\u0101r\u0101k mazs ({{ height }}px). Sagaid\u0101mais minim\u0101lais augstums ir {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video augstums ir p\u0101r\u0101k mazs ({{ height }}px). Sagaid\u0101mais minim\u0101lais augstums ir {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Video ir p\u0101r\u0101k maz pikse\u013cu ({{ pixels }}). Sagaid\u0101mais minim\u0101lais daudzums ir {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ir p\u0101r\u0101k maz pikse\u013cu ({{ pixels }}). Sagaid\u0101mais minim\u0101lais daudzums ir {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Video ir p\u0101r\u0101k daudz pikse\u013cu ({{ pixels }}). Paredz\u0113tais maksim\u0101lais daudzums ir {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ir p\u0101r\u0101k daudz pikse\u013cu ({{ pixels }}). Paredz\u0113tais maksim\u0101lais daudzums ir {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Video attiec\u012bba ir p\u0101r\u0101k liela ({{ ratio }}). At\u013caut\u0101 maksim\u0101l\u0101 attiec\u012bba ir {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video attiec\u012bba ir p\u0101r\u0101k liela ({{ ratio }}). At\u013caut\u0101 maksim\u0101l\u0101 attiec\u012bba ir {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Video attiec\u012bba ir p\u0101r\u0101k maza ({{ ratio }}). Sagaid\u0101m\u0101 minim\u0101l\u0101 attiec\u012bba ir {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video attiec\u012bba ir p\u0101r\u0101k maza ({{ ratio }}). Sagaid\u0101m\u0101 minim\u0101l\u0101 attiec\u012bba ir {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video ir kvadr\u0101tveida ({{ width }}x{{ height }}px). Kvadr\u0101tveida video nav at\u013cauti.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ir kvadr\u0101tveida ({{ width }}x{{ height }}px). Kvadr\u0101tveida video nav at\u013cauti."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video ir ainavas orient\u0101cij\u0101 ({{ width }}x{{ height }} px). Ainavas form\u0101ta video nav at\u013cauti.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ir ainavas orient\u0101cij\u0101 ({{ width }}x{{ height }} px). Ainavas form\u0101ta video nav at\u013cauti."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video ir portreta orient\u0101cij\u0101 ({{ width }}x{{ height }}px). Portreta orient\u0101cijas video nav at\u013cauti.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ir portreta orient\u0101cij\u0101 ({{ width }}x{{ height }}px). Portreta orient\u0101cijas video nav at\u013cauti."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Video fails ir boj\u0101ts.",
-                    "state": "needs-review-translation"
+                    "trans": "Video fails ir boj\u0101ts."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video satur vair\u0101kus straum\u0113jumus. At\u013cauta ir tikai viena straume.",
-                    "state": "needs-review-translation"
+                    "trans": "Video satur vair\u0101kus straum\u0113jumus. At\u013cauta ir tikai viena straume."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Neatbalst\u012bts video kodeks \u201c{{ codec }}\u201d.",
-                    "state": "needs-review-translation"
+                    "trans": "Neatbalst\u012bts video kodeks \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Neatbalst\u012bts video konteiners \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Neatbalst\u012bts video konteiners \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Att\u0113la fails ir boj\u0101ts.",
-                    "state": "needs-review-translation"
+                    "trans": "Att\u0113la fails ir boj\u0101ts."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Att\u0113lam ir par maz pikse\u013cu ({{ pixels }}). Sagaid\u0101mais minim\u0101lais daudzums ir {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Att\u0113lam ir par maz pikse\u013cu ({{ pixels }}). Sagaid\u0101mais minim\u0101lais daudzums ir {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Att\u0113lam ir p\u0101r\u0101k daudz pikse\u013cu ({{ pixels }}). Sagaid\u0101mais maksim\u0101lais daudzums ir {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Att\u0113lam ir p\u0101r\u0101k daudz pikse\u013cu ({{ pixels }}). Sagaid\u0101mais maksim\u0101lais daudzums ir {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "\u0160is faila nosaukums neatbilst paredz\u0113tajam rakstz\u012bmju kopumam.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160is faila nosaukums neatbilst paredz\u0113tajam rakstz\u012bmju kopumam."
                 }
             },
             "mk": {
@@ -35060,19 +35039,19 @@
                 },
                 "128": {
                     "id": "128",
-                    "trans": "O v\u00eddeo tem poucos p\u00edxeis ({{ pixels }}). A quantidade m\u00ednima esperada \u00e9 {{ min_pixels }}."
+                    "trans": "O v\u00eddeo tem poucos p\u00edxeis ({{ pixels }} p\u00edxeis). A quantidade m\u00ednima esperada \u00e9 {{ min_pixels }} p\u00edxeis."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "O v\u00eddeo tem p\u00edxeis a mais ({{ pixels }}). A quantidade m\u00e1xima esperada \u00e9 {{ max_pixels }}."
+                    "trans": "O v\u00eddeo tem demasiados p\u00edxeis ({{ pixels }} p\u00edxeis). A quantidade m\u00e1xima esperada \u00e9 {{ max_pixels }} p\u00edxeis."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "A propor\u00e7\u00e3o do v\u00eddeo \u00e9 demasiado grande ({{ ratio }}). A propor\u00e7\u00e3o m\u00e1xima permitida \u00e9 {{ max_ratio }}."
+                    "trans": "O r\u00e1cio do v\u00eddeo \u00e9 demasiado grande ({{ ratio }}). O r\u00e1cio m\u00e1ximo permitido \u00e9 {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "A propor\u00e7\u00e3o do v\u00eddeo \u00e9 demasiado pequena ({{ ratio }}). A propor\u00e7\u00e3o m\u00ednima esperada \u00e9 {{ min_ratio }}."
+                    "trans": "O r\u00e1cio do v\u00eddeo \u00e9 demasiado pequeno ({{ ratio }}). O r\u00e1cio m\u00ednimo esperado \u00e9 {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
@@ -35080,11 +35059,11 @@
                 },
                 "133": {
                     "id": "133",
-                    "trans": "O v\u00eddeo est\u00e1 em orienta\u00e7\u00e3o horizontal ({{ width }}x{{ height }}px). V\u00eddeos em orienta\u00e7\u00e3o horizontal n\u00e3o s\u00e3o permitidos."
+                    "trans": "O v\u00eddeo est\u00e1 orientado na horizontal ({{ width }}x{{ height }}px). V\u00eddeos orientados na horizontal n\u00e3o s\u00e3o permitidos."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "O v\u00eddeo est\u00e1 em orienta\u00e7\u00e3o vertical ({{ width }}x{{ height }}px). V\u00eddeos em orienta\u00e7\u00e3o vertical n\u00e3o s\u00e3o permitidos."
+                    "trans": "O v\u00eddeo est\u00e1 orientado na vertical ({{ width }}x{{ height }}px). V\u00eddeos orientados na vertical n\u00e3o s\u00e3o permitidos."
                 },
                 "135": {
                     "id": "135",
@@ -35092,15 +35071,15 @@
                 },
                 "136": {
                     "id": "136",
-                    "trans": "O v\u00eddeo cont\u00e9m v\u00e1rios fluxos. Apenas \u00e9 permitido um fluxo."
+                    "trans": "O v\u00eddeo cont\u00e9m m\u00faltiplos fluxos. Apenas \u00e9 permitido um fluxo."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Codec de v\u00eddeo n\u00e3o suportado \u00ab{{ codec }}\u00bb."
+                    "trans": "Codec de v\u00eddeo \"{{ codec }}\" n\u00e3o suportado."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Contentor de v\u00eddeo n\u00e3o suportado \u00ab{{ container }}\u00bb."
+                    "trans": "Contentor de v\u00eddeo \"{{ container }}\" n\u00e3o suportado."
                 },
                 "139": {
                     "id": "139",
@@ -35108,15 +35087,15 @@
                 },
                 "140": {
                     "id": "140",
-                    "trans": "A imagem tem p\u00edxeis a menos ({{ pixels }}). A quantidade m\u00ednima esperada \u00e9 {{ min_pixels }}."
+                    "trans": "A imagem tem poucos p\u00edxeis ({{ pixels }} p\u00edxeis). A quantidade m\u00ednima esperada \u00e9 {{ min_pixels }} p\u00edxeis."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "A imagem tem p\u00edxeis a mais ({{ pixels }}). A quantidade m\u00e1xima esperada \u00e9 {{ max_pixels }}."
+                    "trans": "A imagem tem demasiados p\u00edxeis ({{ pixels }} p\u00edxeis). A quantidade m\u00e1xima esperada \u00e9 {{ max_pixels }} p\u00edxeis."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Este nome de ficheiro n\u00e3o corresponde ao conjunto de caracteres esperado."
+                    "trans": "O nome do ficheiro n\u00e3o corresponde ao conjunto de caracteres esperado."
                 }
             },
             "pt_BR": {
