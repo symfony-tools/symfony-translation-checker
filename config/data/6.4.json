@@ -40904,8 +40904,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Walang pansamantalang folder na na-configure sa php.ini, o ang naka-configure na folder ay hindi naroroon.",
-                    "state": "needs-review-translation"
+                    "trans": "Walang pansamantalang folder na na-configure sa php.ini, o hindi umiiral ang na-configure na folder."
                 },
                 "52": {
                     "id": "52",
@@ -41181,113 +41180,91 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Ang halagang ito ay hindi isang balidong Twig template.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi wastong Twig template."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ang file na ito ay hindi isang wastong video.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang file na ito ay hindi wastong video."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Hindi matukoy ang laki ng video.",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi matukoy ang laki ng video."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Masyadong malaki ang lapad ng video ({{ width }}px). Ang pinahihintulutang pinakamaksimum na lapad ay {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong malaki ang lapad ng video ({{ width }}px). Ang pinakamalaking pinapayagang lapad ay {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Masyadong maliit ang lapad ng video ({{ width }}px). Inaasahang minimum na lapad ay {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong maliit ang lapad ng video ({{ width }}px). Ang inaasahang pinakamababang lapad ay {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Sobrang taas ng video ({{ height }}px). Ang pinapahintulutang pinakamataas na taas ay {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong malaki ang taas ng video ({{ height }}px). Ang pinakamalaking pinapayagang taas ay {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Masyadong maliit ang taas ng video ({{ height }}px). Inaasahang pinakamababang taas ay {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong maliit ang taas ng video ({{ height }}px). Ang inaasahang pinakamababang taas ay {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Ang video ay may masyadong kaunting pixel ({{ pixels }}). Ang inaasahang pinakamababang dami ay {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong kakaunti ang mga pixel ng video ({{ pixels }}). Ang inaasahang pinakamababang bilang ay {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Ang video ay may masyadong maraming pixel ({{ pixels }}). Ang inaasahang pinakamataas na bilang ay {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong marami ang mga pixel ng video ({{ pixels }}). Ang inaasahang pinakamataas na bilang ay {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Masyadong malaki ang ratio ng video ({{ ratio }}). Ang pinahihintulutang pinakamataas na ratio ay {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong malaki ang ratio ng video ({{ ratio }}). Ang pinakamalaking pinapayagang ratio ay {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Masyadong maliit ang ratio ng video ({{ ratio }}). Ang inaasahang minimum na ratio ay {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong maliit ang ratio ng video ({{ ratio }}). Ang inaasahang pinakamababang ratio ay {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Ang video ay parisukat ({{ width }}x{{ height }}px). Hindi pinapayagan ang mga parisukat na video.",
-                    "state": "needs-review-translation"
+                    "trans": "Parisukat ang video ({{ width }}x{{ height }}px). Hindi pinapayagan ang mga parisukat na video."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Ang video ay nasa landscape na oryentasyon ({{ width }}x{{ height }} px). Hindi pinapayagan ang mga landscape na video.",
-                    "state": "needs-review-translation"
+                    "trans": "Naka-landscape ang video ({{ width }}x{{ height }}px). Hindi pinapayagan ang mga video na naka-landscape."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Ang video ay naka-portrait ({{ width }}x{{ height }}px). Hindi pinapayagan ang mga video na naka-portrait.",
-                    "state": "needs-review-translation"
+                    "trans": "Naka-portrait ang video ({{ width }}x{{ height }}px). Hindi pinapayagan ang mga video na naka-portrait."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Sira ang file ng video.",
-                    "state": "needs-review-translation"
+                    "trans": "Sira ang video file."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "May ilang stream ang video. Isa lamang na stream ang pinapayagan.",
-                    "state": "needs-review-translation"
+                    "trans": "Maraming stream ang video. Iisang stream lamang ang pinapayagan."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Hindi suportadong video codec \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi suportadong video codec \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Hindi suportadong lalagyan ng video \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi suportadong video container \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Ang file ng larawan ay sira.",
-                    "state": "needs-review-translation"
+                    "trans": "Sira ang file ng larawan."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Masyadong kaunti ang pixel ng larawan ({{ pixels }}). Ang inaasahang pinakamababang dami ay {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong kakaunti ang mga pixel ng larawan ({{ pixels }}). Ang inaasahang pinakamababang bilang ay {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Ang larawan ay may sobrang daming pixel ({{ pixels }}). Ang inaasahang pinakamataas na dami ay {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong marami ang mga pixel ng larawan ({{ pixels }}). Ang inaasahang pinakamataas na bilang ay {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Ang pangalan ng file na ito ay hindi tumutugma sa inaasahang hanay ng mga character.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang pangalan ng file na ito ay hindi tumutugma sa inaasahang charset."
                 }
             },
             "tr": {
