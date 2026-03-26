@@ -8677,8 +8677,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "\u00c7ox sayda u\u011fursuz giri\u015f c\u0259hdi, z\u0259hm\u0259t olmasa %minutes% d\u0259qiq\u0259 sonra yenid\u0259n c\u0259hd edin.|\u00c7ox sayda u\u011fursuz giri\u015f c\u0259hdi, z\u0259hm\u0259t olmasa %minutes% d\u0259qiq\u0259 sonra yenid\u0259n c\u0259hd edin.",
-                    "state": "needs-review-translation"
+                    "trans": "\u00c7ox sayda u\u011fursuz giri\u015f c\u0259hdi, z\u0259hm\u0259t olmasa %minutes% d\u0259qiq\u0259 sonra yenid\u0259n c\u0259hd edin.|\u00c7ox sayda u\u011fursuz giri\u015f c\u0259hdi, z\u0259hm\u0259t olmasa %minutes% d\u0259qiq\u0259 sonra yenid\u0259n c\u0259hd edin."
                 }
             },
             "be": {
@@ -9634,8 +9633,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Liiga palju nurjunud sisselogimiskatseid, proovige uuesti %minutes% minuti p\u00e4rast.",
-                    "state": "needs-review-translation"
+                    "trans": "Liiga palju nurjunud sisselogimiskatseid, proovige uuesti %minutes% minuti p\u00e4rast."
                 }
             },
             "eu": {
@@ -10338,8 +10336,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "\u0549\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u0561\u0576\u0570\u0561\u057b\u0578\u0572 \u0574\u0578\u0582\u057f\u0584\u056b \u0583\u0578\u0580\u0571\u0565\u0580, \u056d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u0583\u0578\u0580\u0571\u0565\u056c \u056f\u0580\u056f\u056b\u0576 %minutes% \u0580\u0578\u057a\u0565\u056b\u0581.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0549\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u0561\u0576\u0570\u0561\u057b\u0578\u0572 \u0574\u0578\u0582\u057f\u0584\u056b \u0583\u0578\u0580\u0571\u0565\u0580, \u056d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u0583\u0578\u0580\u0571\u0565\u056c \u056f\u0580\u056f\u056b\u0576 %minutes% \u0580\u0578\u057a\u0565\u056b\u0581."
                 }
             },
             "id": {
@@ -10729,8 +10726,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Per daug nes\u0117kming\u0173 prisijungimo bandym\u0173, bandykite v\u0117l po %minutes% minut\u0117s.|Per daug nes\u0117kming\u0173 prisijungimo bandym\u0173, bandykite v\u0117l po %minutes% minu\u010di\u0173.",
-                    "state": "needs-review-translation"
+                    "trans": "Per daug nes\u0117kming\u0173 prisijungimo bandym\u0173, bandykite v\u0117l po %minutes% minut\u0117s.|Per daug nes\u0117kming\u0173 prisijungimo bandym\u0173, bandykite v\u0117l po %minutes% minu\u010di\u0173."
                 }
             },
             "lv": {
@@ -12687,8 +12683,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Ko\u02bbplab muvaffaqiyatsiz kirish urinishlari, iltimos, %minutes% daqiqadan so'ng qayta urinib ko\u02bbring.|Ko\u02bbplab muvaffaqiyatsiz kirish urinishlari, iltimos, %minutes% daqiqadan so'ng qayta urinib ko\u02bbring.",
-                    "state": "needs-review-translation"
+                    "trans": "Ko\u02bbplab muvaffaqiyatsiz kirish urinishlari, iltimos, %minutes% daqiqadan so'ng qayta urinib ko\u02bbring.|Ko\u02bbplab muvaffaqiyatsiz kirish urinishlari, iltimos, %minutes% daqiqadan so'ng qayta urinib ko\u02bbring."
                 }
             },
             "vi": {
@@ -14215,8 +14210,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir IP \u00fcnvan\u0131 deyil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir IP \u00fcnvan\u0131 deyil."
                 },
                 "38": {
                     "id": "38",
@@ -14272,8 +14266,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini-d\u0259 m\u00fcv\u0259qq\u0259ti qovluq qura\u015fd\u0131r\u0131lmay\u0131b, v\u0259 ya qura\u015fd\u0131r\u0131lm\u0131\u015f qovluq m\u00f6vcud deyil.",
-                    "state": "needs-review-translation"
+                    "trans": "php.ini-d\u0259 m\u00fcv\u0259qq\u0259ti qovluq qura\u015fd\u0131r\u0131lmay\u0131b, v\u0259 ya qura\u015fd\u0131r\u0131lm\u0131\u015f qovluq m\u00f6vcud deyil."
                 },
                 "52": {
                     "id": "52",
@@ -14305,8 +14298,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir Beyn\u0259lxalq Bank Hesab N\u00f6mr\u0259si (IBAN) deyil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir Beyn\u0259lxalq Bank Hesab N\u00f6mr\u0259si (IBAN) deyil."
                 },
                 "60": {
                     "id": "60",
@@ -14394,8 +14386,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir Biznes T\u0259yinat Kodu (BIC) deyil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir Biznes T\u0259yinat Kodu (BIC) deyil."
                 },
                 "82": {
                     "id": "82",
@@ -14403,8 +14394,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir UUID deyil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir UUID deyil."
                 },
                 "84": {
                     "id": "84",
@@ -14520,153 +14510,123 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir MAC \u00fcnvan\u0131 deyil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir MAC \u00fcnvan\u0131 deyil."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Bu URL yuxar\u0131 s\u0259viyy\u0259li domeni \u00e7at\u0131\u015fm\u0131r.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu URL yuxar\u0131 s\u0259viyy\u0259li domeni \u00e7at\u0131\u015fm\u0131r."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Bu d\u0259y\u0259r \u00e7ox q\u0131sad\u0131r. He\u00e7 olmasa bir s\u00f6z daxil etm\u0259lisiniz.|Bu d\u0259y\u0259r \u00e7ox q\u0131sad\u0131r. He\u00e7 olmasa {{ min }} s\u00f6z daxil etm\u0259lisiniz.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r \u00e7ox q\u0131sad\u0131r. He\u00e7 olmasa bir s\u00f6z daxil etm\u0259lisiniz.|Bu d\u0259y\u0259r \u00e7ox q\u0131sad\u0131r. He\u00e7 olmasa {{ min }} s\u00f6z daxil etm\u0259lisiniz."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Bu d\u0259y\u0259r \u00e7ox uzundur. Yaln\u0131z bir s\u00f6z daxil etm\u0259lisiniz.|Bu d\u0259y\u0259r \u00e7ox uzundur. {{ max }} v\u0259 ya daha az s\u00f6z daxil etm\u0259lisiniz.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r \u00e7ox uzundur. Yaln\u0131z bir s\u00f6z daxil etm\u0259lisiniz.|Bu d\u0259y\u0259r \u00e7ox uzundur. {{ max }} v\u0259 ya daha az s\u00f6z daxil etm\u0259lisiniz."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Bu d\u0259y\u0259r ISO 8601 format\u0131nda etibarl\u0131 bir h\u0259ft\u0259ni t\u0259msil etmir.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r ISO 8601 format\u0131nda etibarl\u0131 bir h\u0259ft\u0259ni t\u0259msil etmir."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir h\u0259ft\u0259 deyil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 bir h\u0259ft\u0259 deyil."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Bu d\u0259y\u0259r \"{{ min }}\" h\u0259ft\u0259sind\u0259n \u0259vv\u0259l olmamal\u0131d\u0131r.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r \"{{ min }}\" h\u0259ft\u0259sind\u0259n \u0259vv\u0259l olmamal\u0131d\u0131r."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Bu d\u0259y\u0259r \"{{ max }}\" h\u0259ft\u0259sind\u0259n sonra olmamal\u0131d\u0131r.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r \"{{ max }}\" h\u0259ft\u0259sind\u0259n sonra olmamal\u0131d\u0131r."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 Twig \u015fablonu deyil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 Twig \u015fablonu deyil."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Bu fayl etibarl\u0131 video deyil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu fayl etibarl\u0131 video deyil."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Videonun \u00f6l\u00e7\u00fcs\u00fcn\u00fc t\u0259yin etm\u0259k m\u00fcmk\u00fcn olmad\u0131.",
-                    "state": "needs-review-translation"
+                    "trans": "Videonun \u00f6l\u00e7\u00fcs\u00fcn\u00fc t\u0259yin etm\u0259k m\u00fcmk\u00fcn olmad\u0131."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Video enliyi \u00e7ox b\u00f6y\u00fckd\u00fcr ({{ width }}px). \u0130caz\u0259 veril\u0259n maksimal enlik {{ max_width }}px-dir.",
-                    "state": "needs-review-translation"
+                    "trans": "Video enliyi \u00e7ox b\u00f6y\u00fckd\u00fcr ({{ width }}px). \u0130caz\u0259 veril\u0259n maksimal enlik {{ max_width }}px-dir."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Video eni \u00e7ox ki\u00e7ikdir ({{ width }}px). G\u00f6zl\u0259nil\u0259n minimum en {{ min_width }}px-dir.",
-                    "state": "needs-review-translation"
+                    "trans": "Video eni \u00e7ox ki\u00e7ikdir ({{ width }}px). G\u00f6zl\u0259nil\u0259n minimum en {{ min_width }}px-dir."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Video h\u00fcnd\u00fcrl\u00fcy\u00fc \u00e7ox b\u00f6y\u00fckd\u00fcr ({{ height }}px). \u0130caz\u0259 veril\u0259n maksimum h\u00fcnd\u00fcrl\u00fck {{ max_height }}px-dir.",
-                    "state": "needs-review-translation"
+                    "trans": "Video h\u00fcnd\u00fcrl\u00fcy\u00fc \u00e7ox b\u00f6y\u00fckd\u00fcr ({{ height }}px). \u0130caz\u0259 veril\u0259n maksimum h\u00fcnd\u00fcrl\u00fck {{ max_height }}px-dir."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Videonun h\u00fcnd\u00fcrl\u00fcy\u00fc \u00e7ox ki\u00e7ikdir ({{ height }}px). G\u00f6zl\u0259nil\u0259n minimum h\u00fcnd\u00fcrl\u00fck {{ min_height }}px-dir.",
-                    "state": "needs-review-translation"
+                    "trans": "Videonun h\u00fcnd\u00fcrl\u00fcy\u00fc \u00e7ox ki\u00e7ikdir ({{ height }}px). G\u00f6zl\u0259nil\u0259n minimum h\u00fcnd\u00fcrl\u00fck {{ min_height }}px-dir."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Videoda piksell\u0259rin say\u0131 \u00e7ox azd\u0131r ({{ pixels }}). G\u00f6zl\u0259nil\u0259n minimum miqdar {{ min_pixels }}-dir.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoda piksell\u0259rin say\u0131 \u00e7ox azd\u0131r ({{ pixels }}). G\u00f6zl\u0259nil\u0259n minimum miqdar {{ min_pixels }}-dir."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Videoda h\u0259ddind\u0259n art\u0131q piksel var ({{ pixels }}). G\u00f6zl\u0259nil\u0259n maksimum miqdar {{ max_pixels }}-dir.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoda h\u0259ddind\u0259n art\u0131q piksel var ({{ pixels }}). G\u00f6zl\u0259nil\u0259n maksimum miqdar {{ max_pixels }}-dir."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Video nisb\u0259ti \u00e7ox b\u00f6y\u00fckd\u00fcr ({{ ratio }}). \u0130caz\u0259 veril\u0259n maksimal nisb\u0259t {{ max_ratio }}\u2011dir.",
-                    "state": "needs-review-translation"
+                    "trans": "Video nisb\u0259ti \u00e7ox b\u00f6y\u00fckd\u00fcr ({{ ratio }}). \u0130caz\u0259 veril\u0259n maksimal nisb\u0259t {{ max_ratio }}\u2011dir."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Video nisb\u0259ti \u00e7ox ki\u00e7ikdir ({{ ratio }}). G\u00f6zl\u0259nil\u0259n minimal nisb\u0259t {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video nisb\u0259ti \u00e7ox ki\u00e7ikdir ({{ ratio }}). G\u00f6zl\u0259nil\u0259n minimal nisb\u0259t {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video kvadratd\u0131r ({{ width }}x{{ height }}px). Kvadrat videolara icaz\u0259 verilmir.",
-                    "state": "needs-review-translation"
+                    "trans": "Video kvadratd\u0131r ({{ width }}x{{ height }}px). Kvadrat videolara icaz\u0259 verilmir."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video \u00fcfiqi istiqam\u0259td\u0259dir ({{ width }}x{{ height }} piksel). \u00dcfiqi videolara icaz\u0259 verilmir.",
-                    "state": "needs-review-translation"
+                    "trans": "Video \u00fcfiqi istiqam\u0259td\u0259dir ({{ width }}x{{ height }} piksel). \u00dcfiqi videolara icaz\u0259 verilmir."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video portret istiqam\u0259tind\u0259dir ({{ width }}x{{ height }} piksel). Portret istiqam\u0259tli videolara icaz\u0259 verilmir.",
-                    "state": "needs-review-translation"
+                    "trans": "Video portret istiqam\u0259tind\u0259dir ({{ width }}x{{ height }} piksel). Portret istiqam\u0259tli videolara icaz\u0259 verilmir."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Video fayl\u0131 z\u0259d\u0259l\u0259nib.",
-                    "state": "needs-review-translation"
+                    "trans": "Video fayl\u0131 z\u0259d\u0259l\u0259nib."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video bir ne\u00e7\u0259 ax\u0131n ehtiva edir. Yaln\u0131z bir ax\u0131na icaz\u0259 verilir.",
-                    "state": "needs-review-translation"
+                    "trans": "Video bir ne\u00e7\u0259 ax\u0131n ehtiva edir. Yaln\u0131z bir ax\u0131na icaz\u0259 verilir."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "D\u0259st\u0259kl\u0259nm\u0259y\u0259n video kodeki \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "D\u0259st\u0259kl\u0259nm\u0259y\u0259n video kodeki \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "D\u0259st\u0259kl\u0259nm\u0259y\u0259n video konteyneri \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "D\u0259st\u0259kl\u0259nm\u0259y\u0259n video konteyneri \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "\u015e\u0259kil fayl\u0131 korlan\u0131b.",
-                    "state": "needs-review-translation"
+                    "trans": "\u015e\u0259kil fayl\u0131 korlan\u0131b."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "\u015e\u0259kild\u0259 piksel say\u0131 \u00e7ox azd\u0131r ({{ pixels }}). G\u00f6zl\u0259nil\u0259n minimum miqdar {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u015e\u0259kild\u0259 piksel say\u0131 \u00e7ox azd\u0131r ({{ pixels }}). G\u00f6zl\u0259nil\u0259n minimum miqdar {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "\u015e\u0259kild\u0259 \u00e7ox piksel var ({{ pixels }}). G\u00f6zl\u0259nil\u0259n maksimum say {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u015e\u0259kild\u0259 \u00e7ox piksel var ({{ pixels }}). G\u00f6zl\u0259nil\u0259n maksimum say {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Bu fayl ad\u0131 g\u00f6zl\u0259nil\u0259n simvol d\u0259stin\u0259 uy\u011fun g\u0259lmir.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu fayl ad\u0131 g\u00f6zl\u0259nil\u0259n simvol d\u0259stin\u0259 uy\u011fun g\u0259lmir."
                 }
             },
             "be": {
@@ -21300,148 +21260,119 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Sellel URL-il puudub \u00fclataseme domeen.",
-                    "state": "needs-review-translation"
+                    "trans": "Sellel URL-il puudub \u00fclataseme domeen."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "See v\u00e4\u00e4rtus on liiga l\u00fchike. See peaks sisaldama v\u00e4hemalt \u00fchte s\u00f5na.|See v\u00e4\u00e4rtus on liiga l\u00fchike. See peaks sisaldama v\u00e4hemalt {{ min }} s\u00f5na.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus on liiga l\u00fchike. See peaks sisaldama v\u00e4hemalt \u00fchte s\u00f5na.|See v\u00e4\u00e4rtus on liiga l\u00fchike. See peaks sisaldama v\u00e4hemalt {{ min }} s\u00f5na."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "See v\u00e4\u00e4rtus on liiga pikk. See peaks sisaldama ainult \u00fchte s\u00f5na.|See v\u00e4\u00e4rtus on liiga pikk. See peaks sisaldama {{ max }} s\u00f5na v\u00f5i v\u00e4hem.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus on liiga pikk. See peaks sisaldama ainult \u00fchte s\u00f5na.|See v\u00e4\u00e4rtus on liiga pikk. See peaks sisaldama {{ max }} s\u00f5na v\u00f5i v\u00e4hem."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "See v\u00e4\u00e4rtus ei esinda kehtivat n\u00e4dalat ISO 8601 formaadis.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei esinda kehtivat n\u00e4dalat ISO 8601 formaadis."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv n\u00e4dal.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv n\u00e4dal."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "See v\u00e4\u00e4rtus ei tohiks olla enne n\u00e4dalat \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei tohiks olla enne n\u00e4dalat \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "See v\u00e4\u00e4rtus ei tohiks olla p\u00e4rast n\u00e4dalat \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei tohiks olla p\u00e4rast n\u00e4dalat \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv Twig'i mall.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv Twig'i mall."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "See fail ei ole kehtiv video.",
-                    "state": "needs-review-translation"
+                    "trans": "See fail ei ole kehtiv video."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Video suurust ei \u00f5nnestunud tuvastada.",
-                    "state": "needs-review-translation"
+                    "trans": "Video suurust ei \u00f5nnestunud tuvastada."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Video laius on liiga suur ({{ width }}px). Lubatud maksimaalne laius on {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video laius on liiga suur ({{ width }}px). Lubatud maksimaalne laius on {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Video laius on liiga v\u00e4ike ({{ width }}px). Oodatav minimaalne laius on {{ min_width }} px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video laius on liiga v\u00e4ike ({{ width }}px). Oodatav minimaalne laius on {{ min_width }} px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Video k\u00f5rgus on liiga suur ({{ height }}px). Lubatud maksimaalne k\u00f5rgus on {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video k\u00f5rgus on liiga suur ({{ height }}px). Lubatud maksimaalne k\u00f5rgus on {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Video k\u00f5rgus on liiga v\u00e4ike ({{ height }}px). Oodatav minimaalne k\u00f5rgus on {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video k\u00f5rgus on liiga v\u00e4ike ({{ height }}px). Oodatav minimaalne k\u00f5rgus on {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Videol on liiga v\u00e4he piksleid ({{ pixels }}). Oodatav miinimum on {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videol on liiga v\u00e4he piksleid ({{ pixels }}). Oodatav miinimum on {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Videol on liiga palju piksleid ({{ pixels }}). Eeldatav maksimaalne kogus on {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videol on liiga palju piksleid ({{ pixels }}). Eeldatav maksimaalne kogus on {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Video suhe on liiga suur ({{ ratio }}). Lubatud maksimaalne suhe on {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video suhe on liiga suur ({{ ratio }}). Lubatud maksimaalne suhe on {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Video kuvasuhe on liiga v\u00e4ike ({{ ratio }}). Eeldatav miinimumsuhe on {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video kuvasuhe on liiga v\u00e4ike ({{ ratio }}). Eeldatav miinimumsuhe on {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video on ruudukujuline ({{ width }}x{{ height }}px). Ruutvideod pole lubatud.",
-                    "state": "needs-review-translation"
+                    "trans": "Video on ruudukujuline ({{ width }}x{{ height }}px). Ruutvideod pole lubatud."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video on horisontaalses asendis ({{ width }}x{{ height }} px). Horisontaalseid videoid ei ole lubatud.",
-                    "state": "needs-review-translation"
+                    "trans": "Video on horisontaalses asendis ({{ width }}x{{ height }} px). Horisontaalseid videoid ei ole lubatud."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video on p\u00fcstsuunas ({{ width }}x{{ height }} px). P\u00fcstsuunalised videod pole lubatud.",
-                    "state": "needs-review-translation"
+                    "trans": "Video on p\u00fcstsuunas ({{ width }}x{{ height }} px). P\u00fcstsuunalised videod pole lubatud."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Videofail on rikutud.",
-                    "state": "needs-review-translation"
+                    "trans": "Videofail on rikutud."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video sisaldab mitu voogu. Lubatud on ainult \u00fcks voog.",
-                    "state": "needs-review-translation"
+                    "trans": "Video sisaldab mitu voogu. Lubatud on ainult \u00fcks voog."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Toetamata videokoodek \u201e{{ codec }}\u201c.",
-                    "state": "needs-review-translation"
+                    "trans": "Toetamata videokoodek \u201e{{ codec }}\u201c."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Toetamata videokonteiner \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Toetamata videokonteiner \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Pildifail on rikutud.",
-                    "state": "needs-review-translation"
+                    "trans": "Pildifail on rikutud."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Pildil on liiga v\u00e4he piksleid ({{ pixels }}). Oodatav miinimum on {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Pildil on liiga v\u00e4he piksleid ({{ pixels }}). Oodatav miinimum on {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Pildil on liiga palju piksleid ({{ pixels }}). Oodatav maksimaalne hulk on {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Pildil on liiga palju piksleid ({{ pixels }}). Oodatav maksimaalne hulk on {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "See failinimi ei vasta eeldatavale m\u00e4rgistikule.",
-                    "state": "needs-review-translation"
+                    "trans": "See failinimi ei vasta eeldatavale m\u00e4rgistikule."
                 }
             },
             "eu": {
@@ -24690,148 +24621,119 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u05dc\u05db\u05ea\u05d5\u05d1\u05ea URL \u05d6\u05d5 \u05d7\u05e1\u05e8 \u05d3\u05d5\u05de\u05d9\u05d9\u05df \u05e8\u05de\u05d4 \u05e2\u05dc\u05d9\u05d5\u05e0\u05d4.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05db\u05ea\u05d5\u05d1\u05ea URL \u05d6\u05d5 \u05d7\u05e1\u05e8 \u05d3\u05d5\u05de\u05d9\u05d9\u05df \u05e8\u05de\u05d4 \u05e2\u05dc\u05d9\u05d5\u05e0\u05d4."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05e7\u05e6\u05e8 \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc \u05dc\u05e4\u05d7\u05d5\u05ea \u05de\u05d9\u05dc\u05d4 \u05d0\u05d7\u05ea.|\u05e2\u05e8\u05da \u05d6\u05d4 \u05e7\u05e6\u05e8 \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc \u05dc\u05e4\u05d7\u05d5\u05ea {{ min }} \u05de\u05d9\u05dc\u05d9\u05dd.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05e7\u05e6\u05e8 \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc \u05dc\u05e4\u05d7\u05d5\u05ea \u05de\u05d9\u05dc\u05d4 \u05d0\u05d7\u05ea.|\u05e2\u05e8\u05da \u05d6\u05d4 \u05e7\u05e6\u05e8 \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc \u05dc\u05e4\u05d7\u05d5\u05ea {{ min }} \u05de\u05d9\u05dc\u05d9\u05dd."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05e8\u05d5\u05da \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc \u05e8\u05e7 \u05de\u05d9\u05dc\u05d4 \u05d0\u05d7\u05ea.|\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05e8\u05d5\u05da \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc {{ max }} \u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d5 \u05e4\u05d7\u05d5\u05ea.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05e8\u05d5\u05da \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc \u05e8\u05e7 \u05de\u05d9\u05dc\u05d4 \u05d0\u05d7\u05ea.|\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05e8\u05d5\u05da \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc {{ max }} \u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d5 \u05e4\u05d7\u05d5\u05ea."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05d9\u05d9\u05e6\u05d2 \u05e9\u05d1\u05d5\u05e2 \u05ea\u05e7\u05e3 \u05d1\u05e4\u05d5\u05e8\u05de\u05d8 ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05d9\u05d9\u05e6\u05d2 \u05e9\u05d1\u05d5\u05e2 \u05ea\u05e7\u05e3 \u05d1\u05e4\u05d5\u05e8\u05de\u05d8 ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e9\u05d1\u05d5\u05e2 \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e9\u05d1\u05d5\u05e2 \u05d7\u05d5\u05e7\u05d9."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05dc\u05d0 \u05d0\u05de\u05d5\u05e8 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05e4\u05e0\u05d9 \u05e9\u05d1\u05d5\u05e2 \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05dc\u05d0 \u05d0\u05de\u05d5\u05e8 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05e4\u05e0\u05d9 \u05e9\u05d1\u05d5\u05e2 \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05dc\u05d0 \u05d0\u05de\u05d5\u05e8 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d0\u05d7\u05e8 \u05e9\u05d1\u05d5\u05e2 \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05dc\u05d0 \u05d0\u05de\u05d5\u05e8 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d0\u05d7\u05e8 \u05e9\u05d1\u05d5\u05e2 \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d1\u05e0\u05d9\u05ea Twig \u05d7\u05d5\u05e7\u05d9\u05ea.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d1\u05e0\u05d9\u05ea Twig \u05d7\u05d5\u05e7\u05d9\u05ea."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u05e7\u05d5\u05d1\u05e5 \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05ea\u05e7\u05d9\u05df.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e7\u05d5\u05d1\u05e5 \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05ea\u05e7\u05d9\u05df."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05ea \u05d2\u05d5\u05d3\u05dc \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05ea \u05d2\u05d5\u05d3\u05dc \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u05e8\u05d5\u05d7\u05d1 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d2\u05d3\u05d5\u05dc \u05de\u05d3\u05d9 ({{ width }}px). \u05e8\u05d5\u05d7\u05d1 \u05de\u05e8\u05d1\u05d9 \u05de\u05d5\u05ea\u05e8 \u05d4\u05d5\u05d0 {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e8\u05d5\u05d7\u05d1 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d2\u05d3\u05d5\u05dc \u05de\u05d3\u05d9 ({{ width }}px). \u05e8\u05d5\u05d7\u05d1 \u05de\u05e8\u05d1\u05d9 \u05de\u05d5\u05ea\u05e8 \u05d4\u05d5\u05d0 {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u05e8\u05d5\u05d7\u05d1 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05e7\u05d8\u05df \u05de\u05d3\u05d9 ({{ width }}px). \u05e8\u05d5\u05d7\u05d1 \u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05e6\u05e4\u05d5\u05d9 \u05d4\u05d5\u05d0 {{ min_width }} \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e8\u05d5\u05d7\u05d1 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05e7\u05d8\u05df \u05de\u05d3\u05d9 ({{ width }}px). \u05e8\u05d5\u05d7\u05d1 \u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05e6\u05e4\u05d5\u05d9 \u05d4\u05d5\u05d0 {{ min_width }} \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u05d2\u05d5\u05d1\u05d4 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d2\u05d3\u05d5\u05dc \u05de\u05d3\u05d9 ({{ height }}px). \u05d4\u05d2\u05d5\u05d1\u05d4 \u05d4\u05de\u05e7\u05e1\u05d9\u05de\u05dc\u05d9 \u05d4\u05de\u05d5\u05ea\u05e8 \u05d4\u05d5\u05d0 {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d2\u05d5\u05d1\u05d4 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d2\u05d3\u05d5\u05dc \u05de\u05d3\u05d9 ({{ height }}px). \u05d4\u05d2\u05d5\u05d1\u05d4 \u05d4\u05de\u05e7\u05e1\u05d9\u05de\u05dc\u05d9 \u05d4\u05de\u05d5\u05ea\u05e8 \u05d4\u05d5\u05d0 {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u05d2\u05d5\u05d1\u05d4 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05e7\u05d8\u05df \u05de\u05d3\u05d9 ({{ height }}px). \u05d4\u05d2\u05d5\u05d1\u05d4 \u05d4\u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05d4\u05e6\u05e4\u05d5\u05d9 \u05d4\u05d5\u05d0 {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d2\u05d5\u05d1\u05d4 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05e7\u05d8\u05df \u05de\u05d3\u05d9 ({{ height }}px). \u05d4\u05d2\u05d5\u05d1\u05d4 \u05d4\u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05d4\u05e6\u05e4\u05d5\u05d9 \u05d4\u05d5\u05d0 {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "\u05dc\u05e1\u05e8\u05d8\u05d5\u05df \u05d9\u05e9 \u05de\u05e2\u05d8 \u05de\u05d3\u05d9 \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd ({{ pixels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05e1\u05e8\u05d8\u05d5\u05df \u05d9\u05e9 \u05de\u05e2\u05d8 \u05de\u05d3\u05d9 \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd ({{ pixels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "\u05dc\u05e1\u05e8\u05d8\u05d5\u05df \u05d9\u05e9 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd ({{ pixels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05e8\u05d1\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05e1\u05e8\u05d8\u05d5\u05df \u05d9\u05e9 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd ({{ pixels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05e8\u05d1\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "\u05d9\u05d7\u05e1 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d2\u05d3\u05d5\u05dc \u05de\u05d3\u05d9 ({{ ratio }}). \u05d9\u05d7\u05e1 \u05de\u05e7\u05e1\u05d9\u05de\u05dc\u05d9 \u05de\u05d5\u05ea\u05e8 \u05d4\u05d5\u05d0 {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d9\u05d7\u05e1 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d2\u05d3\u05d5\u05dc \u05de\u05d3\u05d9 ({{ ratio }}). \u05d9\u05d7\u05e1 \u05de\u05e7\u05e1\u05d9\u05de\u05dc\u05d9 \u05de\u05d5\u05ea\u05e8 \u05d4\u05d5\u05d0 {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "\u05d9\u05d7\u05e1 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05e7\u05d8\u05df \u05de\u05d3\u05d9 ({{ ratio }}). \u05d9\u05d7\u05e1 \u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05e6\u05e4\u05d5\u05d9 \u05d4\u05d5\u05d0 {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d9\u05d7\u05e1 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05e7\u05d8\u05df \u05de\u05d3\u05d9 ({{ ratio }}). \u05d9\u05d7\u05e1 \u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05e6\u05e4\u05d5\u05d9 \u05d4\u05d5\u05d0 {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "\u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d4\u05d5\u05d0 \u05de\u05e8\u05d5\u05d1\u05e2 ({{ width }}x{{ height }}px). \u05e1\u05e8\u05d8\u05d5\u05e0\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05de\u05e8\u05d5\u05d1\u05e2\u05d9\u05dd \u05d0\u05d9\u05e0\u05dd \u05de\u05d5\u05ea\u05e8\u05d9\u05dd.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d4\u05d5\u05d0 \u05de\u05e8\u05d5\u05d1\u05e2 ({{ width }}x{{ height }}px). \u05e1\u05e8\u05d8\u05d5\u05e0\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05de\u05e8\u05d5\u05d1\u05e2\u05d9\u05dd \u05d0\u05d9\u05e0\u05dd \u05de\u05d5\u05ea\u05e8\u05d9\u05dd."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "\u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d1\u05de\u05e6\u05d1 \u05dc\u05e8\u05d5\u05d7\u05d1 ({{ width }}x{{ height }} \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd). \u05e1\u05e8\u05d8\u05d5\u05e0\u05d9 \u05dc\u05e8\u05d5\u05d7\u05d1 \u05d0\u05d9\u05e0\u05dd \u05de\u05d5\u05ea\u05e8\u05d9\u05dd.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d1\u05de\u05e6\u05d1 \u05dc\u05e8\u05d5\u05d7\u05d1 ({{ width }}x{{ height }} \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd). \u05e1\u05e8\u05d8\u05d5\u05e0\u05d9 \u05dc\u05e8\u05d5\u05d7\u05d1 \u05d0\u05d9\u05e0\u05dd \u05de\u05d5\u05ea\u05e8\u05d9\u05dd."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "\u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d4\u05d5\u05d0 \u05d1\u05ea\u05e6\u05d5\u05e8\u05ea \u05d3\u05d9\u05d5\u05e7\u05df ({{ width }}x{{ height }}px). \u05e1\u05e8\u05d8\u05d5\u05e0\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d1\u05ea\u05e6\u05d5\u05e8\u05ea \u05d3\u05d9\u05d5\u05e7\u05df \u05d0\u05d9\u05e0\u05dd \u05de\u05d5\u05ea\u05e8\u05d9\u05dd.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05d4\u05d5\u05d0 \u05d1\u05ea\u05e6\u05d5\u05e8\u05ea \u05d3\u05d9\u05d5\u05e7\u05df ({{ width }}x{{ height }}px). \u05e1\u05e8\u05d8\u05d5\u05e0\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d1\u05ea\u05e6\u05d5\u05e8\u05ea \u05d3\u05d9\u05d5\u05e7\u05df \u05d0\u05d9\u05e0\u05dd \u05de\u05d5\u05ea\u05e8\u05d9\u05dd."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "\u05e7\u05d5\u05d1\u05e5 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05e4\u05d2\u05d5\u05dd.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e7\u05d5\u05d1\u05e5 \u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05e4\u05d2\u05d5\u05dd."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "\u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05de\u05db\u05d9\u05dc \u05de\u05e1\u05e4\u05e8 \u05d6\u05e8\u05de\u05d9\u05dd. \u05de\u05d5\u05ea\u05e8 \u05d6\u05e8\u05dd \u05d0\u05d7\u05d3 \u05d1\u05dc\u05d1\u05d3.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d4\u05d5\u05d5\u05d9\u05d3\u05d0\u05d5 \u05de\u05db\u05d9\u05dc \u05de\u05e1\u05e4\u05e8 \u05d6\u05e8\u05de\u05d9\u05dd. \u05de\u05d5\u05ea\u05e8 \u05d6\u05e8\u05dd \u05d0\u05d7\u05d3 \u05d1\u05dc\u05d1\u05d3."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "\u05de\u05e7\u05d5\u05d3\u05d3 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05e0\u05ea\u05de\u05da \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u05de\u05e7\u05d5\u05d3\u05d3 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05e0\u05ea\u05de\u05da \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "\u05de\u05d9\u05db\u05dc \u05d5\u05d9\u05d3\u05d0\u05d5 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05e0\u05ea\u05de\u05da \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u05de\u05d9\u05db\u05dc \u05d5\u05d9\u05d3\u05d0\u05d5 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05e0\u05ea\u05de\u05da \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "\u05e7\u05d5\u05d1\u05e5 \u05d4\u05ea\u05de\u05d5\u05e0\u05d4 \u05e4\u05d2\u05d5\u05dd.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e7\u05d5\u05d1\u05e5 \u05d4\u05ea\u05de\u05d5\u05e0\u05d4 \u05e4\u05d2\u05d5\u05dd."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "\u05dc\u05ea\u05de\u05d5\u05e0\u05d4 \u05d9\u05e9 \u05de\u05e2\u05d8 \u05de\u05d3\u05d9 \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd ({{ pixels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05ea\u05de\u05d5\u05e0\u05d4 \u05d9\u05e9 \u05de\u05e2\u05d8 \u05de\u05d3\u05d9 \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd ({{ pixels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "\u05dc\u05ea\u05de\u05d5\u05e0\u05d4 \u05d9\u05e9 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd ({{ pixels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05e8\u05d1\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05ea\u05de\u05d5\u05e0\u05d4 \u05d9\u05e9 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e4\u05d9\u05e7\u05e1\u05dc\u05d9\u05dd ({{ pixels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05e8\u05d1\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "\u05e9\u05dd \u05d4\u05e7\u05d5\u05d1\u05e5 \u05d4\u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d5\u05d0\u05dd \u05d0\u05ea \u05de\u05e2\u05e8\u05da \u05d4\u05ea\u05d5\u05d5\u05d9\u05dd \u05d4\u05e6\u05e4\u05d5\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e9\u05dd \u05d4\u05e7\u05d5\u05d1\u05e5 \u05d4\u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d5\u05d0\u05dd \u05d0\u05ea \u05de\u05e2\u05e8\u05da \u05d4\u05ea\u05d5\u05d5\u05d9\u05dd \u05d4\u05e6\u05e4\u05d5\u05d9."
                 }
             },
             "hr": {
@@ -26099,8 +26001,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 IP \u0570\u0561\u057d\u0581\u0565 \u0579\u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 IP \u0570\u0561\u057d\u0581\u0565 \u0579\u0567\u0589"
                 },
                 "38": {
                     "id": "38",
@@ -26156,8 +26057,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini-\u0578\u0582\u0574 \u0579\u056b \u056f\u0561\u0580\u0563\u0561\u057e\u0578\u0580\u057e\u0565\u056c \u056a\u0561\u0574\u0561\u0576\u0561\u056f\u0561\u057e\u0578\u0580 \u0569\u0572\u0569\u0561\u057a\u0561\u0576\u0561\u056f, \u056f\u0561\u0574 \u056f\u0561\u0580\u0563\u0561\u057e\u0578\u0580\u057e\u0561\u056e \u0569\u0572\u0569\u0561\u057a\u0561\u0576\u0561\u056f\u0568 \u0579\u056f\u0561\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "php.ini-\u0578\u0582\u0574 \u0579\u056b \u056f\u0561\u0580\u0563\u0561\u057e\u0578\u0580\u057e\u0565\u056c \u056a\u0561\u0574\u0561\u0576\u0561\u056f\u0561\u057e\u0578\u0580 \u0569\u0572\u0569\u0561\u057a\u0561\u0576\u0561\u056f, \u056f\u0561\u0574 \u056f\u0561\u0580\u0563\u0561\u057e\u0578\u0580\u057e\u0561\u056e \u0569\u0572\u0569\u0561\u057a\u0561\u0576\u0561\u056f\u0568 \u0579\u056f\u0561\u0589"
                 },
                 "52": {
                     "id": "52",
@@ -26189,8 +26089,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 \u0574\u056b\u057b\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0562\u0561\u0576\u056f\u0561\u0575\u056b\u0576 \u0570\u0561\u0577\u057e\u056b \u0570\u0561\u0574\u0561\u0580 (IBAN) \u0579\u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 \u0574\u056b\u057b\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0562\u0561\u0576\u056f\u0561\u0575\u056b\u0576 \u0570\u0561\u0577\u057e\u056b \u0570\u0561\u0574\u0561\u0580 (IBAN) \u0579\u0567\u0589"
                 },
                 "60": {
                     "id": "60",
@@ -26278,8 +26177,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 \u0562\u056b\u0566\u0576\u0565\u057d\u056b \u0576\u0578\u0580\u0574\u0561\u057f\u056b\u057e \u056f\u0578\u0564 (BIC) \u0579\u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 \u0562\u056b\u0566\u0576\u0565\u057d\u056b \u0576\u0578\u0580\u0574\u0561\u057f\u056b\u057e \u056f\u0578\u0564 (BIC) \u0579\u0567\u0589"
                 },
                 "82": {
                     "id": "82",
@@ -26287,8 +26185,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 UUID \u0579\u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 UUID \u0579\u0567\u0589"
                 },
                 "84": {
                     "id": "84",
@@ -26360,208 +26257,167 @@
                 },
                 "101": {
                     "id": "101",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 CSS \u0563\u0578\u0582\u0575\u0576 \u0579\u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 CSS \u0563\u0578\u0582\u0575\u0576 \u0579\u0567\u0589"
                 },
                 "102": {
                     "id": "102",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 CIDR \u0576\u0577\u0578\u0582\u0574 \u0579\u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 CIDR \u0576\u0577\u0578\u0582\u0574 \u0579\u0567\u0589"
                 },
                 "103": {
                     "id": "103",
-                    "trans": "\u0551\u0561\u0576\u0581\u0561\u0575\u056b\u0576 \u0564\u056b\u0574\u0561\u056f\u056b \u0561\u0580\u056a\u0565\u0584\u0568 \u057a\u0565\u057f\u0584 \u0567 \u056c\u056b\u0576\u056b {{ min }}-\u056b \u0587 {{ max }}-\u056b \u0574\u056b\u057b\u0587\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0551\u0561\u0576\u0581\u0561\u0575\u056b\u0576 \u0564\u056b\u0574\u0561\u056f\u056b \u0561\u0580\u056a\u0565\u0584\u0568 \u057a\u0565\u057f\u0584 \u0567 \u056c\u056b\u0576\u056b {{ min }}-\u056b \u0587 {{ max }}-\u056b \u0574\u056b\u057b\u0587\u0589"
                 },
                 "104": {
                     "id": "104",
-                    "trans": "\u0556\u0561\u0575\u056c\u056b \u0561\u0576\u0578\u0582\u0576\u0568 \u0577\u0561\u057f \u0565\u0580\u056f\u0561\u0580 \u0567\u0589 \u0531\u0575\u0576 \u057a\u0565\u057f\u0584 \u0567 \u0578\u0582\u0576\u0565\u0576\u0561 {{ filename_max_length }} \u0576\u056b\u0577 \u056f\u0561\u0574 \u057a\u0561\u056f\u0561\u057d\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0556\u0561\u0575\u056c\u056b \u0561\u0576\u0578\u0582\u0576\u0568 \u0577\u0561\u057f \u0565\u0580\u056f\u0561\u0580 \u0567\u0589 \u0531\u0575\u0576 \u057a\u0565\u057f\u0584 \u0567 \u0578\u0582\u0576\u0565\u0576\u0561 {{ filename_max_length }} \u0576\u056b\u0577 \u056f\u0561\u0574 \u057a\u0561\u056f\u0561\u057d\u0589"
                 },
                 "105": {
                     "id": "105",
-                    "trans": "\u0533\u0561\u0572\u057f\u0576\u0561\u0562\u0561\u057c\u056b \u0561\u0576\u057e\u057f\u0561\u0576\u0563\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0577\u0561\u057f \u0581\u0561\u056e\u0580 \u0567\u0589 \u053d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u0563\u0578\u0580\u056e\u0561\u056e\u0565\u056c \u0561\u057e\u0565\u056c\u056b \u0561\u0574\u0580\u0561\u0563\u0578\u0582\u0575\u0576 \u0563\u0561\u0572\u057f\u0576\u0561\u0562\u0561\u057c\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0533\u0561\u0572\u057f\u0576\u0561\u0562\u0561\u057c\u056b \u0561\u0576\u057e\u057f\u0561\u0576\u0563\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0577\u0561\u057f \u0581\u0561\u056e\u0580 \u0567\u0589 \u053d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u0563\u0578\u0580\u056e\u0561\u056e\u0565\u056c \u0561\u057e\u0565\u056c\u056b \u0561\u0574\u0580\u0561\u0563\u0578\u0582\u0575\u0576 \u0563\u0561\u0572\u057f\u0576\u0561\u0562\u0561\u057c\u0589"
                 },
                 "106": {
                     "id": "106",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u0578\u0582\u0574 \u0567 \u0561\u0575\u0576 \u0576\u056b\u0577\u0565\u0580\u0568, \u0578\u0580\u0578\u0576\u0584 \u0579\u0565\u0576 \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574 \u0568\u057d\u057f \u0568\u0576\u0569\u0561\u0581\u056b\u056f \u057d\u0561\u0570\u0574\u0561\u0576\u0578\u0582\u0574\u0576\u0565\u0580\u056b\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u0578\u0582\u0574 \u0567 \u0561\u0575\u0576 \u0576\u056b\u0577\u0565\u0580\u0568, \u0578\u0580\u0578\u0576\u0584 \u0579\u0565\u0576 \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574 \u0568\u057d\u057f \u0568\u0576\u0569\u0561\u0581\u056b\u056f \u057d\u0561\u0570\u0574\u0561\u0576\u0578\u0582\u0574\u0576\u0565\u0580\u056b\u0589"
                 },
                 "107": {
                     "id": "107",
-                    "trans": "\u0531\u0576\u057f\u0565\u057d\u0561\u0576\u0565\u056c\u056b \u0576\u056b\u0577\u0565\u0580\u056b \u0585\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u0578\u0582\u0574\u0568 \u0579\u056b \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0576\u057f\u0565\u057d\u0561\u0576\u0565\u056c\u056b \u0576\u056b\u0577\u0565\u0580\u056b \u0585\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u0578\u0582\u0574\u0568 \u0579\u056b \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574\u0589"
                 },
                 "108": {
                     "id": "108",
-                    "trans": "\u0539\u057e\u0565\u0580\u056b \u056d\u0561\u057c\u0576\u0578\u0582\u0580\u0564\u0568 \u057f\u0561\u0580\u0562\u0565\u0580 \u057d\u0581\u0565\u0576\u0561\u0580\u0576\u0565\u0580\u056b\u0581 \u0579\u056b \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0539\u057e\u0565\u0580\u056b \u056d\u0561\u057c\u0576\u0578\u0582\u0580\u0564\u0568 \u057f\u0561\u0580\u0562\u0565\u0580 \u057d\u0581\u0565\u0576\u0561\u0580\u0576\u0565\u0580\u056b\u0581 \u0579\u056b \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574\u0589"
                 },
                 "109": {
                     "id": "109",
-                    "trans": "\u0539\u0561\u0584\u0576\u057e\u0561\u056e \u056e\u0561\u056e\u056f\u0561\u0576\u056b\u0577\u0565\u0580\u056b \u0585\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u0578\u0582\u0574\u0568 \u0579\u056b \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0539\u0561\u0584\u0576\u057e\u0561\u056e \u056e\u0561\u056e\u056f\u0561\u0576\u056b\u0577\u0565\u0580\u056b \u0585\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u0578\u0582\u0574\u0568 \u0579\u056b \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574\u0589"
                 },
                 "110": {
                     "id": "110",
-                    "trans": "\u0556\u0561\u0575\u056c\u056b \u0568\u0576\u0564\u056c\u0561\u0575\u0576\u0578\u0582\u0574\u0568 \u0561\u0576\u057e\u0561\u057e\u0565\u0580 \u0567 ({{ extension }})\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0572 \u0568\u0576\u0564\u056c\u0561\u0575\u0576\u0578\u0582\u0574\u0576\u0565\u0580\u0576 \u0565\u0576\u055d {{ extensions }}\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0556\u0561\u0575\u056c\u056b \u0568\u0576\u0564\u056c\u0561\u0575\u0576\u0578\u0582\u0574\u0568 \u0561\u0576\u057e\u0561\u057e\u0565\u0580 \u0567 ({{ extension }})\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0572 \u0568\u0576\u0564\u056c\u0561\u0575\u0576\u0578\u0582\u0574\u0576\u0565\u0580\u0576 \u0565\u0576\u055d {{ extensions }}\u0589"
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u0540\u0561\u0575\u057f\u0576\u0561\u0562\u0565\u0580\u057e\u0561\u056e \u0576\u056b\u0577\u0561\u0563\u0580\u0578\u0582\u0569\u0575\u0561\u0576 \u056f\u0578\u0564\u0568 \u0561\u0576\u057e\u0561\u057e\u0565\u0580 \u0567 ({{ detected }})\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0572 \u056f\u0578\u0564\u0565\u0580\u0576 \u0565\u0576\u055d {{ encodings }}\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0540\u0561\u0575\u057f\u0576\u0561\u0562\u0565\u0580\u057e\u0561\u056e \u0576\u056b\u0577\u0561\u0563\u0580\u0578\u0582\u0569\u0575\u0561\u0576 \u056f\u0578\u0564\u0568 \u0561\u0576\u057e\u0561\u057e\u0565\u0580 \u0567 ({{ detected }})\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0572 \u056f\u0578\u0564\u0565\u0580\u0576 \u0565\u0576\u055d {{ encodings }}\u0589"
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 MAC \u0570\u0561\u057d\u0581\u0565 \u0579\u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 MAC \u0570\u0561\u057d\u0581\u0565 \u0579\u0567\u0589"
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0531\u0575\u057d URL-\u0568 \u0579\u0578\u0582\u0576\u056b \u057e\u0565\u0580\u056b\u0576 \u0574\u0561\u056f\u0561\u0580\u0564\u0561\u056f\u056b \u0564\u0578\u0574\u0565\u0575\u0576:",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d URL-\u0568 \u0579\u0578\u0582\u0576\u056b \u057e\u0565\u0580\u056b\u0576 \u0574\u0561\u056f\u0561\u0580\u0564\u0561\u056f\u056b \u0564\u0578\u0574\u0565\u0575\u0576:"
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0577\u0561\u057f \u056f\u0561\u0580\u0573 \u0567: \u057a\u0565\u057f\u0584 \u0567 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u056b \u0563\u0578\u0576\u0565 \u0574\u0565\u056f \u0562\u0561\u057c.|\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0577\u0561\u057f \u056f\u0561\u0580\u0573 \u0567: \u057a\u0565\u057f\u0584 \u0567 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u056b \u0563\u0578\u0576\u0565 {{ min }} \u0562\u0561\u057c\u0565\u0580:",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0577\u0561\u057f \u056f\u0561\u0580\u0573 \u0567: \u057a\u0565\u057f\u0584 \u0567 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u056b \u0563\u0578\u0576\u0565 \u0574\u0565\u056f \u0562\u0561\u057c.|\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0577\u0561\u057f \u056f\u0561\u0580\u0573 \u0567: \u057a\u0565\u057f\u0584 \u0567 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u056b \u0563\u0578\u0576\u0565 {{ min }} \u0562\u0561\u057c\u0565\u0580:"
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0577\u0561\u057f \u0565\u0580\u056f\u0561\u0580 \u0567: \u057a\u0565\u057f\u0584 \u0567 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u056b \u0574\u056b\u0561\u0575\u0576 \u0574\u0565\u056f \u0562\u0561\u057c.|\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0577\u0561\u057f \u0565\u0580\u056f\u0561\u0580 \u0567: \u057a\u0565\u057f\u0584 \u0567 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u056b {{ max }} \u0562\u0561\u057c \u056f\u0561\u0574 \u0561\u057e\u0565\u056c\u056b \u0584\u056b\u0579:",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0577\u0561\u057f \u0565\u0580\u056f\u0561\u0580 \u0567: \u057a\u0565\u057f\u0584 \u0567 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u056b \u0574\u056b\u0561\u0575\u0576 \u0574\u0565\u056f \u0562\u0561\u057c.|\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0577\u0561\u057f \u0565\u0580\u056f\u0561\u0580 \u0567: \u057a\u0565\u057f\u0584 \u0567 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u056b {{ max }} \u0562\u0561\u057c \u056f\u0561\u0574 \u0561\u057e\u0565\u056c\u056b \u0584\u056b\u0579:"
                 },
                 "116": {
                     "id": "116",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0579\u056b \u0576\u0565\u0580\u056f\u0561\u0575\u0561\u0581\u0576\u0578\u0582\u0574 ISO 8601 \u0571\u0587\u0561\u0579\u0561\u0583\u0578\u057e \u0563\u0578\u0580\u056e\u0578\u0572 \u0577\u0561\u0562\u0561\u0569\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0579\u056b \u0576\u0565\u0580\u056f\u0561\u0575\u0561\u0581\u0576\u0578\u0582\u0574 ISO 8601 \u0571\u0587\u0561\u0579\u0561\u0583\u0578\u057e \u0563\u0578\u0580\u056e\u0578\u0572 \u0577\u0561\u0562\u0561\u0569\u0589"
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 \u0577\u0561\u0562\u0561\u0569 \u0579\u0567:",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 \u0577\u0561\u0562\u0561\u0569 \u0579\u0567:"
                 },
                 "118": {
                     "id": "118",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0579\u057a\u0565\u057f\u0584 \u0567 \u056c\u056b\u0576\u056b \u00ab{{ min }}\u00bb \u0577\u0561\u0562\u0561\u0569\u056b\u0581 \u0561\u057c\u0561\u057b\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0579\u057a\u0565\u057f\u0584 \u0567 \u056c\u056b\u0576\u056b \u00ab{{ min }}\u00bb \u0577\u0561\u0562\u0561\u0569\u056b\u0581 \u0561\u057c\u0561\u057b\u0589"
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0579\u057a\u0565\u057f\u0584 \u0567 \u056c\u056b\u0576\u056b \u00ab{{ max }}\u00bb \u0577\u0561\u0562\u0561\u0569\u056b\u0581 \u0570\u0565\u057f\u0578\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0579\u057a\u0565\u057f\u0584 \u0567 \u056c\u056b\u0576\u056b \u00ab{{ max }}\u00bb \u0577\u0561\u0562\u0561\u0569\u056b\u0581 \u0570\u0565\u057f\u0578\u0589"
                 },
                 "121": {
                     "id": "121",
-                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 Twig \u0571\u0587\u0561\u0576\u0574\u0578\u0582\u0577 \u0579\u0567:",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 Twig \u0571\u0587\u0561\u0576\u0574\u0578\u0582\u0577 \u0579\u0567:"
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u0531\u0575\u057d \u0586\u0561\u0575\u056c\u0568 \u057e\u0561\u057e\u0565\u0580 \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569 \u0579\u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0586\u0561\u0575\u056c\u0568 \u057e\u0561\u057e\u0565\u0580 \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569 \u0579\u0567\u0589"
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u0549\u0570\u0561\u057b\u0578\u0572\u057e\u0565\u0581 \u0570\u0561\u0575\u057f\u0576\u0561\u0562\u0565\u0580\u0565\u056c \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u056b \u0579\u0561\u0583\u0568.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0549\u0570\u0561\u057b\u0578\u0572\u057e\u0565\u0581 \u0570\u0561\u0575\u057f\u0576\u0561\u0562\u0565\u0580\u0565\u056c \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u056b \u0579\u0561\u0583\u0568."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u054f\u0565\u057d\u0561\u0570\u0578\u056c\u0578\u057e\u0561\u056f\u056b \u056c\u0561\u0575\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0574\u0565\u056e \u0567 ({{ width }}px)\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0561\u057c\u0561\u057e\u0565\u056c\u0561\u0563\u0578\u0582\u0575\u0576 \u056c\u0561\u0575\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 {{ max_width }}px \u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u054f\u0565\u057d\u0561\u0570\u0578\u056c\u0578\u057e\u0561\u056f\u056b \u056c\u0561\u0575\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0574\u0565\u056e \u0567 ({{ width }}px)\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0561\u057c\u0561\u057e\u0565\u056c\u0561\u0563\u0578\u0582\u0575\u0576 \u056c\u0561\u0575\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 {{ max_width }}px \u0567\u0589"
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u056b \u056c\u0561\u0575\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0583\u0578\u0584\u0580 \u0567 ({{ width }}px). \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u057e\u0561\u0566\u0561\u0563\u0578\u0582\u0575\u0576 \u056c\u0561\u0575\u0576\u0584\u0568 {{ min_width }}px \u0567.",
-                    "state": "needs-review-translation"
+                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u056b \u056c\u0561\u0575\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0583\u0578\u0584\u0580 \u0567 ({{ width }}px). \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u057e\u0561\u0566\u0561\u0563\u0578\u0582\u0575\u0576 \u056c\u0561\u0575\u0576\u0584\u0568 {{ min_width }}px \u0567."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u054e\u056b\u0564\u0565\u0578\u0575\u056b \u0562\u0561\u0580\u0571\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0574\u0565\u056e \u0567 ({{ height }}px)\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0561\u057c\u0561\u057e\u0565\u056c\u0561\u0563\u0578\u0582\u0575\u0576 \u0562\u0561\u0580\u0571\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 {{ max_height }}px \u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u054e\u056b\u0564\u0565\u0578\u0575\u056b \u0562\u0561\u0580\u0571\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0574\u0565\u056e \u0567 ({{ height }}px)\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0561\u057c\u0561\u057e\u0565\u056c\u0561\u0563\u0578\u0582\u0575\u0576 \u0562\u0561\u0580\u0571\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 {{ max_height }}px \u0567\u0589"
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u054e\u056b\u0564\u0565\u0578\u0575\u056b \u0562\u0561\u0580\u0571\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0577\u0561\u057f \u0583\u0578\u0584\u0580 \u0567 ({{ height }}px)\u0589 \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u057e\u0561\u0566\u0561\u0563\u0578\u0582\u0575\u0576 \u0562\u0561\u0580\u0571\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 {{ min_height }}px \u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u054e\u056b\u0564\u0565\u0578\u0575\u056b \u0562\u0561\u0580\u0571\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0577\u0561\u057f \u0583\u0578\u0584\u0580 \u0567 ({{ height }}px)\u0589 \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u057e\u0561\u0566\u0561\u0563\u0578\u0582\u0575\u0576 \u0562\u0561\u0580\u0571\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 {{ min_height }}px \u0567\u0589"
                 },
                 "128": {
                     "id": "128",
-                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0568 \u0578\u0582\u0576\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0584\u056b\u0579 \u057a\u056b\u0584\u057d\u0565\u056c\u0576\u0565\u0580 ({{ pixels }}). \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u057e\u0561\u0566\u0561\u0563\u0578\u0582\u0575\u0576 \u0584\u0561\u0576\u0561\u056f\u0568 {{ min_pixels }} \u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0568 \u0578\u0582\u0576\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0584\u056b\u0579 \u057a\u056b\u0584\u057d\u0565\u056c\u0576\u0565\u0580 ({{ pixels }}). \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u057e\u0561\u0566\u0561\u0563\u0578\u0582\u0575\u0576 \u0584\u0561\u0576\u0561\u056f\u0568 {{ min_pixels }} \u0567\u0589"
                 },
                 "129": {
                     "id": "129",
-                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0568 \u0578\u0582\u0576\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u057a\u056b\u0584\u057d\u0565\u056c\u0576\u0565\u0580 ({{ pixels }}). \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0561\u057c\u0561\u057e\u0565\u056c\u0561\u0563\u0578\u0582\u0575\u0576 \u0584\u0561\u0576\u0561\u056f\u0568 {{ max_pixels }} \u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0568 \u0578\u0582\u0576\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u057a\u056b\u0584\u057d\u0565\u056c\u0576\u0565\u0580 ({{ pixels }}). \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0561\u057c\u0561\u057e\u0565\u056c\u0561\u0563\u0578\u0582\u0575\u0576 \u0584\u0561\u0576\u0561\u056f\u0568 {{ max_pixels }} \u0567\u0589"
                 },
                 "130": {
                     "id": "130",
-                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u056b \u0570\u0561\u0580\u0561\u0562\u0565\u0580\u0561\u056f\u0581\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0574\u0565\u056e \u0567 ({{ ratio }}): \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0561\u057c\u0561\u057e\u0565\u056c\u0561\u0563\u0578\u0582\u0575\u0576 \u0570\u0561\u0580\u0561\u0562\u0565\u0580\u0561\u056f\u0581\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 {{ max_ratio }} \u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u056b \u0570\u0561\u0580\u0561\u0562\u0565\u0580\u0561\u056f\u0581\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0574\u0565\u056e \u0567 ({{ ratio }}): \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0561\u057c\u0561\u057e\u0565\u056c\u0561\u0563\u0578\u0582\u0575\u0576 \u0570\u0561\u0580\u0561\u0562\u0565\u0580\u0561\u056f\u0581\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 {{ max_ratio }} \u0567\u0589"
                 },
                 "131": {
                     "id": "131",
-                    "trans": "\u054e\u056b\u0564\u0565\u0578\u0575\u056b \u0570\u0561\u0580\u0561\u0562\u0565\u0580\u0561\u056f\u0581\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0577\u0561\u057f \u0583\u0578\u0584\u0580 \u0567 ({{ ratio }}). \u0531\u057e\u0565\u056c\u056b \u0583\u0578\u0584\u0580\u0561\u0563\u0578\u0582\u0575\u0576 \u057d\u057a\u0561\u057d\u057e\u0578\u0572 \u0570\u0561\u0580\u0561\u0562\u0565\u0580\u0561\u056f\u0581\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 {{ min_ratio }} \u0567.",
-                    "state": "needs-review-translation"
+                    "trans": "\u054e\u056b\u0564\u0565\u0578\u0575\u056b \u0570\u0561\u0580\u0561\u0562\u0565\u0580\u0561\u056f\u0581\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0577\u0561\u057f \u0583\u0578\u0584\u0580 \u0567 ({{ ratio }}). \u0531\u057e\u0565\u056c\u056b \u0583\u0578\u0584\u0580\u0561\u0563\u0578\u0582\u0575\u0576 \u057d\u057a\u0561\u057d\u057e\u0578\u0572 \u0570\u0561\u0580\u0561\u0562\u0565\u0580\u0561\u056f\u0581\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 {{ min_ratio }} \u0567."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0568 \u0584\u0561\u057c\u0561\u056f\u0578\u0582\u057d\u056b \u0567 ({{ width }}x{{ height }}px). \u0554\u0561\u057c\u0561\u056f\u0578\u0582\u057d\u056b \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0565\u0580\u0568 \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0579\u0565\u0576.",
-                    "state": "needs-review-translation"
+                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0568 \u0584\u0561\u057c\u0561\u056f\u0578\u0582\u057d\u056b \u0567 ({{ width }}x{{ height }}px). \u0554\u0561\u057c\u0561\u056f\u0578\u0582\u057d\u056b \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0565\u0580\u0568 \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0579\u0565\u0576."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0568 \u0570\u0578\u0580\u056b\u0566\u0578\u0576\u0561\u056f\u0561\u0576 \u056f\u0578\u0572\u0574\u0576\u0578\u0580\u0578\u0577\u0574\u0561\u0574\u0562 \u0567 ({{ width }}x{{ height }} px). \u0540\u0578\u0580\u056b\u0566\u0578\u0576\u0561\u056f\u0561\u0576 \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0565\u0580\u0568 \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0579\u0565\u0576.",
-                    "state": "needs-review-translation"
+                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0568 \u0570\u0578\u0580\u056b\u0566\u0578\u0576\u0561\u056f\u0561\u0576 \u056f\u0578\u0572\u0574\u0576\u0578\u0580\u0578\u0577\u0574\u0561\u0574\u0562 \u0567 ({{ width }}x{{ height }} px). \u0540\u0578\u0580\u056b\u0566\u0578\u0576\u0561\u056f\u0561\u0576 \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0565\u0580\u0568 \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0579\u0565\u0576."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "\u054e\u056b\u0564\u0565\u0578\u0576 \u0578\u0582\u0572\u0572\u0561\u0570\u0561\u0575\u0561\u0581 \u056f\u0578\u0572\u0574\u0576\u0578\u0580\u0578\u0577\u057e\u0561\u056e \u0567 ({{ width }}x{{ height }}px)\u0589 \u0548\u0582\u0572\u0572\u0561\u0570\u0561\u0575\u0561\u0581 \u056f\u0578\u0572\u0574\u0576\u0578\u0580\u0578\u0577\u0574\u0561\u0574\u0562 \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0565\u0580\u0568 \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0579\u0565\u0576\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u054e\u056b\u0564\u0565\u0578\u0576 \u0578\u0582\u0572\u0572\u0561\u0570\u0561\u0575\u0561\u0581 \u056f\u0578\u0572\u0574\u0576\u0578\u0580\u0578\u0577\u057e\u0561\u056e \u0567 ({{ width }}x{{ height }}px)\u0589 \u0548\u0582\u0572\u0572\u0561\u0570\u0561\u0575\u0561\u0581 \u056f\u0578\u0572\u0574\u0576\u0578\u0580\u0578\u0577\u0574\u0561\u0574\u0562 \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0565\u0580\u0568 \u0569\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u0565\u056c\u056b \u0579\u0565\u0576\u0589"
                 },
                 "135": {
                     "id": "135",
-                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u056b \u0586\u0561\u0575\u056c\u0568 \u057e\u0576\u0561\u057d\u057e\u0561\u056e \u0567.",
-                    "state": "needs-review-translation"
+                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u056b \u0586\u0561\u0575\u056c\u0568 \u057e\u0576\u0561\u057d\u057e\u0561\u056e \u0567."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0568 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u0578\u0582\u0574 \u0567 \u0562\u0561\u0566\u0574\u0561\u0569\u056b\u057e \u0570\u0578\u057d\u0584\u0565\u0580\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574 \u0567 \u0574\u056b\u0561\u0575\u0576 \u0574\u0565\u056f \u0570\u0578\u057d\u0584\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u054f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0568 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u0578\u0582\u0574 \u0567 \u0562\u0561\u0566\u0574\u0561\u0569\u056b\u057e \u0570\u0578\u057d\u0584\u0565\u0580\u0589 \u0539\u0578\u0582\u0575\u056c\u0561\u057f\u0580\u057e\u0578\u0582\u0574 \u0567 \u0574\u056b\u0561\u0575\u0576 \u0574\u0565\u056f \u0570\u0578\u057d\u0584\u0589"
                 },
                 "137": {
                     "id": "137",
-                    "trans": "\u0549\u0561\u057b\u0561\u056f\u0581\u057e\u0578\u0572 \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u056b \u056f\u0578\u0564\u0565\u056f \u00ab{{ codec }}\u00bb\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u0549\u0561\u057b\u0561\u056f\u0581\u057e\u0578\u0572 \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u056b \u056f\u0578\u0564\u0565\u056f \u00ab{{ codec }}\u00bb\u0589"
                 },
                 "138": {
                     "id": "138",
-                    "trans": "\u0549\u0561\u057b\u0561\u056f\u0581\u057e\u0578\u0572 \u057e\u056b\u0564\u0565\u0578 \u056f\u0578\u0576\u057f\u0565\u0575\u0576\u0565\u0580 \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u0549\u0561\u057b\u0561\u056f\u0581\u057e\u0578\u0572 \u057e\u056b\u0564\u0565\u0578 \u056f\u0578\u0576\u057f\u0565\u0575\u0576\u0565\u0580 \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "\u054a\u0561\u057f\u056f\u0565\u0580\u056b \u0586\u0561\u0575\u056c\u0568 \u057e\u0576\u0561\u057d\u057e\u0561\u056e \u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u054a\u0561\u057f\u056f\u0565\u0580\u056b \u0586\u0561\u0575\u056c\u0568 \u057e\u0576\u0561\u057d\u057e\u0561\u056e \u0567\u0589"
                 },
                 "140": {
                     "id": "140",
-                    "trans": "\u054a\u0561\u057f\u056f\u0565\u0580\u0568 \u0578\u0582\u0576\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0584\u056b\u0579 \u057a\u056b\u0584\u057d\u0565\u056c\u0576\u0565\u0580 ({{ pixels }}). \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u057e\u0561\u0566\u0561\u0563\u0578\u0582\u0575\u0576\u0568 {{ min_pixels }} \u0567\u0589",
-                    "state": "needs-review-translation"
+                    "trans": "\u054a\u0561\u057f\u056f\u0565\u0580\u0568 \u0578\u0582\u0576\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0584\u056b\u0579 \u057a\u056b\u0584\u057d\u0565\u056c\u0576\u0565\u0580 ({{ pixels }}). \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u057e\u0561\u0566\u0561\u0563\u0578\u0582\u0575\u0576\u0568 {{ min_pixels }} \u0567\u0589"
                 },
                 "141": {
                     "id": "141",
-                    "trans": "\u054a\u0561\u057f\u056f\u0565\u0580\u0568 \u0578\u0582\u0576\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u057a\u056b\u0584\u057d\u0565\u056c ({{ pixels }}). \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0561\u057c\u0561\u057e\u0565\u056c\u0561\u0563\u0578\u0582\u0575\u0576 \u0584\u0561\u0576\u0561\u056f\u0568 {{ max_pixels }} \u0567.",
-                    "state": "needs-review-translation"
+                    "trans": "\u054a\u0561\u057f\u056f\u0565\u0580\u0568 \u0578\u0582\u0576\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u057a\u056b\u0584\u057d\u0565\u056c ({{ pixels }}). \u054d\u057a\u0561\u057d\u057e\u0578\u0572 \u0561\u057c\u0561\u057e\u0565\u056c\u0561\u0563\u0578\u0582\u0575\u0576 \u0584\u0561\u0576\u0561\u056f\u0568 {{ max_pixels }} \u0567."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "\u0531\u0575\u057d \u0586\u0561\u0575\u056c\u056b \u0561\u0576\u0578\u0582\u0576\u0568 \u0579\u056b \u0570\u0561\u0574\u0561\u057a\u0561\u057f\u0561\u057d\u056d\u0561\u0576\u0578\u0582\u0574 \u057d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u056b\u0577\u0584\u0565\u0580\u056b \u0570\u0561\u057e\u0561\u0584\u0561\u056e\u0578\u0582\u056b\u0576.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0531\u0575\u057d \u0586\u0561\u0575\u056c\u056b \u0561\u0576\u0578\u0582\u0576\u0568 \u0579\u056b \u0570\u0561\u0574\u0561\u057a\u0561\u057f\u0561\u057d\u056d\u0561\u0576\u0578\u0582\u0574 \u057d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u056b\u0577\u0584\u0565\u0580\u056b \u0570\u0561\u057e\u0561\u0584\u0561\u056e\u0578\u0582\u056b\u0576."
                 }
             },
             "id": {
@@ -29231,133 +29087,107 @@
                 },
                 "116": {
                     "id": "116",
-                    "trans": "\u0160i reik\u0161m\u0117 neatitinka galiojan\u010dios savait\u0117s ISO 8601 formatu.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160i reik\u0161m\u0117 neatitinka galiojan\u010dios savait\u0117s ISO 8601 formatu."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra galiojanti savait\u0117.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra galiojanti savait\u0117."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "\u0160i reik\u0161m\u0117 netur\u0117t\u0173 b\u016bti prie\u0161 savait\u0119 \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160i reik\u0161m\u0117 netur\u0117t\u0173 b\u016bti prie\u0161 savait\u0119 \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u0160i reik\u0161m\u0117 netur\u0117t\u0173 b\u016bti po savait\u0117s \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160i reik\u0161m\u0117 netur\u0117t\u0173 b\u016bti po savait\u0117s \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra tinkamas \u201eTwig\u201c \u0161ablonas.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra tinkamas \u201eTwig\u201c \u0161ablonas."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u0160is failas n\u0117ra galiojantis vaizdo \u012fra\u0161as.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160is failas n\u0117ra galiojantis vaizdo \u012fra\u0161as."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Nepavyko nustatyti vaizdo \u012fra\u0161o dyd\u017eio.",
-                    "state": "needs-review-translation"
+                    "trans": "Nepavyko nustatyti vaizdo \u012fra\u0161o dyd\u017eio."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Vaizdo \u012fra\u0161o plotis per didelis ({{ width }}px). Leid\u017eiamas did\u017eiausias plotis yra {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo \u012fra\u0161o plotis per didelis ({{ width }}px). Leid\u017eiamas did\u017eiausias plotis yra {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Vaizdo \u012fra\u0161o plotis per ma\u017eas ({{ width }}px). Tik\u0117tinas ma\u017eiausias plotis yra {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo \u012fra\u0161o plotis per ma\u017eas ({{ width }}px). Tik\u0117tinas ma\u017eiausias plotis yra {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Vaizdo auk\u0161tis per didelis ({{ height }}px). Leid\u017eiamas maksimalus auk\u0161tis yra {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo auk\u0161tis per didelis ({{ height }}px). Leid\u017eiamas maksimalus auk\u0161tis yra {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Vaizdo auk\u0161tis per ma\u017eas ({{ height }}px). Tik\u0117tinas minimalus auk\u0161tis yra {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo auk\u0161tis per ma\u017eas ({{ height }}px). Tik\u0117tinas minimalus auk\u0161tis yra {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Vaizdo \u012fra\u0161e per ma\u017eai pikseli\u0173 ({{ pixels }}). Tikimasi ma\u017eiausiai {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo \u012fra\u0161e per ma\u017eai pikseli\u0173 ({{ pixels }}). Tikimasi ma\u017eiausiai {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Vaizdo \u012fra\u0161e per daug pikseli\u0173 ({{ pixels }}). Tikimasi, kad did\u017eiausias kiekis yra {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo \u012fra\u0161e per daug pikseli\u0173 ({{ pixels }}). Tikimasi, kad did\u017eiausias kiekis yra {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Vaizdo santykis per didelis ({{ ratio }}). Leid\u017eiamas did\u017eiausias santykis yra {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo santykis per didelis ({{ ratio }}). Leid\u017eiamas did\u017eiausias santykis yra {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Vaizdo santykis per ma\u017eas ({{ ratio }}). Tikimasi ma\u017eiausias santykis yra {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo santykis per ma\u017eas ({{ ratio }}). Tikimasi ma\u017eiausias santykis yra {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Vaizdo \u012fra\u0161as yra kvadratinis ({{ width }}x{{ height }}px). Kvadratiniai vaizdo \u012fra\u0161ai neleid\u017eiami.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo \u012fra\u0161as yra kvadratinis ({{ width }}x{{ height }}px). Kvadratiniai vaizdo \u012fra\u0161ai neleid\u017eiami."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Vaizdo \u012fra\u0161as yra guls\u010dio formato ({{ width }}x{{ height }} px). Guls\u010dio formato vaizdo \u012fra\u0161ai neleid\u017eiami.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo \u012fra\u0161as yra guls\u010dio formato ({{ width }}x{{ height }} px). Guls\u010dio formato vaizdo \u012fra\u0161ai neleid\u017eiami."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Vaizdo \u012fra\u0161as yra portreto orientacijos ({{ width }}x{{ height }}px). Portreto orientacijos vaizdo \u012fra\u0161ai neleid\u017eiami.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo \u012fra\u0161as yra portreto orientacijos ({{ width }}x{{ height }}px). Portreto orientacijos vaizdo \u012fra\u0161ai neleid\u017eiami."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Vaizdo failas sugadintas.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo failas sugadintas."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Vaizdo \u012fra\u0161e yra keli srautai. Leid\u017eiamas tik vienas srautas.",
-                    "state": "needs-review-translation"
+                    "trans": "Vaizdo \u012fra\u0161e yra keli srautai. Leid\u017eiamas tik vienas srautas."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nepalaikomas vaizdo kodekas \u201e{{ codec }}\u201c.",
-                    "state": "needs-review-translation"
+                    "trans": "Nepalaikomas vaizdo kodekas \u201e{{ codec }}\u201c."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nepalaikomas vaizdo konteineris \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepalaikomas vaizdo konteineris \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Paveiksl\u0117lio failas sugadintas.",
-                    "state": "needs-review-translation"
+                    "trans": "Paveiksl\u0117lio failas sugadintas."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Paveiksl\u0117lyje per ma\u017eai pikseli\u0173 ({{ pixels }}). Tikimasi ma\u017eiausiai {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Paveiksl\u0117lyje per ma\u017eai pikseli\u0173 ({{ pixels }}). Tikimasi ma\u017eiausiai {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Paveiksl\u0117lis turi per daug pikseli\u0173 ({{ pixels }}). Tik\u0117tinas did\u017eiausias kiekis yra {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Paveiksl\u0117lis turi per daug pikseli\u0173 ({{ pixels }}). Tik\u0117tinas did\u017eiausias kiekis yra {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "\u0160is failo pavadinimas neatitinka laukiamo \u017eenkl\u0173 rinkinio.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160is failo pavadinimas neatitinka laukiamo \u017eenkl\u0173 rinkinio."
                 }
             },
             "lv": {
@@ -43063,8 +42893,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Bu qiymat haqiqiy IP manzil emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat haqiqiy IP manzil emas."
                 },
                 "38": {
                     "id": "38",
@@ -43120,8 +42949,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini da vaqtinchalik katalog sozlanmagan, yoki sozlangan katalog mavjud emas.",
-                    "state": "needs-review-translation"
+                    "trans": "php.ini da vaqtinchalik katalog sozlanmagan, yoki sozlangan katalog mavjud emas."
                 },
                 "52": {
                     "id": "52",
@@ -43153,8 +42981,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Bu qiymat haqiqiy Xalqaro Bank Hisob Raqami (IBAN) emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat haqiqiy Xalqaro Bank Hisob Raqami (IBAN) emas."
                 },
                 "60": {
                     "id": "60",
@@ -43242,8 +43069,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Bu qiymat haqiqiy Biznes Identifikatsiya Kodi (BIC) emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat haqiqiy Biznes Identifikatsiya Kodi (BIC) emas."
                 },
                 "82": {
                     "id": "82",
@@ -43251,8 +43077,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Bu qiymat haqiqiy UUID emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat haqiqiy UUID emas."
                 },
                 "84": {
                     "id": "84",
@@ -43364,158 +43189,127 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Aniqlangan belgi kodlamasi yaroqsiz ({{ detected }}). Ruxsat etilgan kodlamalar {{ encodings }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Aniqlangan belgi kodlamasi yaroqsiz ({{ detected }}). Ruxsat etilgan kodlamalar {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Bu qiymat haqiqiy MAC manzil emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat haqiqiy MAC manzil emas."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Bu URL yuqori darajali domenni o'z ichiga olmaydi.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu URL yuqori darajali domenni o'z ichiga olmaydi."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Bu qiymat juda qisqa. U kamida bitta so'z bo'lishi kerak.|Bu qiymat juda qisqa. U kamida {{ min }} so'z bo'lishi kerak.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat juda qisqa. U kamida bitta so'z bo'lishi kerak.|Bu qiymat juda qisqa. U kamida {{ min }} so'z bo'lishi kerak."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Bu qiymat juda uzun. U faqat bitta so'z bo'lishi kerak.|Bu qiymat juda uzun. U {{ max }} so'z yoki undan kam bo'lishi kerak.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat juda uzun. U faqat bitta so'z bo'lishi kerak.|Bu qiymat juda uzun. U {{ max }} so'z yoki undan kam bo'lishi kerak."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Bu qiymat ISO 8601 formatida haqiqiy haftaga mos kelmaydi.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat ISO 8601 formatida haqiqiy haftaga mos kelmaydi."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Bu qiymat haqiqiy hafta emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat haqiqiy hafta emas."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Bu qiymat \"{{ min }}\" haftadan oldin bo'lmasligi kerak.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat \"{{ min }}\" haftadan oldin bo'lmasligi kerak."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Bu qiymat \"{{ max }}\" haftadan keyin bo'lmasligi kerak.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat \"{{ max }}\" haftadan keyin bo'lmasligi kerak."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Bu qiymat yaroqli Twig shabloni emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat yaroqli Twig shabloni emas."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ushbu fayl yaroqli video emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Ushbu fayl yaroqli video emas."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Videoning hajmini aniqlab bo\u2018lmadi.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoning hajmini aniqlab bo\u2018lmadi."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Video kengligi juda katta ({{ width }}px). Ruxsat etilgan maksimal kenglik {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video kengligi juda katta ({{ width }}px). Ruxsat etilgan maksimal kenglik {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Video kengligi juda kichik ({{ width }}px). Kutilayotgan minimal kenglik {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video kengligi juda kichik ({{ width }}px). Kutilayotgan minimal kenglik {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Video balandligi juda katta ({{ height }}px). Ruxsat etilgan maksimal balandlik {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video balandligi juda katta ({{ height }}px). Ruxsat etilgan maksimal balandlik {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Video balandligi juda kichik ({{ height }}px). Kutilayotgan minimal balandlik {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Video balandligi juda kichik ({{ height }}px). Kutilayotgan minimal balandlik {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Videoda piksellar soni juda kam ({{ pixels }}). Kutilgan minimal miqdor {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoda piksellar soni juda kam ({{ pixels }}). Kutilgan minimal miqdor {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Videoda juda ko\u2018p piksellar bor ({{ pixels }}). Kutilayotgan maksimal miqdor {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoda juda ko\u2018p piksellar bor ({{ pixels }}). Kutilayotgan maksimal miqdor {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Video nisbati juda katta ({{ ratio }}). Ruxsat etilgan maksimal nisbat {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video nisbati juda katta ({{ ratio }}). Ruxsat etilgan maksimal nisbat {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Video nisbati juda kichik ({{ ratio }}). Kutilayotgan minimal nisbat {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video nisbati juda kichik ({{ ratio }}). Kutilayotgan minimal nisbat {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video kvadrat ({{ width }}x{{ height }}px). Kvadrat videolarga ruxsat berilmaydi.",
-                    "state": "needs-review-translation"
+                    "trans": "Video kvadrat ({{ width }}x{{ height }}px). Kvadrat videolarga ruxsat berilmaydi."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video gorizontal yo\u2018nalishda ({{ width }}x{{ height }} px). Gorizontal videolarga ruxsat berilmaydi.",
-                    "state": "needs-review-translation"
+                    "trans": "Video gorizontal yo\u2018nalishda ({{ width }}x{{ height }} px). Gorizontal videolarga ruxsat berilmaydi."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video portret yo\u02bbnalishda ({{ width }}x{{ height }}px). Portret yo\u02bbnalishidagi videolarga ruxsat berilmaydi.",
-                    "state": "needs-review-translation"
+                    "trans": "Video portret yo\u02bbnalishda ({{ width }}x{{ height }}px). Portret yo\u02bbnalishidagi videolarga ruxsat berilmaydi."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Video fayli buzilgan.",
-                    "state": "needs-review-translation"
+                    "trans": "Video fayli buzilgan."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Videoda bir nechta oqim mavjud. Faqat bitta oqimga ruxsat beriladi.",
-                    "state": "needs-review-translation"
+                    "trans": "Videoda bir nechta oqim mavjud. Faqat bitta oqimga ruxsat beriladi."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Qo\u2018llab-quvvatlanmaydigan video kodek \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Qo\u2018llab-quvvatlanmaydigan video kodek \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Qo'llab-quvvatlanmaydigan video konteyner \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Qo'llab-quvvatlanmaydigan video konteyner \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Rasm fayli buzilgan.",
-                    "state": "needs-review-translation"
+                    "trans": "Rasm fayli buzilgan."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Tasvirda piksellar juda kam ({{ pixels }}). Kutilayotgan minimal miqdor {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Tasvirda piksellar juda kam ({{ pixels }}). Kutilayotgan minimal miqdor {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Tasvirda juda ko\u2018p piksel bor ({{ pixels }}). Kutilayotgan maksimal miqdor {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Tasvirda juda ko\u2018p piksel bor ({{ pixels }}). Kutilayotgan maksimal miqdor {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Bu fayl nomi kutilgan belgi to\u2018plamiga mos kelmaydi.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu fayl nomi kutilgan belgi to\u2018plamiga mos kelmaydi."
                 }
             },
             "vi": {
