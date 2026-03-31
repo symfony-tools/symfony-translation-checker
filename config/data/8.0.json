@@ -8515,13 +8515,11 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Te veel mislukte aanmeldpogings, probeer asseblief weer oor %minutes% minuut.",
-                    "state": "needs-review-translation"
+                    "trans": "Te veel mislukte aanmeldpogings, probeer asseblief weer oor %minutes% minute."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Te veel mislukte aanmeldpogings, probeer asseblief weer oor %minutes% minute.",
-                    "state": "needs-review-translation"
+                    "trans": "Te veel mislukte aanmeldpogings, probeer asseblief weer oor %minutes% minute."
                 }
             },
             "ar": {
