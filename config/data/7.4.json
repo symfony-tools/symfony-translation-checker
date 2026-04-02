@@ -12944,7 +12944,7 @@
                 },
                 "6": {
                     "id": "6",
-                    "trans": "Jy moet ten minste {{ limit }} kies.|Jy moet ten minste {{ limit }} keuses kies."
+                    "trans": "Jy moet ten minste {{ limit }} keuse kies.|Jy moet ten minste {{ limit }} keuses kies."
                 },
                 "7": {
                     "id": "7",
@@ -13056,8 +13056,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Hierdie waarde is nie 'n geldige IP-adres nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde is nie 'n geldige IP-adres nie."
                 },
                 "38": {
                     "id": "38",
@@ -13113,8 +13112,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Geen tydelike gids is in php.ini opgestel nie, of die opgestelde gids bestaan nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Geen tydelike vouer is in php.ini gekonfigureer nie, of die gekonfigureerde vouer bestaan \u200b\u200bnie."
                 },
                 "52": {
                     "id": "52",
@@ -13130,7 +13128,7 @@
                 },
                 "55": {
                     "id": "55",
-                    "trans": "Hierdie versameling moet {{ limit }} element of minder bevat.|Hierdie versameling moet {{ limit }} elemente of meer bevat."
+                    "trans": "Hierdie versameling moet {{ limit }} element of minder bevat.|Hierdie versameling moet {{ limit }} elemente of minder bevat."
                 },
                 "56": {
                     "id": "56",
@@ -13146,8 +13144,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Hierdie waarde is nie 'n geldige Internasionale Bankrekeningnommer (IBAN) nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde is nie 'n geldige Internasionale Bankrekeningnommer (IBAN) nie."
                 },
                 "60": {
                     "id": "60",
@@ -13235,8 +13232,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Hierdie waarde is nie 'n geldige Besigheid Identifiseerder Kode (BIC) nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde is nie 'n geldige Besigheid Identifiseerder Kode (BIC) nie."
                 },
                 "82": {
                     "id": "82",
@@ -13244,8 +13240,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Hierdie waarde is nie 'n geldige UUID nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde is nie 'n geldige UUID nie."
                 },
                 "84": {
                     "id": "84",
@@ -13285,8 +13280,7 @@
                 },
                 "93": {
                     "id": "93",
-                    "trans": "Hierdie wagwoord is in 'n data-oortreding uitgelek, dit mag nie gebruik word nie. Gebruik asseblief 'n ander wagwoord.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie wagwoord is in 'n data-oortreding uitgelek, dit mag nie gebruik word nie. Gebruik asseblief 'n ander wagwoord."
                 },
                 "94": {
                     "id": "94",
@@ -13330,193 +13324,155 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Die l\u00eaernaam is te lank. Dit moet {{ filename_max_length }} karakter of minder h\u00ea.|Die l\u00eaernaam is te lank. Dit moet {{ filename_max_length }} karakters of minder h\u00ea.",
-                    "state": "needs-review-translation"
+                    "trans": "Die l\u00eaernaam is te lank. Dit moet {{ filename_max_length }} karakters of minder h\u00ea.|Die l\u00eaernaam is te lank. Dit moet {{ filename_max_length }} karakters of minder h\u00ea."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "Die wagwoordsterkte is te laag. Gebruik asseblief 'n sterker wagwoord.",
-                    "state": "needs-review-translation"
+                    "trans": "Die wachtwoord sterkte is te laag. Gebruik asseblief 'een sterker wachtwoord."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Hierdie waarde bevat karakters wat nie toegelaat word deur die huidige beperkingsvlak nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde bevat karakters wat nie toegelaat word deur die huidige beperkingsvlak nie."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Die gebruik van onsigbare karakters word nie toegelaat nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Die gebruik van onsigbare karakters word nie toegelaat nie."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Die meng van nommers van verskillende skrifte word nie toegelaat nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Die meng van nommers van verskillende skrifte word nie toegelaat nie."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Die gebruik van verborge oorvleuelende karakters word nie toegelaat nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Die gebruik van verborgen oorvleuelende karakters word nie toegelaat nie."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Die uitbreiding van die l\u00eaer is ongeldig ({{ extension }}). Toegelate uitbreidings is {{ extensions }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Die uitbreiding van de l\u00eaer is ongeldig ({{ extension }}). Toegelaten uitbreidings is {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Die opgespoorde karakterkodering is ongeldig ({{ detected }}). Toegelate koderings is {{ encodings }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Die opgespoorde karakterkodering is ongeldig ({{ detected }}). Toegelate koderings is {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Hierdie waarde is nie 'n geldige MAC-adres nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde is nie 'n geldige MAC-adres nie."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Die URL mis 'n topvlakdomein.",
-                    "state": "needs-review-translation"
+                    "trans": "Die URL mis 'n topvlakdomein."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Hierdie waarde is te kort. Dit moet ten minste een woord bevat.|Hierdie waarde is te kort. Dit moet ten minste {{ min }} woorde bevat.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde is te kort. Dit moet ten minste een woord bevat.|Hierdie waarde is te kort. Dit moet ten minste {{ min }} woorde bevat."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Hierdie waarde is te lank. Dit moet een woord bevat.,Hierdie waarde is te lank. Dit moet {{ max }} woorde of minder bevat.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde is te lank. Dit moet een woord bevat.,Hierdie waarde is te lank. Dit moet {{ max }} woorde of minder bevat."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Hierdie waarde stel nie 'n geldige week in die ISO 8601-formaat voor nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde stel nie 'n geldige week in die ISO 8601-formaat voor nie."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Hierdie waarde is nie 'n geldige week nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde is nie 'n geldige week nie."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Hierdie waarde mag nie voor week \"{{ min }}\" wees nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde mag niet voor week \"{{ min }}\" wees nie."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Hierdie waarde mag nie na week \"{{ max }}\" kom nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde mag nie na week \"{{ max }}\" kom nie."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Hierdie waarde is nie 'n geldige Twig-sjabloon nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie waarde is nie 'n geldige Twig-sjabloon nie."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Hierdie l\u00eaer is nie 'n geldige video nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie l\u00eaer is nie 'n geldige video nie."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Die grootte van die video kon nie bepaal word nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Die grootte van die video kon nie bepaal word nie."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Die videowydte is te groot ({{ width }}px). Toegelate maksimum wydte is {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Die videowydte is te groot ({{ width }}px). Toegelate maksimum wydte is {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Die videobreedte is te klein ({{ width }}px). Minimum verwagte breedte is {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Die videobreedte is te klein ({{ width }}px). Minimum verwagte breedte is {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Die videohoogte is te groot ({{ height }}px). Toegelate maksimum hoogte is {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Die videohoogte is te groot ({{ height }}px). Toegestane maximum hoogte is {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Die videohoogte is te klein ({{ height }}px). Minimum hoogte verwag is {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Die videohoogte is te klein ({{ height }}px). Minimum hoogte verwag is {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Die video het te min pixels ({{ pixels }}). Minimum hoeveelheid verwag is {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Die video het te min pixels ({{ pixels }}). Minimum hoeveelheid verwag is {{ min_pixels }} pixels."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Die video het te veel pixels ({{ pixels }}). Maksimum verwagte hoeveelheid is {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Die video het te veel pixels ({{ pixels }}). Maksimum verwagte hoeveelheid is {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Die videoratio is te groot ({{ ratio }}). Toegelate maksimum ratio is {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Die videoratio is te groot ({{ ratio }}). Toegelate maksimum ratio is {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Die videoratio is te klein ({{ ratio }}). Minimum verwagte ratio is {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Die videoratio is te klein ({{ ratio }}). Minimum verwagte ratio is {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Die video is vierkantig ({{ width }}x{{ height }}px). Vierkantige video's word nie toegelaat nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Die video is vierkantig ({{ width }}x{{ height }}px). Vierkantige video's word nie toegelaat nie."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Die video is landskap geori\u00ebnteer ({{ width }}x{{ height }} px). Landskapvideo's word nie toegelaat nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Die video is landskap geori\u00ebnteer ({{ width }}x{{ height }} px). Landskapvideo's word nie toegelaat nie."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Die video is portretgeori\u00ebnteerd ({{ width }}x{{ height }}px). Portretgeori\u00ebnteerde video's word nie toegelaat nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Die video is portretgeori\u00ebnteerd ({{ width }}x{{ height }}px). Portretgeori\u00ebnteerde video's word nie toegelaat nie."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Die videol\u00eaer is korrup.",
-                    "state": "needs-review-translation"
+                    "trans": "Die videol\u00eaer is korrup."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Die video bevat veelvuldige strome. Slegs een stroom word toegelaat.",
-                    "state": "needs-review-translation"
+                    "trans": "Die video bevat veelvuldige strome. Slegs een stroom word toegelaat."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nie-ondersteunde videokodek \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nie-ondersteunde videokodek \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nie-ondersteunde videohouer \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nie-ondersteunde videohouer \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Die beeldl\u00eaer is beskadig.",
-                    "state": "needs-review-translation"
+                    "trans": "Die beeldl\u00eaer is beskadig."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Die beeld het te min pixels ({{ pixels }}). Minimum hoeveelheid verwag is {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Die beeld het te min pixels ({{ pixels }}). Minimum hoeveelheid verwag is {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Die beeld het te veel pixels ({{ pixels }}). Maksimum verwagte aantal is {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Die beeld het te veel pixels ({{ pixels }}). Maksimum verwagte aantal is {{ max_pixels }} pixels."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Hierdie l\u00eaernaam stem nie ooreen met die verwagte karakterstel nie.",
-                    "state": "needs-review-translation"
+                    "trans": "Hierdie l\u00eaernaam stem nie ooreen met die verwagte karakterstel nie."
                 }
             },
             "ar": {
