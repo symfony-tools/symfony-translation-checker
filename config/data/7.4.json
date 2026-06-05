@@ -132,6 +132,10 @@
             "128": {
                 "id": "128",
                 "source": "Please enter a valid week."
+            },
+            "129": {
+                "id": "129",
+                "source": "Please enter a valid UUID."
             }
         },
         "SecurityCore": {
@@ -764,6 +768,18 @@
             "142": {
                 "id": "142",
                 "source": "This filename does not match the expected charset."
+            },
+            "143": {
+                "id": "143",
+                "source": "This value is not valid XML."
+            },
+            "144": {
+                "id": "144",
+                "source": "This value does not conform to the expected XSD schema."
+            },
+            "145": {
+                "id": "145",
+                "source": "This XML payload is too large ({{ size }} bytes): it exceeds the limit of {{ limit }} bytes."
             }
         }
     },
@@ -901,6 +917,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Voer assblief 'n geldige week in."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Voer assblief 'n geldige UUID in.",
+                    "state": "needs-review-translation"
                 }
             },
             "ar": {
@@ -1035,6 +1056,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u0627\u0644\u0631\u062c\u0627\u0621 \u0625\u062f\u062e\u0627\u0644 \u0623\u0633\u0628\u0648\u0639 \u0635\u0627\u0644\u062d."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u0627\u0644\u0631\u062c\u0627\u0621 \u0625\u062f\u062e\u0627\u0644 UUID \u0635\u0627\u0644\u062d.",
+                    "state": "needs-review-translation"
                 }
             },
             "az": {
@@ -1169,6 +1195,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Z\u0259hm\u0259t olmasa do\u011fru bir h\u0259ft\u0259 se\u00e7in."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Z\u0259hm\u0259t olmasa do\u011fru bir UUID daxil edin.",
+                    "state": "needs-review-translation"
                 }
             },
             "be": {
@@ -1303,6 +1334,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u041a\u0430\u043b\u0456 \u043b\u0430\u0441\u043a\u0430, \u0443\u0432\u044f\u0434\u0437\u0456\u0446\u0435 \u043a\u0430\u0440\u044d\u043a\u0442\u043d\u044b \u0442\u044b\u0434\u0437\u0435\u043d\u044c."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u041a\u0430\u043b\u0456 \u043b\u0430\u0441\u043a\u0430, \u0443\u0432\u044f\u0434\u0437\u0456\u0446\u0435 \u043a\u0430\u0440\u044d\u043a\u0442\u043d\u044b UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "bg": {
@@ -1437,6 +1473,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u041c\u043e\u043b\u044f \u0432\u044a\u0432\u0435\u0434\u0435\u0442\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u0441\u0435\u0434\u043c\u0438\u0446\u0430."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u041c\u043e\u043b\u044f \u0432\u044a\u0432\u0435\u0434\u0435\u0442\u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "bs": {
@@ -1571,6 +1612,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Molim upi\u0161ite ispravnu sedmicu."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Molim upi\u0161ite ispravan UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "ca": {
@@ -1705,6 +1751,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Introdu\u00efu una setmana v\u00e0lida."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Introdu\u00efu un UUID v\u00e0lid.",
+                    "state": "needs-review-translation"
                 }
             },
             "cs": {
@@ -1839,6 +1890,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Pros\u00edm zadejte platn\u00fd t\u00fdden."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Pros\u00edm zadejte platn\u00fd UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "cy": {
@@ -2006,6 +2062,11 @@
                     "id": "128",
                     "trans": "Nodwch wythnos ddilys.",
                     "state": "needs-review-translation"
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Nodwch UUID dilys.",
+                    "state": "needs-review-translation"
                 }
             },
             "da": {
@@ -2140,6 +2201,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Indtast venligst en gyldig uge."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Indtast venligst en gyldig UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "de": {
@@ -2274,6 +2340,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Bitte geben Sie eine g\u00fcltige Woche ein."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Bitte geben Sie eine g\u00fcltige UUID ein.",
+                    "state": "needs-review-translation"
                 }
             },
             "el": {
@@ -2408,6 +2479,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03b5\u03b9\u03c3\u03ac\u03b3\u03b5\u03c4\u03b5 \u03bc\u03af\u03b1 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03b5\u03b9\u03c3\u03ac\u03b3\u03b5\u03c4\u03b5 \u03ad\u03bd\u03b1 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "en": {
@@ -2542,6 +2618,10 @@
                 "128": {
                     "id": "128",
                     "trans": "Please enter a valid week."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Please enter a valid UUID."
                 }
             },
             "es": {
@@ -2676,6 +2756,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Por favor, ingrese una semana v\u00e1lida."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Por favor, ingrese un UUID v\u00e1lido.",
+                    "state": "needs-review-translation"
                 }
             },
             "et": {
@@ -2810,6 +2895,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Palun sisesta korrektne n\u00e4dal."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Palun sisesta korrektne UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "eu": {
@@ -2945,6 +3035,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Mesedez, sartu baliozko aste bat."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Mesedez, sartu baliozko UUID bat.",
+                    "state": "needs-review-translation"
                 }
             },
             "fa": {
@@ -3079,6 +3174,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u0644\u0637\u0641\u0627\u064b \u06cc\u06a9 \u0647\u0641\u062a\u0647\u200c \u0645\u0639\u062a\u0628\u0631 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u0644\u0637\u0641\u0627\u064b \u06cc\u06a9 UUID \u0645\u0639\u062a\u0628\u0631 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f.",
+                    "state": "needs-review-translation"
                 }
             },
             "fi": {
@@ -3213,6 +3313,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Sy\u00f6t\u00e4 kelvollinen viikko."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Sy\u00f6t\u00e4 kelvollinen UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "fr": {
@@ -3347,6 +3452,10 @@
                 "128": {
                     "id": "128",
                     "trans": "Veuillez entrer une semaine valide."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Veuillez entrer un UUID valide."
                 }
             },
             "gl": {
@@ -3481,6 +3590,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Por favor, introduce unha semana v\u00e1lida."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Por favor, introduce un UUID v\u00e1lido.",
+                    "state": "needs-review-translation"
                 }
             },
             "he": {
@@ -3615,6 +3729,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u05d0\u05e0\u05d0 \u05d4\u05d6\u05df \u05e9\u05d1\u05d5\u05e2 \u05ea\u05e7\u05e3."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u05d0\u05e0\u05d0 \u05d4\u05d6\u05df UUID \u05ea\u05e7\u05e3.",
+                    "state": "needs-review-translation"
                 }
             },
             "hr": {
@@ -3749,6 +3868,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Molim unesite ispravni tjedan."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Molim unesite ispravan UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "hu": {
@@ -3883,6 +4007,11 @@
                 "128": {
                     "id": "128",
                     "trans": "K\u00e9rj\u00fck, adjon meg egy \u00e9rv\u00e9nyes hetet."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "K\u00e9rj\u00fck, adjon meg egy \u00e9rv\u00e9nyes UUID-t.",
+                    "state": "needs-review-translation"
                 }
             },
             "hy": {
@@ -4017,6 +4146,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u0544\u0578\u0582\u057f\u0584\u0561\u0563\u0580\u0565\u0584 \u057e\u0561\u057e\u0565\u0580 \u0577\u0561\u0562\u0561\u0569\u0589"
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u0544\u0578\u0582\u057f\u0584\u0561\u0563\u0580\u0565\u0584 \u057e\u0561\u057e\u0565\u0580 UUID\u0589",
+                    "state": "needs-review-translation"
                 }
             },
             "id": {
@@ -4151,6 +4285,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Silahkan masukkan minggu yang sah."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Silahkan masukkan UUID yang sah.",
+                    "state": "needs-review-translation"
                 }
             },
             "it": {
@@ -4285,6 +4424,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Per favore, inserisci una settimana valida."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Per favore, inserisci un UUID valido.",
+                    "state": "needs-review-translation"
                 }
             },
             "ja": {
@@ -4419,6 +4563,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u6709\u52b9\u306a\u9031\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u6709\u52b9\u306aUUID\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                    "state": "needs-review-translation"
                 }
             },
             "lb": {
@@ -4553,6 +4702,11 @@
                 "128": {
                     "id": "128",
                     "trans": "W.e.g. eng g\u00eblteg Woch aginn."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "W.e.g. eng g\u00eblteg UUID aginn.",
+                    "state": "needs-review-translation"
                 }
             },
             "lt": {
@@ -4687,6 +4841,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Pra\u0161ome \u012fvesti tinkam\u0105 savait\u0119."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Pra\u0161ome \u012fvesti tinkam\u0105 UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "lv": {
@@ -4821,6 +4980,11 @@
                 "128": {
                     "id": "128",
                     "trans": "L\u016bdzu, ievadiet der\u012bgu ned\u0113\u013cu."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "L\u016bdzu, ievadiet der\u012bgu UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "mk": {
@@ -4955,6 +5119,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u0412\u0435 \u043c\u043e\u043b\u0438\u043c\u0435 \u0432\u043d\u0435\u0441\u0435\u0442\u0435 \u0432\u0430\u043b\u0438\u0434\u043d\u0430 \u043d\u0435\u0434\u0435\u043b\u0430."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u0412\u0435 \u043c\u043e\u043b\u0438\u043c\u0435 \u0432\u043d\u0435\u0441\u0435\u0442\u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "mn": {
@@ -5089,6 +5258,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u04ae\u043d\u044d\u043d \u0437\u04e9\u0432 \u0434\u043e\u043b\u043e\u043e \u0445\u043e\u043d\u043e\u0433 \u0441\u043e\u043d\u0433\u043e\u043d\u043e \u0443\u0443."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u04ae\u043d\u044d\u043d \u0437\u04e9\u0432 UUID \u043e\u0440\u0443\u0443\u043b\u043d\u0430 \u0443\u0443.",
+                    "state": "needs-review-translation"
                 }
             },
             "my": {
@@ -5223,6 +5397,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u1000\u103b\u1031\u1038\u1007\u1030\u1038\u1015\u103c\u102f\u104d \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c\u101b\u1000\u103a\u101e\u1010\u1039\u1010\u1015\u1010\u103a\u1000\u102d\u102f\u1011\u100a\u1037\u103a\u1015\u102b\u104b"
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u1000\u103b\u1031\u1038\u1007\u1030\u1038\u1015\u103c\u102f\u104d \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c UUID \u1000\u102d\u102f\u1011\u100a\u1037\u103a\u1015\u102b\u104b",
+                    "state": "needs-review-translation"
                 }
             },
             "nb": {
@@ -5357,6 +5536,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Vennligst skriv inn en gyldig uke."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Vennligst skriv inn en gyldig UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "nl": {
@@ -5491,6 +5675,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Vul een geldige week in."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Vul een geldige UUID in.",
+                    "state": "needs-review-translation"
                 }
             },
             "nn": {
@@ -5626,6 +5815,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Gje opp ei gyldig veke."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Gje opp ein gyldig UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "no": {
@@ -5760,6 +5954,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Vennligst skriv inn en gyldig uke."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Vennligst skriv inn en gyldig UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "pl": {
@@ -5894,6 +6093,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Prosz\u0119 wybra\u0107 prawid\u0142owy tydzie\u0144."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Prosz\u0119 poda\u0107 prawid\u0142owy UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "pt": {
@@ -6028,6 +6232,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Por favor, selecione uma semana v\u00e1lida."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Por favor, introduza um UUID v\u00e1lido.",
+                    "state": "needs-review-translation"
                 }
             },
             "pt_BR": {
@@ -6162,6 +6371,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Por favor, informe uma semana v\u00e1lida."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Por favor, informe um UUID v\u00e1lido.",
+                    "state": "needs-review-translation"
                 }
             },
             "ro": {
@@ -6296,6 +6510,11 @@
                 "128": {
                     "id": "128",
                     "trans": "V\u0103 rug\u0103m s\u0103 introduce\u021bi o s\u0103pt\u0103m\u00e2n\u0103 valid\u0103."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "V\u0103 rug\u0103m s\u0103 introduce\u021bi un UUID valid.",
+                    "state": "needs-review-translation"
                 }
             },
             "ru": {
@@ -6430,6 +6649,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u043d\u0435\u0434\u0435\u043b\u044e."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "sk": {
@@ -6564,6 +6788,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Pros\u00edm zadajte platn\u00fd t\u00fd\u017ede\u0148."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Pros\u00edm zadajte platn\u00fd UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "sl": {
@@ -6698,6 +6927,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Prosimo, vnesite veljaven teden."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Prosimo, vnesite veljaven UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "sq": {
@@ -6832,6 +7066,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Ju lutemi shkruani nj\u00eb jav\u00eb t\u00eb vlefshme."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Ju lutemi shkruani nj\u00eb UUID t\u00eb vlefsh\u00ebm.",
+                    "state": "needs-review-translation"
                 }
             },
             "sr_Cyrl": {
@@ -6966,6 +7205,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u041c\u043e\u043b\u0438\u043c \u0443\u043f\u0438\u0448\u0438\u0442\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0443 \u0441\u0435\u0434\u043c\u0438\u0446\u0443."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u041c\u043e\u043b\u0438\u043c \u0443\u043f\u0438\u0448\u0438\u0442\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "sr_Latn": {
@@ -7100,6 +7344,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Molim upi\u0161ite ispravnu sedmicu."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Molim upi\u0161ite ispravan UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "sv": {
@@ -7234,6 +7483,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Ange en giltig vecka."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Ange ett giltigt UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "th": {
@@ -7368,6 +7622,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u0e01\u0e23\u0e38\u0e13\u0e32\u0e01\u0e23\u0e2d\u0e01\u0e04\u0e48\u0e32\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c\u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u0e01\u0e23\u0e38\u0e13\u0e32\u0e01\u0e23\u0e2d\u0e01\u0e04\u0e48\u0e32 UUID \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07",
+                    "state": "needs-review-translation"
                 }
             },
             "tl": {
@@ -7502,6 +7761,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Pakilagay ang balidong linggo."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Pakilagay ang balidong UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "tr": {
@@ -7636,6 +7900,11 @@
                 "128": {
                     "id": "128",
                     "trans": "L\u00fctfen ge\u00e7erli bir hafta girin."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "L\u00fctfen ge\u00e7erli bir UUID girin.",
+                    "state": "needs-review-translation"
                 }
             },
             "uk": {
@@ -7770,6 +8039,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u0411\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0432\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0456\u0439\u0441\u043d\u0438\u0439 \u0442\u0438\u0436\u0434\u0435\u043d\u044c."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u0411\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0432\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0456\u0439\u0441\u043d\u0438\u0439 UUID.",
+                    "state": "needs-review-translation"
                 }
             },
             "ur": {
@@ -7904,6 +8178,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u0628\u0631\u0627\u06d3 \u06a9\u0631\u0645 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a \u06c1\u0641\u062a\u06c1 \u062f\u0631\u062c \u06a9\u0631\u06cc\u06ba"
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u0628\u0631\u0627\u06d3 \u06a9\u0631\u0645 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a UUID \u062f\u0631\u062c \u06a9\u0631\u06cc\u06ba",
+                    "state": "needs-review-translation"
                 }
             },
             "uz": {
@@ -8038,6 +8317,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Iltimos, haqiqiy haftani kiriting."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Iltimos, haqiqiy UUID kiriting.",
+                    "state": "needs-review-translation"
                 }
             },
             "vi": {
@@ -8172,6 +8456,11 @@
                 "128": {
                     "id": "128",
                     "trans": "Vui lo\u0300ng nh\u00e2\u0323p m\u00f4\u0323t tu\u00e2\u0300n h\u01a1\u0323p l\u00ea\u0323."
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "Vui l\u00f2ng nh\u1eadp m\u1ed9t UUID h\u1ee3p l\u1ec7.",
+                    "state": "needs-review-translation"
                 }
             },
             "zh_CN": {
@@ -8306,6 +8595,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u8bf7\u8f93\u5165\u6709\u6548\u7684\u661f\u671f\u3002"
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u8bf7\u8f93\u5165\u6709\u6548\u7684 UUID\u3002",
+                    "state": "needs-review-translation"
                 }
             },
             "zh_TW": {
@@ -8440,6 +8734,11 @@
                 "128": {
                     "id": "128",
                     "trans": "\u8acb\u8f38\u5165\u6709\u6548\u7684\u661f\u671f\u3002"
+                },
+                "129": {
+                    "id": "129",
+                    "trans": "\u8acb\u8f38\u5165\u6709\u6548\u7684 UUID\u3002",
+                    "state": "needs-review-translation"
                 }
             }
         },
@@ -13473,6 +13772,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Hierdie l\u00eaernaam stem nie ooreen met die verwagte karakterstel nie."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Hierdie waarde is nie geldige XML nie.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Hierdie waarde voldoen nie aan die verwagte XSD-skema nie.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Hierdie XML-loonvrag is te groot ({{ size }} grepe): dit oorskry die limiet van {{ limit }} grepe.",
+                    "state": "needs-review-translation"
                 }
             },
             "ar": {
@@ -14027,6 +14341,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u0627\u0633\u0645 \u0627\u0644\u0645\u0644\u0641 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0623\u062d\u0631\u0641 \u063a\u064a\u0631 \u0645\u0633\u0645\u0648\u062d \u0628\u0647\u0627."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a XML \u0635\u0627\u0644\u062d\u0629.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u0627 \u062a\u062a\u0648\u0627\u0641\u0642 \u0645\u0639 \u0645\u062e\u0637\u0637 XSD \u0627\u0644\u0645\u062a\u0648\u0642\u0639.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u062d\u0645\u0648\u0644\u0629 XML \u0647\u0630\u0647 \u0643\u0628\u064a\u0631\u0629 \u062c\u062f\u064b\u0627 ({{ size }} \u0628\u0627\u064a\u062a): \u0641\u0647\u064a \u062a\u062a\u062c\u0627\u0648\u0632 \u0627\u0644\u062d\u062f \u0627\u0644\u0628\u0627\u0644\u063a {{ limit }} \u0628\u0627\u064a\u062a.",
+                    "state": "needs-review-translation"
                 }
             },
             "az": {
@@ -14581,6 +14910,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Bu fayl ad\u0131 g\u00f6zl\u0259nil\u0259n simvol d\u0259stin\u0259 uy\u011fun g\u0259lmir."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Bu d\u0259y\u0259r etibarl\u0131 XML deyil.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Bu d\u0259y\u0259r g\u00f6zl\u0259nil\u0259n XSD sxemin\u0259 uy\u011fun g\u0259lmir.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Bu XML y\u00fck\u00fc \u00e7ox b\u00f6y\u00fckd\u00fcr ({{ size }} bayt): {{ limit }} bayt h\u0259ddini a\u015f\u0131r.",
+                    "state": "needs-review-translation"
                 }
             },
             "be": {
@@ -15135,6 +15479,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u0413\u044d\u0442\u0430 \u043d\u0430\u0437\u0432\u0430 \u0444\u0430\u0439\u043b\u0430 \u043d\u0435 \u0430\u0434\u043f\u0430\u0432\u044f\u0434\u0430\u0435 \u0447\u0430\u043a\u0430\u043d\u0430\u043c\u0443 \u043d\u0430\u0431\u043e\u0440\u0443 \u0437\u043d\u0430\u043a\u0430\u045e."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b\u043c XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u0413\u044d\u0442\u0430 \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 \u043d\u0435 \u0430\u0434\u043f\u0430\u0432\u044f\u0434\u0430\u0435 \u0447\u0430\u043a\u0430\u043d\u0430\u0439 \u0441\u0445\u0435\u043c\u0435 XSD.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u0413\u044d\u0442\u0430\u044f XML-\u043d\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u0437\u0430\u043d\u0430\u0434\u0442\u0430 \u0432\u044f\u043b\u0456\u043a\u0430\u044f ({{ size }} \u0431\u0430\u0439\u0442): \u044f\u043d\u0430 \u043f\u0435\u0440\u0430\u0432\u044b\u0448\u0430\u0435 \u043b\u0456\u043c\u0456\u0442 \u0443 {{ limit }} \u0431\u0430\u0439\u0442.",
+                    "state": "needs-review-translation"
                 }
             },
             "bg": {
@@ -15689,6 +16048,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u0418\u043c\u0435\u0442\u043e \u043d\u0430 \u0444\u0430\u0439\u043b\u0430 \u043d\u0435 \u0441\u044a\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0430 \u043d\u0430 \u043e\u0447\u0430\u043a\u0432\u0430\u043d\u0438\u044f \u043d\u0430\u0431\u043e\u0440 \u043e\u0442 \u0437\u043d\u0430\u0446\u0438."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u0422\u0430\u0437\u0438 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u0422\u0430\u0437\u0438 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \u043d\u0435 \u0441\u044a\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0430 \u043d\u0430 \u043e\u0447\u0430\u043a\u0432\u0430\u043d\u0438\u044f XSD \u0448\u0430\u0431\u043b\u043e\u043d.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u0422\u043e\u0437\u0438 XML \u0442\u043e\u0432\u0430\u0440 \u0435 \u0442\u0432\u044a\u0440\u0434\u0435 \u0433\u043e\u043b\u044f\u043c ({{ size }} \u0431\u0430\u0439\u0442\u0430): \u043d\u0430\u0434\u0432\u0438\u0448\u0430\u0432\u0430 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u0435\u0442\u043e \u043e\u0442 {{ limit }} \u0431\u0430\u0439\u0442\u0430.",
+                    "state": "needs-review-translation"
                 }
             },
             "bs": {
@@ -16280,6 +16654,21 @@
                     "id": "142",
                     "trans": "Naziv ove datoteke ne odgovara o\u010dekivanom skupu znakova.",
                     "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Ova vrijednost ne odgovara o\u010dekivanoj XSD shemi.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} bajtova): prema\u0161uje ograni\u010denje od {{ limit }} bajtova.",
+                    "state": "needs-review-translation"
                 }
             },
             "ca": {
@@ -16834,6 +17223,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Aquest nom de fitxer no coincideix amb el charset esperat."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Aquest valor no \u00e9s un XML v\u00e0lid.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Aquest valor no s'ajusta a l'esquema XSD esperat.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Aquesta c\u00e0rrega XML \u00e9s massa gran ({{ size }} bytes): supera el l\u00edmit de {{ limit }} bytes.",
+                    "state": "needs-review-translation"
                 }
             },
             "cs": {
@@ -17388,6 +17792,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Tento n\u00e1zev souboru neodpov\u00edd\u00e1 o\u010dek\u00e1van\u00e9 znakov\u00e9 sad\u011b."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Tato hodnota nen\u00ed platn\u00e9 XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Tato hodnota neodpov\u00edd\u00e1 o\u010dek\u00e1van\u00e9mu sch\u00e9matu XSD.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Tato datov\u00e1 \u010d\u00e1st XML je p\u0159\u00edli\u0161 velk\u00e1 ({{ size }} bajt\u016f): p\u0159ekra\u010duje limit {{ limit }} bajt\u016f.",
+                    "state": "needs-review-translation"
                 }
             },
             "cy": {
@@ -18003,6 +18422,21 @@
                     "id": "142",
                     "trans": "Nid yw'r enw ffeil hwn yn cyfateb i'r set nodau ddisgwyliedig.",
                     "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Nid yw'r gwerth hwn yn XML dilys.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Nid yw'r gwerth hwn yn cydymffurfio \u00e2'r sgema XSD disgwyliedig.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Mae'r llwyth XML hwn yn rhy fawr ({{ size }} beit): mae'n fwy na'r terfyn o {{ limit }} beit.",
+                    "state": "needs-review-translation"
                 }
             },
             "da": {
@@ -18557,6 +18991,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Dette filnavn matcher ikke det forventede tegns\u00e6t."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Denne v\u00e6rdi er ikke gyldig XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Denne v\u00e6rdi overholder ikke det forventede XSD-skema.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Denne XML-nyttelast er for stor ({{ size }} byte): den overskrider gr\u00e6nsen p\u00e5 {{ limit }} byte.",
+                    "state": "needs-review-translation"
                 }
             },
             "de": {
@@ -19111,6 +19560,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Dieser Dateiname entspricht nicht dem erwarteten Zeichensatz."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Dieser Wert ist kein g\u00fcltiges XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Dieser Wert entspricht nicht dem erwarteten XSD-Schema.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Diese XML-Nutzlast ist zu gro\u00df ({{ size }} Bytes): Sie \u00fcberschreitet das Limit von {{ limit }} Bytes.",
+                    "state": "needs-review-translation"
                 }
             },
             "el": {
@@ -19665,6 +20129,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf \u03cc\u03bd\u03bf\u03bc\u03b1 \u03b1\u03c1\u03c7\u03b5\u03af\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b1\u03bd\u03c4\u03b9\u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af \u03c3\u03c4\u03bf \u03b1\u03bd\u03b1\u03bc\u03b5\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03ae\u03c1\u03c9\u03bd."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03c4\u03b9\u03bc\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u0391\u03c5\u03c4\u03ae \u03b7 \u03c4\u03b9\u03bc\u03ae \u03b4\u03b5\u03bd \u03c3\u03c5\u03bc\u03bc\u03bf\u03c1\u03c6\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03bf \u03b1\u03bd\u03b1\u03bc\u03b5\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf \u03c3\u03c7\u03ae\u03bc\u03b1 XSD.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf \u03c9\u03c6\u03ad\u03bb\u03b9\u03bc\u03bf \u03c6\u03bf\u03c1\u03c4\u03af\u03bf XML \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bf\u03bb\u03cd \u03bc\u03b5\u03b3\u03ac\u03bb\u03bf ({{ size }} bytes): \u03c5\u03c0\u03b5\u03c1\u03b2\u03b1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf \u03cc\u03c1\u03b9\u03bf \u03c4\u03c9\u03bd {{ limit }} bytes.",
+                    "state": "needs-review-translation"
                 }
             },
             "en": {
@@ -20219,6 +20698,18 @@
                 "142": {
                     "id": "142",
                     "trans": "This filename does not match the expected charset."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "This value is not valid XML."
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "This value does not conform to the expected XSD schema."
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "This XML payload is too large ({{ size }} bytes): it exceeds the limit of {{ limit }} bytes."
                 }
             },
             "es": {
@@ -20773,6 +21264,21 @@
                 "142": {
                     "id": "142",
                     "trans": "El nombre de este archivo no utiliza el conjunto de caracteres esperado."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Este valor no es un XML v\u00e1lido.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Este valor no se ajusta al esquema XSD esperado.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Esta carga \u00fatil XML es demasiado grande ({{ size }} bytes): supera el l\u00edmite de {{ limit }} bytes.",
+                    "state": "needs-review-translation"
                 }
             },
             "et": {
@@ -21327,6 +21833,21 @@
                 "142": {
                     "id": "142",
                     "trans": "See failinimi ei vasta eeldatavale m\u00e4rgistikule."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "See v\u00e4\u00e4rtus ei vasta oodatud XSD-skeemile.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "See XML-i kasulik koormus on liiga suur ({{ size }} baiti): see \u00fcletab {{ limit }} baidi piiri.",
+                    "state": "needs-review-translation"
                 }
             },
             "eu": {
@@ -21918,6 +22439,21 @@
                     "id": "142",
                     "trans": "Fitxategi-izen honek ez du espero zen karaktere multzoarekin bat egiten.",
                     "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Balio hau ez da baliozko XML bat.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Balio hau ez dator bat espero den XSD eskemarekin.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "XML karga hau handiegia da ({{ size }} byte): {{ limit }} byteko muga gainditzen du.",
+                    "state": "needs-review-translation"
                 }
             },
             "fa": {
@@ -22472,6 +23008,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u0646\u0627\u0645 \u0641\u0627\u06cc\u0644 \u0645\u062c\u0627\u0632 \u0646\u06cc\u0633\u062a."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u06cc\u06a9 XML \u0645\u0639\u062a\u0628\u0631 \u0646\u06cc\u0633\u062a.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u0627\u06cc\u0646 \u0645\u0642\u062f\u0627\u0631 \u0628\u0627 \u0637\u0631\u062d\u200c\u0648\u0627\u0631\u0647\u0654 XSD \u0645\u0648\u0631\u062f \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u0637\u0627\u0628\u0642\u062a \u0646\u062f\u0627\u0631\u062f.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u0627\u06cc\u0646 \u0645\u062d\u062a\u0648\u0627\u06cc XML \u0628\u06cc\u0634 \u0627\u0632 \u062d\u062f \u0628\u0632\u0631\u06af \u0627\u0633\u062a ({{ size }} \u0628\u0627\u06cc\u062a): \u0627\u0632 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a {{ limit }} \u0628\u0627\u06cc\u062a \u0641\u0631\u0627\u062a\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f.",
+                    "state": "needs-review-translation"
                 }
             },
             "fi": {
@@ -23026,6 +23577,21 @@
                 "142": {
                     "id": "142",
                     "trans": "T\u00e4m\u00e4 tiedostonimi ei vastaa odotettua merkist\u00f6\u00e4."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "T\u00e4m\u00e4 arvo ei ole kelvollista XML:\u00e4\u00e4.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "T\u00e4m\u00e4 arvo ei vastaa odotettua XSD-skeemaa.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "T\u00e4m\u00e4 XML-data on liian suuri ({{ size }} tavua): se ylitt\u00e4\u00e4 {{ limit }} tavun rajan.",
+                    "state": "needs-review-translation"
                 }
             },
             "fr": {
@@ -23580,6 +24146,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Le nom de fichier ne correspond pas au jeu de caract\u00e8res attendu."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Cette valeur n'est pas un XML valide.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Cette valeur n'est pas conforme au sch\u00e9ma XSD attendu.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Cette charge utile XML est trop volumineuse ({{ size }} octets) : elle d\u00e9passe la limite de {{ limit }} octets.",
+                    "state": "needs-review-translation"
                 }
             },
             "gl": {
@@ -24134,6 +24715,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Este nome de ficheiro non coincide co charset agardado."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Este valor non \u00e9 un XML v\u00e1lido.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Este valor non se axusta ao esquema XSD esperado.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Esta carga \u00fatil XML \u00e9 demasiado grande ({{ size }} bytes): supera o l\u00edmite de {{ limit }} bytes.",
+                    "state": "needs-review-translation"
                 }
             },
             "he": {
@@ -24688,6 +25284,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u05e9\u05dd \u05d4\u05e7\u05d5\u05d1\u05e5 \u05d4\u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d5\u05d0\u05dd \u05d0\u05ea \u05de\u05e2\u05e8\u05da \u05d4\u05ea\u05d5\u05d5\u05d9\u05dd \u05d4\u05e6\u05e4\u05d5\u05d9."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 XML \u05ea\u05e7\u05d9\u05df.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d5\u05d0\u05dd \u05dc\u05e1\u05db\u05de\u05ea \u05d4-XSD \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u05de\u05d8\u05e2\u05df \u05d4-XML \u05d4\u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05de\u05d3\u05d9 ({{ size }} \u05d1\u05ea\u05d9\u05dd): \u05d4\u05d5\u05d0 \u05d7\u05d5\u05e8\u05d2 \u05de\u05d4\u05de\u05d2\u05d1\u05dc\u05d4 \u05e9\u05dc {{ limit }} \u05d1\u05ea\u05d9\u05dd.",
+                    "state": "needs-review-translation"
                 }
             },
             "hr": {
@@ -25242,6 +25853,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Naziv ove datoteke ne odgovara o\u010dekivanom skupu znakova."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Ova vrijednost ne odgovara o\u010dekivanoj XSD shemi.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} bajtova): prema\u0161uje ograni\u010denje od {{ limit }} bajtova.",
+                    "state": "needs-review-translation"
                 }
             },
             "hu": {
@@ -25818,6 +26444,21 @@
                     "id": "142",
                     "trans": "Ez a f\u00e1jln\u00e9v nem felel meg a v\u00e1rt karakterk\u00e9szletnek.",
                     "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Ez az \u00e9rt\u00e9k nem felel meg az elv\u00e1rt XSD-s\u00e9m\u00e1nak.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Ez az XML-adattartalom t\u00fal nagy ({{ size }} b\u00e1jt): meghaladja a {{ limit }} b\u00e1jtos korl\u00e1tot.",
+                    "state": "needs-review-translation"
                 }
             },
             "hy": {
@@ -26372,6 +27013,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u0531\u0575\u057d \u0586\u0561\u0575\u056c\u056b \u0561\u0576\u0578\u0582\u0576\u0568 \u0579\u056b \u0570\u0561\u0574\u0561\u057a\u0561\u057f\u0561\u057d\u056d\u0561\u0576\u0578\u0582\u0574 \u057d\u057a\u0561\u057d\u057e\u0578\u0572 \u0576\u056b\u0577\u0584\u0565\u0580\u056b \u0570\u0561\u057e\u0561\u0584\u0561\u056e\u0578\u0582\u056b\u0576."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u057e\u0561\u057e\u0565\u0580 XML \u0579\u0567\u0589",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u0531\u0575\u057d \u0561\u0580\u056a\u0565\u0584\u0568 \u0579\u056b \u0570\u0561\u0574\u0561\u057a\u0561\u057f\u0561\u057d\u056d\u0561\u0576\u0578\u0582\u0574 \u057d\u057a\u0561\u057d\u057e\u0578\u0572 XSD \u057d\u056d\u0565\u0574\u0561\u0575\u056b\u0576\u0589",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u0531\u0575\u057d XML \u0562\u0565\u057c\u0576\u057e\u0561\u056e\u0584\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0574\u0565\u056e \u0567 ({{ size }} \u0562\u0561\u0575\u0569)\u055d \u0561\u0575\u0576 \u0563\u0565\u0580\u0561\u0566\u0561\u0576\u0581\u0578\u0582\u0574 \u0567 {{ limit }} \u0562\u0561\u0575\u0569 \u057d\u0561\u0570\u0574\u0561\u0576\u0568\u0589",
+                    "state": "needs-review-translation"
                 }
             },
             "id": {
@@ -26926,6 +27582,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Nama berkas ini tidak sesuai dengan set karakter yang diharapkan."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Nilai ini bukan XML yang valid.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Nilai ini tidak sesuai dengan skema XSD yang diharapkan.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Muatan XML ini terlalu besar ({{ size }} byte): melebihi batas {{ limit }} byte.",
+                    "state": "needs-review-translation"
                 }
             },
             "it": {
@@ -27480,6 +28151,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Questo nome file non corrisponde al set di caratteri previsto."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Questo valore non \u00e8 un XML valido.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Questo valore non \u00e8 conforme allo schema XSD previsto.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Questo payload XML \u00e8 troppo grande ({{ size }} byte): supera il limite di {{ limit }} byte.",
+                    "state": "needs-review-translation"
                 }
             },
             "ja": {
@@ -28034,6 +28720,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u540d\u306f\u671f\u5f85\u3055\u308c\u308b\u6587\u5b57\u30bb\u30c3\u30c8\u3068\u4e00\u81f4\u3057\u307e\u305b\u3093\u3002"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u3053\u306e\u5024\u306f\u6709\u52b9\u306aXML\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u3053\u306e\u5024\u306f\u671f\u5f85\u3055\u308c\u308bXSD\u30b9\u30ad\u30fc\u30de\u306b\u6e96\u62e0\u3057\u3066\u3044\u307e\u305b\u3093\u3002",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u3053\u306eXML\u30da\u30a4\u30ed\u30fc\u30c9\u306f\u5927\u304d\u3059\u304e\u307e\u3059\uff08{{ size }}\u30d0\u30a4\u30c8\uff09\u3002{{ limit }}\u30d0\u30a4\u30c8\u306e\u5236\u9650\u3092\u8d85\u3048\u3066\u3044\u307e\u3059\u3002",
+                    "state": "needs-review-translation"
                 }
             },
             "lb": {
@@ -28588,6 +29289,21 @@
                 "142": {
                     "id": "142",
                     "trans": "D\u00ebsen Dateinumm entspr\u00e9cht net dem erwaarten Zeechesaz."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "D\u00ebse Wert ass keen valabelt XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "D\u00ebse Wert entspr\u00e9cht net dem erwaarte XSD-Schema.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "D\u00ebs XML-Nutzlaascht ass ze grouss ({{ size }} Bytes): si iwwerschreift d'Limitt vu {{ limit }} Bytes.",
+                    "state": "needs-review-translation"
                 }
             },
             "lt": {
@@ -29142,6 +29858,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u0160is failo pavadinimas neatitinka laukiamo \u017eenkl\u0173 rinkinio."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra tinkamas XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u0160i reik\u0161m\u0117 neatitinka laukiamos XSD schemos.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u0160i XML naudingoji apkrova yra per didel\u0117 ({{ size }} bait\u0173): ji vir\u0161ija {{ limit }} bait\u0173 rib\u0105.",
+                    "state": "needs-review-translation"
                 }
             },
             "lv": {
@@ -29696,6 +30427,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u0160is faila nosaukums neatbilst paredz\u0113tajam rakstz\u012bmju kopumam."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u0160\u012b v\u0113rt\u012bba neatbilst gaid\u012btajai XSD sh\u0113mai.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u0160\u012b XML slodze ir p\u0101r\u0101k liela ({{ size }} baiti): t\u0101 p\u0101rsniedz {{ limit }} baitu ierobe\u017eojumu.",
+                    "state": "needs-review-translation"
                 }
             },
             "mk": {
@@ -30284,6 +31030,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u0418\u043c\u0435\u0442\u043e \u043d\u0430 \u0434\u0430\u0442\u043e\u0442\u0435\u043a\u0430\u0442\u0430 \u043d\u0435 \u043e\u0434\u0433\u043e\u0432\u0430\u0440\u0430 \u043d\u0430 \u043e\u0447\u0435\u043a\u0443\u0432\u0430\u043d\u0438\u043e\u0442 \u0437\u0431\u0438\u0440 \u043d\u0430 \u0437\u043d\u0430\u0446\u0438.",
+                    "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u041e\u0432\u0430\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u041e\u0432\u0430\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u043e\u0434\u0433\u043e\u0432\u0430\u0440\u0430 \u043d\u0430 \u043e\u0447\u0435\u043a\u0443\u0432\u0430\u043d\u0430\u0442\u0430 XSD \u0448\u0435\u043c\u0430.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u041e\u0432\u043e\u0458 XML \u0442\u043e\u0432\u0430\u0440 \u0435 \u043f\u0440\u0435\u043c\u043d\u043e\u0433\u0443 \u0433\u043e\u043b\u0435\u043c ({{ size }} \u0431\u0430\u0458\u0442\u0438): \u0433\u043e \u043d\u0430\u0434\u043c\u0438\u043d\u0443\u0432\u0430 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0443\u0432\u0430\u045a\u0435\u0442\u043e \u043e\u0434 {{ limit }} \u0431\u0430\u0458\u0442\u0438.",
                     "state": "needs-review-translation"
                 }
             },
@@ -30885,6 +31646,21 @@
                     "id": "142",
                     "trans": "\u042d\u043d\u044d \u0444\u0430\u0439\u043b\u044b\u043d \u043d\u044d\u0440 \u0445\u04af\u043b\u044d\u044d\u0433\u0434\u044d\u0436 \u0431\u0443\u0439 \u0442\u044d\u043c\u0434\u044d\u0433\u0442\u0438\u0439\u043d \u0431\u0430\u0433\u0446\u0442\u0430\u0439 \u043d\u0438\u0439\u0446\u044d\u0445\u0433\u04af\u0439 \u0431\u0430\u0439\u043d\u0430.",
                     "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u0445\u04af\u0447\u0438\u043d\u0442\u044d\u0439 XML \u0431\u0438\u0448 \u0431\u0430\u0439\u043d\u0430.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u042d\u043d\u044d \u0443\u0442\u0433\u0430 \u043d\u044c \u0445\u04af\u043b\u044d\u044d\u0433\u0434\u044d\u0436 \u0431\u0443\u0439 XSD \u0441\u0445\u0435\u043c\u0434 \u043d\u0438\u0439\u0446\u044d\u0445\u0433\u04af\u0439 \u0431\u0430\u0439\u043d\u0430.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u042d\u043d\u044d XML \u0430\u0447\u0430\u0430\u043b\u0430\u043b \u0445\u044d\u0442 \u0442\u043e\u043c \u0431\u0430\u0439\u043d\u0430 ({{ size }} \u0431\u0430\u0439\u0442): \u044d\u043d\u044d \u043d\u044c {{ limit }} \u0431\u0430\u0439\u0442\u044b\u043d \u0445\u044f\u0437\u0433\u0430\u0430\u0440\u0430\u0430\u0441 \u0445\u044d\u0442\u044d\u0440\u0441\u044d\u043d.",
+                    "state": "needs-review-translation"
                 }
             },
             "my": {
@@ -31485,6 +32261,21 @@
                     "id": "142",
                     "trans": "\u1024\u1016\u102d\u102f\u1004\u103a\u1014\u102c\u1019\u100a\u103a\u101e\u100a\u103a \u1019\u103b\u103e\u1031\u102c\u103a\u1019\u103e\u1014\u103a\u1038\u1011\u102c\u1038\u101e\u1031\u102c \u1021\u1000\u1039\u1001\u101b\u102c\u1005\u102f\u1014\u103e\u1004\u1037\u103a \u1000\u102d\u102f\u1000\u103a\u100a\u102e\u1019\u103e\u102f\u1019\u101b\u103e\u102d\u1015\u102b\u104b",
                     "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c XML \u1019\u101f\u102f\u1010\u103a\u1015\u102b\u104b",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u1024\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1019\u103b\u103e\u1031\u102c\u103a\u101c\u1004\u1037\u103a\u1011\u102c\u1038\u101e\u1031\u102c XSD schema \u1014\u103e\u1004\u1037\u103a \u1000\u102d\u102f\u1000\u103a\u100a\u102e\u1019\u103e\u102f \u1019\u101b\u103e\u102d\u1015\u102b\u104b",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u1024 XML payload \u101e\u100a\u103a \u1000\u103c\u102e\u1038\u101c\u103d\u1014\u103a\u1038\u101e\u100a\u103a ({{ size }} bytes)\u104b \u104e\u1004\u103a\u1038\u101e\u100a\u103a {{ limit }} bytes \u1000\u1014\u1037\u103a\u101e\u1010\u103a\u1001\u103b\u1000\u103a\u1000\u102d\u102f \u1000\u103b\u1031\u102c\u103a\u101c\u103d\u1014\u103a\u101e\u100a\u103a\u104b",
+                    "state": "needs-review-translation"
                 }
             },
             "nb": {
@@ -32039,6 +32830,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Dette filnavnet samsvarer ikke med forventet tegnsett."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Denne verdien er ikke gyldig XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Denne verdien samsvarer ikke med det forventede XSD-skjemaet.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Denne XML-nyttelasten er for stor ({{ size }} byte): den overskrider grensen p\u00e5 {{ limit }} byte.",
+                    "state": "needs-review-translation"
                 }
             },
             "nl": {
@@ -32593,6 +33399,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Deze bestandsnaam komt niet overeen met de verwachte tekencodering."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Deze waarde is geen geldige XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Deze waarde voldoet niet aan het verwachte XSD-schema.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Deze XML-payload is te groot ({{ size }} bytes): deze overschrijdt de limiet van {{ limit }} bytes.",
+                    "state": "needs-review-translation"
                 }
             },
             "nn": {
@@ -33190,6 +34011,21 @@
                     "id": "142",
                     "trans": "Dette filnamnet samsvarar ikkje med forventa teiknsett.",
                     "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Denne verdien er ikkje gyldig XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Denne verdien samsvarar ikkje med det forventa XSD-skjemaet.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Denne XML-nyttelasta er for stor ({{ size }} byte): ho overskrid grensa p\u00e5 {{ limit }} byte.",
+                    "state": "needs-review-translation"
                 }
             },
             "no": {
@@ -33744,6 +34580,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Dette filnavnet samsvarer ikke med forventet tegnsett."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Denne verdien er ikke gyldig XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Denne verdien samsvarer ikke med det forventede XSD-skjemaet.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Denne XML-nyttelasten er for stor ({{ size }} byte): den overskrider grensen p\u00e5 {{ limit }} byte.",
+                    "state": "needs-review-translation"
                 }
             },
             "pl": {
@@ -34298,6 +35149,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Ta nazwa pliku nie odpowiada oczekiwanemu zestawowi znak\u00f3w."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Ta warto\u015b\u0107 nie jest zgodna z oczekiwanym schematem XSD.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Ten \u0142adunek XML jest zbyt du\u017cy ({{ size }} bajt\u00f3w): przekracza limit {{ limit }} bajt\u00f3w.",
+                    "state": "needs-review-translation"
                 }
             },
             "pt": {
@@ -34852,6 +35718,21 @@
                 "142": {
                     "id": "142",
                     "trans": "O nome do ficheiro n\u00e3o corresponde ao conjunto de caracteres esperado."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Este valor n\u00e3o \u00e9 um XML v\u00e1lido.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Este valor n\u00e3o est\u00e1 em conformidade com o esquema XSD esperado.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Esta carga \u00fatil XML \u00e9 demasiado grande ({{ size }} bytes): excede o limite de {{ limit }} bytes.",
+                    "state": "needs-review-translation"
                 }
             },
             "pt_BR": {
@@ -35406,6 +36287,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Este nome de arquivo n\u00e3o corresponde ao conjunto de caracteres esperado."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Este valor n\u00e3o \u00e9 um XML v\u00e1lido.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Este valor n\u00e3o est\u00e1 em conformidade com o esquema XSD esperado.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Esta carga \u00fatil XML \u00e9 muito grande ({{ size }} bytes): excede o limite de {{ limit }} bytes.",
+                    "state": "needs-review-translation"
                 }
             },
             "ro": {
@@ -35960,6 +36856,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Acest nume de fi\u0219ier nu corespunde setului de caractere a\u0219teptat."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Aceast\u0103 valoare nu este un XML valid.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Aceast\u0103 valoare nu este conform\u0103 cu schema XSD a\u0219teptat\u0103.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Aceast\u0103 \u00eenc\u0103rc\u0103tur\u0103 util\u0103 XML este prea mare ({{ size }} octe\u021bi): dep\u0103\u0219e\u0219te limita de {{ limit }} octe\u021bi.",
+                    "state": "needs-review-translation"
                 }
             },
             "ru": {
@@ -36514,6 +37425,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u042d\u0442\u043e \u0438\u043c\u044f \u0444\u0430\u0439\u043b\u0430 \u043d\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u043e\u0436\u0438\u0434\u0430\u0435\u043c\u043e\u0439 \u043a\u043e\u0434\u0438\u0440\u043e\u0432\u043a\u0435."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u043c XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u043e\u0436\u0438\u0434\u0430\u0435\u043c\u043e\u0439 \u0441\u0445\u0435\u043c\u0435 XSD.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u042d\u0442\u0430 \u043f\u043e\u043b\u0435\u0437\u043d\u0430\u044f \u043d\u0430\u0433\u0440\u0443\u0437\u043a\u0430 XML \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0432\u0435\u043b\u0438\u043a\u0430 ({{ size }} \u0431\u0430\u0439\u0442): \u043e\u043d\u0430 \u043f\u0440\u0435\u0432\u044b\u0448\u0430\u0435\u0442 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u0435 \u0432 {{ limit }} \u0431\u0430\u0439\u0442.",
+                    "state": "needs-review-translation"
                 }
             },
             "sk": {
@@ -37068,6 +37994,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Tento n\u00e1zov s\u00faboru nezodpoved\u00e1 o\u010dak\u00e1vanej znakovej sade."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "T\u00e1to hodnota nie je platn\u00e9 XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "T\u00e1to hodnota nezodpoved\u00e1 o\u010dak\u00e1vanej sch\u00e9me XSD.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "T\u00e1to d\u00e1tov\u00e1 \u010das\u0165 XML je pr\u00edli\u0161 ve\u013ek\u00e1 ({{ size }} bajtov): prekra\u010duje limit {{ limit }} bajtov.",
+                    "state": "needs-review-translation"
                 }
             },
             "sl": {
@@ -37622,6 +38563,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Ime datoteke ne ustreza pri\u010dakovanemu naboru znakov."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Ta vrednost ni veljaven XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Ta vrednost ni skladna s pri\u010dakovano shemo XSD.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Ta vsebina XML je prevelika ({{ size }} bajtov): presega omejitev {{ limit }} bajtov.",
+                    "state": "needs-review-translation"
                 }
             },
             "sq": {
@@ -38176,6 +39132,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Ky em\u00ebr fajlit nuk p\u00ebrputhet me grupin e pritur t\u00eb karaktereve."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb XML i vlefsh\u00ebm.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Kjo vler\u00eb nuk p\u00ebrputhet me skem\u00ebn XSD t\u00eb pritur.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Kjo ngarkes\u00eb XML \u00ebsht\u00eb shum\u00eb e madhe ({{ size }} bajt): tejkalon kufirin prej {{ limit }} bajt.",
+                    "state": "needs-review-translation"
                 }
             },
             "sr_Cyrl": {
@@ -38730,6 +39701,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u041e\u0432\u043e \u0438\u043c\u0435 \u0434\u0430\u0442\u043e\u0442\u0435\u043a\u0435 \u043d\u0435 \u043e\u0434\u0433\u043e\u0432\u0430\u0440\u0430 \u043e\u0447\u0435\u043a\u0438\u0432\u0430\u043d\u043e\u043c \u0441\u043a\u0443\u043f\u0443 \u0437\u043d\u0430\u043a\u043e\u0432\u0430."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0432\u0430\u0436\u0435\u045b\u0438 XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0435 \u043e\u0434\u0433\u043e\u0432\u0430\u0440\u0430 \u043e\u0447\u0435\u043a\u0438\u0432\u0430\u043d\u043e\u0458 XSD \u0448\u0435\u043c\u0438.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u041e\u0432\u0430\u0458 XML \u0441\u0430\u0434\u0440\u0436\u0430\u0458 \u0458\u0435 \u043f\u0440\u0435\u0432\u0435\u043b\u0438\u043a ({{ size }} \u0431\u0430\u0458\u0442\u043e\u0432\u0430): \u043f\u0440\u0435\u043c\u0430\u0448\u0443\u0458\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u045a\u0435 \u043e\u0434 {{ limit }} \u0431\u0430\u0458\u0442\u043e\u0432\u0430.",
+                    "state": "needs-review-translation"
                 }
             },
             "sr_Latn": {
@@ -38851,7 +39837,7 @@
                 },
                 "33": {
                     "id": "33",
-                    "trans": "Datoteka je prevelikia."
+                    "trans": "Datoteka je prevelika."
                 },
                 "34": {
                     "id": "34",
@@ -39107,7 +40093,7 @@
                 },
                 "97": {
                     "id": "97",
-                    "trans": "Ova vrednost treba da zadovoljava namjanje jedno od narednih ograni\u010denja:"
+                    "trans": "Ova vrednost treba da zadovoljava najmanje jedno od narednih ograni\u010denja:"
                 },
                 "98": {
                     "id": "98",
@@ -39199,113 +40185,103 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Ova vrednost nije va\u017ee\u0107i Twig \u0161ablon.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravan Twig \u0161ablon."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ova datoteka nije va\u017ee\u0107i video.",
-                    "state": "needs-review-translation"
+                    "trans": "Fajl nije u ispravnom video formatu."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Nije bilo mogu\u0107e utvrditi veli\u010dinu video snimka.",
-                    "state": "needs-review-translation"
+                    "trans": "Nije mogu\u0107e utvrditi veli\u010dinu video snimka."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u0160irina videa je prevelika ({{ width }}px). Dozvoljena maksimalna \u0161irina je {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160irina videa je prevelika ({{ width }}px). Dozvoljena maksimalna \u0161irina je {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u0160irina videa je previ\u0161e mala ({{ width }}px). O\u010dekivana minimalna \u0161irina je {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160irina videa je previ\u0161e mala ({{ width }}px). O\u010dekivana minimalna \u0161irina je {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Visina videa je prevelika ({{ height }}px). Dozvoljena maksimalna visina je {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Visina videa je prevelika ({{ height }}px). Dozvoljena maksimalna visina je {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Visina videa je premala ({{ height }}px). O\u010dekivana minimalna visina je {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Visina videa je premala ({{ height }}px). O\u010dekivana minimalna visina je {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Video ima premalo piksela ({{ pixels }}). O\u010dekivana minimalna koli\u010dina je {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ima premalo piksela ({{ pixels }}). O\u010dekivana minimalna koli\u010dina je {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Video ima previ\u0161e piksela ({{ pixels }}). O\u010dekivana maksimalna koli\u010dina je {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ima previ\u0161e piksela ({{ pixels }}). O\u010dekivana maksimalna koli\u010dina je {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Odnos slike videa je prevelik ({{ ratio }}). Dozvoljeni maksimalni odnos je {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Odnos \u0161irine i visine videa je prevelik ({{ ratio }}). Dozvoljeni maksimalni odnos je {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Odnos stranica videa je previ\u0161e mali ({{ ratio }}). O\u010dekivani minimalni odnos je {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Odnos \u0161irine i visine videa je previ\u0161e mali ({{ ratio }}). O\u010dekivani minimalni odnos je {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video je kvadratnog oblika ({{ width }}x{{ height }}px). Kvadratni video zapisi nisu dozvoljeni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je kvadratnog oblika ({{ width }}x{{ height }}px). Video zapisi kvadratnog oblika nisu dozvoljeni."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video je u vodoravnoj orijentaciji ({{ width }}x{{ height }} px). Vodoravni video zapisi nisu dozvoljeni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je u vodoravnoj orijentaciji ({{ width }}x{{ height }} px). Video zapisi u vodoravnoj orijentaciji nisu dozvoljeni."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video je u portret orijentaciji ({{ width }}x{{ height }}px). Video zapisi u portret orijentaciji nisu dozvoljeni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je u vertikalnoj orijentaciji ({{ width }}x{{ height }}px). Video zapisi u vertikalnoj orijentaciji nisu dozvoljeni."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Video datoteka je o\u0161te\u0107ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Video datoteka je o\u0161te\u0107ena."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video sadr\u017ei vi\u0161e tokova. Dozvoljen je samo jedan tok.",
-                    "state": "needs-review-translation"
+                    "trans": "Video sadr\u017ei vi\u0161e tokova. Dozvoljen je samo jedan tok."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nepodr\u017ean video kodek \u201e{{ codec }}\u201c.",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017ean video kodek \u201e{{ codec }}\u201c."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nepodr\u017ean video kontejner \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017ean video kontejner \u201e{{ container }}\u201c."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Datoteka slike je o\u0161te\u0107ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Slika je o\u0161te\u0107ena."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Slika ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Slika ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Slika ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Slika ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Ovo ime datoteke ne odgovara o\u010dekivanom skupu znakova.",
-                    "state": "needs-review-translation"
+                    "trans": "Ovo ime datoteke ne odgovara o\u010dekivanom skupu znakova."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Ova vrednost nije va\u017ee\u0107i XML."
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Ova vrednost ne odgovara o\u010dekivanoj XSD \u0161emi."
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} bajtova): prema\u0161uje ograni\u010denje od {{ limit }} bajtova."
                 }
             },
             "sv": {
@@ -39860,6 +40836,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Detta filnamn st\u00e4mmer inte med f\u00f6rv\u00e4ntad teckenupps\u00e4ttning."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Detta v\u00e4rde \u00e4r inte giltig XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Detta v\u00e4rde \u00f6verensst\u00e4mmer inte med det f\u00f6rv\u00e4ntade XSD-schemat.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Denna XML-nyttolast \u00e4r f\u00f6r stor ({{ size }} byte): den \u00f6verskrider gr\u00e4nsen p\u00e5 {{ limit }} byte.",
+                    "state": "needs-review-translation"
                 }
             },
             "th": {
@@ -40451,6 +41442,21 @@
                     "id": "142",
                     "trans": "\u0e0a\u0e37\u0e48\u0e2d\u0e44\u0e1f\u0e25\u0e4c\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e15\u0e23\u0e07\u0e01\u0e31\u0e1a\u0e0a\u0e38\u0e14\u0e2d\u0e31\u0e01\u0e02\u0e23\u0e30\u0e17\u0e35\u0e48\u0e04\u0e32\u0e14\u0e44\u0e27\u0e49.",
                     "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48 XML \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e2a\u0e2d\u0e14\u0e04\u0e25\u0e49\u0e2d\u0e07\u0e01\u0e31\u0e1a\u0e2a\u0e01\u0e35\u0e21\u0e32 XSD \u0e17\u0e35\u0e48\u0e04\u0e32\u0e14\u0e44\u0e27\u0e49",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u0e40\u0e1e\u0e22\u0e4c\u0e42\u0e2b\u0e25\u0e14 XML \u0e19\u0e35\u0e49\u0e21\u0e35\u0e02\u0e19\u0e32\u0e14\u0e43\u0e2b\u0e0d\u0e48\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b ({{ size }} \u0e44\u0e1a\u0e15\u0e4c): \u0e40\u0e01\u0e34\u0e19\u0e02\u0e35\u0e14\u0e08\u0e33\u0e01\u0e31\u0e14 {{ limit }} \u0e44\u0e1a\u0e15\u0e4c",
+                    "state": "needs-review-translation"
                 }
             },
             "tl": {
@@ -41005,6 +42011,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Ang pangalan ng file na ito ay hindi tumutugma sa inaasahang charset."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Ang halagang ito ay hindi wastong XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Ang halagang ito ay hindi tumutugma sa inaasahang XSD schema.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Masyadong malaki ang XML payload na ito ({{ size }} bytes): lumampas ito sa limitasyong {{ limit }} bytes.",
+                    "state": "needs-review-translation"
                 }
             },
             "tr": {
@@ -41559,6 +42580,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Bu dosya ad\u0131 beklenen karakter k\u00fcmesiyle e\u015fle\u015fmiyor."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Bu de\u011fer ge\u00e7erli bir XML de\u011fil.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Bu de\u011fer beklenen XSD \u015femas\u0131na uymuyor.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Bu XML y\u00fck\u00fc \u00e7ok b\u00fcy\u00fck ({{ size }} bayt): {{ limit }} baytl\u0131k s\u0131n\u0131r\u0131 a\u015f\u0131yor.",
+                    "state": "needs-review-translation"
                 }
             },
             "uk": {
@@ -42113,6 +43149,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u041d\u0430\u0437\u0432\u0430 \u0444\u0430\u0439\u043b\u0443 \u043d\u0435 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u0454 \u043e\u0447\u0456\u043a\u0443\u0432\u0430\u043d\u043e\u043c\u0443 \u043d\u0430\u0431\u043e\u0440\u0443 \u0441\u0438\u043c\u0432\u043e\u043b\u0456\u0432."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c XML.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u0454 \u043e\u0447\u0456\u043a\u0443\u0432\u0430\u043d\u0456\u0439 \u0441\u0445\u0435\u043c\u0456 XSD.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u0426\u0435 \u043a\u043e\u0440\u0438\u0441\u043d\u0435 \u043d\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043d\u044f XML \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0432\u0435\u043b\u0438\u043a\u0435 ({{ size }} \u0431\u0430\u0439\u0442): \u0432\u043e\u043d\u043e \u043f\u0435\u0440\u0435\u0432\u0438\u0449\u0443\u0454 \u043b\u0456\u043c\u0456\u0442 \u0443 {{ limit }} \u0431\u0430\u0439\u0442.",
+                    "state": "needs-review-translation"
                 }
             },
             "ur": {
@@ -42710,6 +43761,21 @@
                     "id": "142",
                     "trans": "\u0627\u0633 \u0641\u0627\u0626\u0644 \u06a9\u0627 \u0646\u0627\u0645 \u0645\u062a\u0648\u0642\u0639 \u062d\u0631\u0641\u0648\u06ba \u06a9\u06d2 \u0645\u062c\u0645\u0648\u0639\u06d2 \u0633\u06d2 \u0645\u0637\u0627\u0628\u0642\u062a \u0646\u06c1\u06cc\u06ba \u0631\u06a9\u06be\u062a\u0627\u06d4",
                     "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a XML \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u0645\u062a\u0648\u0642\u0639 XSD \u0627\u0633\u06a9\u06cc\u0645\u0627 \u06a9\u06d2 \u0645\u0637\u0627\u0628\u0642 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u06cc\u06c1 XML \u067e\u06d2 \u0644\u0648\u0688 \u0628\u06c1\u062a \u0628\u0691\u0627 \u06c1\u06d2 ({{ size }} \u0628\u0627\u0626\u0679\u0633): \u06cc\u06c1 {{ limit }} \u0628\u0627\u0626\u0679\u0633 \u06a9\u06cc \u062d\u062f \u0633\u06d2 \u062a\u062c\u0627\u0648\u0632 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4",
+                    "state": "needs-review-translation"
                 }
             },
             "uz": {
@@ -43264,6 +44330,21 @@
                 "142": {
                     "id": "142",
                     "trans": "Bu fayl nomi kutilgan belgi to\u2018plamiga mos kelmaydi."
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Ushbu qiymat haqiqiy XML emas.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Ushbu qiymat kutilgan XSD sxemasiga mos kelmaydi.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "Bu XML yuki juda katta ({{ size }} bayt): u {{ limit }} bayt chegarasidan oshib ketadi.",
+                    "state": "needs-review-translation"
                 }
             },
             "vi": {
@@ -43854,6 +44935,21 @@
                     "id": "142",
                     "trans": "T\u00ean t\u1ec7p n\u00e0y kh\u00f4ng kh\u1edbp v\u1edbi b\u1ed9 k\u00fd t\u1ef1 mong \u0111\u1ee3i.",
                     "state": "needs-review-translation"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 XML h\u1ee3p l\u1ec7.",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng tu\u00e2n theo l\u01b0\u1ee3c \u0111\u1ed3 XSD mong \u0111\u1ee3i.",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "T\u1ea3i tr\u1ecdng XML n\u00e0y qu\u00e1 l\u1edbn ({{ size }} byte): v\u01b0\u1ee3t qu\u00e1 gi\u1edbi h\u1ea1n {{ limit }} byte.",
+                    "state": "needs-review-translation"
                 }
             },
             "zh_CN": {
@@ -44408,6 +45504,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u8be5\u6587\u4ef6\u540d\u4e0e\u9884\u671f\u7684\u5b57\u7b26\u96c6\u4e0d\u5339\u914d\u3002"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u8be5\u503c\u4e0d\u662f\u6709\u6548\u7684 XML\u3002",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u8be5\u503c\u4e0d\u7b26\u5408\u9884\u671f\u7684 XSD \u67b6\u6784\u3002",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u6b64 XML \u8d1f\u8f7d\u8fc7\u5927\uff08{{ size }} \u5b57\u8282\uff09\uff1a\u8d85\u8fc7\u4e86 {{ limit }} \u5b57\u8282\u7684\u9650\u5236\u3002",
+                    "state": "needs-review-translation"
                 }
             },
             "zh_TW": {
@@ -44962,6 +46073,21 @@
                 "142": {
                     "id": "142",
                     "trans": "\u9019\u500b\u6a94\u540d\u8207\u9810\u671f\u7684\u5b57\u5143\u96c6\u4e0d\u76f8\u7b26\u3002"
+                },
+                "143": {
+                    "id": "143",
+                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684 XML\u3002",
+                    "state": "needs-review-translation"
+                },
+                "144": {
+                    "id": "144",
+                    "trans": "\u6b64\u503c\u4e0d\u7b26\u5408\u9810\u671f\u7684 XSD \u7d50\u69cb\u63cf\u8ff0\u3002",
+                    "state": "needs-review-translation"
+                },
+                "145": {
+                    "id": "145",
+                    "trans": "\u6b64 XML \u916c\u8f09\u904e\u5927\uff08{{ size }} \u4f4d\u5143\u7d44\uff09\uff1a\u8d85\u904e\u4e86 {{ limit }} \u4f4d\u5143\u7d44\u7684\u9650\u5236\u3002",
+                    "state": "needs-review-translation"
                 }
             }
         }
