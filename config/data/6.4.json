@@ -2758,8 +2758,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Por favor, ingrese un UUID v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Por favor, ingrese un UUID v\u00e1lido."
                 }
             },
             "et": {
@@ -3870,8 +3869,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Molim unesite ispravan UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Molim unesite ispravan UUID."
                 }
             },
             "hu": {
@@ -21263,18 +21261,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Este valor no es un XML v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un XML v\u00e1lido."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Este valor no se ajusta al esquema XSD esperado.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no se ajusta al esquema XSD esperado."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Esta carga \u00fatil XML es demasiado grande ({{ size }} bytes): supera el l\u00edmite de {{ limit }} bytes.",
-                    "state": "needs-review-translation"
+                    "trans": "Esta carga \u00fatil XML es demasiado grande ({{ size }} bytes): supera el l\u00edmite de {{ limit }} bytes."
                 }
             },
             "et": {
@@ -24145,18 +24140,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Cette valeur n'est pas un XML valide.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette valeur n'est pas un XML valide."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Cette valeur n'est pas conforme au sch\u00e9ma XSD attendu.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette valeur n'est pas conforme au sch\u00e9ma XSD attendu."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Cette charge utile XML est trop volumineuse ({{ size }} octets) : elle d\u00e9passe la limite de {{ limit }} octets.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette charge utile XML est trop volumineuse ({{ size }} octets) : elle d\u00e9passe la limite de {{ limit }} octets."
                 }
             },
             "gl": {
@@ -25852,18 +25844,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ova vrijednost ne odgovara o\u010dekivanoj XSD shemi.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne odgovara o\u010dekivanoj XSD shemi."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} bajtova): prema\u0161uje ograni\u010denje od {{ limit }} bajtova.",
-                    "state": "needs-review-translation"
+                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} bajtova): prema\u0161uje ograni\u010denje od {{ limit }} bajtova."
                 }
             },
             "hu": {
