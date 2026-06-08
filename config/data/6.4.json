@@ -6093,8 +6093,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Prosz\u0119 poda\u0107 prawid\u0142owy UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Prosz\u0119 poda\u0107 prawid\u0142owy UUID."
                 }
             },
             "pt": {
@@ -35137,18 +35136,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ta warto\u015b\u0107 nie jest zgodna z oczekiwanym schematem XSD.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest zgodna z oczekiwanym schematem XSD."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Ten \u0142adunek XML jest zbyt du\u017cy ({{ size }} bajt\u00f3w): przekracza limit {{ limit }} bajt\u00f3w.",
-                    "state": "needs-review-translation"
+                    "trans": "Ten XML jest zbyt du\u017cy ({{ size }} bajt\u00f3w): przekracza limit {{ limit }} bajt\u00f3w."
                 }
             },
             "pt": {
