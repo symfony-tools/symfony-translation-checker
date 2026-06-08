@@ -1059,8 +1059,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "\u0627\u0644\u0631\u062c\u0627\u0621 \u0625\u062f\u062e\u0627\u0644 UUID \u0635\u0627\u0644\u062d.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u0644\u0631\u062c\u0627\u0621 \u0625\u062f\u062e\u0627\u0644 UUID \u0635\u0627\u0644\u062d."
                 }
             },
             "az": {
@@ -2759,8 +2758,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Por favor, ingrese un UUID v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Por favor, ingrese un UUID v\u00e1lido."
                 }
             },
             "et": {
@@ -3871,8 +3869,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Molim unesite ispravan UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Molim unesite ispravan UUID."
                 }
             },
             "hu": {
@@ -6096,8 +6093,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Prosz\u0119 poda\u0107 prawid\u0142owy UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Prosz\u0119 poda\u0107 prawid\u0142owy UUID."
                 }
             },
             "pt": {
@@ -14344,18 +14340,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a XML \u0635\u0627\u0644\u062d\u0629.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a XML \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u0627 \u062a\u062a\u0648\u0627\u0641\u0642 \u0645\u0639 \u0645\u062e\u0637\u0637 XSD \u0627\u0644\u0645\u062a\u0648\u0642\u0639.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u0627 \u062a\u062a\u0648\u0627\u0641\u0642 \u0645\u0639 \u0645\u062e\u0637\u0637 XSD \u0627\u0644\u0645\u062a\u0648\u0642\u0639."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "\u062d\u0645\u0648\u0644\u0629 XML \u0647\u0630\u0647 \u0643\u0628\u064a\u0631\u0629 \u062c\u062f\u064b\u0627 ({{ size }} \u0628\u0627\u064a\u062a): \u0641\u0647\u064a \u062a\u062a\u062c\u0627\u0648\u0632 \u0627\u0644\u062d\u062f \u0627\u0644\u0628\u0627\u0644\u063a {{ limit }} \u0628\u0627\u064a\u062a.",
-                    "state": "needs-review-translation"
+                    "trans": "\u062d\u0645\u0648\u0644\u0629 XML \u0647\u0630\u0647 \u0643\u0628\u064a\u0631\u0629 \u062c\u062f\u064b\u0627 ({{ size }} \u0628\u0627\u064a\u062a): \u062a\u062a\u062c\u0627\u0648\u0632 \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u0642\u0635\u0649 \u0627\u0644\u0628\u0627\u0644\u063a {{ limit }} \u0628\u0627\u064a\u062a."
                 }
             },
             "az": {
@@ -21267,18 +21260,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Este valor no es un XML v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un XML v\u00e1lido."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Este valor no se ajusta al esquema XSD esperado.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no se ajusta al esquema XSD esperado."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Esta carga \u00fatil XML es demasiado grande ({{ size }} bytes): supera el l\u00edmite de {{ limit }} bytes.",
-                    "state": "needs-review-translation"
+                    "trans": "Esta carga \u00fatil XML es demasiado grande ({{ size }} bytes): supera el l\u00edmite de {{ limit }} bytes."
                 }
             },
             "et": {
@@ -24149,18 +24139,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Cette valeur n'est pas un XML valide.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette valeur n'est pas un XML valide."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Cette valeur n'est pas conforme au sch\u00e9ma XSD attendu.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette valeur n'est pas conforme au sch\u00e9ma XSD attendu."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Cette charge utile XML est trop volumineuse ({{ size }} octets) : elle d\u00e9passe la limite de {{ limit }} octets.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette charge utile XML est trop volumineuse ({{ size }} octets) : elle d\u00e9passe la limite de {{ limit }} octets."
                 }
             },
             "gl": {
@@ -25856,18 +25843,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ova vrijednost ne odgovara o\u010dekivanoj XSD shemi.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne odgovara o\u010dekivanoj XSD shemi."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} bajtova): prema\u0161uje ograni\u010denje od {{ limit }} bajtova.",
-                    "state": "needs-review-translation"
+                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} bajtova): prema\u0161uje ograni\u010denje od {{ limit }} bajtova."
                 }
             },
             "hu": {
@@ -35152,18 +35136,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ta warto\u015b\u0107 nie jest zgodna z oczekiwanym schematem XSD.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest zgodna z oczekiwanym schematem XSD."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Ten \u0142adunek XML jest zbyt du\u017cy ({{ size }} bajt\u00f3w): przekracza limit {{ limit }} bajt\u00f3w.",
-                    "state": "needs-review-translation"
+                    "trans": "Ten XML jest zbyt du\u017cy ({{ size }} bajt\u00f3w): przekracza limit {{ limit }} bajt\u00f3w."
                 }
             },
             "pt": {
