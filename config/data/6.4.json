@@ -4284,8 +4284,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Silahkan masukkan UUID yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Silahkan masukkan UUID yang sah."
                 }
             },
             "it": {
@@ -7756,8 +7755,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Pakilagay ang balidong UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Pakilagay ang wastong UUID."
                 }
             },
             "tr": {
@@ -27562,18 +27560,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Nilai ini bukan XML yang valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan XML yang valid."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Nilai ini tidak sesuai dengan skema XSD yang diharapkan.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini tidak sesuai dengan skema XSD yang diharapkan."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Muatan XML ini terlalu besar ({{ size }} byte): melebihi batas {{ limit }} byte.",
-                    "state": "needs-review-translation"
+                    "trans": "Muatan XML ini terlalu besar ({{ size }} byte): melebihi batas {{ limit }} byte."
                 }
             },
             "it": {
@@ -41982,18 +41977,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ang halagang ito ay hindi wastong XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang nilalaman na ito ay hindi wastong XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ang halagang ito ay hindi tumutugma sa inaasahang XSD schema.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang nilalaman na ito ay hindi tumutugma sa inaasahang XSD schema."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Masyadong malaki ang XML payload na ito ({{ size }} bytes): lumampas ito sa limitasyong {{ limit }} bytes.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong malaki ang XML payload na ito ({{ size }} bytes): lumampas ito sa limitasyong {{ limit }} bytes."
                 }
             },
             "tr": {
