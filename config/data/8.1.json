@@ -3886,7 +3886,7 @@
                 },
                 "99": {
                     "id": "99",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes HTML5 sz\u00edn."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes HTML5 sz\u00edn."
                 },
                 "100": {
                     "id": "100",
@@ -4006,8 +4006,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "K\u00e9rj\u00fck, adjon meg egy \u00e9rv\u00e9nyes UUID-t.",
-                    "state": "needs-review-translation"
+                    "trans": "K\u00e9rj\u00fck, adjon meg egy \u00e9rv\u00e9nyes UUID-t."
                 }
             },
             "hy": {
@@ -4284,8 +4283,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Silahkan masukkan UUID yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Silahkan masukkan UUID yang sah."
                 }
             },
             "it": {
@@ -7756,8 +7754,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Pakilagay ang balidong UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Pakilagay ang wastong UUID."
                 }
             },
             "tr": {
@@ -8034,8 +8031,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "\u0411\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0432\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0456\u0439\u0441\u043d\u0438\u0439 UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0411\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0432\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0456\u0439\u0441\u043d\u0438\u0439 UUID."
                 }
             },
             "ur": {
@@ -25890,15 +25886,15 @@
                 },
                 "11": {
                     "id": "11",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes d\u00e1tum."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes d\u00e1tum."
                 },
                 "12": {
                     "id": "12",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes id\u0151pont."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes id\u0151pont."
                 },
                 "13": {
                     "id": "13",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes e-mail c\u00edm."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes e-mail c\u00edm."
                 },
                 "14": {
                     "id": "14",
@@ -25950,11 +25946,11 @@
                 },
                 "26": {
                     "id": "26",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes id\u0151pont."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes id\u0151pont."
                 },
                 "27": {
                     "id": "27",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes URL."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes URL."
                 },
                 "31": {
                     "id": "31",
@@ -25978,7 +25974,7 @@
                 },
                 "36": {
                     "id": "36",
-                    "trans": "Ez a f\u00e1jl nem egy \u00e9rv\u00e9nyes k\u00e9p."
+                    "trans": "Ez a f\u00e1jl nem \u00e9rv\u00e9nyes k\u00e9p."
                 },
                 "37": {
                     "id": "37",
@@ -25986,15 +25982,15 @@
                 },
                 "38": {
                     "id": "38",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes nyelv."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes nyelv."
                 },
                 "39": {
                     "id": "39",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes ter\u00fcleti be\u00e1ll\u00edt\u00e1s."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes ter\u00fcleti be\u00e1ll\u00edt\u00e1s."
                 },
                 "40": {
                     "id": "40",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes orsz\u00e1g."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes orsz\u00e1g."
                 },
                 "41": {
                     "id": "41",
@@ -26074,23 +26070,23 @@
                 },
                 "60": {
                     "id": "60",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes ISBN-10."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes ISBN-10."
                 },
                 "61": {
                     "id": "61",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes ISBN-13."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes ISBN-13."
                 },
                 "62": {
                     "id": "62",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes ISBN-10 vagy ISBN-13."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes ISBN-10 vagy ISBN-13."
                 },
                 "63": {
                     "id": "63",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes ISSN."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes ISSN."
                 },
                 "64": {
                     "id": "64",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes p\u00e9nznem."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes p\u00e9nznem."
                 },
                 "65": {
                     "id": "65",
@@ -26202,7 +26198,7 @@
                 },
                 "92": {
                     "id": "92",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes id\u0151z\u00f3na."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes id\u0151z\u00f3na."
                 },
                 "93": {
                     "id": "93",
@@ -26214,7 +26210,7 @@
                 },
                 "95": {
                     "id": "95",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes \u00e1llom\u00e1sn\u00e9v (hosztn\u00e9v)."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes \u00e1llom\u00e1sn\u00e9v (hosztn\u00e9v)."
                 },
                 "96": {
                     "id": "96",
@@ -26230,7 +26226,7 @@
                 },
                 "99": {
                     "id": "99",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes nemzetk\u00f6zi \u00e9rt\u00e9kpap\u00edr-azonos\u00edt\u00f3 sz\u00e1m (ISIN)."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes nemzetk\u00f6zi \u00e9rt\u00e9kpap\u00edr-azonos\u00edt\u00f3 sz\u00e1m (ISIN)."
                 },
                 "100": {
                     "id": "100",
@@ -26238,11 +26234,11 @@
                 },
                 "101": {
                     "id": "101",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes CSS sz\u00edn."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes CSS sz\u00edn."
                 },
                 "102": {
                     "id": "102",
-                    "trans": "Ez az \u00e9rt\u00e9k nem egy \u00e9rv\u00e9nyes CIDR jel\u00f6l\u00e9s."
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes CIDR jel\u00f6l\u00e9s."
                 },
                 "103": {
                     "id": "103",
@@ -26314,128 +26310,103 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes Twig sablon.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes Twig sablon."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ez a f\u00e1jl nem \u00e9rv\u00e9nyes vide\u00f3.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez a f\u00e1jl nem \u00e9rv\u00e9nyes vide\u00f3."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "A vide\u00f3 m\u00e9ret\u00e9t nem siker\u00fclt meg\u00e1llap\u00edtani.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 m\u00e9ret\u00e9t nem siker\u00fclt meg\u00e1llap\u00edtani."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "A vide\u00f3 sz\u00e9less\u00e9ge t\u00fal nagy ({{ width }}px). A megengedett maxim\u00e1lis sz\u00e9less\u00e9g {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 sz\u00e9less\u00e9ge t\u00fal nagy ({{ width }}px). A megengedett legnagyobb sz\u00e9less\u00e9g {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "A vide\u00f3 sz\u00e9less\u00e9ge t\u00fal kicsi ({{ width }}px). A v\u00e1rhat\u00f3 minim\u00e1lis sz\u00e9less\u00e9g {{ min_width }} px.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 sz\u00e9less\u00e9ge t\u00fal kicsi ({{ width }}px). Az elv\u00e1rt legkisebb sz\u00e9less\u00e9g {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "A vide\u00f3 magass\u00e1ga t\u00fal nagy ({{ height }}px). A megengedett maxim\u00e1lis magass\u00e1g {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 magass\u00e1ga t\u00fal nagy ({{ height }}px). A megengedett legnagyobb magass\u00e1g {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "A vide\u00f3 magass\u00e1ga t\u00fal kicsi ({{ height }}px). A minim\u00e1lisan elv\u00e1rt magass\u00e1g {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 magass\u00e1ga t\u00fal kicsi ({{ height }}px). Az elv\u00e1rt legkisebb magass\u00e1g {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "A vide\u00f3ban t\u00fal kev\u00e9s a k\u00e9ppont ({{ pixels }}). Az elv\u00e1rt minim\u00e1lis mennyis\u00e9g {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3ban t\u00fal kev\u00e9s a k\u00e9ppont ({{ pixels }}). Az elv\u00e1rt legkisebb mennyis\u00e9g {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "A vide\u00f3ban t\u00fal sok a k\u00e9ppont ({{ pixels }}). A v\u00e1rhat\u00f3 maxim\u00e1lis mennyis\u00e9g {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3ban t\u00fal sok a k\u00e9ppont ({{ pixels }}). A megengedett legnagyobb mennyis\u00e9g {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "A vide\u00f3 ar\u00e1nya t\u00fal nagy ({{ ratio }}). A megengedett maxim\u00e1lis ar\u00e1ny {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 k\u00e9par\u00e1nya t\u00fal nagy ({{ ratio }}). A megengedett legnagyobb k\u00e9par\u00e1ny {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "A vide\u00f3 k\u00e9par\u00e1nya t\u00fal kicsi ({{ ratio }}). A minim\u00e1lisan elv\u00e1rt ar\u00e1ny {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 k\u00e9par\u00e1nya t\u00fal kicsi ({{ ratio }}). Az elv\u00e1rt legkisebb k\u00e9par\u00e1ny {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "A vide\u00f3 n\u00e9gyzetes ({{ width }}x{{ height }}px). A n\u00e9gyzetes vide\u00f3k nem enged\u00e9lyezettek.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 n\u00e9gyzet alak\u00fa ({{ width }}x{{ height }}px). A n\u00e9gyzet alak\u00fa vide\u00f3k nem enged\u00e9lyezettek."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "A vide\u00f3 fekv\u0151 t\u00e1jol\u00e1s\u00fa ({{ width }}x{{ height }} px). Fekv\u0151 t\u00e1jol\u00e1s\u00fa vide\u00f3k nem enged\u00e9lyezettek.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 fekv\u0151 t\u00e1jol\u00e1s\u00fa ({{ width }}x{{ height }} px). Fekv\u0151 t\u00e1jol\u00e1s\u00fa vide\u00f3k nem enged\u00e9lyezettek."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "A vide\u00f3 \u00e1ll\u00f3 t\u00e1jol\u00e1s\u00fa ({{ width }}x{{ height }} px). \u00c1ll\u00f3 t\u00e1jol\u00e1s\u00fa vide\u00f3k nem enged\u00e9lyezettek.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 \u00e1ll\u00f3 t\u00e1jol\u00e1s\u00fa ({{ width }}x{{ height }} px). \u00c1ll\u00f3 t\u00e1jol\u00e1s\u00fa vide\u00f3k nem enged\u00e9lyezettek."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "A vide\u00f3f\u00e1jl s\u00e9r\u00fclt.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3f\u00e1jl s\u00e9r\u00fclt."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "A vide\u00f3 t\u00f6bb adatfolyamot tartalmaz. Csak egy adatfolyam enged\u00e9lyezett.",
-                    "state": "needs-review-translation"
+                    "trans": "A vide\u00f3 t\u00f6bb adatfolyamot tartalmaz. Csak egy adatfolyam enged\u00e9lyezett."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nem t\u00e1mogatott videokodek \u201e{{ codec }}\u201d.",
-                    "state": "needs-review-translation"
+                    "trans": "Nem t\u00e1mogatott vide\u00f3kodek \u201e{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nem t\u00e1mogatott videokont\u00e9ner \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nem t\u00e1mogatott vide\u00f3kont\u00e9ner \u201e{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "A k\u00e9pf\u00e1jl s\u00e9r\u00fclt.",
-                    "state": "needs-review-translation"
+                    "trans": "A k\u00e9pf\u00e1jl s\u00e9r\u00fclt."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "A k\u00e9pen t\u00fal kev\u00e9s pixel van ({{ pixels }}). Az elv\u00e1rt minimum {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A k\u00e9pben t\u00fal kev\u00e9s a k\u00e9ppont ({{ pixels }}). Az elv\u00e1rt legkisebb mennyis\u00e9g {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "A k\u00e9p t\u00fal sok pixelt tartalmaz ({{ pixels }}). A v\u00e1rhat\u00f3 maxim\u00e1lis mennyis\u00e9g {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A k\u00e9pben t\u00fal sok a k\u00e9ppont ({{ pixels }}). A megengedett legnagyobb mennyis\u00e9g {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Ez a f\u00e1jln\u00e9v nem felel meg a v\u00e1rt karakterk\u00e9szletnek.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez a f\u00e1jln\u00e9v nem felel meg a v\u00e1rt karakterk\u00e9szletnek."
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ez az \u00e9rt\u00e9k nem felel meg az elv\u00e1rt XSD-s\u00e9m\u00e1nak.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem felel meg az elv\u00e1rt XSD-s\u00e9m\u00e1nak."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Ez az XML-adattartalom t\u00fal nagy ({{ size }} b\u00e1jt): meghaladja a {{ limit }} b\u00e1jtos korl\u00e1tot.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az XML-adattartalom t\u00fal nagy ({{ size }} b\u00e1jt): meghaladja a {{ limit }} b\u00e1jtos korl\u00e1tot."
                 }
             },
             "hy": {
@@ -27562,18 +27533,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Nilai ini bukan XML yang valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan XML yang valid."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Nilai ini tidak sesuai dengan skema XSD yang diharapkan.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini tidak sesuai dengan skema XSD yang diharapkan."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Muatan XML ini terlalu besar ({{ size }} byte): melebihi batas {{ limit }} byte.",
-                    "state": "needs-review-translation"
+                    "trans": "Muatan XML ini terlalu besar ({{ size }} byte): melebihi batas {{ limit }} byte."
                 }
             },
             "it": {
@@ -41982,18 +41950,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ang halagang ito ay hindi wastong XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang nilalaman na ito ay hindi wastong XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ang halagang ito ay hindi tumutugma sa inaasahang XSD schema.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang nilalaman na ito ay hindi tumutugma sa inaasahang XSD schema."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Masyadong malaki ang XML payload na ito ({{ size }} bytes): lumampas ito sa limitasyong {{ limit }} bytes.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong malaki ang XML payload na ito ({{ size }} bytes): lumampas ito sa limitasyong {{ limit }} bytes."
                 }
             },
             "tr": {
@@ -43120,18 +43085,15 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c XML.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u0454 \u043e\u0447\u0456\u043a\u0443\u0432\u0430\u043d\u0456\u0439 \u0441\u0445\u0435\u043c\u0456 XSD.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u0454 \u043e\u0447\u0456\u043a\u0443\u0432\u0430\u043d\u0456\u0439 XSD \u0441\u0445\u0435\u043c\u0456."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "\u0426\u0435 \u043a\u043e\u0440\u0438\u0441\u043d\u0435 \u043d\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043d\u044f XML \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0432\u0435\u043b\u0438\u043a\u0435 ({{ size }} \u0431\u0430\u0439\u0442): \u0432\u043e\u043d\u043e \u043f\u0435\u0440\u0435\u0432\u0438\u0449\u0443\u0454 \u043b\u0456\u043c\u0456\u0442 \u0443 {{ limit }} \u0431\u0430\u0439\u0442.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0456 XML-\u0434\u0430\u043d\u0456 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0432\u0435\u043b\u0438\u043a\u0456 ({{ size }} \u0431\u0430\u0439\u0442): \u0432\u043e\u043d\u0438 \u043f\u0435\u0440\u0435\u0432\u0438\u0449\u0443\u044e\u0442\u044c \u043b\u0456\u043c\u0456\u0442 \u0443 {{ limit }} \u0431\u0430\u0439\u0442."
                 }
             },
             "ur": {
