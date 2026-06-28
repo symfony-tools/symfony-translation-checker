@@ -2345,8 +2345,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Bitte geben Sie eine g\u00fcltige UUID ein.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitte geben Sie eine g\u00fcltige UUID ein."
                 }
             },
             "el": {
@@ -19599,23 +19598,19 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Dieser Wert ist kein g\u00fcltiges XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist kein g\u00fcltiges XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Dieser Wert entspricht nicht dem erwarteten XSD-Schema.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert entspricht nicht dem erwarteten XSD-Schema."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Diese XML-Nutzlast ist zu gro\u00df ({{ size }} Bytes): Sie \u00fcberschreitet das Limit von {{ limit }} Bytes.",
-                    "state": "needs-review-translation"
+                    "trans": "Diese XML-Nutzlast ist zu gro\u00df ({{ size }} Bytes): Sie \u00fcberschreitet das Limit von {{ limit }} Bytes."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Dieser Wert ist kein g\u00fcltiger Cron-Ausdruck.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist kein g\u00fcltiger Cron-Ausdruck."
                 }
             },
             "el": {
@@ -25951,8 +25946,7 @@
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i cron izraz.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i cron izraz."
                 }
             },
             "hu": {
