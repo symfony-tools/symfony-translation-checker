@@ -3743,23 +3743,23 @@
                 },
                 "29": {
                     "id": "29",
-                    "trans": "Prenesena datoteka je prevelika. Molim poku\u0161ajte prenijeti manju datoteku."
+                    "trans": "Prenesena datoteka je prevelika. Poku\u0161ajte prenijeti manju datoteku."
                 },
                 "30": {
                     "id": "30",
-                    "trans": "CSRF vrijednost nije ispravna. Poku\u0161ajte ponovo poslati obrazac."
+                    "trans": "CSRF token nije valjan. Poku\u0161ajte ponovno poslati obrazac."
                 },
                 "99": {
                     "id": "99",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107a HTML5 boja."
+                    "trans": "Ova vrijednost nije valjana HTML5 boja."
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Molim upi\u0161ite ispravan datum ro\u0111enja."
+                    "trans": "Unesite ispravan datum ro\u0111enja."
                 },
                 "101": {
                     "id": "101",
-                    "trans": "Odabrani izbor nije ispravan."
+                    "trans": "Odabrani izbor nije valjan."
                 },
                 "102": {
                     "id": "102",
@@ -3767,31 +3767,31 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Molim odaberite ispravnu boju."
+                    "trans": "Odaberite ispravnu boju."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Molim odaberite ispravnu dr\u017eavu."
+                    "trans": "Odaberite ispravnu dr\u017eavu."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "Molim odaberite ispravnu valutu."
+                    "trans": "Odaberite ispravnu valutu."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Molim odaberite ispravni vremenski interval."
+                    "trans": "Odaberite ispravan vremenski interval."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Molim unesite ispravni datum i vrijeme."
+                    "trans": "Unesite ispravan datum i vrijeme."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Molim odaberite ispravan datum."
+                    "trans": "Unesite ispravan datum."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Molim odaberite ispravnu datoteku."
+                    "trans": "Odaberite ispravnu datoteku."
                 },
                 "110": {
                     "id": "110",
@@ -3799,23 +3799,23 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Molim unesite cijeli broj."
+                    "trans": "Unesite cijeli broj."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Molim odaberite ispravan jezik."
+                    "trans": "Odaberite ispravan jezik."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Molim odaberite ispravnu lokalizaciju."
+                    "trans": "Odaberite ispravnu regionalnu oznaku."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Molim unesite ispravan iznos novca."
+                    "trans": "Unesite ispravan nov\u010dani iznos."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Molim unesite broj."
+                    "trans": "Unesite broj."
                 },
                 "116": {
                     "id": "116",
@@ -3823,31 +3823,31 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Molim unesite vrijednost postotka."
+                    "trans": "Unesite postotnu vrijednost."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ove vrijednosti se ne poklapaju."
+                    "trans": "Vrijednosti se ne podudaraju."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Molim unesite ispravno vrijeme."
+                    "trans": "Unesite ispravno vrijeme."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Molim odaberite ispravnu vremensku zonu."
+                    "trans": "Odaberite ispravnu vremensku zonu."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Molim unesite ispravan URL."
+                    "trans": "Unesite ispravan URL."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Molim unesite ispravan pojam za pretra\u017eivanje."
+                    "trans": "Unesite ispravan pojam za pretra\u017eivanje."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Molim navedite ispravan telefonski broj."
+                    "trans": "Navedite ispravan telefonski broj."
                 },
                 "124": {
                     "id": "124",
@@ -3855,23 +3855,23 @@
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Molim unesite valjanu adresu elektronske po\u0161te."
+                    "trans": "Unesite ispravnu adresu e-po\u0161te."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Molim odaberite ispravnu opciju."
+                    "trans": "Odaberite ispravnu opciju."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Molim odaberite ispravan raspon."
+                    "trans": "Odaberite ispravan raspon."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Molim unesite ispravni tjedan."
+                    "trans": "Unesite ispravan tjedan."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Molim unesite ispravan UUID."
+                    "trans": "Unesite ispravan UUID."
                 }
             },
             "hu": {
@@ -7064,8 +7064,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Ju lutemi shkruani nj\u00eb UUID t\u00eb vlefsh\u00ebm.",
-                    "state": "needs-review-translation"
+                    "trans": "Ju lutemi shkruani nj\u00eb UUID t\u00eb vlefsh\u00ebm."
                 }
             },
             "sr_Cyrl": {
@@ -8608,7 +8607,7 @@
                 },
                 "99": {
                     "id": "99",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684 HTML5 \u984f\u8272\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 HTML5 \u984f\u8272\u3002"
                 },
                 "100": {
                     "id": "100",
@@ -8728,8 +8727,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "\u8acb\u8f38\u5165\u6709\u6548\u7684 UUID\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u8acb\u8f38\u5165\u6709\u6548\u7684 UUID\u3002"
                 }
             }
         },
@@ -10396,7 +10394,7 @@
             "hr": {
                 "1": {
                     "id": "1",
-                    "trans": "Dogodila se autentifikacijske iznimka."
+                    "trans": "Do\u0161lo je do autentifikacijske iznimke."
                 },
                 "2": {
                     "id": "2",
@@ -10404,19 +10402,19 @@
                 },
                 "3": {
                     "id": "3",
-                    "trans": "Autentifikacijski zahtjev nije mogu\u0107e provesti uslijed sistemskog problema."
+                    "trans": "Autentifikacijski zahtjev nije mogu\u0107e obraditi zbog problema u sustavu."
                 },
                 "4": {
                     "id": "4",
-                    "trans": "Neispravni akreditacijski podaci."
+                    "trans": "Neispravni autentifikacijski podaci."
                 },
                 "5": {
                     "id": "5",
-                    "trans": "Cookie je ve\u0107 netko drugi iskoristio."
+                    "trans": "Netko drugi ve\u0107 je upotrijebio kola\u010di\u0107."
                 },
                 "6": {
                     "id": "6",
-                    "trans": "Nemate privilegije zahtijevati resurs."
+                    "trans": "Nemate ovlasti zatra\u017eiti ovaj resurs."
                 },
                 "7": {
                     "id": "7",
@@ -10424,11 +10422,11 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "Nije prona\u0111en autentifikacijski provider koji bi podr\u017eao autentifikacijski token."
+                    "trans": "Nije prona\u0111en pru\u017eatelj autentifikacije koji podr\u017eava autentifikacijski token."
                 },
                 "10": {
                     "id": "10",
-                    "trans": "Sesija nije dostupna, ili je istekla ili cookies nisu omogu\u0107eni."
+                    "trans": "Sesija nije dostupna, istekla je ili kola\u010di\u0107i nisu omogu\u0107eni."
                 },
                 "11": {
                     "id": "11",
@@ -10440,11 +10438,11 @@
                 },
                 "13": {
                     "id": "13",
-                    "trans": "Ra\u010dun je isteko."
+                    "trans": "Ra\u010dun je istekao."
                 },
                 "14": {
                     "id": "14",
-                    "trans": "Akreditacijski podaci su istekli."
+                    "trans": "Autentifikacijski podaci su istekli."
                 },
                 "15": {
                     "id": "15",
@@ -10456,19 +10454,19 @@
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, molim poku\u0161ajte ponovo kasnije."
+                    "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovno kasnije."
                 },
                 "18": {
                     "id": "18",
-                    "trans": "Link za prijavu je isteako ili je neispravan."
+                    "trans": "Poveznica za prijavu je istekla ili nije ispravna."
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, molim poku\u0161ajte ponovo za %minutes% minutu."
+                    "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovno za %minutes% minutu."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minutu.|Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minute.|Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minuta."
+                    "trans": "Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovno za %minutes% minutu.|Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovno za %minutes% minute.|Previ\u0161e neuspjelih poku\u0161aja prijave, poku\u0161ajte ponovno za %minutes% minuta."
                 }
             },
             "hu": {
@@ -25382,11 +25380,11 @@
             "hr": {
                 "1": {
                     "id": "1",
-                    "trans": "Ova vrijednost treba biti neto\u010dna (false)."
+                    "trans": "Ova vrijednost mora biti false."
                 },
                 "2": {
                     "id": "2",
-                    "trans": "Ova vrijednost treba biti to\u010dna (true)."
+                    "trans": "Ova vrijednost mora biti true."
                 },
                 "3": {
                     "id": "3",
@@ -25402,15 +25400,15 @@
                 },
                 "6": {
                     "id": "6",
-                    "trans": "Izaberite barem {{ limit }} mogu\u0107nosti."
+                    "trans": "Odaberite barem {{ limit }} mogu\u0107nost.|Odaberite barem {{ limit }} mogu\u0107nosti.|Odaberite barem {{ limit }} mogu\u0107nosti."
                 },
                 "7": {
                     "id": "7",
-                    "trans": "Izaberite najvi\u0161e {{ limit }} mogu\u0107nosti."
+                    "trans": "Odaberite najvi\u0161e {{ limit }} mogu\u0107nost.|Odaberite najvi\u0161e {{ limit }} mogu\u0107nosti.|Odaberite najvi\u0161e {{ limit }} mogu\u0107nosti."
                 },
                 "8": {
                     "id": "8",
-                    "trans": "Jedna ili vi\u0161e danih vrijednosti nije ispravna."
+                    "trans": "Jedna ili vi\u0161e unesenih vrijednosti nisu ispravne."
                 },
                 "9": {
                     "id": "9",
@@ -25426,15 +25424,15 @@
                 },
                 "12": {
                     "id": "12",
-                    "trans": "Ova vrijednost nije ispravnog datum-vrijeme formata."
+                    "trans": "Ova vrijednost nije u ispravnom formatu datuma i vremena."
                 },
                 "13": {
                     "id": "13",
-                    "trans": "Ova vrijednost nije ispravna e-mail adresa."
+                    "trans": "Ova vrijednost nije ispravna adresa e-po\u0161te."
                 },
                 "14": {
                     "id": "14",
-                    "trans": "Datoteka ne mo\u017ee biti prona\u0111ena."
+                    "trans": "Datoteka nije prona\u0111ena."
                 },
                 "15": {
                     "id": "15",
@@ -25442,11 +25440,11 @@
                 },
                 "16": {
                     "id": "16",
-                    "trans": "Datoteka je prevelika ({{ size }} {{ suffix }}). Najve\u0107a dozvoljena veli\u010dina je {{ limit }} {{ suffix }}."
+                    "trans": "Datoteka je prevelika ({{ size }} {{ suffix }}). Najve\u0107a dopu\u0161tena veli\u010dina je {{ limit }} {{ suffix }}."
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Mime tip datoteke nije ispravan ({{ type }}). Dozvoljeni mime tipovi su {{ types }}."
+                    "trans": "MIME vrsta datoteke nije valjana ({{ type }}). Dopu\u0161tene MIME vrste su {{ types }}."
                 },
                 "18": {
                     "id": "18",
@@ -25454,7 +25452,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Ova vrijednost je preduga\u010dka. Treba imati {{ limit }} znakova ili manje."
+                    "trans": "Ova vrijednost je preduga\u010dka. Treba imati {{ limit }} znak ili manje.|Ova vrijednost je preduga\u010dka. Treba imati {{ limit }} znaka ili manje.|Ova vrijednost je preduga\u010dka. Treba imati {{ limit }} znakova ili manje."
                 },
                 "20": {
                     "id": "20",
@@ -25462,15 +25460,15 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "Ova vrijednost je prekratka. Treba imati {{ limit }} znakova ili vi\u0161e."
+                    "trans": "Ova vrijednost je prekratka. Treba imati {{ limit }} znak ili vi\u0161e.|Ova vrijednost je prekratka. Treba imati {{ limit }} znaka ili vi\u0161e.|Ova vrijednost je prekratka. Treba imati {{ limit }} znakova ili vi\u0161e."
                 },
                 "22": {
                     "id": "22",
-                    "trans": "Ova vrijednost ne bi trebala biti prazna."
+                    "trans": "Ova vrijednost ne smije biti prazna."
                 },
                 "23": {
                     "id": "23",
-                    "trans": "Ova vrijednost ne bi trebala biti null."
+                    "trans": "Ova vrijednost ne smije biti null."
                 },
                 "24": {
                     "id": "24",
@@ -25494,7 +25492,7 @@
                 },
                 "32": {
                     "id": "32",
-                    "trans": "Ova datoteka je prevelika. Najve\u0107a dozvoljena veli\u010dina je {{ limit }} {{ suffix }}."
+                    "trans": "Ova datoteka je prevelika. Najve\u0107a dopu\u0161tena veli\u010dina je {{ limit }} {{ suffix }}."
                 },
                 "33": {
                     "id": "33",
@@ -25502,7 +25500,7 @@
                 },
                 "34": {
                     "id": "34",
-                    "trans": "Ova datoteka ne mo\u017ee biti prenesena."
+                    "trans": "Nije mogu\u0107e prenijeti datoteku."
                 },
                 "35": {
                     "id": "35",
@@ -25522,7 +25520,7 @@
                 },
                 "39": {
                     "id": "39",
-                    "trans": "Ova vrijednost nije ispravana regionalna oznaka."
+                    "trans": "Ova vrijednost nije ispravna regionalna oznaka."
                 },
                 "40": {
                     "id": "40",
@@ -25534,23 +25532,23 @@
                 },
                 "42": {
                     "id": "42",
-                    "trans": "Veli\u010dina slike se ne mo\u017ee odrediti."
+                    "trans": "Nije mogu\u0107e odrediti veli\u010dinu slike."
                 },
                 "43": {
                     "id": "43",
-                    "trans": "\u0160irina slike je prevelika ({{ width }}px). Najve\u0107a dozvoljena \u0161irina je {{ max_width }}px."
+                    "trans": "\u0160irina slike je prevelika ({{ width }}px). Najve\u0107a dopu\u0161tena \u0161irina je {{ max_width }}px."
                 },
                 "44": {
                     "id": "44",
-                    "trans": "\u0160irina slike je premala ({{ width }}px). Najmanja dozvoljena \u0161irina je {{ min_width }}px."
+                    "trans": "\u0160irina slike je premala ({{ width }}px). Najmanja o\u010dekivana \u0161irina je {{ min_width }}px."
                 },
                 "45": {
                     "id": "45",
-                    "trans": "Visina slike je prevelika ({{ height }}px). Najve\u0107a dozvoljena visina je {{ max_height }}px."
+                    "trans": "Visina slike je prevelika ({{ height }}px). Najve\u0107a dopu\u0161tena visina je {{ max_height }}px."
                 },
                 "46": {
                     "id": "46",
-                    "trans": "Visina slike je premala ({{ height }}px). Najmanja dozvoljena visina je {{ min_height }}px."
+                    "trans": "Visina slike je premala ({{ height }}px). Najmanja o\u010dekivana visina je {{ min_height }}px."
                 },
                 "47": {
                     "id": "47",
@@ -25558,7 +25556,7 @@
                 },
                 "48": {
                     "id": "48",
-                    "trans": "Ova vrijednost treba imati to\u010dno {{ limit }} znakova."
+                    "trans": "Ova vrijednost treba imati to\u010dno {{ limit }} znak.|Ova vrijednost treba imati to\u010dno {{ limit }} znaka.|Ova vrijednost treba imati to\u010dno {{ limit }} znakova."
                 },
                 "49": {
                     "id": "49",
@@ -25566,15 +25564,15 @@
                 },
                 "50": {
                     "id": "50",
-                    "trans": "Niti jedna datoteka nije prenesena."
+                    "trans": "Nijedna datoteka nije prenesena."
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Privremena mapa nije konfigurirana u php.ini-u, ili konfigurirana mapa ne postoji."
+                    "trans": "Privremena mapa nije konfigurirana u php.ini-u ili konfigurirana mapa ne postoji."
                 },
                 "52": {
                     "id": "52",
-                    "trans": "Ne mogu zapisati privremenu datoteku na disk."
+                    "trans": "Privremenu datoteku nije mogu\u0107e zapisati na disk."
                 },
                 "53": {
                     "id": "53",
@@ -25582,11 +25580,11 @@
                 },
                 "54": {
                     "id": "54",
-                    "trans": "Ova kolekcija treba sadr\u017eavati {{ limit }} ili vi\u0161e elemenata.|Ova kolekcija treba sadr\u017eavati {{ limit }} ili vi\u0161e elemenata.|Ova kolekcija treba sadr\u017eavati {{ limit }} ili vi\u0161e elemenata."
+                    "trans": "Ova kolekcija treba sadr\u017eavati {{ limit }} element ili vi\u0161e.|Ova kolekcija treba sadr\u017eavati {{ limit }} elementa ili vi\u0161e.|Ova kolekcija treba sadr\u017eavati {{ limit }} elemenata ili vi\u0161e."
                 },
                 "55": {
                     "id": "55",
-                    "trans": "Ova kolekcija treba sadr\u017eavati {{ limit }} ili manje elemenata.|Ova kolekcija treba sadr\u017eavati {{ limit }} ili manje elemenata.|Ova kolekcija treba sadr\u017eavati {{ limit }} ili manje elemenata."
+                    "trans": "Ova kolekcija treba sadr\u017eavati {{ limit }} element ili manje.|Ova kolekcija treba sadr\u017eavati {{ limit }} elementa ili manje.|Ova kolekcija treba sadr\u017eavati {{ limit }} elemenata ili manje."
                 },
                 "56": {
                     "id": "56",
@@ -25638,7 +25636,7 @@
                 },
                 "68": {
                     "id": "68",
-                    "trans": "Ova vrijednost treba biti {{ compared_value_type }} {{ compared_value }}."
+                    "trans": "Ova vrijednost treba biti identi\u010dna vrijednosti {{ compared_value_type }} {{ compared_value }}."
                 },
                 "69": {
                     "id": "69",
@@ -25654,35 +25652,35 @@
                 },
                 "72": {
                     "id": "72",
-                    "trans": "Ova vrijednost treba biti razli\u010dita od {{ compared_value_type }} {{ compared_value }}."
+                    "trans": "Ova vrijednost ne smije biti identi\u010dna vrijednosti {{ compared_value_type }} {{ compared_value }}."
                 },
                 "73": {
                     "id": "73",
-                    "trans": "Omjer slike je prevelik ({{ ratio }}). Dozvoljeni maksimalni omjer je {{ max_ratio }}."
+                    "trans": "Omjer slike je prevelik ({{ ratio }}). Najve\u0107i dopu\u0161teni omjer je {{ max_ratio }}."
                 },
                 "74": {
                     "id": "74",
-                    "trans": "Omjer slike je premali ({{ ratio }}). Minimalni o\u010dekivani omjer je {{ min_ratio }}."
+                    "trans": "Omjer slike je premali ({{ ratio }}). Najmanji o\u010dekivani omjer je {{ min_ratio }}."
                 },
                 "75": {
                     "id": "75",
-                    "trans": "Slika je kvadratnog oblika ({{ width }}x{{ height }}px). Kvadratne slike nisu dozvoljene."
+                    "trans": "Slika je kvadratnog oblika ({{ width }}x{{ height }}px). Kvadratne slike nisu dopu\u0161tene."
                 },
                 "76": {
                     "id": "76",
-                    "trans": "Slika je orijentirana horizontalno ({{ width }}x{{ height }}px). Horizontalno orijentirane slike nisu dozvoljene."
+                    "trans": "Slika je orijentirana horizontalno ({{ width }}x{{ height }}px). Horizontalno orijentirane slike nisu dopu\u0161tene."
                 },
                 "77": {
                     "id": "77",
-                    "trans": "Slika je orijentirana vertikalno ({{ width }}x{{ height }}px). Vertikalno orijentirane slike nisu dozvoljene."
+                    "trans": "Slika je orijentirana vertikalno ({{ width }}x{{ height }}px). Vertikalno orijentirane slike nisu dopu\u0161tene."
                 },
                 "78": {
                     "id": "78",
-                    "trans": "Prazna datoteka nije dozvoljena."
+                    "trans": "Prazna datoteka nije dopu\u0161tena."
                 },
                 "79": {
                     "id": "79",
-                    "trans": "Poslu\u017eitelj ne mo\u017ee biti prona\u0111en."
+                    "trans": "Nije mogu\u0107e prona\u0107i poslu\u017eitelj."
                 },
                 "80": {
                     "id": "80",
@@ -25702,19 +25700,19 @@
                 },
                 "84": {
                     "id": "84",
-                    "trans": "Ova vrijednost treba biti vi\u0161ekratnik od {{ compared_value }}."
+                    "trans": "Ova vrijednost treba biti vi\u0161ekratnik vrijednosti {{ compared_value }}."
                 },
                 "85": {
                     "id": "85",
-                    "trans": "Poslovni identifikacijski broj (BIC) nije povezan sa IBAN brojem {{ iban }}."
+                    "trans": "Poslovni identifikacijski kod (BIC) nije povezan s IBAN brojem {{ iban }}."
                 },
                 "86": {
                     "id": "86",
-                    "trans": "Ova vrijednost treba biti validan JSON."
+                    "trans": "Ova vrijednost treba biti valjani JSON."
                 },
                 "87": {
                     "id": "87",
-                    "trans": "Ova kolekcija treba sadr\u017eavati samo unikatne elemente."
+                    "trans": "Ova kolekcija treba sadr\u017eavati samo jedinstvene elemente."
                 },
                 "88": {
                     "id": "88",
@@ -25734,11 +25732,11 @@
                 },
                 "92": {
                     "id": "92",
-                    "trans": "Ova vrijednost nije validna vremenska zona."
+                    "trans": "Ova vrijednost nije ispravna vremenska zona."
                 },
                 "93": {
                     "id": "93",
-                    "trans": "Ova lozinka je procurila u nekom od sigurnosnih propusta, te je potrebno koristiti drugu lozinku."
+                    "trans": "Ova lozinka je otkrivena u povredi podataka i ne smije se upotrebljavati. Odaberite drugu lozinku."
                 },
                 "94": {
                     "id": "94",
@@ -25746,7 +25744,7 @@
                 },
                 "95": {
                     "id": "95",
-                    "trans": "Ova vrijednost nije ispravno ime poslu\u017eitelja (engl. hostname)."
+                    "trans": "Ova vrijednost nije valjani naziv poslu\u017eitelja (hostname)."
                 },
                 "96": {
                     "id": "96",
@@ -25754,7 +25752,7 @@
                 },
                 "97": {
                     "id": "97",
-                    "trans": "Ova vrijednost mora zadovoljiti jedan od sljede\u0107ih ograni\u010denja:"
+                    "trans": "Ova vrijednost mora zadovoljiti barem jedno od sljede\u0107ih ograni\u010denja:"
                 },
                 "98": {
                     "id": "98",
@@ -25762,7 +25760,7 @@
                 },
                 "99": {
                     "id": "99",
-                    "trans": "Ova vrijednost nije ispravan me\u0111unarodni identifikacijski broj vrijednosnih papira (ISIN)."
+                    "trans": "Ova vrijednost nije valjani me\u0111unarodni identifikacijski broj vrijednosnih papira (ISIN)."
                 },
                 "100": {
                     "id": "100",
@@ -25770,7 +25768,7 @@
                 },
                 "101": {
                     "id": "101",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107a CSS boja."
+                    "trans": "Ova vrijednost nije valjana CSS boja."
                 },
                 "102": {
                     "id": "102",
@@ -25778,7 +25776,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Vrijednost mre\u017ene maske trebala bi biti izme\u0111u {{ min }} i {{ max }}."
+                    "trans": "Vrijednost mre\u017ene maske treba biti izme\u0111u {{ min }} i {{ max }}."
                 },
                 "104": {
                     "id": "104",
@@ -25786,7 +25784,7 @@
                 },
                 "105": {
                     "id": "105",
-                    "trans": "Ja\u010dina lozinke je preniska. Molim koristite ja\u010du lozinku."
+                    "trans": "Ja\u010dina lozinke je preniska. Upotrijebite ja\u010du lozinku."
                 },
                 "106": {
                     "id": "106",
@@ -25806,11 +25804,11 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Ekstenzija datoteke nije valjana ({{ extension }}). Dozvoljene ekstenzije su {{ extensions }}."
+                    "trans": "Ekstenzija datoteke nije valjana ({{ extension }}). Dopu\u0161tene ekstenzije su {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Otkriveno kodiranje znakova je neva\u017ee\u0107e ({{ detected }}). Dopu\u0161tena kodiranja su {{ encodings }}."
+                    "trans": "Otkriveno kodiranje znakova nije valjano ({{ detected }}). Dopu\u0161tena kodiranja su {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
@@ -25822,11 +25820,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem jednu rije\u010d.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di."
+                    "trans": "Ova vrijednost je prekratka. Mora sadr\u017eavati barem {{ min }} rije\u010d.|Ova vrijednost je prekratka. Mora sadr\u017eavati barem {{ min }} rije\u010di.|Ova vrijednost je prekratka. Mora sadr\u017eavati barem {{ min }} rije\u010di."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati samo jednu rije\u010d.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje."
+                    "trans": "Ova vrijednost je preduga\u010dka. Smije sadr\u017eavati najvi\u0161e {{ max }} rije\u010d.|Ova vrijednost je preduga\u010dka. Smije sadr\u017eavati najvi\u0161e {{ max }} rije\u010di.|Ova vrijednost je preduga\u010dka. Smije sadr\u017eavati najvi\u0161e {{ max }} rije\u010di."
                 },
                 "116": {
                     "id": "116",
@@ -25838,11 +25836,11 @@
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ova vrijednost ne bi trebala biti prije tjedna \"{{ min }}\"."
+                    "trans": "Ova vrijednost ne smije biti prije tjedna \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ova vrijednost ne bi trebala biti nakon tjedna \"{{ max }}\"."
+                    "trans": "Ova vrijednost ne smije biti nakon tjedna \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
@@ -25850,55 +25848,55 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ova datoteka nije valjani videozapis."
+                    "trans": "Ova datoteka nije ispravan videozapis."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Veli\u010dina videozapisa nije mogla biti odre\u0111ena."
+                    "trans": "Nije mogu\u0107e odrediti veli\u010dinu videozapisa."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u0160irina videozapisa je prevelika ({{ width }}px). Dopu\u0161ten\u0430 maksimalna \u0161irina je {{ max_width }}px."
+                    "trans": "\u0160irina videozapisa je prevelika ({{ width }}px). Najve\u0107a dopu\u0161tena \u0161irina je {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u0160irina videozapisa je premala ({{ width }}px). O\u010dekivana minimalna \u0161irina je {{ min_width }}px."
+                    "trans": "\u0160irina videozapisa je premala ({{ width }}px). Najmanja o\u010dekivana \u0161irina je {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Visina videozapisa je prevelika ({{ height }}px). Dopu\u0161tena maksimalna visina je {{ max_height }}px."
+                    "trans": "Visina videozapisa je prevelika ({{ height }}px). Najve\u0107a dopu\u0161tena visina je {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Visina videozapisa je premala ({{ height }}px). O\u010dekivana minimalna visina je {{ min_height }}px."
+                    "trans": "Visina videozapisa je premala ({{ height }}px). Najmanja o\u010dekivana visina je {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Video ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}."
+                    "trans": "Videozapis ima premalo piksela ({{ pixels }}). Najmanji o\u010dekivani broj piksela je {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Video ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}."
+                    "trans": "Videozapis ima previ\u0161e piksela ({{ pixels }}). Najve\u0107i o\u010dekivani broj piksela je {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Omjer videa je prevelik ({{ ratio }}). Dopu\u0161teni maksimalni omjer je {{ max_ratio }}."
+                    "trans": "Omjer videozapisa je prevelik ({{ ratio }}). Najve\u0107i dopu\u0161teni omjer je {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Omjer videa je premalen ({{ ratio }}). Minimalni o\u010dekivani omjer je {{ min_ratio }}."
+                    "trans": "Omjer videozapisa je premalen ({{ ratio }}). Najmanji o\u010dekivani omjer je {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video je kvadratan ({{ width }}x{{ height }}px). Kvadratni videozapisi nisu dopu\u0161teni."
+                    "trans": "Videozapis je kvadratan ({{ width }}x{{ height }}px). Kvadratni videozapisi nisu dopu\u0161teni."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video je vodoravne orijentacije ({{ width }}x{{ height }} px). Vodoravni videozapisi nisu dopu\u0161teni."
+                    "trans": "Videozapis je vodoravne orijentacije ({{ width }}x{{ height }}px). Videozapisi vodoravne orijentacije nisu dopu\u0161teni."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video je okomite orijentacije ({{ width }}x{{ height }} px). Videozapisi okomite orijentacije nisu dopu\u0161teni."
+                    "trans": "Videozapis je okomite orijentacije ({{ width }}x{{ height }}px). Videozapisi okomite orijentacije nisu dopu\u0161teni."
                 },
                 "135": {
                     "id": "135",
@@ -25906,7 +25904,7 @@
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video sadr\u017ei vi\u0161e tokova. Dopu\u0161ten je samo jedan tok."
+                    "trans": "Videozapis sadr\u017ei vi\u0161e tokova. Dopu\u0161ten je samo jedan tok."
                 },
                 "137": {
                     "id": "137",
@@ -25922,11 +25920,11 @@
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Slika ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}."
+                    "trans": "Slika ima premalo piksela ({{ pixels }}). Najmanji o\u010dekivani broj piksela je {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Slika ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}."
+                    "trans": "Slika ima previ\u0161e piksela ({{ pixels }}). Najve\u0107i o\u010dekivani broj piksela je {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
@@ -25934,7 +25932,7 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML."
+                    "trans": "Ova vrijednost nije valjani XML."
                 },
                 "144": {
                     "id": "144",
@@ -25942,11 +25940,11 @@
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} bajtova): prema\u0161uje ograni\u010denje od {{ limit }} bajtova."
+                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} B): prema\u0161uje ograni\u010denje od {{ limit }} B."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i cron izraz."
+                    "trans": "Ova vrijednost nije valjani cron izraz."
                 }
             },
             "hu": {
@@ -39289,23 +39287,19 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb XML i vlefsh\u00ebm.",
-                    "state": "needs-review-translation"
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb XML i vlefsh\u00ebm."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Kjo vler\u00eb nuk p\u00ebrputhet me skem\u00ebn XSD t\u00eb pritur.",
-                    "state": "needs-review-translation"
+                    "trans": "Kjo vler\u00eb nuk p\u00ebrputhet me skem\u00ebn e pritur XSD."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Kjo ngarkes\u00eb XML \u00ebsht\u00eb shum\u00eb e madhe ({{ size }} bajt): tejkalon kufirin prej {{ limit }} bajt.",
-                    "state": "needs-review-translation"
+                    "trans": "Kjo ngarkes\u00eb XML \u00ebsht\u00eb shum\u00eb e madhe ({{ size }} bajt): tejkalon kufirin prej {{ limit }} bajt."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb shprehje cron e vlefshme.",
-                    "state": "needs-review-translation"
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb shprehje e vlefshme cron."
                 }
             },
             "sr_Cyrl": {
@@ -45728,19 +45722,19 @@
             "zh_TW": {
                 "1": {
                     "id": "1",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba false\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba false\u3002"
                 },
                 "2": {
                     "id": "2",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba true\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba true\u3002"
                 },
                 "3": {
                     "id": "3",
-                    "trans": "\u9019\u500b\u6578\u503c\u7684\u985e\u578b\u61c9\u70ba {{ type }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u7684\u985e\u578b\u61c9\u70ba {{ type }}\u3002"
                 },
                 "4": {
                     "id": "4",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u8a72\u7559\u767d\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u8a72\u7559\u767d\u3002"
                 },
                 "5": {
                     "id": "5",
@@ -45768,15 +45762,15 @@
                 },
                 "11": {
                     "id": "11",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u65e5\u671f\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u65e5\u671f\u3002"
                 },
                 "12": {
                     "id": "12",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u65e5\u671f\u6642\u9593\u7d44\u5408\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u65e5\u671f\u6642\u9593\u7d44\u5408\u3002"
                 },
                 "13": {
                     "id": "13",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u96fb\u5b50\u90f5\u4ef6\u683c\u5f0f\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u96fb\u5b50\u90f5\u4ef6\u683c\u5f0f\u3002"
                 },
                 "14": {
                     "id": "14",
@@ -45796,43 +45790,43 @@
                 },
                 "18": {
                     "id": "18",
-                    "trans": "\u9019\u500b\u6578\u503c\u5fc5\u9808\u5c0f\u65bc\u7b49\u65bc {{ limit }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u5fc5\u9808\u5c0f\u65bc\u7b49\u65bc {{ limit }}\u3002"
                 },
                 "19": {
                     "id": "19",
-                    "trans": "\u9019\u500b\u6578\u503c\u904e\u9577\u3002\u6700\u591a\u53ea\u80fd\u6709 {{ limit }} \u500b\u5b57\u5143\u3002|\u9019\u500b\u6578\u503c\u904e\u9577\u3002\u6700\u591a\u53ea\u80fd\u6709 {{ limit }} \u500b\u5b57\u5143\u3002"
+                    "trans": "\u9019\u500b\u503c\u904e\u9577\u3002\u6700\u591a\u53ea\u80fd\u6709 {{ limit }} \u500b\u5b57\u5143\u3002|\u9019\u500b\u503c\u904e\u9577\u3002\u6700\u591a\u53ea\u80fd\u6709 {{ limit }} \u500b\u5b57\u5143\u3002"
                 },
                 "20": {
                     "id": "20",
-                    "trans": "\u9019\u500b\u6578\u503c\u5fc5\u9808\u5927\u65bc\u7b49\u65bc {{ limit }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u5fc5\u9808\u5927\u65bc\u7b49\u65bc {{ limit }}\u3002"
                 },
                 "21": {
                     "id": "21",
-                    "trans": "\u9019\u500b\u6578\u503c\u904e\u77ed\u3002\u6700\u5c11\u8981\u6709 {{ limit }} \u500b\u5b57\u5143\u3002|\u9019\u500b\u6578\u503c\u904e\u77ed\u3002\u6700\u5c11\u8981\u6709 {{ limit }} \u500b\u5b57\u5143\u3002"
+                    "trans": "\u9019\u500b\u503c\u904e\u77ed\u3002\u6700\u5c11\u8981\u6709 {{ limit }} \u500b\u5b57\u5143\u3002|\u9019\u500b\u503c\u904e\u77ed\u3002\u6700\u5c11\u8981\u6709 {{ limit }} \u500b\u5b57\u5143\u3002"
                 },
                 "22": {
                     "id": "22",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u5141\u8a31\u7559\u767d\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u5141\u8a31\u7559\u767d\u3002"
                 },
                 "23": {
                     "id": "23",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u80fd\u70ba\u7a7a\u503c\uff08null\uff09\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u80fd\u70ba\u7a7a\u503c\uff08null\uff09\u3002"
                 },
                 "24": {
                     "id": "24",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba\u7a7a\u503c\uff08null\uff09\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba\u7a7a\u503c\uff08null\uff09\u3002"
                 },
                 "25": {
                     "id": "25",
-                    "trans": "\u9019\u500b\u6578\u503c\u7121\u6548\u3002"
+                    "trans": "\u9019\u500b\u503c\u7121\u6548\u3002"
                 },
                 "26": {
                     "id": "26",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u6642\u9593\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u6642\u9593\u3002"
                 },
                 "27": {
                     "id": "27",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f URL \u683c\u5f0f\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f URL \u683c\u5f0f\u3002"
                 },
                 "31": {
                     "id": "31",
@@ -45852,7 +45846,7 @@
                 },
                 "35": {
                     "id": "35",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u6578\u5b57\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u6578\u5b57\u3002"
                 },
                 "36": {
                     "id": "36",
@@ -45860,23 +45854,23 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684 IP \u5730\u5740\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 IP \u5730\u5740\u3002"
                 },
                 "38": {
                     "id": "38",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u8a9e\u8a00\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u8a9e\u8a00\u3002"
                 },
                 "39": {
                     "id": "39",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u5730\u5340\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u5730\u5340\u3002"
                 },
                 "40": {
                     "id": "40",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u570b\u5bb6\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u570b\u5bb6\u3002"
                 },
                 "41": {
                     "id": "41",
-                    "trans": "\u5df2\u7d93\u7528\u904e\u9019\u500b\u6578\u503c\u3002"
+                    "trans": "\u5df2\u7d93\u7528\u904e\u9019\u500b\u503c\u3002"
                 },
                 "42": {
                     "id": "42",
@@ -45900,11 +45894,11 @@
                 },
                 "47": {
                     "id": "47",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba\u4f7f\u7528\u8005\u76ee\u524d\u4f7f\u7528\u7684\u5bc6\u78bc\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba\u4f7f\u7528\u8005\u76ee\u524d\u4f7f\u7528\u7684\u5bc6\u78bc\u3002"
                 },
                 "48": {
                     "id": "48",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u525b\u597d\u70ba {{ limit }} \u500b\u5b57\u5143\u9577\u3002|\u9019\u500b\u6578\u503c\u61c9\u525b\u597d\u70ba {{ limit }} \u500b\u5b57\u5143\u9577\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u525b\u597d\u70ba {{ limit }} \u500b\u5b57\u5143\u9577\u3002|\u9019\u500b\u503c\u61c9\u525b\u597d\u70ba {{ limit }} \u500b\u5b57\u5143\u9577\u3002"
                 },
                 "49": {
                     "id": "49",
@@ -45948,59 +45942,59 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u9019\u500b\u6578\u503c\u7684\u683c\u5f0f\u4e0d\u662f\u570b\u969b\u9280\u884c\u5e33\u6236\u865f\u78bc\uff08IBAN\uff09\u3002"
+                    "trans": "\u9019\u500b\u503c\u7684\u683c\u5f0f\u4e0d\u662f\u570b\u969b\u9280\u884c\u5e33\u6236\u865f\u78bc\uff08IBAN\uff09\u3002"
                 },
                 "60": {
                     "id": "60",
-                    "trans": "\u9019\u500b\u6578\u503c\u7684\u683c\u5f0f\u4e0d\u662f ISBN-10\u3002"
+                    "trans": "\u9019\u500b\u503c\u7684\u683c\u5f0f\u4e0d\u662f ISBN-10\u3002"
                 },
                 "61": {
                     "id": "61",
-                    "trans": "\u9019\u500b\u6578\u503c\u7684\u683c\u5f0f\u4e0d\u662f ISBN-13\u3002"
+                    "trans": "\u9019\u500b\u503c\u7684\u683c\u5f0f\u4e0d\u662f ISBN-13\u3002"
                 },
                 "62": {
                     "id": "62",
-                    "trans": "\u9019\u500b\u6578\u503c\u7684\u683c\u5f0f\u4e0d\u662f ISBN-10 \u6216 ISBN-13\u3002"
+                    "trans": "\u9019\u500b\u503c\u7684\u683c\u5f0f\u4e0d\u662f ISBN-10 \u6216 ISBN-13\u3002"
                 },
                 "63": {
                     "id": "63",
-                    "trans": "\u9019\u500b\u6578\u503c\u7684\u683c\u5f0f\u4e0d\u662f ISSN\u3002"
+                    "trans": "\u9019\u500b\u503c\u7684\u683c\u5f0f\u4e0d\u662f ISSN\u3002"
                 },
                 "64": {
                     "id": "64",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u8ca8\u5e63\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u8ca8\u5e63\u3002"
                 },
                 "65": {
                     "id": "65",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u7b49\u65bc {{ compared_value }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u7b49\u65bc {{ compared_value }}\u3002"
                 },
                 "66": {
                     "id": "66",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u5927\u65bc {{ compared_value }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u5927\u65bc {{ compared_value }}\u3002"
                 },
                 "67": {
                     "id": "67",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u5927\u65bc\u7b49\u65bc {{ compared_value }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u5927\u65bc\u7b49\u65bc {{ compared_value }}\u3002"
                 },
                 "68": {
                     "id": "68",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u7b49\u65bc {{ compared_value_type }} {{ compared_value }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u7b49\u65bc {{ compared_value_type }} {{ compared_value }}\u3002"
                 },
                 "69": {
                     "id": "69",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u5c0f\u65bc {{ compared_value }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u5c0f\u65bc {{ compared_value }}\u3002"
                 },
                 "70": {
                     "id": "70",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u5c0f\u65bc\u7b49\u65bc {{ compared_value }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u5c0f\u65bc\u7b49\u65bc {{ compared_value }}\u3002"
                 },
                 "71": {
                     "id": "71",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u61c9\u7b49\u65bc {{ compared_value }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u61c9\u7b49\u65bc {{ compared_value }}\u3002"
                 },
                 "72": {
                     "id": "72",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u61c9\u7b49\u65bc {{ compared_value_type }} {{ compared_value }}\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u61c9\u7b49\u65bc {{ compared_value_type }} {{ compared_value }}\u3002"
                 },
                 "73": {
                     "id": "73",
@@ -46032,11 +46026,11 @@
                 },
                 "80": {
                     "id": "80",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u7b26\u5408\u9810\u671f\u7684 {{ charset }} \u5b57\u5143\u96c6\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u7b26\u5408\u9810\u671f\u7684 {{ charset }} \u5b57\u5143\u96c6\u3002"
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u5546\u696d\u8b58\u5225\u78bc\uff08BIC\uff09\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u5546\u696d\u8b58\u5225\u78bc\uff08BIC\uff09\u3002"
                 },
                 "82": {
                     "id": "82",
@@ -46044,11 +46038,11 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684 UUID\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 UUID\u3002"
                 },
                 "84": {
                     "id": "84",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba {{ compared_value }} \u7684\u500d\u6578\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba {{ compared_value }} \u7684\u500d\u6578\u3002"
                 },
                 "85": {
                     "id": "85",
@@ -46056,7 +46050,7 @@
                 },
                 "86": {
                     "id": "86",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba\u6709\u6548\u7684 JSON\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba\u6709\u6548\u7684 JSON\u3002"
                 },
                 "87": {
                     "id": "87",
@@ -46064,23 +46058,23 @@
                 },
                 "88": {
                     "id": "88",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba\u6b63\u6578\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba\u6b63\u6578\u3002"
                 },
                 "89": {
                     "id": "89",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba\u6b63\u6578\u6216 0\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba\u6b63\u6578\u6216 0\u3002"
                 },
                 "90": {
                     "id": "90",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba\u8ca0\u6578\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba\u8ca0\u6578\u3002"
                 },
                 "91": {
                     "id": "91",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba\u8ca0\u6578\u6216 0\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba\u8ca0\u6578\u6216 0\u3002"
                 },
                 "92": {
                     "id": "92",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u6642\u5340\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u6642\u5340\u3002"
                 },
                 "93": {
                     "id": "93",
@@ -46088,11 +46082,11 @@
                 },
                 "94": {
                     "id": "94",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u4ecb\u65bc {{ min }} \u548c {{ max }} \u4e4b\u9593\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u4ecb\u65bc {{ min }} \u548c {{ max }} \u4e4b\u9593\u3002"
                 },
                 "95": {
                     "id": "95",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u4e3b\u6a5f\u540d\u7a31\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u4e3b\u6a5f\u540d\u7a31\u3002"
                 },
                 "96": {
                     "id": "96",
@@ -46100,7 +46094,7 @@
                 },
                 "97": {
                     "id": "97",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u6eff\u8db3\u4ee5\u4e0b\u81f3\u5c11\u4e00\u9805\u9650\u5236\uff1a"
+                    "trans": "\u9019\u500b\u503c\u61c9\u6eff\u8db3\u4ee5\u4e0b\u81f3\u5c11\u4e00\u9805\u9650\u5236\uff1a"
                 },
                 "98": {
                     "id": "98",
@@ -46108,19 +46102,19 @@
                 },
                 "99": {
                     "id": "99",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u570b\u969b\u8b49\u5238\u8b58\u5225\u865f\u78bc\uff08ISIN\uff09\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u570b\u969b\u8b49\u5238\u8b58\u5225\u865f\u78bc\uff08ISIN\uff09\u3002"
                 },
                 "100": {
                     "id": "100",
-                    "trans": "\u9019\u500b\u6578\u503c\u61c9\u70ba\u6709\u6548\u7684\u8868\u9054\u5f0f\u3002"
+                    "trans": "\u9019\u500b\u503c\u61c9\u70ba\u6709\u6548\u7684\u8868\u9054\u5f0f\u3002"
                 },
                 "101": {
                     "id": "101",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684 CSS \u984f\u8272\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 CSS \u984f\u8272\u3002"
                 },
                 "102": {
                     "id": "102",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684 CIDR \u8868\u793a\u6cd5\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 CIDR \u8868\u793a\u6cd5\u3002"
                 },
                 "103": {
                     "id": "103",
@@ -46136,7 +46130,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "\u9019\u500b\u6578\u503c\u5305\u542b\u76ee\u524d\u9650\u5236\u7d1a\u5225\u4e0d\u5141\u8a31\u7684\u5b57\u5143\u3002"
+                    "trans": "\u9019\u500b\u503c\u5305\u542b\u76ee\u524d\u9650\u5236\u7d1a\u5225\u4e0d\u5141\u8a31\u7684\u5b57\u5143\u3002"
                 },
                 "107": {
                     "id": "107",
@@ -46160,7 +46154,7 @@
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684 MAC \u4f4d\u5740\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 MAC \u4f4d\u5740\u3002"
                 },
                 "113": {
                     "id": "113",
@@ -46168,31 +46162,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u9019\u500b\u6578\u503c\u904e\u77ed\u3002\u61c9\u81f3\u5c11\u5305\u542b 1 \u500b\u55ae\u5b57\u3002|\u9019\u500b\u6578\u503c\u904e\u77ed\u3002\u61c9\u81f3\u5c11\u5305\u542b {{ min }} \u500b\u55ae\u5b57\u3002"
+                    "trans": "\u9019\u500b\u503c\u904e\u77ed\u3002\u61c9\u81f3\u5c11\u5305\u542b 1 \u500b\u55ae\u5b57\u3002|\u9019\u500b\u503c\u904e\u77ed\u3002\u61c9\u81f3\u5c11\u5305\u542b {{ min }} \u500b\u55ae\u5b57\u3002"
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u9019\u500b\u6578\u503c\u904e\u9577\u3002\u61c9\u5305\u542b 1 \u500b\u55ae\u5b57\u3002|\u9019\u500b\u6578\u503c\u904e\u9577\u3002\u61c9\u6700\u591a\u5305\u542b {{ max }} \u500b\u55ae\u5b57\u3002"
+                    "trans": "\u9019\u500b\u503c\u904e\u9577\u3002\u61c9\u5305\u542b 1 \u500b\u55ae\u5b57\u3002|\u9019\u500b\u503c\u904e\u9577\u3002\u61c9\u6700\u591a\u5305\u542b {{ max }} \u500b\u55ae\u5b57\u3002"
                 },
                 "116": {
                     "id": "116",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u7b26\u5408 ISO 8601 \u683c\u5f0f\u7684\u6709\u6548\u9031\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u7b26\u5408 ISO 8601 \u683c\u5f0f\u7684\u6709\u6548\u9031\u3002"
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684\u9031\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u9031\u3002"
                 },
                 "118": {
                     "id": "118",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u61c9\u65e9\u65bc\u7b2c\u300c{{ min }}\u300d\u9031\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u61c9\u65e9\u65bc\u7b2c\u300c{{ min }}\u300d\u9031\u3002"
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u61c9\u665a\u65bc\u7b2c\u300c{{ max }}\u300d\u9031\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u61c9\u665a\u65bc\u7b2c\u300c{{ max }}\u300d\u9031\u3002"
                 },
                 "121": {
                     "id": "121",
-                    "trans": "\u9019\u500b\u6578\u503c\u4e0d\u662f\u6709\u6548\u7684 Twig \u6a21\u677f\u3002"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 Twig \u6a21\u677f\u3002"
                 },
                 "122": {
                     "id": "122",
@@ -46280,23 +46274,19 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684 XML\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 XML\u3002"
                 },
                 "144": {
                     "id": "144",
-                    "trans": "\u6b64\u503c\u4e0d\u7b26\u5408\u9810\u671f\u7684 XSD \u7d50\u69cb\u63cf\u8ff0\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u7b26\u5408\u9810\u671f\u7684 XSD \u7d50\u69cb\u5b9a\u7fa9\u3002"
                 },
                 "145": {
                     "id": "145",
-                    "trans": "\u6b64 XML \u916c\u8f09\u904e\u5927\uff08{{ size }} \u4f4d\u5143\u7d44\uff09\uff1a\u8d85\u904e\u4e86 {{ limit }} \u4f4d\u5143\u7d44\u7684\u9650\u5236\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b XML \u5167\u5bb9\u904e\u5927\uff08{{ size }} \u4f4d\u5143\u7d44\uff09\uff1a\u8d85\u904e {{ limit }} \u4f4d\u5143\u7d44\u7684\u9650\u5236\u3002"
                 },
                 "146": {
                     "id": "146",
-                    "trans": "\u6b64\u503c\u4e0d\u662f\u6709\u6548\u7684 cron \u904b\u7b97\u5f0f\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 cron \u8868\u9054\u5f0f\u3002"
                 }
             }
         }
