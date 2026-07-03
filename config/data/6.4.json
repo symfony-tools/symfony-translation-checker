@@ -8310,8 +8310,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Iltimos, haqiqiy UUID kiriting.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, to'g'ri UUID kiriting."
                 }
             },
             "vi": {
@@ -44516,23 +44515,19 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ushbu qiymat haqiqiy XML emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat haqiqiy XML emas."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ushbu qiymat kutilgan XSD sxemasiga mos kelmaydi.",
-                    "state": "needs-review-translation"
+                    "trans": "Ushbu qiymat kutilgan XSD sxemasiga mos kelmaydi."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Bu XML yuki juda katta ({{ size }} bayt): u {{ limit }} bayt chegarasidan oshib ketadi.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu XML yuki juda katta ({{ size }} bayt): u {{ limit }} bayt chegarasidan oshib ketadi."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Ushbu qiymat yaroqli cron ifodasi emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Ushbu qiymat to'g'ri cron ifodasi emas."
                 }
             },
             "vi": {
