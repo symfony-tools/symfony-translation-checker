@@ -6370,8 +6370,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Por favor, informe um UUID v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Por favor, informe um UUID v\u00e1lido."
                 }
             },
             "ro": {
@@ -36419,23 +36418,19 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Este valor n\u00e3o \u00e9 um XML v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um XML v\u00e1lido."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Este valor n\u00e3o est\u00e1 em conformidade com o esquema XSD esperado.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o est\u00e1 em conformidade com o esquema XSD esperado."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Esta carga \u00fatil XML \u00e9 muito grande ({{ size }} bytes): excede o limite de {{ limit }} bytes.",
-                    "state": "needs-review-translation"
+                    "trans": "Este conte\u00fado XML \u00e9 muito grande ({{ size }} bytes): excede o limite de {{ limit }} bytes."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Este valor n\u00e3o \u00e9 uma express\u00e3o cron v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 uma express\u00e3o cron v\u00e1lida."
                 }
             },
             "ro": {
