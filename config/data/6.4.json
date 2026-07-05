@@ -23408,7 +23408,7 @@
                 },
                 "85": {
                     "id": "85",
-                    "trans": "T\u00e4t\u00e4 yritystunnusta (BIC) ei ole liitetty IBAN-tilinumeroon {{ iban }}."
+                    "trans": "T\u00e4t\u00e4 pankkitunnusta (BIC) ei ole liitetty IBAN-tilinumeroon {{ iban }}."
                 },
                 "86": {
                     "id": "86",
