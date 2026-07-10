@@ -24222,8 +24222,7 @@
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Cette valeur n'est pas une expression cron valide.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette valeur n'est pas une expression cron valide."
                 }
             },
             "gl": {
