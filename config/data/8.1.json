@@ -10616,7 +10616,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "\u0544\u0578\u0582\u057f\u0584\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u0561\u0576\u0570\u0561\u057b\u0578\u0572 \u0583\u0578\u0580\u0571\u0565\u0580: \u053d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u056f\u0580\u056f\u056b\u0576 \u0583\u0578\u0580\u0571\u0565\u056c %minutes \u0580\u0578\u057a\u0565:"
+                    "trans": "\u0544\u0578\u0582\u057f\u0584\u056b \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0577\u0561\u057f \u0561\u0576\u0570\u0561\u057b\u0578\u0572 \u0583\u0578\u0580\u0571\u0565\u0580: \u053d\u0576\u0564\u0580\u0578\u0582\u0574 \u0565\u0576\u0584 \u056f\u0580\u056f\u056b\u0576 \u0583\u0578\u0580\u0571\u0565\u056c %minutes% \u0580\u0578\u057a\u0565:"
                 },
                 "20": {
                     "id": "20",
@@ -14064,7 +14064,7 @@
                 },
                 "74": {
                     "id": "74",
-                    "trans": "\u0646\u0633\u0628\u0629 \u0627\u0644\u0639\u0631\u0636 \u0639\u0644\u0649 \u0627\u0644\u0627\u0631\u062a\u0641\u0627\u0639 \u0644\u0644\u0635\u0648\u0631\u0629 \u0635\u063a\u064a\u0631\u0629 \u062c\u062f\u0627 ({{ ratio }}). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u062f\u0646\u0649 \u0644\u0644\u0646\u0633\u0628\u0629 \u0627\u0644\u0645\u0633\u0645\u0648\u062d \u0628\u0647 \u0647\u0648 {{ max_ratio }}."
+                    "trans": "\u0646\u0633\u0628\u0629 \u0627\u0644\u0639\u0631\u0636 \u0639\u0644\u0649 \u0627\u0644\u0627\u0631\u062a\u0641\u0627\u0639 \u0644\u0644\u0635\u0648\u0631\u0629 \u0635\u063a\u064a\u0631\u0629 \u062c\u062f\u0627 ({{ ratio }}). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u062f\u0646\u0649 \u0644\u0644\u0646\u0633\u0628\u0629 \u0627\u0644\u0645\u0633\u0645\u0648\u062d \u0628\u0647 \u0647\u0648 {{ min_ratio }}."
                 },
                 "75": {
                     "id": "75",
@@ -14674,7 +14674,7 @@
                 },
                 "84": {
                     "id": "84",
-                    "trans": "Bu d\u0259y\u0259r {{ compare_value }} d\u0259y\u0259rinin b\u00f6l\u0259nl\u0259rind\u0259n biri olmal\u0131d\u0131r."
+                    "trans": "Bu d\u0259y\u0259r {{ compared_value }} d\u0259y\u0259rinin b\u00f6l\u0259nl\u0259rind\u0259n biri olmal\u0131d\u0131r."
                 },
                 "85": {
                     "id": "85",
@@ -17997,11 +17997,11 @@
                 },
                 "45": {
                     "id": "45",
-                    "trans": "Mae uchder y ddelwedd yn rhy fawr ({{ width }}px). Yr uchder mwyaf \u00e2 ganiateir yw {{ max_height }}px."
+                    "trans": "Mae uchder y ddelwedd yn rhy fawr ({{ height }}px). Yr uchder mwyaf \u00e2 ganiateir yw {{ max_height }}px."
                 },
                 "46": {
                     "id": "46",
-                    "trans": "Mae uchder y ddelwedd yn rhy fach ({{ width }}px). Yr uchder lleiaf \u00e2 ganiateir yw {{ min_height }}px."
+                    "trans": "Mae uchder y ddelwedd yn rhy fach ({{ height }}px). Yr uchder lleiaf \u00e2 ganiateir yw {{ min_height }}px."
                 },
                 "47": {
                     "id": "47",
@@ -22228,7 +22228,7 @@
                 },
                 "85": {
                     "id": "85",
-                    "trans": "Banku Identifikazioko Kode hau ez dago lotuta {{ IBAN }} IBAN-rekin."
+                    "trans": "Banku Identifikazioko Kode hau ez dago lotuta {{ iban }} IBAN-rekin."
                 },
                 "86": {
                     "id": "86",
@@ -23248,7 +23248,7 @@
                 },
                 "45": {
                     "id": "45",
-                    "trans": "Kuva on liian korkea ({{ width }} px). Korkeuden tulee olla enint\u00e4\u00e4n {{ max_width }} px."
+                    "trans": "Kuva on liian korkea ({{ height }} px). Korkeuden tulee olla enint\u00e4\u00e4n {{ max_height }} px."
                 },
                 "46": {
                     "id": "46",
@@ -24597,7 +24597,7 @@
                 },
                 "96": {
                     "id": "96",
-                    "trans": "O n\u00famero de elementos desta colecci\u00f3n deber\u00eda ser m\u00faltiplo de {{compare_value}}."
+                    "trans": "O n\u00famero de elementos desta colecci\u00f3n deber\u00eda ser m\u00faltiplo de {{ compared_value }}."
                 },
                 "97": {
                     "id": "97",
@@ -26678,7 +26678,7 @@
                 },
                 "44": {
                     "id": "44",
-                    "trans": "\u0546\u056f\u0561\u0580\u056b \u056c\u0561\u0575\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0583\u0578\u0584\u0580 \u0567 ({{ width }}px). \u0544\u056b\u0576\u056b\u0574\u0561\u056c \u0579\u0561\u0583\u0576 \u0567 {{ min_ width }}px\u0589"
+                    "trans": "\u0546\u056f\u0561\u0580\u056b \u056c\u0561\u0575\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568 \u0579\u0561\u0583\u0561\u0566\u0561\u0576\u0581 \u0583\u0578\u0584\u0580 \u0567 ({{ width }}px). \u0544\u056b\u0576\u056b\u0574\u0561\u056c \u0579\u0561\u0583\u0576 \u0567 {{ min_width }}px\u0589"
                 },
                 "45": {
                     "id": "45",
@@ -37573,8 +37573,7 @@
                 },
                 "146": {
                     "id": "146",
-                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u043c \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435\u043c cron.",
-                    "state": "needs-review-translation"
+                    "trans": "\u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u043c \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435\u043c cron."
                 }
             },
             "sk": {
@@ -42516,7 +42515,7 @@
                 },
                 "84": {
                     "id": "84",
-                    "trans": "Bu de\u011fer {{ compare_value }} de\u011ferinin katlar\u0131ndan biri olmal\u0131d\u0131r."
+                    "trans": "Bu de\u011fer {{ compared_value }} de\u011ferinin katlar\u0131ndan biri olmal\u0131d\u0131r."
                 },
                 "85": {
                     "id": "85",
@@ -45871,7 +45870,7 @@
                 },
                 "44": {
                     "id": "44",
-                    "trans": "\u5716\u7247\u5bec\u5ea6\u904e\u5c0f ({{ width }}px)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u5bec\u5ea6\u70ba {{ max_width }}px\u3002"
+                    "trans": "\u5716\u7247\u5bec\u5ea6\u904e\u5c0f ({{ width }}px)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u5bec\u5ea6\u70ba {{ min_width }}px\u3002"
                 },
                 "45": {
                     "id": "45",
@@ -45879,7 +45878,7 @@
                 },
                 "46": {
                     "id": "46",
-                    "trans": "\u5716\u7247\u9ad8\u5ea6\u904e\u5c0f ({{ height }}px)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u9ad8\u5ea6\u70ba {{ max_height }}px\u3002"
+                    "trans": "\u5716\u7247\u9ad8\u5ea6\u904e\u5c0f ({{ height }}px)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u9ad8\u5ea6\u70ba {{ min_height }}px\u3002"
                 },
                 "47": {
                     "id": "47",
