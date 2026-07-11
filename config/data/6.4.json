@@ -1617,8 +1617,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Molim upi\u0161ite ispravan UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Molim upi\u0161ite ispravan UUID."
                 }
             },
             "ca": {
@@ -9195,8 +9194,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minut.|Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minuta.",
-                    "state": "needs-review-translation"
+                    "trans": "Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minutu.|Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minute.|Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minuta."
                 }
             },
             "ca": {
@@ -16205,8 +16203,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ova vrijednost nije valjana IP adresa.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravna IP adresa."
                 },
                 "38": {
                     "id": "38",
@@ -16262,8 +16259,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Privremeni direktorij nije konfiguriran u php.ini, ili konfigurirani direktorij ne postoji.",
-                    "state": "needs-review-translation"
+                    "trans": "Privremeni direktorij nije konfiguriran u php.ini, ili konfigurirani direktorij ne postoji."
                 },
                 "52": {
                     "id": "52",
@@ -16295,8 +16291,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ova vrijednost nije valjan Me\u0111unarodni broj bankovnog ra\u010duna (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravan me\u0111unarodni broj bankovnog ra\u010duna (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -16384,8 +16379,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ova vrijednost nije valjan Poslovni identifikacijski kod (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravan poslovni identifikacijski kod (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -16393,8 +16387,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ova vrijednost nije valjan UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravan UUID."
                 },
                 "84": {
                     "id": "84",
@@ -16502,183 +16495,147 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Ekstenzija datoteke je neva\u017ee\u0107a ({{ extension }}). Dozvoljene ekstenzije su {{ extensions }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Ekstenzija datoteke je neva\u017ee\u0107a ({{ extension }}). Dozvoljene ekstenzije su {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Otkriveno kodiranje karaktera je neva\u017ee\u0107e ({{ detected }}). Dozvoljena kodiranja su {{ encodings }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Otkriveno kodiranje znakova je neva\u017ee\u0107e ({{ detected }}). Dozvoljena kodiranja su {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ova vrijednost nije valjana MAC adresa.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravna MAC adresa."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ovom URL-u nedostaje domena najvi\u0161eg nivoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Ovom URL-u nedostaje domena najvi\u0161eg nivoa."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem jednu rije\u010d.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010d.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati samo jednu rije\u010d.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010d ili manje.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Ova vrijednost ne predstavlja valjani tjedan u ISO 8601 formatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne predstavlja ispravnu sedmicu u ISO 8601 formatu."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107a sedmica.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107a sedmica."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ova vrijednost ne smije biti prije tjedna \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne smije biti prije sedmice \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ova vrijednost ne bi trebala biti nakon sedmice \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne smije biti nakon sedmice \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i Twig \u0161ablon.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i Twig \u0161ablon."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ova datoteka nije va\u017ee\u0107i video.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova datoteka nije va\u017ee\u0107i video."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Veli\u010dina videa nije mogla biti utvr\u0111ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Veli\u010dina videa nije mogla biti utvr\u0111ena."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u0160irina videa je prevelika ({{ width }}px). Dozvoljena maksimalna \u0161irina je {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160irina videa je prevelika ({{ width }}px). Dozvoljena maksimalna \u0161irina je {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u0160irina videa je premala ({{ width }}px). Minimalna o\u010dekivana \u0161irina je {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160irina videa je premala ({{ width }}px). Minimalna o\u010dekivana \u0161irina je {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Visina videa je prevelika ({{ height }}px). Dozvoljena maksimalna visina je {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Visina videa je prevelika ({{ height }}px). Dozvoljena maksimalna visina je {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Visina videa je premala ({{ height }}px). O\u010dekivana minimalna visina je {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Visina videa je premala ({{ height }}px). Minimalna o\u010dekivana visina je {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Video ima premalo piksela ({{ pixels }}). O\u010dekivana minimalna koli\u010dina je {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Video ima previ\u0161e piksela ({{ pixels }}). O\u010dekivana maksimalna koli\u010dina je {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Omjer videa je prevelik ({{ ratio }}). Dozvoljeni maksimalni omjer je {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Razmjera videa je prevelika ({{ ratio }}). Maksimalna dozvoljena razmjera je {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Omjer videa je premali ({{ ratio }}). Minimalni o\u010dekivani omjer je {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Razmjera videa je premala ({{ ratio }}). Minimalna o\u010dekivana razmjera je {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video je kvadratan ({{ width }}x{{ height }}px). Kvadratni video zapisi nisu dozvoljeni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je kvadratan ({{ width }}x{{ height }}px). Kvadratni video zapisi nisu dozvoljeni."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video je vodoravne orijentacije ({{ width }}x{{ height }} px). Vodoravni video zapisi nisu dozvoljeni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je orijentisan horizontalno (landscape) ({{ width }}x{{ height }}px). Horizontalno orijentisani video zapisi nisu dozvoljeni."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video je uspravno orijentisan ({{ width }}x{{ height }}px). Video zapisi uspravne orijentacije nisu dozvoljeni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je orijentisan vertikalno (portrait) ({{ width }}x{{ height }}px). Vertikalno orijentisani video zapisi nisu dozvoljeni."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Video datoteka je o\u0161te\u0107ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Video datoteka je o\u0161te\u0107ena."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video sadr\u017ei vi\u0161e tokova. Dozvoljen je samo jedan tok.",
-                    "state": "needs-review-translation"
+                    "trans": "Video sadr\u017ei vi\u0161e tokova. Dozvoljen je samo jedan tok."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nepodr\u017eani video kodek \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017eani video kodek \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nepodr\u017eani video kontejner \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017eani video kontejner \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Datoteka slike je o\u0161te\u0107ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Datoteka slike je o\u0161te\u0107ena."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Slika ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Slika ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Slika ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Slika ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Naziv ove datoteke ne odgovara o\u010dekivanom skupu znakova.",
-                    "state": "needs-review-translation"
+                    "trans": "Naziv ove datoteke ne odgovara o\u010dekivanom skupu znakova."
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ova vrijednost ne odgovara o\u010dekivanoj XSD shemi.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne odgovara o\u010dekivanoj XSD shemi."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} bajtova): prema\u0161uje ograni\u010denje od {{ limit }} bajtova.",
-                    "state": "needs-review-translation"
+                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} B): prema\u0161uje ograni\u010denje od {{ limit }} B."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i cron izraz.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i cron izraz."
                 }
             },
             "ca": {
@@ -23702,11 +23659,11 @@
                 },
                 "12": {
                     "id": "12",
-                    "trans": "Cette valeur n'est pas une date valide."
+                    "trans": "Cette valeur n'est pas une date\/heure valide."
                 },
                 "13": {
                     "id": "13",
-                    "trans": "Cette valeur n'est pas une adresse email valide."
+                    "trans": "Cette valeur n'est pas une adresse e-mail valide."
                 },
                 "14": {
                     "id": "14",
@@ -23730,7 +23687,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Cette cha\u00eene est trop longue. Elle doit avoir au maximum {{ limit }} caract\u00e8re.|Cette cha\u00eene est trop longue. Elle doit avoir au maximum {{ limit }} caract\u00e8res."
+                    "trans": "Cette cha\u00eene est trop longue. Elle doit contenir au maximum {{ limit }} caract\u00e8re.|Cette cha\u00eene est trop longue. Elle doit contenir au maximum {{ limit }} caract\u00e8res."
                 },
                 "20": {
                     "id": "20",
@@ -23738,7 +23695,7 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "Cette cha\u00eene est trop courte. Elle doit avoir au minimum {{ limit }} caract\u00e8re.|Cette cha\u00eene est trop courte. Elle doit avoir au minimum {{ limit }} caract\u00e8res."
+                    "trans": "Cette cha\u00eene est trop courte. Elle doit contenir au minimum {{ limit }} caract\u00e8re.|Cette cha\u00eene est trop courte. Elle doit contenir au minimum {{ limit }} caract\u00e8res."
                 },
                 "22": {
                     "id": "22",
@@ -23782,7 +23739,7 @@
                 },
                 "35": {
                     "id": "35",
-                    "trans": "Cette valeur doit \u00eatre un nombre."
+                    "trans": "Cette valeur doit \u00eatre un nombre valide."
                 },
                 "36": {
                     "id": "36",
@@ -23834,7 +23791,7 @@
                 },
                 "48": {
                     "id": "48",
-                    "trans": "Cette cha\u00eene doit avoir exactement {{ limit }} caract\u00e8re.|Cette cha\u00eene doit avoir exactement {{ limit }} caract\u00e8res."
+                    "trans": "Cette cha\u00eene doit contenir exactement {{ limit }} caract\u00e8re.|Cette cha\u00eene doit contenir exactement {{ limit }} caract\u00e8res."
                 },
                 "49": {
                     "id": "49",
@@ -23966,7 +23923,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Cette valeur n'est pas un Code Identifiant de Business (BIC) valide."
+                    "trans": "Cette valeur n'est pas un Code d'Identification Bancaire (BIC) valide."
                 },
                 "82": {
                     "id": "82",
@@ -23982,7 +23939,7 @@
                 },
                 "85": {
                     "id": "85",
-                    "trans": "Ce code d'identification d'entreprise (BIC) n'est pas associ\u00e9 \u00e0 l'IBAN {{ iban }}."
+                    "trans": "Ce Code d'Identification Bancaire (BIC) n'est pas associ\u00e9 \u00e0 l'IBAN {{ iban }}."
                 },
                 "86": {
                     "id": "86",
@@ -24126,11 +24083,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ce fichier n\u2019est pas une vid\u00e9o valide."
+                    "trans": "Ce fichier n'est pas une vid\u00e9o valide."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "La taille de la vid\u00e9o n\u2019a pas pu \u00eatre d\u00e9tect\u00e9e."
+                    "trans": "La taille de la vid\u00e9o n'a pas pu \u00eatre d\u00e9tect\u00e9e."
                 },
                 "124": {
                     "id": "124",
@@ -24198,11 +24155,11 @@
                 },
                 "140": {
                     "id": "140",
-                    "trans": "L\u2019image comporte trop peu de pixels ({{ pixels }}). La quantit\u00e9 minimale attendue est de {{ min_pixels }} pixels."
+                    "trans": "L'image comporte trop peu de pixels ({{ pixels }}). La quantit\u00e9 minimale attendue est de {{ min_pixels }} pixels."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "L\u2019image contient trop de pixels ({{ pixels }}). La quantit\u00e9 maximale attendue est de {{ max_pixels }} pixels."
+                    "trans": "L'image contient trop de pixels ({{ pixels }}). La quantit\u00e9 maximale attendue est de {{ max_pixels }} pixels."
                 },
                 "142": {
                     "id": "142",
