@@ -1617,8 +1617,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Molim upi\u0161ite ispravan UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Molim upi\u0161ite ispravan UUID."
                 }
             },
             "ca": {
@@ -8170,8 +8169,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "\u0628\u0631\u0627\u06d3 \u06a9\u0631\u0645 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a UUID \u062f\u0631\u062c \u06a9\u0631\u06cc\u06ba",
-                    "state": "needs-review-translation"
+                    "trans": "\u0628\u0631\u0627\u06d3 \u06a9\u0631\u0645 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a UUID \u062f\u0631\u062c \u06a9\u0631\u06cc\u06ba"
                 }
             },
             "uz": {
@@ -9195,8 +9193,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minut.|Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minuta.",
-                    "state": "needs-review-translation"
+                    "trans": "Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minutu.|Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minute.|Previ\u0161e neuspje\u0161nih poku\u0161aja prijave, poku\u0161ajte ponovo za %minutes% minuta."
                 }
             },
             "ca": {
@@ -12888,8 +12885,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "\u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u0646\u0627\u06a9\u0627\u0645 \u0644\u0627\u06af \u0627\u0646 \u06a9\u0648\u0634\u0634\u06cc\u06ba\u060c \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 %minutes% \u0645\u0646\u0679 \u0645\u06cc\u06ba \u062f\u0648\u0628\u0627\u0631\u06c1 \u06a9\u0648\u0634\u0634 \u06a9\u0631\u06cc\u06ba\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u0646\u0627\u06a9\u0627\u0645 \u0644\u0627\u06af \u0627\u0646 \u06a9\u0648\u0634\u0634\u06cc\u06ba\u060c \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 %minutes% \u0645\u0646\u0679 \u0645\u06cc\u06ba \u062f\u0648\u0628\u0627\u0631\u06c1 \u06a9\u0648\u0634\u0634 \u06a9\u0631\u06cc\u06ba\u06d4"
                 }
             },
             "uz": {
@@ -16205,8 +16201,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ova vrijednost nije valjana IP adresa.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravna IP adresa."
                 },
                 "38": {
                     "id": "38",
@@ -16262,8 +16257,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Privremeni direktorij nije konfiguriran u php.ini, ili konfigurirani direktorij ne postoji.",
-                    "state": "needs-review-translation"
+                    "trans": "Privremeni direktorij nije konfiguriran u php.ini, ili konfigurirani direktorij ne postoji."
                 },
                 "52": {
                     "id": "52",
@@ -16295,8 +16289,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Ova vrijednost nije valjan Me\u0111unarodni broj bankovnog ra\u010duna (IBAN).",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravan me\u0111unarodni broj bankovnog ra\u010duna (IBAN)."
                 },
                 "60": {
                     "id": "60",
@@ -16384,8 +16377,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Ova vrijednost nije valjan Poslovni identifikacijski kod (BIC).",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravan poslovni identifikacijski kod (BIC)."
                 },
                 "82": {
                     "id": "82",
@@ -16393,8 +16385,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Ova vrijednost nije valjan UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravan UUID."
                 },
                 "84": {
                     "id": "84",
@@ -16502,183 +16493,147 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Ekstenzija datoteke je neva\u017ee\u0107a ({{ extension }}). Dozvoljene ekstenzije su {{ extensions }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Ekstenzija datoteke je neva\u017ee\u0107a ({{ extension }}). Dozvoljene ekstenzije su {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Otkriveno kodiranje karaktera je neva\u017ee\u0107e ({{ detected }}). Dozvoljena kodiranja su {{ encodings }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Otkriveno kodiranje znakova je neva\u017ee\u0107e ({{ detected }}). Dozvoljena kodiranja su {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Ova vrijednost nije valjana MAC adresa.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravna MAC adresa."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ovom URL-u nedostaje domena najvi\u0161eg nivoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Ovom URL-u nedostaje domena najvi\u0161eg nivoa."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem jednu rije\u010d.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010d.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di.|Ova vrijednost je prekratka. Trebala bi sadr\u017eavati barem {{ min }} rije\u010di."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati samo jednu rije\u010d.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010d ili manje.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje.|Ova vrijednost je preduga\u010dka. Trebala bi sadr\u017eavati {{ max }} rije\u010di ili manje."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Ova vrijednost ne predstavlja valjani tjedan u ISO 8601 formatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne predstavlja ispravnu sedmicu u ISO 8601 formatu."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107a sedmica.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107a sedmica."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ova vrijednost ne smije biti prije tjedna \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne smije biti prije sedmice \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ova vrijednost ne bi trebala biti nakon sedmice \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne smije biti nakon sedmice \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i Twig \u0161ablon.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i Twig \u0161ablon."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ova datoteka nije va\u017ee\u0107i video.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova datoteka nije va\u017ee\u0107i video."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Veli\u010dina videa nije mogla biti utvr\u0111ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Veli\u010dina videa nije mogla biti utvr\u0111ena."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u0160irina videa je prevelika ({{ width }}px). Dozvoljena maksimalna \u0161irina je {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160irina videa je prevelika ({{ width }}px). Dozvoljena maksimalna \u0161irina je {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u0160irina videa je premala ({{ width }}px). Minimalna o\u010dekivana \u0161irina je {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160irina videa je premala ({{ width }}px). Minimalna o\u010dekivana \u0161irina je {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Visina videa je prevelika ({{ height }}px). Dozvoljena maksimalna visina je {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Visina videa je prevelika ({{ height }}px). Dozvoljena maksimalna visina je {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Visina videa je premala ({{ height }}px). O\u010dekivana minimalna visina je {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Visina videa je premala ({{ height }}px). Minimalna o\u010dekivana visina je {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Video ima premalo piksela ({{ pixels }}). O\u010dekivana minimalna koli\u010dina je {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Video ima previ\u0161e piksela ({{ pixels }}). O\u010dekivana maksimalna koli\u010dina je {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Omjer videa je prevelik ({{ ratio }}). Dozvoljeni maksimalni omjer je {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Razmjera videa je prevelika ({{ ratio }}). Maksimalna dozvoljena razmjera je {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Omjer videa je premali ({{ ratio }}). Minimalni o\u010dekivani omjer je {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Razmjera videa je premala ({{ ratio }}). Minimalna o\u010dekivana razmjera je {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video je kvadratan ({{ width }}x{{ height }}px). Kvadratni video zapisi nisu dozvoljeni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je kvadratan ({{ width }}x{{ height }}px). Kvadratni video zapisi nisu dozvoljeni."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video je vodoravne orijentacije ({{ width }}x{{ height }} px). Vodoravni video zapisi nisu dozvoljeni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je orijentisan horizontalno (landscape) ({{ width }}x{{ height }}px). Horizontalno orijentisani video zapisi nisu dozvoljeni."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video je uspravno orijentisan ({{ width }}x{{ height }}px). Video zapisi uspravne orijentacije nisu dozvoljeni.",
-                    "state": "needs-review-translation"
+                    "trans": "Video je orijentisan vertikalno (portrait) ({{ width }}x{{ height }}px). Vertikalno orijentisani video zapisi nisu dozvoljeni."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Video datoteka je o\u0161te\u0107ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Video datoteka je o\u0161te\u0107ena."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video sadr\u017ei vi\u0161e tokova. Dozvoljen je samo jedan tok.",
-                    "state": "needs-review-translation"
+                    "trans": "Video sadr\u017ei vi\u0161e tokova. Dozvoljen je samo jedan tok."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nepodr\u017eani video kodek \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017eani video kodek \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nepodr\u017eani video kontejner \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017eani video kontejner \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Datoteka slike je o\u0161te\u0107ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Datoteka slike je o\u0161te\u0107ena."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Slika ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Slika ima premalo piksela ({{ pixels }}). O\u010dekivani minimalni broj je {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Slika ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Slika ima previ\u0161e piksela ({{ pixels }}). O\u010dekivani maksimalni broj je {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Naziv ove datoteke ne odgovara o\u010dekivanom skupu znakova.",
-                    "state": "needs-review-translation"
+                    "trans": "Naziv ove datoteke ne odgovara o\u010dekivanom skupu znakova."
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ova vrijednost ne odgovara o\u010dekivanoj XSD shemi.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost ne odgovara o\u010dekivanoj XSD shemi."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} bajtova): prema\u0161uje ograni\u010denje od {{ limit }} bajtova.",
-                    "state": "needs-review-translation"
+                    "trans": "Ovaj XML sadr\u017eaj je prevelik ({{ size }} B): prema\u0161uje ograni\u010denje od {{ limit }} B."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Ova vrijednost nije va\u017ee\u0107i cron izraz.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije va\u017ee\u0107i cron izraz."
                 }
             },
             "ca": {
@@ -23702,11 +23657,11 @@
                 },
                 "12": {
                     "id": "12",
-                    "trans": "Cette valeur n'est pas une date valide."
+                    "trans": "Cette valeur n'est pas une date\/heure valide."
                 },
                 "13": {
                     "id": "13",
-                    "trans": "Cette valeur n'est pas une adresse email valide."
+                    "trans": "Cette valeur n'est pas une adresse e-mail valide."
                 },
                 "14": {
                     "id": "14",
@@ -23730,7 +23685,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Cette cha\u00eene est trop longue. Elle doit avoir au maximum {{ limit }} caract\u00e8re.|Cette cha\u00eene est trop longue. Elle doit avoir au maximum {{ limit }} caract\u00e8res."
+                    "trans": "Cette cha\u00eene est trop longue. Elle doit contenir au maximum {{ limit }} caract\u00e8re.|Cette cha\u00eene est trop longue. Elle doit contenir au maximum {{ limit }} caract\u00e8res."
                 },
                 "20": {
                     "id": "20",
@@ -23738,7 +23693,7 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "Cette cha\u00eene est trop courte. Elle doit avoir au minimum {{ limit }} caract\u00e8re.|Cette cha\u00eene est trop courte. Elle doit avoir au minimum {{ limit }} caract\u00e8res."
+                    "trans": "Cette cha\u00eene est trop courte. Elle doit contenir au minimum {{ limit }} caract\u00e8re.|Cette cha\u00eene est trop courte. Elle doit contenir au minimum {{ limit }} caract\u00e8res."
                 },
                 "22": {
                     "id": "22",
@@ -23782,7 +23737,7 @@
                 },
                 "35": {
                     "id": "35",
-                    "trans": "Cette valeur doit \u00eatre un nombre."
+                    "trans": "Cette valeur doit \u00eatre un nombre valide."
                 },
                 "36": {
                     "id": "36",
@@ -23834,7 +23789,7 @@
                 },
                 "48": {
                     "id": "48",
-                    "trans": "Cette cha\u00eene doit avoir exactement {{ limit }} caract\u00e8re.|Cette cha\u00eene doit avoir exactement {{ limit }} caract\u00e8res."
+                    "trans": "Cette cha\u00eene doit contenir exactement {{ limit }} caract\u00e8re.|Cette cha\u00eene doit contenir exactement {{ limit }} caract\u00e8res."
                 },
                 "49": {
                     "id": "49",
@@ -23966,7 +23921,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Cette valeur n'est pas un Code Identifiant de Business (BIC) valide."
+                    "trans": "Cette valeur n'est pas un Code d'Identification Bancaire (BIC) valide."
                 },
                 "82": {
                     "id": "82",
@@ -23982,7 +23937,7 @@
                 },
                 "85": {
                     "id": "85",
-                    "trans": "Ce code d'identification d'entreprise (BIC) n'est pas associ\u00e9 \u00e0 l'IBAN {{ iban }}."
+                    "trans": "Ce Code d'Identification Bancaire (BIC) n'est pas associ\u00e9 \u00e0 l'IBAN {{ iban }}."
                 },
                 "86": {
                     "id": "86",
@@ -24126,11 +24081,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ce fichier n\u2019est pas une vid\u00e9o valide."
+                    "trans": "Ce fichier n'est pas une vid\u00e9o valide."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "La taille de la vid\u00e9o n\u2019a pas pu \u00eatre d\u00e9tect\u00e9e."
+                    "trans": "La taille de la vid\u00e9o n'a pas pu \u00eatre d\u00e9tect\u00e9e."
                 },
                 "124": {
                     "id": "124",
@@ -24198,11 +24153,11 @@
                 },
                 "140": {
                     "id": "140",
-                    "trans": "L\u2019image comporte trop peu de pixels ({{ pixels }}). La quantit\u00e9 minimale attendue est de {{ min_pixels }} pixels."
+                    "trans": "L'image comporte trop peu de pixels ({{ pixels }}). La quantit\u00e9 minimale attendue est de {{ min_pixels }} pixels."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "L\u2019image contient trop de pixels ({{ pixels }}). La quantit\u00e9 maximale attendue est de {{ max_pixels }} pixels."
+                    "trans": "L'image contient trop de pixels ({{ pixels }}). La quantit\u00e9 maximale attendue est de {{ max_pixels }} pixels."
                 },
                 "142": {
                     "id": "142",
@@ -24222,8 +24177,7 @@
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Cette valeur n'est pas une expression cron valide.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette valeur n'est pas une expression cron valide."
                 }
             },
             "gl": {
@@ -43471,8 +43425,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a IP \u067e\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a IP \u067e\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
                 },
                 "38": {
                     "id": "38",
@@ -43528,8 +43481,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "php.ini \u0645\u06cc\u06ba \u06a9\u0648\u0626\u06cc \u0639\u0627\u0631\u0636\u06cc \u0641\u0648\u0644\u0688\u0631 \u062a\u0631\u062a\u06cc\u0628 \u0646\u06c1\u06cc\u06ba \u062f\u06cc\u0627 \u06af\u06cc\u0627 \u062a\u06be\u0627\u060c \u06cc\u0627 \u062a\u0631\u062a\u06cc\u0628 \u062f\u06cc\u0627 \u06af\u06cc\u0627 \u0641\u0648\u0644\u0688\u0631 \u0645\u0648\u062c\u0648\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "php.ini \u0645\u06cc\u06ba \u06a9\u0648\u0626\u06cc \u0639\u0627\u0631\u0636\u06cc \u0641\u0648\u0644\u0688\u0631 \u062a\u0631\u062a\u06cc\u0628 \u0646\u06c1\u06cc\u06ba \u062f\u06cc\u0627 \u06af\u06cc\u0627 \u062a\u06be\u0627\u060c \u06cc\u0627 \u062a\u0631\u062a\u06cc\u0628 \u062f\u06cc\u0627 \u06af\u06cc\u0627 \u0641\u0648\u0644\u0688\u0631 \u0645\u0648\u062c\u0648\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "52": {
                     "id": "52",
@@ -43561,8 +43513,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u0628\u06cc\u0646\u06a9 \u0627\u06a9\u0627\u0624\u0646\u0679 \u0646\u0645\u0628\u0631 (IBAN) \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u0628\u06cc\u0646\u06a9 \u0627\u06a9\u0627\u0624\u0646\u0679 \u0646\u0645\u0628\u0631 (IBAN) \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
                 },
                 "60": {
                     "id": "60",
@@ -43650,8 +43601,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a \u0628\u0632\u0646\u0633 \u0634\u0646\u0627\u062e\u062a\u06cc \u06a9\u0648\u0688 (BIC) \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a \u06a9\u0627\u0631\u0648\u0628\u0627\u0631\u06cc \u0634\u0646\u0627\u062e\u062a\u06cc \u06a9\u0648\u0688 (BIC) \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
                 },
                 "82": {
                     "id": "82",
@@ -43659,8 +43609,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a UUID \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a UUID \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
                 },
                 "84": {
                     "id": "84",
@@ -43744,213 +43693,171 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "\u0641\u0627\u0626\u0644 \u06a9\u0627 \u0646\u0627\u0645 \u0628\u06c1\u062a \u0644\u0645\u0628\u0627 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba {{ filename_max_length }} \u062d\u0631\u0641 \u06cc\u0627 \u0627\u0633 \u0633\u06d2 \u06a9\u0645 \u06c1\u0648\u0646\u06d2 \u0686\u0627\u06c1\u0626\u06cc\u06ba\u06d4|\u0641\u0627\u0626\u0644 \u06a9\u0627 \u0646\u0627\u0645 \u0628\u06c1\u062a \u0644\u0645\u0628\u0627 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba {{ filename_max_length }} \u062d\u0631\u0648\u0641 \u06cc\u0627 \u0627\u0633 \u0633\u06d2 \u06a9\u0645 \u06c1\u0648\u0646\u06d2 \u0686\u0627\u06c1\u0626\u06cc\u06ba\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0641\u0627\u0626\u0644 \u06a9\u0627 \u0646\u0627\u0645 \u0628\u06c1\u062a \u0644\u0645\u0628\u0627 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba {{ filename_max_length }} \u062d\u0631\u0641 \u06cc\u0627 \u0627\u0633 \u0633\u06d2 \u06a9\u0645 \u06c1\u0648\u0646\u06d2 \u0686\u0627\u06c1\u0626\u06cc\u06ba\u06d4|\u0641\u0627\u0626\u0644 \u06a9\u0627 \u0646\u0627\u0645 \u0628\u06c1\u062a \u0644\u0645\u0628\u0627 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba {{ filename_max_length }} \u062d\u0631\u0648\u0641 \u06cc\u0627 \u0627\u0633 \u0633\u06d2 \u06a9\u0645 \u06c1\u0648\u0646\u06d2 \u0686\u0627\u06c1\u0626\u06cc\u06ba\u06d4"
                 },
                 "105": {
                     "id": "105",
-                    "trans": "\u067e\u0627\u0633 \u0648\u0631\u0688 \u06a9\u06cc \u0637\u0627\u0642\u062a \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06d2\u06d4 \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0645\u0636\u0628\u0648\u0637 \u067e\u0627\u0633 \u0648\u0631\u0688 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u067e\u0627\u0633 \u0648\u0631\u0688 \u06a9\u06cc \u0637\u0627\u0642\u062a \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06d2\u06d4 \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0645\u0636\u0628\u0648\u0637 \u067e\u0627\u0633 \u0648\u0631\u0688 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4"
                 },
                 "106": {
                     "id": "106",
-                    "trans": "\u0627\u0633 \u0642\u062f\u0631 \u0645\u06cc\u06ba \u0627\u06cc\u0633\u06d2 \u062d\u0631\u0648\u0641 \u0645\u0648\u062c\u0648\u062f \u06c1\u06cc\u06ba \u062c\u0648 \u0645\u0648\u062c\u0648\u062f\u06c1 \u067e\u0627\u0628\u0646\u062f\u06cc \u06a9\u06cc \u0633\u0637\u062d \u06a9\u06cc \u0637\u0631\u0641 \u0633\u06d2 \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06cc\u06ba\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u0633 \u0648\u06cc\u0644\u06cc\u0648 \u0645\u06cc\u06ba \u0627\u06cc\u0633\u06d2 \u062d\u0631\u0648\u0641 \u0645\u0648\u062c\u0648\u062f \u06c1\u06cc\u06ba \u062c\u0648 \u0645\u0648\u062c\u0648\u062f\u06c1 \u067e\u0627\u0628\u0646\u062f\u06cc \u06a9\u06cc \u0633\u0637\u062d \u06a9\u06cc \u0637\u0631\u0641 \u0633\u06d2 \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06cc\u06ba\u06d4"
                 },
                 "107": {
                     "id": "107",
-                    "trans": "\u0646\u0627\u062f\u06cc\u062f\u06c1 \u062d\u0631\u0648\u0641 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0646\u0627\u062f\u06cc\u062f\u06c1 \u062d\u0631\u0648\u0641 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "108": {
                     "id": "108",
-                    "trans": "\u0645\u062e\u062a\u0644\u0641 \u0627\u0633\u06a9\u0631\u067e\u0679\u0633 \u0633\u06d2 \u0646\u0645\u0628\u0631\u0648\u06ba \u06a9\u0648 \u0645\u0644\u0627 \u06a9\u0631 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0645\u062e\u062a\u0644\u0641 \u0627\u0633\u06a9\u0631\u067e\u0679\u0633 \u0633\u06d2 \u0646\u0645\u0628\u0631\u0648\u06ba \u06a9\u0648 \u0645\u0644\u0627 \u06a9\u0631 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "109": {
                     "id": "109",
-                    "trans": "\u0686\u06be\u067e\u06d2 \u06c1\u0648\u0626\u06d2 \u0627\u0648\u0648\u0631\u0644\u06d2 \u06a9\u0631\u06cc\u06a9\u0679\u0631\u0632 \u06a9\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0686\u06be\u067e\u06d2 \u06c1\u0648\u0626\u06d2 \u0627\u0648\u0648\u0631\u0644\u06d2 \u06a9\u0631\u06cc\u06a9\u0679\u0631\u0632 \u06a9\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "110": {
                     "id": "110",
-                    "trans": "\u0641\u0627\u0626\u0644 \u06a9\u06cc \u062a\u0648\u0633\u06cc\u0639 \u0646\u0627\u0645\u0646\u0627\u0633\u0628 \u06c1\u06d2 ({{ extension }})\u06d4 \u0627\u062c\u0627\u0632\u062a \u0634\u062f\u06c1 \u062a\u0648\u0633\u06cc\u0639\u0627\u062a {{ extensions }} \u06c1\u06cc\u06ba\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0641\u0627\u0626\u0644 \u06a9\u06cc \u062a\u0648\u0633\u06cc\u0639 \u0646\u0627\u0645\u0646\u0627\u0633\u0628 \u06c1\u06d2 ({{ extension }})\u06d4 \u0627\u062c\u0627\u0632\u062a \u0634\u062f\u06c1 \u062a\u0648\u0633\u06cc\u0639\u0627\u062a {{ extensions }} \u06c1\u06cc\u06ba\u06d4"
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u067e\u062a\u06c1 \u0686\u0644\u0646\u06d2 \u0648\u0627\u0644\u06cc \u06a9\u0631\u06cc\u06a9\u0679\u0631 \u0627\u0646\u06a9\u0648\u0688\u0646\u06af \u0646\u0627\u0645\u0646\u0627\u0633\u0628 \u06c1\u06d2 ({{ detected }})\u06d4 \u0627\u062c\u0627\u0632\u062a \u0634\u062f\u06c1 \u0627\u0646\u06a9\u0648\u0688\u0646\u06af\u0632 {{ encodings }} \u06c1\u06cc\u06ba\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u067e\u062a\u06c1 \u0686\u0644\u0646\u06d2 \u0648\u0627\u0644\u06cc \u06a9\u0631\u06cc\u06a9\u0679\u0631 \u0627\u0646\u06a9\u0648\u0688\u0646\u06af \u0646\u0627\u0645\u0646\u0627\u0633\u0628 \u06c1\u06d2 ({{ detected }})\u06d4 \u0627\u062c\u0627\u0632\u062a \u0634\u062f\u06c1 \u0627\u0646\u06a9\u0648\u0688\u0646\u06af\u0632 {{ encodings }} \u06c1\u06cc\u06ba\u06d4"
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u06cc\u06c1 \u0642\u06cc\u0645\u062a \u06a9\u0648\u0626\u06cc \u062f\u0631\u0633\u062a MAC \u067e\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a MAC \u067e\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u0627\u0633 URL \u0645\u06cc\u06ba \u0679\u0627\u067e \u0644\u06cc\u0648\u0644 \u0688\u0648\u0645\u06cc\u0646 \u0645\u0648\u062c\u0648\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u0633 URL \u0645\u06cc\u06ba \u0679\u0627\u067e \u0644\u06cc\u0648\u0644 \u0688\u0648\u0645\u06cc\u0646 \u0645\u0648\u062c\u0648\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u0628\u06c1\u062a \u0645\u062e\u062a\u0635\u0631 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba \u06a9\u0645 \u0627\u0632 \u06a9\u0645 \u0627\u06cc\u06a9 \u0644\u0641\u0638 \u06c1\u0648\u0646\u0627 \u0686\u0627\u06c1\u06cc\u06d2\u06d4|\u06cc\u06c1 \u0642\u062f\u0631 \u0628\u06c1\u062a \u0645\u062e\u062a\u0635\u0631 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba \u06a9\u0645 \u0627\u0632 \u06a9\u0645 {{ min }} \u0627\u0644\u0641\u0627\u0638 \u06c1\u0648\u0646\u06d2 \u0686\u0627\u06c1\u0626\u06cc\u06ba\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u0628\u06c1\u062a \u0645\u062e\u062a\u0635\u0631 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba \u06a9\u0645 \u0627\u0632 \u06a9\u0645 \u0627\u06cc\u06a9 \u0644\u0641\u0638 \u06c1\u0648\u0646\u0627 \u0686\u0627\u06c1\u06cc\u06d2\u06d4|\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u0628\u06c1\u062a \u0645\u062e\u062a\u0635\u0631 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba \u06a9\u0645 \u0627\u0632 \u06a9\u0645 {{ min }} \u0627\u0644\u0641\u0627\u0638 \u06c1\u0648\u0646\u06d2 \u0686\u0627\u06c1\u0626\u06cc\u06ba\u06d4"
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u0628\u06c1\u062a \u0637\u0648\u06cc\u0644 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba \u0635\u0631\u0641 \u0627\u06cc\u06a9 \u0644\u0641\u0638 \u06c1\u0648\u0646\u0627 \u0686\u0627\u06c1\u06cc\u06d2\u06d4|\u06cc\u06c1 \u0642\u062f\u0631 \u0628\u06c1\u062a \u0637\u0648\u06cc\u0644 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba {{ max }} \u0627\u0644\u0641\u0627\u0638 \u06cc\u0627 \u0627\u0633 \u0633\u06d2 \u06a9\u0645 \u06c1\u0648\u0646\u06d2 \u0686\u0627\u06c1\u0626\u06cc\u06ba\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u0628\u06c1\u062a \u0637\u0648\u06cc\u0644 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba \u0635\u0631\u0641 \u0627\u06cc\u06a9 \u0644\u0641\u0638 \u06c1\u0648\u0646\u0627 \u0686\u0627\u06c1\u06cc\u06d2\u06d4|\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u0628\u06c1\u062a \u0637\u0648\u06cc\u0644 \u06c1\u06d2\u06d4 \u0627\u0633 \u0645\u06cc\u06ba {{ max }} \u0627\u0644\u0641\u0627\u0638 \u06cc\u0627 \u0627\u0633 \u0633\u06d2 \u06a9\u0645 \u06c1\u0648\u0646\u06d2 \u0686\u0627\u06c1\u0626\u06cc\u06ba\u06d4"
                 },
                 "116": {
                     "id": "116",
-                    "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u0622\u0626\u06cc \u0627\u06cc\u0633 \u0627\u0648 8601 \u0641\u0627\u0631\u0645\u06cc\u0679 \u0645\u06cc\u06ba \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a \u06c1\u0641\u062a\u06d2 \u06a9\u06cc \u0646\u0645\u0627\u0626\u0646\u062f\u06af\u06cc \u0646\u06c1\u06cc\u06ba \u06a9\u0631\u062a\u06cc \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u0622\u0626\u06cc \u0627\u06cc\u0633 \u0627\u0648 8601 \u0641\u0627\u0631\u0645\u06cc\u0679 \u0645\u06cc\u06ba \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a \u06c1\u0641\u062a\u06d2 \u06a9\u06cc \u0646\u0645\u0627\u0626\u0646\u062f\u06af\u06cc \u0646\u06c1\u06cc\u06ba \u06a9\u0631\u062a\u06cc \u06c1\u06d2\u06d4"
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a \u06c1\u0641\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a \u06c1\u0641\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
                 },
                 "118": {
                     "id": "118",
-                    "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u06c1\u0641\u062a\u06c1 \"{{ min }}\" \u0633\u06d2 \u067e\u06c1\u0644\u06d2 \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u0646\u0627 \u0686\u0627\u06c1\u06cc\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u06c1\u0641\u062a\u06c1 \"{{ min }}\" \u0633\u06d2 \u067e\u06c1\u0644\u06d2 \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u0646\u0627 \u0686\u0627\u06c1\u06cc\u06d2\u06d4"
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u06c1\u0641\u062a\u06c1 \"{{ max }}\" \u06a9\u06d2 \u0628\u0639\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u0646\u0627 \u0686\u0627\u06c1\u06cc\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u06c1\u0641\u062a\u06c1 \"{{ max }}\" \u06a9\u06d2 \u0628\u0639\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u0646\u0627 \u0686\u0627\u06c1\u06cc\u06d2\u06d4"
                 },
                 "121": {
                     "id": "121",
-                    "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a Twig \u0633\u0627\u0646\u0686\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a Twig \u0633\u0627\u0646\u0686\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u06cc\u06c1 \u0641\u0627\u0626\u0644 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a \u0648\u06cc\u0688\u06cc\u0648 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0641\u0627\u0626\u0644 \u062f\u0631\u0633\u062a \u0648\u06cc\u0688\u06cc\u0648 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u0627 \u0633\u0627\u0626\u0632 \u0645\u0639\u0644\u0648\u0645 \u0646\u06c1\u06cc\u06ba \u06a9\u06cc\u0627 \u062c\u0627 \u0633\u06a9\u0627\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u0627 \u0633\u0627\u0626\u0632 \u0645\u0639\u0644\u0648\u0645 \u0646\u06c1\u06cc\u06ba \u06a9\u06cc\u0627 \u062c\u0627 \u0633\u06a9\u0627\u06d4"
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u06cc \u0686\u0648\u0691\u0627\u0626\u06cc \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u06c1\u06d2 ({{ width }}px)\u06d4 \u0627\u062c\u0627\u0632\u062a \u0634\u062f\u06c1 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u0686\u0648\u0691\u0627\u0626\u06cc {{ max_width }}px \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u06cc \u0686\u0648\u0691\u0627\u0626\u06cc \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u06c1\u06d2 ({{ width }}px)\u06d4 \u0627\u062c\u0627\u0632\u062a \u0634\u062f\u06c1 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u0686\u0648\u0691\u0627\u0626\u06cc {{ max_width }}px \u06c1\u06d2\u06d4"
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u06cc \u0686\u0648\u0691\u0627\u0626\u06cc \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06d2 ({{ width }}px)\u06d4 \u0645\u062a\u0648\u0642\u0639 \u06a9\u0645 \u0627\u0632 \u06a9\u0645 \u0686\u0648\u0691\u0627\u0626\u06cc {{ min_width }} \u067e\u06a9\u0633\u0644 \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u06cc \u0686\u0648\u0691\u0627\u0626\u06cc \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06d2 ({{ width }}px)\u06d4 \u0645\u062a\u0648\u0642\u0639 \u06a9\u0645 \u0627\u0632 \u06a9\u0645 \u0686\u0648\u0691\u0627\u0626\u06cc {{ min_width }} \u067e\u06a9\u0633\u0644 \u06c1\u06d2\u06d4"
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u06cc \u0627\u0648\u0646\u0686\u0627\u0626\u06cc \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u06c1\u06d2 ({{ height }}px)\u06d4 \u0645\u062c\u0627\u0632 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u0627\u0648\u0646\u0686\u0627\u0626\u06cc {{ max_height }}px \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u06cc \u0627\u0648\u0646\u0686\u0627\u0626\u06cc \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u06c1\u06d2 ({{ height }}px)\u06d4 \u0645\u062c\u0627\u0632 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u0627\u0648\u0646\u0686\u0627\u0626\u06cc {{ max_height }}px \u06c1\u06d2\u06d4"
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u06cc \u0627\u0648\u0646\u0686\u0627\u0626\u06cc \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06d2 ({{ height }}px)\u06d4 \u0645\u062a\u0648\u0642\u0639 \u06a9\u0645 \u0627\u0632 \u06a9\u0645 \u0627\u0648\u0646\u0686\u0627\u0626\u06cc {{ min_height }}px \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u06cc \u0627\u0648\u0646\u0686\u0627\u0626\u06cc \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06d2 ({{ height }}px)\u06d4 \u0645\u062a\u0648\u0642\u0639 \u06a9\u0645 \u0627\u0632 \u06a9\u0645 \u0627\u0648\u0646\u0686\u0627\u0626\u06cc {{ min_height }}px \u06c1\u06d2\u06d4"
                 },
                 "128": {
                     "id": "128",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0645\u06cc\u06ba \u067e\u06a9\u0633\u0644 \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06cc\u06ba ({{ pixels }}). \u0645\u062a\u0648\u0642\u0639 \u06a9\u0645 \u0627\u0632 \u06a9\u0645 \u0645\u0642\u062f\u0627\u0631 {{ min_pixels }} \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0645\u06cc\u06ba \u067e\u06a9\u0633\u0644 \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06cc\u06ba ({{ pixels }}). \u0645\u062a\u0648\u0642\u0639 \u06a9\u0645 \u0627\u0632 \u06a9\u0645 \u0645\u0642\u062f\u0627\u0631 {{ min_pixels }} \u06c1\u06d2\u06d4"
                 },
                 "129": {
                     "id": "129",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0645\u06cc\u06ba \u067e\u06a9\u0633\u0644\u0632 \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u06c1\u06cc\u06ba ({{ pixels }}). \u0645\u062a\u0648\u0642\u0639 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u0645\u0642\u062f\u0627\u0631 {{ max_pixels }} \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0645\u06cc\u06ba \u067e\u06a9\u0633\u0644\u0632 \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u06c1\u06cc\u06ba ({{ pixels }}). \u0645\u062a\u0648\u0642\u0639 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u0645\u0642\u062f\u0627\u0631 {{ max_pixels }} \u06c1\u06d2\u06d4"
                 },
                 "130": {
                     "id": "130",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u0627 \u062a\u0646\u0627\u0633\u0628 \u0628\u06c1\u062a \u0628\u0691\u0627 \u06c1\u06d2 ({{ ratio }}). \u0627\u062c\u0627\u0632\u062a \u0634\u062f\u06c1 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u062a\u0646\u0627\u0633\u0628 {{ max_ratio }} \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u0627 \u062a\u0646\u0627\u0633\u0628 \u0628\u06c1\u062a \u0628\u0691\u0627 \u06c1\u06d2 ({{ ratio }}). \u0627\u062c\u0627\u0632\u062a \u0634\u062f\u06c1 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u062a\u0646\u0627\u0633\u0628 {{ max_ratio }} \u06c1\u06d2\u06d4"
                 },
                 "131": {
                     "id": "131",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u0627 \u062a\u0646\u0627\u0633\u0628 \u0628\u06c1\u062a \u0686\u06be\u0648\u0679\u0627 \u06c1\u06d2 ({{ ratio }}). \u0645\u062a\u0648\u0642\u0639 \u06a9\u0645 \u0627\u0632 \u06a9\u0645 \u062a\u0646\u0627\u0633\u0628 {{ min_ratio }} \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u06a9\u0627 \u062a\u0646\u0627\u0633\u0628 \u0628\u06c1\u062a \u0686\u06be\u0648\u0679\u0627 \u06c1\u06d2 ({{ ratio }}). \u0645\u062a\u0648\u0642\u0639 \u06a9\u0645 \u0627\u0632 \u06a9\u0645 \u062a\u0646\u0627\u0633\u0628 {{ min_ratio }} \u06c1\u06d2\u06d4"
                 },
                 "132": {
                     "id": "132",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0645\u0631\u0628\u0639 \u06c1\u06d2 ({{ width }}x{{ height }}px). \u0645\u0631\u0628\u0639 \u0648\u06cc\u0688\u06cc\u0648\u0632 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0645\u0631\u0628\u0639 \u06c1\u06d2 ({{ width }}x{{ height }}px). \u0645\u0631\u0628\u0639 \u0648\u06cc\u0688\u06cc\u0648\u0632 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "133": {
                     "id": "133",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0627\u0641\u0642\u06cc \u0633\u0645\u062a \u0645\u06cc\u06ba \u06c1\u06d2 ({{ width }}x{{ height }} \u067e\u06a9\u0633\u0644). \u0627\u0641\u0642\u06cc \u0648\u06cc\u0688\u06cc\u0648\u0632 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0627\u0641\u0642\u06cc \u0633\u0645\u062a \u0645\u06cc\u06ba \u06c1\u06d2 ({{ width }}x{{ height }} \u067e\u06a9\u0633\u0644). \u0627\u0641\u0642\u06cc \u0648\u06cc\u0688\u06cc\u0648\u0632 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "134": {
                     "id": "134",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0639\u0645\u0648\u062f\u06cc \u0631\u062e \u067e\u0631 \u06c1\u06d2 ({{ width }}x{{ height }}px). \u0639\u0645\u0648\u062f\u06cc \u0631\u062e \u0648\u0627\u0644\u06cc \u0648\u06cc\u0688\u06cc\u0648\u0632 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0639\u0645\u0648\u062f\u06cc \u0631\u062e \u067e\u0631 \u06c1\u06d2 ({{ width }}x{{ height }}px). \u0639\u0645\u0648\u062f\u06cc \u0631\u062e \u0648\u0627\u0644\u06cc \u0648\u06cc\u0688\u06cc\u0648\u0632 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "135": {
                     "id": "135",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0641\u0627\u0626\u0644 \u062e\u0631\u0627\u0628 \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0641\u0627\u0626\u0644 \u062e\u0631\u0627\u0628 \u06c1\u06d2\u06d4"
                 },
                 "136": {
                     "id": "136",
-                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0645\u06cc\u06ba \u0645\u062a\u0639\u062f\u062f \u0627\u0633\u0679\u0631\u06cc\u0645\u0632 \u06c1\u06cc\u06ba\u06d4 \u0635\u0631\u0641 \u0627\u06cc\u06a9 \u0627\u0633\u0679\u0631\u06cc\u0645 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0648\u06cc\u0688\u06cc\u0648 \u0645\u06cc\u06ba \u0645\u062a\u0639\u062f\u062f \u0627\u0633\u0679\u0631\u06cc\u0645\u0632 \u06c1\u06cc\u06ba\u06d4 \u0635\u0631\u0641 \u0627\u06cc\u06a9 \u0627\u0633\u0679\u0631\u06cc\u0645 \u06a9\u06cc \u0627\u062c\u0627\u0632\u062a \u06c1\u06d2\u06d4"
                 },
                 "137": {
                     "id": "137",
-                    "trans": "\u063a\u06cc\u0631 \u0645\u0639\u0627\u0648\u0646 \u0648\u06cc\u0688\u06cc\u0648 \u06a9\u0648\u0688\u06cc\u06a9 \"{{ codec }}\"\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u063a\u06cc\u0631 \u0645\u0639\u0627\u0648\u0646 \u0648\u06cc\u0688\u06cc\u0648 \u06a9\u0648\u0688\u06cc\u06a9 \"{{ codec }}\"\u06d4"
                 },
                 "138": {
                     "id": "138",
-                    "trans": "\u063a\u06cc\u0631 \u0645\u0639\u0627\u0648\u0646\u062a \u06cc\u0627\u0641\u062a\u06c1 \u0648\u06cc\u0688\u06cc\u0648 \u06a9\u0646\u0679\u06cc\u0646\u0631 \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u063a\u06cc\u0631 \u0645\u0639\u0627\u0648\u0646\u062a \u06cc\u0627\u0641\u062a\u06c1 \u0648\u06cc\u0688\u06cc\u0648 \u06a9\u0646\u0679\u06cc\u0646\u0631 \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "\u062a\u0635\u0648\u06cc\u0631\u06cc \u0641\u0627\u0626\u0644 \u062e\u0631\u0627\u0628 \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u062a\u0635\u0648\u06cc\u0631\u06cc \u0641\u0627\u0626\u0644 \u062e\u0631\u0627\u0628 \u06c1\u06d2\u06d4"
                 },
                 "140": {
                     "id": "140",
-                    "trans": "\u062a\u0635\u0648\u06cc\u0631 \u0645\u06cc\u06ba \u067e\u06a9\u0633\u0644\u0632 \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06cc\u06ba ({{ pixels }})\u06d4 \u0645\u062a\u0648\u0642\u0639 \u06a9\u0645 \u0633\u06d2 \u06a9\u0645 \u0645\u0642\u062f\u0627\u0631 {{ min_pixels }} \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u062a\u0635\u0648\u06cc\u0631 \u0645\u06cc\u06ba \u067e\u06a9\u0633\u0644\u0632 \u0628\u06c1\u062a \u06a9\u0645 \u06c1\u06cc\u06ba ({{ pixels }})\u06d4 \u0645\u062a\u0648\u0642\u0639 \u06a9\u0645 \u0633\u06d2 \u06a9\u0645 \u0645\u0642\u062f\u0627\u0631 {{ min_pixels }} \u06c1\u06d2\u06d4"
                 },
                 "141": {
                     "id": "141",
-                    "trans": "\u062a\u0635\u0648\u06cc\u0631 \u0645\u06cc\u06ba \u067e\u06a9\u0633\u0644\u0632 \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u06c1\u06cc\u06ba ({{ pixels }}). \u0645\u062a\u0648\u0642\u0639 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u0645\u0642\u062f\u0627\u0631 {{ max_pixels }} \u06c1\u06d2.",
-                    "state": "needs-review-translation"
+                    "trans": "\u062a\u0635\u0648\u06cc\u0631 \u0645\u06cc\u06ba \u067e\u06a9\u0633\u0644\u0632 \u0628\u06c1\u062a \u0632\u06cc\u0627\u062f\u06c1 \u06c1\u06cc\u06ba ({{ pixels }}). \u0645\u062a\u0648\u0642\u0639 \u0632\u06cc\u0627\u062f\u06c1 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u0645\u0642\u062f\u0627\u0631 {{ max_pixels }} \u06c1\u06d2."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "\u0627\u0633 \u0641\u0627\u0626\u0644 \u06a9\u0627 \u0646\u0627\u0645 \u0645\u062a\u0648\u0642\u0639 \u062d\u0631\u0641\u0648\u06ba \u06a9\u06d2 \u0645\u062c\u0645\u0648\u0639\u06d2 \u0633\u06d2 \u0645\u0637\u0627\u0628\u0642\u062a \u0646\u06c1\u06cc\u06ba \u0631\u06a9\u06be\u062a\u0627\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u0633 \u0641\u0627\u0626\u0644 \u06a9\u0627 \u0646\u0627\u0645 \u0645\u062a\u0648\u0642\u0639 \u062d\u0631\u0641\u0648\u06ba \u06a9\u06d2 \u0645\u062c\u0645\u0648\u0639\u06d2 \u0633\u06d2 \u0645\u0637\u0627\u0628\u0642\u062a \u0646\u06c1\u06cc\u06ba \u0631\u06a9\u06be\u062a\u0627\u06d4"
                 },
                 "143": {
                     "id": "143",
-                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a XML \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a XML \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "144": {
                     "id": "144",
-                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u0645\u062a\u0648\u0642\u0639 XSD \u0627\u0633\u06a9\u06cc\u0645\u0627 \u06a9\u06d2 \u0645\u0637\u0627\u0628\u0642 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u0645\u062a\u0648\u0642\u0639 XSD \u0627\u0633\u06a9\u06cc\u0645\u0627 \u06a9\u06d2 \u0645\u0637\u0627\u0628\u0642 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4"
                 },
                 "145": {
                     "id": "145",
-                    "trans": "\u06cc\u06c1 XML \u067e\u06d2 \u0644\u0648\u0688 \u0628\u06c1\u062a \u0628\u0691\u0627 \u06c1\u06d2 ({{ size }} \u0628\u0627\u0626\u0679\u0633): \u06cc\u06c1 {{ limit }} \u0628\u0627\u0626\u0679\u0633 \u06a9\u06cc \u062d\u062f \u0633\u06d2 \u062a\u062c\u0627\u0648\u0632 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 XML \u067e\u06d2 \u0644\u0648\u0688 \u0628\u06c1\u062a \u0628\u0691\u0627 \u06c1\u06d2 ({{ size }} \u0628\u0627\u0626\u0679\u0633): \u06cc\u06c1 {{ limit }} \u0628\u0627\u0626\u0679\u0633 \u06a9\u06cc \u062d\u062f \u0633\u06d2 \u062a\u062c\u0627\u0648\u0632 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4"
                 },
                 "146": {
                     "id": "146",
-                    "trans": "\u06cc\u06c1 \u0642\u062f\u0631 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a cron \u0627\u06cc\u06a9\u0633\u067e\u0631\u06cc\u0634\u0646 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
-                    "state": "needs-review-translation"
+                    "trans": "\u06cc\u06c1 \u0648\u06cc\u0644\u06cc\u0648 \u062f\u0631\u0633\u062a cron \u0627\u06cc\u06a9\u0633\u067e\u0631\u06cc\u0634\u0646 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2"
                 }
             },
             "uz": {
