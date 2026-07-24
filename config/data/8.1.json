@@ -2205,8 +2205,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Indtast venligst en gyldig UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Indtast venligst et gyldigt UUID."
                 }
             },
             "de": {
@@ -18690,11 +18689,11 @@
                 },
                 "71": {
                     "id": "71",
-                    "trans": "Denne v\u00e6rdi b\u00f8r ikke v\u00e6re lig med {{ compared_value }}."
+                    "trans": "Denne v\u00e6rdi m\u00e5 ikke v\u00e6re lig med {{ compared_value }}."
                 },
                 "72": {
                     "id": "72",
-                    "trans": "Denne v\u00e6rdi b\u00f8r ikke v\u00e6re identisk med {{ compared_value_type }} {{ compared_value }}."
+                    "trans": "Denne v\u00e6rdi m\u00e5 ikke v\u00e6re identisk med {{ compared_value_type }} {{ compared_value }}."
                 },
                 "73": {
                     "id": "73",
@@ -18738,11 +18737,11 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Denne v\u00e6rdi er ikke en gyldig UUID."
+                    "trans": "Denne v\u00e6rdi er ikke et gyldigt UUID."
                 },
                 "84": {
                     "id": "84",
-                    "trans": "Denne v\u00e6rdi skal v\u00e6re et multiplikation af {{ compared_value }}."
+                    "trans": "Denne v\u00e6rdi skal v\u00e6re et multiplum af {{ compared_value }}."
                 },
                 "85": {
                     "id": "85",
@@ -18754,7 +18753,7 @@
                 },
                 "87": {
                     "id": "87",
-                    "trans": "Denne samling b\u00f8r kun indeholde unikke elementer."
+                    "trans": "Denne samling m\u00e5 kun indeholde unikke elementer."
                 },
                 "88": {
                     "id": "88",
@@ -18790,15 +18789,15 @@
                 },
                 "96": {
                     "id": "96",
-                    "trans": "Antallet af elementer i denne samling skal v\u00e6re en multiplikation af {{ compared_value }}."
+                    "trans": "Antallet af elementer i denne samling skal v\u00e6re et multiplum af {{ compared_value }}."
                 },
                 "97": {
                     "id": "97",
-                    "trans": "V\u00e6rdien skal overholde mindst \u00e9n af f\u00f8lgende krav:"
+                    "trans": "V\u00e6rdien skal overholde mindst \u00e9t af f\u00f8lgende krav:"
                 },
                 "98": {
                     "id": "98",
-                    "trans": "Hvert element i denne samling skal overholde dens egne krav."
+                    "trans": "Hvert element i denne samling skal overholde sine egne krav."
                 },
                 "99": {
                     "id": "99",
@@ -18878,11 +18877,11 @@
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Denne v\u00e6rdi b\u00f8r ikke v\u00e6re f\u00f8r uge \"{{ min }}\"."
+                    "trans": "Denne v\u00e6rdi m\u00e5 ikke v\u00e6re f\u00f8r uge \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Denne v\u00e6rdi b\u00f8r ikke v\u00e6re efter uge \"{{ max }}\"."
+                    "trans": "Denne v\u00e6rdi m\u00e5 ikke v\u00e6re efter uge \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
@@ -18974,23 +18973,19 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Denne v\u00e6rdi er ikke gyldig XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er ikke gyldig XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Denne v\u00e6rdi overholder ikke det forventede XSD-skema.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi overholder ikke det forventede XSD-skema."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Denne XML-nyttelast er for stor ({{ size }} byte): den overskrider gr\u00e6nsen p\u00e5 {{ limit }} byte.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne XML-payload er for stor ({{ size }} bytes): den overskrider gr\u00e6nsen p\u00e5 {{ limit }} bytes."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Denne v\u00e6rdi er ikke et gyldigt cron-udtryk.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er ikke et gyldigt cron-udtryk."
                 }
             },
             "de": {
