@@ -7767,7 +7767,7 @@
                 },
                 "30": {
                     "id": "30",
-                    "trans": "CSRF fi\u015fi ge\u00e7ersiz. Formu tekrar g\u00f6ndermeyi deneyin."
+                    "trans": "CSRF token ge\u00e7ersiz. L\u00fctfen formu tekrar g\u00f6ndermeyi deneyin."
                 },
                 "99": {
                     "id": "99",
@@ -7807,7 +7807,7 @@
                 },
                 "108": {
                     "id": "108",
-                    "trans": "L\u00fctfen ge\u00e7erli bir tarih giriniz."
+                    "trans": "L\u00fctfen ge\u00e7erli bir tarih girin."
                 },
                 "109": {
                     "id": "109",
@@ -7835,7 +7835,7 @@
                 },
                 "115": {
                     "id": "115",
-                    "trans": "L\u00fctfen bir numara giriniz."
+                    "trans": "L\u00fctfen bir say\u0131 girin."
                 },
                 "116": {
                     "id": "116",
@@ -7859,7 +7859,7 @@
                 },
                 "121": {
                     "id": "121",
-                    "trans": "L\u00fctfen ge\u00e7erli bir giriniz URL."
+                    "trans": "L\u00fctfen ge\u00e7erli bir URL girin."
                 },
                 "122": {
                     "id": "122",
@@ -7867,7 +7867,7 @@
                 },
                 "123": {
                     "id": "123",
-                    "trans": "l\u00fctfen ge\u00e7erli bir telefon numaras\u0131 sa\u011flay\u0131n."
+                    "trans": "L\u00fctfen ge\u00e7erli bir telefon numaras\u0131 girin."
                 },
                 "124": {
                     "id": "124",
@@ -7891,8 +7891,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "L\u00fctfen ge\u00e7erli bir UUID girin.",
-                    "state": "needs-review-translation"
+                    "trans": "L\u00fctfen ge\u00e7erli bir UUID girin."
                 }
             },
             "uk": {
@@ -42175,23 +42174,23 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "Bu alan beklenen olmad\u0131."
+                    "trans": "Bu alan beklenmiyor."
                 },
                 "10": {
                     "id": "10",
-                    "trans": "Bu alan, eksiktir"
+                    "trans": "Bu alan eksik."
                 },
                 "11": {
                     "id": "11",
-                    "trans": "Bu de\u011fer do\u011fru bir tarih bi\u00e7imi de\u011fildir."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir tarih bi\u00e7imi de\u011fildir."
                 },
                 "12": {
                     "id": "12",
-                    "trans": "Bu de\u011fer do\u011fru bir tarihsaat bi\u00e7imi de\u011fildir."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir tarih\/saat bi\u00e7imi de\u011fildir."
                 },
                 "13": {
                     "id": "13",
-                    "trans": "Bu de\u011fer do\u011fru bir e-mail adresi de\u011fildir."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir e-mail adresi de\u011fildir."
                 },
                 "14": {
                     "id": "14",
@@ -42211,7 +42210,7 @@
                 },
                 "18": {
                     "id": "18",
-                    "trans": "Bu de\u011fer {{ limit }} ve alt\u0131nda olmal\u0131d\u0131r."
+                    "trans": "Bu de\u011fer {{ limit }} veya daha az olmal\u0131d\u0131r."
                 },
                 "19": {
                     "id": "19",
@@ -42243,11 +42242,11 @@
                 },
                 "26": {
                     "id": "26",
-                    "trans": "Bu de\u011fer do\u011fru bir saat de\u011fildir."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir saat de\u011fildir."
                 },
                 "27": {
                     "id": "27",
-                    "trans": "Bu de\u011fer do\u011fru bir URL de\u011fildir."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir URL de\u011fildir."
                 },
                 "31": {
                     "id": "31",
@@ -42279,7 +42278,7 @@
                 },
                 "38": {
                     "id": "38",
-                    "trans": "Bu de\u011fer ge\u00e7erli bir lisan de\u011fildir."
+                    "trans": "Bu de\u011fer ge\u00e7erli bir dil de\u011fildir."
                 },
                 "39": {
                     "id": "39",
@@ -42291,7 +42290,7 @@
                 },
                 "41": {
                     "id": "41",
-                    "trans": "Bu de\u011fer \u015fu anda kullan\u0131mda."
+                    "trans": "Bu de\u011fer zaten kullan\u0131l\u0131yor."
                 },
                 "42": {
                     "id": "42",
@@ -42695,23 +42694,19 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Bu de\u011fer ge\u00e7erli bir XML de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir XML de\u011fildir."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Bu de\u011fer beklenen XSD \u015femas\u0131na uymuyor.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer beklenen XSD \u015femas\u0131na uymuyor."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Bu XML y\u00fck\u00fc \u00e7ok b\u00fcy\u00fck ({{ size }} bayt): {{ limit }} baytl\u0131k s\u0131n\u0131r\u0131 a\u015f\u0131yor.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu XML y\u00fck\u00fc \u00e7ok b\u00fcy\u00fck ({{ size }} bayt): {{ limit }} baytl\u0131k s\u0131n\u0131r\u0131 a\u015f\u0131yor."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Bu de\u011fer ge\u00e7erli bir cron ifadesi de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir cron ifadesi de\u011fildir."
                 }
             },
             "uk": {
