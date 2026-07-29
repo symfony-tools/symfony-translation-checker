@@ -4422,8 +4422,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Per favore, inserisci un UUID valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Per favore, inserisci un UUID valido."
                 }
             },
             "ja": {
@@ -28163,23 +28162,19 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Questo valore non \u00e8 un XML valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un XML valido."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Questo valore non \u00e8 conforme allo schema XSD previsto.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 conforme allo schema XSD previsto."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Questo payload XML \u00e8 troppo grande ({{ size }} byte): supera il limite di {{ limit }} byte.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo payload XML \u00e8 troppo grande ({{ size }} byte): supera il limite di {{ limit }} byte."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Questo valore non \u00e8 un'espressione cron valida.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un'espressione cron valida."
                 }
             },
             "ja": {
