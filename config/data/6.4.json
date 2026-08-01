@@ -4838,8 +4838,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Pra\u0161ome \u012fvesti tinkam\u0105 UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Pra\u0161ome \u012fvesti tinkam\u0105 UUID."
                 }
             },
             "lv": {
@@ -29880,23 +29879,19 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra tinkamas XML.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra tinkamas XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "\u0160i reik\u0161m\u0117 neatitinka laukiamos XSD schemos.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160i reik\u0161m\u0117 neatitinka laukiamos XSD schemos."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "\u0160i XML naudingoji apkrova yra per didel\u0117 ({{ size }} bait\u0173): ji vir\u0161ija {{ limit }} bait\u0173 rib\u0105.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160i XML apkrova per didel\u0117 ({{ size }} bait\u0173): ji vir\u0161ija {{ limit }} bait\u0173 rib\u0105."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra galiojanti cron i\u0161rai\u0161ka.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160i reik\u0161m\u0117 n\u0117ra tinkama cron i\u0161rai\u0161ka."
                 }
             },
             "lv": {
