@@ -6781,8 +6781,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Pros\u00edm zadajte platn\u00fd UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Pros\u00edm zadajte platn\u00e9 UUID."
                 }
             },
             "sl": {
@@ -38069,23 +38068,19 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "T\u00e1to hodnota nie je platn\u00e9 XML.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00e9 XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "T\u00e1to hodnota nezodpoved\u00e1 o\u010dak\u00e1vanej sch\u00e9me XSD.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nezodpoved\u00e1 o\u010dak\u00e1vanej XSD sch\u00e9me."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "T\u00e1to d\u00e1tov\u00e1 \u010das\u0165 XML je pr\u00edli\u0161 ve\u013ek\u00e1 ({{ size }} bajtov): prekra\u010duje limit {{ limit }} bajtov.",
-                    "state": "needs-review-translation"
+                    "trans": "Tento XML obsah je pr\u00edli\u0161 ve\u013ek\u00fd ({{ size }} bajtov): prekra\u010duje limit {{ limit }} bajtov."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "T\u00e1to hodnota nie je platn\u00fd v\u00fdraz cron.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00e1to hodnota nie je platn\u00fd cron v\u00fdraz."
                 }
             },
             "sl": {
