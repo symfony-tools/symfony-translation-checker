@@ -26104,13 +26104,11 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Referencirani entitet ne postoji.",
-                    "state": "needs-review-translation"
+                    "trans": "Referencirani entitet ne postoji."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Ova vrijednost nije valjani ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani ULID."
                 }
             },
             "hu": {
@@ -39670,13 +39668,11 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Entiteti i referuar nuk ekziston.",
-                    "state": "needs-review-translation"
+                    "trans": "Entiteti i referuar nuk ekziston."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb nj\u00eb ULID e vlefshme.",
-                    "state": "needs-review-translation"
+                    "trans": "Kjo vler\u00eb nuk \u00ebsht\u00eb ULID i vlefsh\u00ebm."
                 }
             },
             "sr_Cyrl": {

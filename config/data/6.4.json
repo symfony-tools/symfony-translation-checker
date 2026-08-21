@@ -26104,13 +26104,11 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Referencirani entitet ne postoji.",
-                    "state": "needs-review-translation"
+                    "trans": "Referencirani entitet ne postoji."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Ova vrijednost nije valjani ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani ULID."
                 }
             },
             "hu": {
