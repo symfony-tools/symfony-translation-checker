@@ -24358,13 +24358,11 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "L'entit\u00e9 r\u00e9f\u00e9renc\u00e9e n'existe pas.",
-                    "state": "needs-review-translation"
+                    "trans": "L'entit\u00e9 r\u00e9f\u00e9renc\u00e9e n'existe pas."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Cette valeur n'est pas un ULID valide.",
-                    "state": "needs-review-translation"
+                    "trans": "Cette valeur n'est pas un ULID valide."
                 }
             },
             "gl": {
@@ -36766,13 +36764,11 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "A entidade referenciada n\u00e3o existe.",
-                    "state": "needs-review-translation"
+                    "trans": "A entidade referenciada n\u00e3o existe."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Este valor n\u00e3o \u00e9 um ULID v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um ULID v\u00e1lido."
                 }
             },
             "ro": {
