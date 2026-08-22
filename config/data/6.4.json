@@ -19663,13 +19663,11 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Die referenzierte Entit\u00e4t existiert nicht.",
-                    "state": "needs-review-translation"
+                    "trans": "Die referenzierte Entit\u00e4t existiert nicht."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Dieser Wert ist keine g\u00fcltige ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist keine g\u00fcltige ULID."
                 }
             },
             "el": {
