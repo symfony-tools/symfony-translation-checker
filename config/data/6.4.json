@@ -2904,8 +2904,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Palun sisesta korrektne UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Palun sisesta korrektne UUID."
                 }
             },
             "eu": {
@@ -21432,11 +21431,11 @@
                 },
                 "6": {
                     "id": "6",
-                    "trans": "Valima peaks v\u00e4hemalt {{ limit }} valikut."
+                    "trans": "Valima peaks v\u00e4hemalt {{ limit }} valiku.|Valima peaks v\u00e4hemalt {{ limit }} valikut."
                 },
                 "7": {
                     "id": "7",
-                    "trans": "Valima peaks mitte rohkem kui  {{ limit }} valikut."
+                    "trans": "Valima peaks mitte rohkem kui {{ limit }} valiku.|Valima peaks mitte rohkem kui {{ limit }} valikut."
                 },
                 "8": {
                     "id": "8",
@@ -21484,15 +21483,15 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "V\u00e4\u00e4rtus on liiga pikk. Pikkus peaks olema {{ limit }} t\u00e4hem\u00e4rki v\u00f5i v\u00e4hem."
+                    "trans": "V\u00e4\u00e4rtus on liiga pikk. Pikkus peaks olema {{ limit }} t\u00e4hem\u00e4rk v\u00f5i v\u00e4hem.|V\u00e4\u00e4rtus on liiga pikk. Pikkus peaks olema {{ limit }} t\u00e4hem\u00e4rki v\u00f5i v\u00e4hem."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "V\u00e4\u00e4rtus peaks olema {{ limit }} v\u00f5i rohkem."
+                    "trans": "V\u00e4\u00e4rtus peaks olema v\u00e4hemalt {{ limit }}."
                 },
                 "21": {
                     "id": "21",
-                    "trans": "V\u00e4\u00e4rtus on liiga l\u00fchike. Pikkus peaks  olema {{ limit }} t\u00e4hem\u00e4rki v\u00f5i rohkem."
+                    "trans": "V\u00e4\u00e4rtus on liiga l\u00fchike. Pikkus peaks olema v\u00e4hemalt {{ limit }} t\u00e4hem\u00e4rk.|V\u00e4\u00e4rtus on liiga l\u00fchike. Pikkus peaks olema v\u00e4hemalt {{ limit }} t\u00e4hem\u00e4rki."
                 },
                 "22": {
                     "id": "22",
@@ -21620,7 +21619,7 @@
                 },
                 "56": {
                     "id": "56",
-                    "trans": "Kogumikus peaks olema t\u00e4pselt {{ limit }} element.|Kogumikus peaks olema t\u00e4pselt {{ limit }}|elementi."
+                    "trans": "Kogumikus peaks olema t\u00e4pselt {{ limit }} element.|Kogumikus peaks olema t\u00e4pselt {{ limit }} elementi."
                 },
                 "57": {
                     "id": "57",
@@ -21964,33 +21963,27 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv XML.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei ole korrektne XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "See v\u00e4\u00e4rtus ei vasta oodatud XSD-skeemile.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei vasta eeldatud XSD-skeemile."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "See XML-i kasulik koormus on liiga suur ({{ size }} baiti): see \u00fcletab {{ limit }} baidi piiri.",
-                    "state": "needs-review-translation"
+                    "trans": "See XML-i sisu on liiga suur ({{ size }} baiti): see \u00fcletab {{ limit }} baidi piiri."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv cron-avaldis.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei ole korrektne cron-avaldis."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Viidatud olem ei eksisteeri.",
-                    "state": "needs-review-translation"
+                    "trans": "Viidatud \u00fcksust ei eksisteeri."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "See v\u00e4\u00e4rtus ei ole kehtiv ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "See v\u00e4\u00e4rtus ei ole korrektne ULID."
                 }
             },
             "eu": {
