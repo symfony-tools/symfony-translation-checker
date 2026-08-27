@@ -21399,13 +21399,11 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "La entidad referenciada no existe.",
-                    "state": "needs-review-translation"
+                    "trans": "La entidad referenciada no existe."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Este valor no es un ULID v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un ULID v\u00e1lido."
                 }
             },
             "et": {
