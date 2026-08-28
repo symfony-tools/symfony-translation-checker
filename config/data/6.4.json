@@ -5678,8 +5678,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Vul een geldige UUID in.",
-                    "state": "needs-review-translation"
+                    "trans": "Vul een geldige UUID in."
                 }
             },
             "nn": {
@@ -33773,33 +33772,27 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Deze waarde is geen geldige XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldige XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Deze waarde voldoet niet aan het verwachte XSD-schema.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde voldoet niet aan het verwachte XSD-schema."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Deze XML-payload is te groot ({{ size }} bytes): deze overschrijdt de limiet van {{ limit }} bytes.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze XML-payload is te groot ({{ size }} bytes): deze overschrijdt de limiet van {{ limit }} bytes."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Deze waarde is geen geldige cron-expressie.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldige cron-expressie."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "De gerefereerde entiteit bestaat niet.",
-                    "state": "needs-review-translation"
+                    "trans": "De gerefereerde entiteit bestaat niet."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Deze waarde is geen geldige ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldige ULID."
                 }
             },
             "nn": {
