@@ -27828,18 +27828,15 @@
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Nilai ini bukan ekspresi cron yang valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan ekspresi cron yang valid."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Entitas yang direferensikan tidak ada.",
-                    "state": "needs-review-translation"
+                    "trans": "Entitas yang direferensikan tidak ada."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Nilai ini bukan ULID yang valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan ULID yang valid."
                 }
             },
             "it": {
