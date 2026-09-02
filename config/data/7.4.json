@@ -16684,13 +16684,11 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Referencirani entitet ne postoji.",
-                    "state": "needs-review-translation"
+                    "trans": "Referencirani entitet ne postoji."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Ova vrijednost nije ispravan ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije ispravan ULID."
                 }
             },
             "ca": {
@@ -28403,13 +28401,11 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "L'entit\u00e0 referenziata non esiste.",
-                    "state": "needs-review-translation"
+                    "trans": "L'entit\u00e0 referenziata non esiste."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Questo valore non \u00e8 un ULID valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un ULID valido."
                 }
             },
             "ja": {
