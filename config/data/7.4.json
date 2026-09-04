@@ -46668,13 +46668,11 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "\u5f15\u7528\u7684\u5be6\u9ad4\u4e0d\u5b58\u5728\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u5f15\u7528\u7684\u5be6\u9ad4\u4e0d\u5b58\u5728\u3002"
                 },
                 "148": {
                     "id": "148",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 ULID\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684 ULID\u3002"
                 }
             }
         }
