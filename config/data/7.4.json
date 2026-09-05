@@ -1763,8 +1763,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Introdu\u00efu un UUID v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Introdu\u00efu un UUID v\u00e0lid."
                 }
             },
             "cs": {
@@ -17246,33 +17245,27 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Aquest valor no \u00e9s un XML v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un XML v\u00e0lid."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Aquest valor no s'ajusta a l'esquema XSD esperat.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no s'ajusta a l'esquema XSD esperat."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Aquesta c\u00e0rrega XML \u00e9s massa gran ({{ size }} bytes): supera el l\u00edmit de {{ limit }} bytes.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquesta c\u00e0rrega XML \u00e9s massa gran ({{ size }} bytes): supera el l\u00edmit de {{ limit }} bytes."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Aquest valor no \u00e9s una expressi\u00f3 cron v\u00e0lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s una expressi\u00f3 cron v\u00e0lida."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "L'entitat referenciada no existeix.",
-                    "state": "needs-review-translation"
+                    "trans": "L'entitat referenciada no existeix."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Aquest valor no \u00e9s un ULID v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un ULID v\u00e0lid."
                 }
             },
             "cs": {
@@ -26654,18 +26647,15 @@
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes cron kifejez\u00e9s.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes cron kifejez\u00e9s."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "A hivatkozott entit\u00e1s nem l\u00e9tezik.",
-                    "state": "needs-review-translation"
+                    "trans": "A hivatkozott entit\u00e1s nem l\u00e9tezik."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes ULID."
                 }
             },
             "hy": {
