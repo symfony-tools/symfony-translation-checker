@@ -6508,8 +6508,7 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "V\u0103 rug\u0103m s\u0103 introduce\u021bi un UUID valid.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u0103 rug\u0103m s\u0103 introduce\u021bi un UUID valid."
                 }
             },
             "ru": {
@@ -37275,33 +37274,27 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Aceast\u0103 valoare nu este un XML valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este un XML valid."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Aceast\u0103 valoare nu este conform\u0103 cu schema XSD a\u0219teptat\u0103.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu corespunde schemei XSD a\u0219teptate."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Aceast\u0103 \u00eenc\u0103rc\u0103tur\u0103 util\u0103 XML este prea mare ({{ size }} octe\u021bi): dep\u0103\u0219e\u0219te limita de {{ limit }} octe\u021bi.",
-                    "state": "needs-review-translation"
+                    "trans": "Acest payload XML este prea mare ({{ size }} bytes): dep\u0103\u0219e\u0219te limita de {{ limit }} bytes."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Aceast\u0103 valoare nu este o expresie cron valid\u0103.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este o expresie cron valid\u0103."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Entitatea referen\u021biat\u0103 nu exist\u0103.",
-                    "state": "needs-review-translation"
+                    "trans": "Entitatea la care se face referire nu exist\u0103."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Aceast\u0103 valoare nu este un ULID valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aceast\u0103 valoare nu este un ULID valid."
                 }
             },
             "ru": {
