@@ -3555,8 +3555,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "La borne inf\u00e9rieure ne doit pas \u00eatre sup\u00e9rieure \u00e0 la borne sup\u00e9rieure.",
-                    "state": "needs-review-translation"
+                    "trans": "La borne inf\u00e9rieure ne doit pas \u00eatre sup\u00e9rieure \u00e0 la borne sup\u00e9rieure."
                 }
             },
             "gl": {
@@ -4559,8 +4558,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Il limite inferiore non deve essere maggiore del limite superiore.",
-                    "state": "needs-review-translation"
+                    "trans": "Il limite inferiore non deve essere maggiore del limite superiore."
                 }
             },
             "ja": {
