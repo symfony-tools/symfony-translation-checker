@@ -136,6 +136,10 @@
             "129": {
                 "id": "129",
                 "source": "Please enter a valid UUID."
+            },
+            "130": {
+                "id": "130",
+                "source": "The lower bound must not be greater than the upper bound."
             }
         },
         "SecurityCore": {
@@ -934,6 +938,11 @@
                     "id": "129",
                     "trans": "Voer assblief 'n geldige UUID in.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Die ondergrens mag nie groter as die bogrens wees nie.",
+                    "state": "needs-review-translation"
                 }
             },
             "ar": {
@@ -1072,6 +1081,11 @@
                 "129": {
                     "id": "129",
                     "trans": "\u0627\u0644\u0631\u062c\u0627\u0621 \u0625\u062f\u062e\u0627\u0644 UUID \u0635\u0627\u0644\u062d."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u064a\u062c\u0628 \u0623\u0644\u0627 \u064a\u0643\u0648\u0646 \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u062f\u0646\u0649 \u0623\u0643\u0628\u0631 \u0645\u0646 \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u0639\u0644\u0649.",
+                    "state": "needs-review-translation"
                 }
             },
             "az": {
@@ -1210,6 +1224,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Z\u0259hm\u0259t olmasa do\u011fru bir UUID daxil edin.",
+                    "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "A\u015fa\u011f\u0131 h\u0259dd yuxar\u0131 h\u0259dd\u0259n b\u00f6y\u00fck olmamal\u0131d\u0131r.",
                     "state": "needs-review-translation"
                 }
             },
@@ -1350,6 +1369,11 @@
                     "id": "129",
                     "trans": "\u041a\u0430\u043b\u0456 \u043b\u0430\u0441\u043a\u0430, \u0443\u0432\u044f\u0434\u0437\u0456\u0446\u0435 \u043a\u0430\u0440\u044d\u043a\u0442\u043d\u044b UUID.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u041d\u0456\u0436\u043d\u044f\u044f \u043c\u044f\u0436\u0430 \u043d\u0435 \u043f\u0430\u0432\u0456\u043d\u043d\u0430 \u0431\u044b\u0446\u044c \u0431\u043e\u043b\u044c\u0448\u0430\u0439 \u0437\u0430 \u0432\u0435\u0440\u0445\u043d\u044e\u044e \u043c\u044f\u0436\u0443.",
+                    "state": "needs-review-translation"
                 }
             },
             "bg": {
@@ -1488,6 +1512,11 @@
                 "129": {
                     "id": "129",
                     "trans": "\u041c\u043e\u043b\u044f \u0432\u044a\u0432\u0435\u0434\u0435\u0442\u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u0414\u043e\u043b\u043d\u0430\u0442\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0435 \u0442\u0440\u044f\u0431\u0432\u0430 \u0434\u0430 \u0431\u044a\u0434\u0435 \u043f\u043e-\u0433\u043e\u043b\u044f\u043c\u0430 \u043e\u0442 \u0433\u043e\u0440\u043d\u0430\u0442\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0430.",
+                    "state": "needs-review-translation"
                 }
             },
             "bs": {
@@ -1626,6 +1655,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Molim upi\u0161ite ispravan UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Donja granica ne smije biti ve\u0107a od gornje granice.",
+                    "state": "needs-review-translation"
                 }
             },
             "ca": {
@@ -1764,6 +1798,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Introdu\u00efu un UUID v\u00e0lid."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "El l\u00edmit inferior no ha de ser superior al l\u00edmit superior.",
+                    "state": "needs-review-translation"
                 }
             },
             "cs": {
@@ -1902,6 +1941,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Pros\u00edm zadejte platn\u00fd UUID.",
+                    "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Doln\u00ed mez nesm\u00ed b\u00fdt v\u011bt\u0161\u00ed ne\u017e horn\u00ed mez.",
                     "state": "needs-review-translation"
                 }
             },
@@ -2075,6 +2119,11 @@
                     "id": "129",
                     "trans": "Nodwch UUID dilys.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Rhaid i'r terfyn isaf beidio \u00e2 bod yn fwy na'r terfyn uchaf.",
+                    "state": "needs-review-translation"
                 }
             },
             "da": {
@@ -2213,6 +2262,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Indtast venligst et gyldigt UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Den nedre gr\u00e6nse m\u00e5 ikke v\u00e6re st\u00f8rre end den \u00f8vre gr\u00e6nse.",
+                    "state": "needs-review-translation"
                 }
             },
             "de": {
@@ -2351,6 +2405,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Bitte geben Sie eine g\u00fcltige UUID ein."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Der untere Grenzwert darf nicht gr\u00f6\u00dfer als der obere Grenzwert sein.",
+                    "state": "needs-review-translation"
                 }
             },
             "el": {
@@ -2490,6 +2549,11 @@
                     "id": "129",
                     "trans": "\u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03b5\u03b9\u03c3\u03ac\u03b3\u03b5\u03c4\u03b5 \u03ad\u03bd\u03b1 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf UUID.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u03a4\u03bf \u03ba\u03ac\u03c4\u03c9 \u03cc\u03c1\u03b9\u03bf \u03b4\u03b5\u03bd \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf \u03ac\u03bd\u03c9 \u03cc\u03c1\u03b9\u03bf.",
+                    "state": "needs-review-translation"
                 }
             },
             "en": {
@@ -2628,6 +2692,10 @@
                 "129": {
                     "id": "129",
                     "trans": "Please enter a valid UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "The lower bound must not be greater than the upper bound."
                 }
             },
             "es": {
@@ -2766,6 +2834,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Por favor, ingrese un UUID v\u00e1lido."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "El l\u00edmite inferior no debe ser mayor que el l\u00edmite superior.",
+                    "state": "needs-review-translation"
                 }
             },
             "et": {
@@ -2904,6 +2977,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Palun sisesta korrektne UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Alumine piir ei tohi olla suurem kui \u00fclemine piir.",
+                    "state": "needs-review-translation"
                 }
             },
             "eu": {
@@ -3044,6 +3122,11 @@
                     "id": "129",
                     "trans": "Mesedez, sartu baliozko UUID bat.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Beheko muga ezin da goiko muga baino handiagoa izan.",
+                    "state": "needs-review-translation"
                 }
             },
             "fa": {
@@ -3182,6 +3265,11 @@
                 "129": {
                     "id": "129",
                     "trans": "\u0644\u0637\u0641\u0627\u064b \u06cc\u06a9 UUID \u0645\u0639\u062a\u0628\u0631 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u06a9\u0631\u0627\u0646 \u067e\u0627\u06cc\u06cc\u0646 \u0646\u0628\u0627\u06cc\u062f \u0628\u0632\u0631\u06af\u200c\u062a\u0631 \u0627\u0632 \u06a9\u0631\u0627\u0646 \u0628\u0627\u0644\u0627 \u0628\u0627\u0634\u062f.",
+                    "state": "needs-review-translation"
                 }
             },
             "fi": {
@@ -3321,6 +3409,11 @@
                     "id": "129",
                     "trans": "Sy\u00f6t\u00e4 kelvollinen UUID.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Alaraja ei saa olla suurempi kuin yl\u00e4raja.",
+                    "state": "needs-review-translation"
                 }
             },
             "fr": {
@@ -3459,6 +3552,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Veuillez entrer un UUID valide."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "La borne inf\u00e9rieure ne doit pas \u00eatre sup\u00e9rieure \u00e0 la borne sup\u00e9rieure.",
+                    "state": "needs-review-translation"
                 }
             },
             "gl": {
@@ -3597,6 +3695,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Por favor, introduce un UUID v\u00e1lido.",
+                    "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "O l\u00edmite inferior non debe ser maior que o l\u00edmite superior.",
                     "state": "needs-review-translation"
                 }
             },
@@ -3737,6 +3840,11 @@
                     "id": "129",
                     "trans": "\u05d0\u05e0\u05d0 \u05d4\u05d6\u05df UUID \u05ea\u05e7\u05e3.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u05d4\u05d2\u05d1\u05d5\u05dc \u05d4\u05ea\u05d7\u05ea\u05d5\u05df \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc \u05dc\u05d4\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc \u05de\u05d4\u05d2\u05d1\u05d5\u05dc \u05d4\u05e2\u05dc\u05d9\u05d5\u05df.",
+                    "state": "needs-review-translation"
                 }
             },
             "hr": {
@@ -3875,6 +3983,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Unesite ispravan UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Donja granica ne smije biti ve\u0107a od gornje granice.",
+                    "state": "needs-review-translation"
                 }
             },
             "hu": {
@@ -4013,6 +4126,11 @@
                 "129": {
                     "id": "129",
                     "trans": "K\u00e9rj\u00fck, adjon meg egy \u00e9rv\u00e9nyes UUID-t."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Az als\u00f3 hat\u00e1r\u00e9rt\u00e9k nem lehet nagyobb a fels\u0151 hat\u00e1r\u00e9rt\u00e9kn\u00e9l.",
+                    "state": "needs-review-translation"
                 }
             },
             "hy": {
@@ -4152,6 +4270,11 @@
                     "id": "129",
                     "trans": "\u0544\u0578\u0582\u057f\u0584\u0561\u0563\u0580\u0565\u0584 \u057e\u0561\u057e\u0565\u0580 UUID\u0589",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u054d\u057f\u0578\u0580\u056b\u0576 \u057d\u0561\u0570\u0574\u0561\u0576\u0568 \u0579\u057a\u0565\u057f\u0584 \u0567 \u0574\u0565\u056e \u056c\u056b\u0576\u056b \u057e\u0565\u0580\u056b\u0576 \u057d\u0561\u0570\u0574\u0561\u0576\u056b\u0581\u0589",
+                    "state": "needs-review-translation"
                 }
             },
             "id": {
@@ -4290,6 +4413,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Silahkan masukkan UUID yang sah."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Batas bawah tidak boleh lebih besar dari batas atas.",
+                    "state": "needs-review-translation"
                 }
             },
             "it": {
@@ -4428,6 +4556,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Per favore, inserisci un UUID valido."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Il limite inferiore non deve essere maggiore del limite superiore.",
+                    "state": "needs-review-translation"
                 }
             },
             "ja": {
@@ -4566,6 +4699,11 @@
                 "129": {
                     "id": "129",
                     "trans": "\u6709\u52b9\u306aUUID\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                    "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u4e0b\u9650\u306f\u4e0a\u9650\u3088\u308a\u5927\u304d\u304f\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
                     "state": "needs-review-translation"
                 }
             },
@@ -4706,6 +4844,11 @@
                     "id": "129",
                     "trans": "W.e.g. eng g\u00eblteg UUID aginn.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "D\u00e9i \u00ebnnescht Grenz d\u00e4erf net m\u00e9i grouss si w\u00e9i d\u00e9i iewescht Grenz.",
+                    "state": "needs-review-translation"
                 }
             },
             "lt": {
@@ -4844,6 +4987,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Pra\u0161ome \u012fvesti tinkam\u0105 UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Apatin\u0117 riba negali b\u016bti didesn\u0117 u\u017e vir\u0161utin\u0119 rib\u0105.",
+                    "state": "needs-review-translation"
                 }
             },
             "lv": {
@@ -4982,6 +5130,11 @@
                 "129": {
                     "id": "129",
                     "trans": "L\u016bdzu, ievadiet der\u012bgu UUID.",
+                    "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Apak\u0161\u0113j\u0101 robe\u017ea nedr\u012bkst b\u016bt liel\u0101ka par aug\u0161\u0113jo robe\u017eu.",
                     "state": "needs-review-translation"
                 }
             },
@@ -5122,6 +5275,11 @@
                     "id": "129",
                     "trans": "\u0412\u0435 \u043c\u043e\u043b\u0438\u043c\u0435 \u0432\u043d\u0435\u0441\u0435\u0442\u0435 \u0432\u0430\u043b\u0438\u0434\u0435\u043d UUID.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u0414\u043e\u043b\u043d\u0430\u0442\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0435 \u0441\u043c\u0435\u0435 \u0434\u0430 \u0431\u0438\u0434\u0435 \u043f\u043e\u0433\u043e\u043b\u0435\u043c\u0430 \u043e\u0434 \u0433\u043e\u0440\u043d\u0430\u0442\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0430.",
+                    "state": "needs-review-translation"
                 }
             },
             "mn": {
@@ -5260,6 +5418,11 @@
                 "129": {
                     "id": "129",
                     "trans": "\u04ae\u043d\u044d\u043d \u0437\u04e9\u0432 UUID \u043e\u0440\u0443\u0443\u043b\u043d\u0430 \u0443\u0443.",
+                    "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u0414\u043e\u043e\u0434 \u0445\u044f\u0437\u0433\u0430\u0430\u0440 \u0434\u044d\u044d\u0434 \u0445\u044f\u0437\u0433\u0430\u0430\u0440\u0430\u0430\u0441 \u0438\u0445 \u0431\u0430\u0439\u0436 \u0431\u043e\u043b\u043e\u0445\u0433\u04af\u0439.",
                     "state": "needs-review-translation"
                 }
             },
@@ -5400,6 +5563,11 @@
                     "id": "129",
                     "trans": "\u1000\u103b\u1031\u1038\u1007\u1030\u1038\u1015\u103c\u102f\u104d \u1019\u103e\u1014\u103a\u1000\u1014\u103a\u101e\u1031\u102c UUID \u1000\u102d\u102f\u1011\u100a\u1037\u103a\u1015\u102b\u104b",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u1021\u1031\u102c\u1000\u103a\u1018\u1031\u102c\u1004\u103a\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u101e\u100a\u103a \u1021\u1015\u1031\u102b\u103a\u1018\u1031\u102c\u1004\u103a\u1010\u1014\u103a\u1016\u102d\u102f\u1038\u1011\u1000\u103a \u1019\u1000\u103c\u102e\u1038\u101b\u1015\u102b\u104b",
+                    "state": "needs-review-translation"
                 }
             },
             "nb": {
@@ -5539,6 +5707,11 @@
                     "id": "129",
                     "trans": "Vennligst skriv inn en gyldig UUID.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Den nedre grensen kan ikke v\u00e6re st\u00f8rre enn den \u00f8vre grensen.",
+                    "state": "needs-review-translation"
                 }
             },
             "nl": {
@@ -5677,6 +5850,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Vul een geldige UUID in."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "De ondergrens mag niet groter zijn dan de bovengrens.",
+                    "state": "needs-review-translation"
                 }
             },
             "nn": {
@@ -5817,6 +5995,11 @@
                     "id": "129",
                     "trans": "Gje opp ein gyldig UUID.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Den nedre grensa kan ikkje vere st\u00f8rre enn den \u00f8vre grensa.",
+                    "state": "needs-review-translation"
                 }
             },
             "no": {
@@ -5956,6 +6139,11 @@
                     "id": "129",
                     "trans": "Vennligst skriv inn en gyldig UUID.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Den nedre grensen kan ikke v\u00e6re st\u00f8rre enn den \u00f8vre grensen.",
+                    "state": "needs-review-translation"
                 }
             },
             "pl": {
@@ -6094,6 +6282,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Prosz\u0119 poda\u0107 prawid\u0142owy UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Dolna granica nie mo\u017ce by\u0107 wi\u0119ksza ni\u017c g\u00f3rna granica.",
+                    "state": "needs-review-translation"
                 }
             },
             "pt": {
@@ -6233,6 +6426,11 @@
                     "id": "129",
                     "trans": "Por favor, introduza um UUID v\u00e1lido.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "O limite inferior n\u00e3o deve ser maior do que o limite superior.",
+                    "state": "needs-review-translation"
                 }
             },
             "pt_BR": {
@@ -6371,6 +6569,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Por favor, informe um UUID v\u00e1lido."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "O limite inferior n\u00e3o deve ser maior que o limite superior.",
+                    "state": "needs-review-translation"
                 }
             },
             "ro": {
@@ -6509,6 +6712,11 @@
                 "129": {
                     "id": "129",
                     "trans": "V\u0103 rug\u0103m s\u0103 introduce\u021bi un UUID valid."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Limita inferioar\u0103 nu trebuie s\u0103 fie mai mare dec\u00e2t limita superioar\u0103.",
+                    "state": "needs-review-translation"
                 }
             },
             "ru": {
@@ -6647,6 +6855,11 @@
                 "129": {
                     "id": "129",
                     "trans": "\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u041d\u0438\u0436\u043d\u044f\u044f \u0433\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u0433\u0440\u0430\u043d\u0438\u0446\u044b.",
+                    "state": "needs-review-translation"
                 }
             },
             "sk": {
@@ -6785,6 +6998,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Pros\u00edm zadajte platn\u00e9 UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Doln\u00e1 hranica nesmie by\u0165 v\u00e4\u010d\u0161ia ako horn\u00e1 hranica.",
+                    "state": "needs-review-translation"
                 }
             },
             "sl": {
@@ -6924,6 +7142,11 @@
                     "id": "129",
                     "trans": "Prosimo, vnesite veljaven UUID.",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Spodnja meja ne sme biti ve\u010dja od zgornje meje.",
+                    "state": "needs-review-translation"
                 }
             },
             "sq": {
@@ -7062,6 +7285,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Ju lutemi shkruani nj\u00eb UUID t\u00eb vlefsh\u00ebm."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Kufiri i posht\u00ebm nuk duhet t\u00eb jet\u00eb m\u00eb i madh se kufiri i sip\u00ebrm.",
+                    "state": "needs-review-translation"
                 }
             },
             "sr_Cyrl": {
@@ -7200,6 +7428,11 @@
                 "129": {
                     "id": "129",
                     "trans": "\u041c\u043e\u043b\u0438\u043c \u0443\u043f\u0438\u0448\u0438\u0442\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u0414\u043e\u045a\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0435 \u0441\u043c\u0435 \u0431\u0438\u0442\u0438 \u0432\u0435\u045b\u0430 \u043e\u0434 \u0433\u043e\u0440\u045a\u0435 \u0433\u0440\u0430\u043d\u0438\u0446\u0435.",
+                    "state": "needs-review-translation"
                 }
             },
             "sr_Latn": {
@@ -7338,6 +7571,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Molim upi\u0161ite ispravan UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Donja granica ne sme biti ve\u0107a od gornje granice.",
+                    "state": "needs-review-translation"
                 }
             },
             "sv": {
@@ -7476,6 +7714,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Ange ett giltigt UUID.",
+                    "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Den undre gr\u00e4nsen f\u00e5r inte vara st\u00f6rre \u00e4n den \u00f6vre gr\u00e4nsen.",
                     "state": "needs-review-translation"
                 }
             },
@@ -7616,6 +7859,11 @@
                     "id": "129",
                     "trans": "\u0e01\u0e23\u0e38\u0e13\u0e32\u0e01\u0e23\u0e2d\u0e01\u0e04\u0e48\u0e32 UUID \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u0e02\u0e2d\u0e1a\u0e40\u0e02\u0e15\u0e25\u0e48\u0e32\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e02\u0e2d\u0e1a\u0e40\u0e02\u0e15\u0e1a\u0e19",
+                    "state": "needs-review-translation"
                 }
             },
             "tl": {
@@ -7754,6 +8002,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Pakilagay ang wastong UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Ang mababang hangganan ay hindi dapat mas malaki kaysa sa mataas na hangganan.",
+                    "state": "needs-review-translation"
                 }
             },
             "tr": {
@@ -7892,6 +8145,11 @@
                 "129": {
                     "id": "129",
                     "trans": "L\u00fctfen ge\u00e7erli bir UUID girin."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Alt s\u0131n\u0131r, \u00fcst s\u0131n\u0131rdan b\u00fcy\u00fck olmamal\u0131d\u0131r.",
+                    "state": "needs-review-translation"
                 }
             },
             "uk": {
@@ -8030,6 +8288,11 @@
                 "129": {
                     "id": "129",
                     "trans": "\u0411\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0432\u0432\u0435\u0434\u0456\u0442\u044c \u0434\u0456\u0439\u0441\u043d\u0438\u0439 UUID."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u041d\u0438\u0436\u043d\u044f \u043c\u0435\u0436\u0430 \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u0430 \u0431\u0443\u0442\u0438 \u0431\u0456\u043b\u044c\u0448\u043e\u044e \u0437\u0430 \u0432\u0435\u0440\u0445\u043d\u044e \u043c\u0435\u0436\u0443.",
+                    "state": "needs-review-translation"
                 }
             },
             "ur": {
@@ -8168,6 +8431,11 @@
                 "129": {
                     "id": "129",
                     "trans": "\u0628\u0631\u0627\u06d3 \u06a9\u0631\u0645 \u0627\u06cc\u06a9 \u062f\u0631\u0633\u062a UUID \u062f\u0631\u062c \u06a9\u0631\u06cc\u06ba"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u0646\u0686\u0644\u06cc \u062d\u062f \u0628\u0627\u0644\u0627\u0626\u06cc \u062d\u062f \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u0646\u06cc \u0686\u0627\u06c1\u06cc\u06d2",
+                    "state": "needs-review-translation"
                 }
             },
             "uz": {
@@ -8306,6 +8574,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Iltimos, to'g'ri UUID kiriting."
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Quyi chegara yuqori chegaradan katta bo'lmasligi kerak.",
+                    "state": "needs-review-translation"
                 }
             },
             "vi": {
@@ -8444,6 +8717,11 @@
                 "129": {
                     "id": "129",
                     "trans": "Vui l\u00f2ng nh\u1eadp m\u1ed9t UUID h\u1ee3p l\u1ec7.",
+                    "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "Gi\u1edbi h\u1ea1n d\u01b0\u1edbi kh\u00f4ng \u0111\u01b0\u1ee3c l\u1edbn h\u01a1n gi\u1edbi h\u1ea1n tr\u00ean.",
                     "state": "needs-review-translation"
                 }
             },
@@ -8584,6 +8862,11 @@
                     "id": "129",
                     "trans": "\u8bf7\u8f93\u5165\u6709\u6548\u7684 UUID\u3002",
                     "state": "needs-review-translation"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u4e0b\u9650\u4e0d\u5f97\u5927\u4e8e\u4e0a\u9650\u3002",
+                    "state": "needs-review-translation"
                 }
             },
             "zh_TW": {
@@ -8722,6 +9005,11 @@
                 "129": {
                     "id": "129",
                     "trans": "\u8acb\u8f38\u5165\u6709\u6548\u7684 UUID\u3002"
+                },
+                "130": {
+                    "id": "130",
+                    "trans": "\u4e0b\u9650\u4e0d\u5f97\u5927\u65bc\u4e0a\u9650\u3002",
+                    "state": "needs-review-translation"
                 }
             }
         },
