@@ -26189,88 +26189,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Ce fichier n'est pas un fichier audio valide.",
-                    "state": "needs-review-translation"
+                    "trans": "Ce fichier n'est pas un fichier audio valide."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "L'audio est trop court ({{ duration }} secondes). La dur\u00e9e minimale attendue est de {{ min_duration }} secondes.",
-                    "state": "needs-review-translation"
+                    "trans": "L'audio est trop court ({{ duration }} secondes). La dur\u00e9e minimale attendue est de {{ min_duration }} secondes."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "L'audio est trop long ({{ duration }} secondes). La dur\u00e9e maximale autoris\u00e9e est de {{ max_duration }} secondes.",
-                    "state": "needs-review-translation"
+                    "trans": "L'audio est trop long ({{ duration }} secondes). La dur\u00e9e maximale autoris\u00e9e est de {{ max_duration }} secondes."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "La dur\u00e9e de l'audio n'a pas pu \u00eatre d\u00e9tect\u00e9e.",
-                    "state": "needs-review-translation"
+                    "trans": "La dur\u00e9e de l'audio n'a pas pu \u00eatre d\u00e9tect\u00e9e."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Le d\u00e9bit binaire de l'audio est trop faible ({{ bitrate }} bps). Le d\u00e9bit binaire minimal attendu est de {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Le d\u00e9bit binaire de l'audio est trop faible ({{ bitrate }} bps). Le d\u00e9bit binaire minimal attendu est de {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Le d\u00e9bit binaire de l'audio est trop \u00e9lev\u00e9 ({{ bitrate }} bps). Le d\u00e9bit binaire maximal autoris\u00e9 est de {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Le d\u00e9bit binaire de l'audio est trop \u00e9lev\u00e9 ({{ bitrate }} bps). Le d\u00e9bit binaire maximal autoris\u00e9 est de {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Le d\u00e9bit binaire de l'audio n'a pas pu \u00eatre d\u00e9tect\u00e9.",
-                    "state": "needs-review-translation"
+                    "trans": "Le d\u00e9bit binaire de l'audio n'a pas pu \u00eatre d\u00e9tect\u00e9."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "La fr\u00e9quence d'\u00e9chantillonnage audio ({{ sample_rate }} Hz) est non prise en charge.",
-                    "state": "needs-review-translation"
+                    "trans": "La fr\u00e9quence d'\u00e9chantillonnage audio ({{ sample_rate }} Hz) est non prise en charge."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "La fr\u00e9quence d'\u00e9chantillonnage de l'audio n'a pas pu \u00eatre d\u00e9tect\u00e9e.",
-                    "state": "needs-review-translation"
+                    "trans": "La fr\u00e9quence d'\u00e9chantillonnage de l'audio n'a pas pu \u00eatre d\u00e9tect\u00e9e."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "L'audio a trop peu de canaux ({{ channels }}). La quantit\u00e9 minimale attendue est de {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "L'audio a trop peu de canaux ({{ channels }}). La quantit\u00e9 minimale attendue est de {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "L'audio contient trop de canaux ({{ channels }}). La quantit\u00e9 maximale attendue est de {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "L'audio contient trop de canaux ({{ channels }}). La quantit\u00e9 maximale attendue est de {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Le nombre de canaux audio n'a pas pu \u00eatre d\u00e9tect\u00e9.",
-                    "state": "needs-review-translation"
+                    "trans": "Le nombre de canaux audio n'a pas pu \u00eatre d\u00e9tect\u00e9."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Le fichier audio est corrompu.",
-                    "state": "needs-review-translation"
+                    "trans": "Le fichier audio est corrompu."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "L'audio contient plusieurs flux. Un seul flux est autoris\u00e9.",
-                    "state": "needs-review-translation"
+                    "trans": "L'audio contient plusieurs flux. Un seul flux est autoris\u00e9."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Le codec audio \u00ab{{ codec }}\u00bb est non pris en charge.",
-                    "state": "needs-review-translation"
+                    "trans": "Le codec audio \u00ab{{ codec }}\u00bb est non pris en charge."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Le conteneur audio \u00ab{{ container }}\u00bb est non pris en charge.",
-                    "state": "needs-review-translation"
+                    "trans": "Le conteneur audio \u00ab{{ container }}\u00bb est non pris en charge."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Le fichier ne contient aucun flux audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Le fichier ne contient aucun flux audio."
                 }
             },
             "gl": {
@@ -28190,88 +28173,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Ova datoteka nije ispravna audiodatoteka.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova datoteka nije ispravna audiodatoteka."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Audiozapis je prekratak ({{ duration }} sekundi). Najmanje o\u010dekivano trajanje je {{ min_duration }} sekundi.",
-                    "state": "needs-review-translation"
+                    "trans": "Audiozapis je prekratak ({{ duration }} sekundi). Najmanje o\u010dekivano trajanje je {{ min_duration }} sekundi."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Audiozapis je preduga\u010dak ({{ duration }} sekundi). Najve\u0107e dopu\u0161teno trajanje je {{ max_duration }} sekundi.",
-                    "state": "needs-review-translation"
+                    "trans": "Audiozapis je preduga\u010dak ({{ duration }} sekundi). Najve\u0107e dopu\u0161teno trajanje je {{ max_duration }} sekundi."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Nije mogu\u0107e odrediti trajanje audiozapisa.",
-                    "state": "needs-review-translation"
+                    "trans": "Nije mogu\u0107e odrediti trajanje audiozapisa."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Bitrate audiozapisa je prenizak ({{ bitrate }} bps). Najmanji o\u010dekivani bitrate je {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitrate audiozapisa je prenizak ({{ bitrate }} bps). Najmanji o\u010dekivani bitrate je {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Bitrate audiozapisa je previsok ({{ bitrate }} bps). Najve\u0107i dopu\u0161teni bitrate je {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitrate audiozapisa je previsok ({{ bitrate }} bps). Najve\u0107i dopu\u0161teni bitrate je {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Nije mogu\u0107e odrediti bitrate audiozapisa.",
-                    "state": "needs-review-translation"
+                    "trans": "Nije mogu\u0107e odrediti bitrate audiozapisa."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Nepodr\u017eana audio frekvencija uzorkovanja ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017eana audio frekvencija uzorkovanja ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Nije mogu\u0107e odrediti frekvenciju uzorkovanja audiozapisa.",
-                    "state": "needs-review-translation"
+                    "trans": "Nije mogu\u0107e odrediti frekvenciju uzorkovanja audiozapisa."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Audiozapis ima premalo kanala ({{ channels }}). Najmanji o\u010dekivani broj kanala je {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audiozapis ima premalo kanala ({{ channels }}). Najmanji o\u010dekivani broj kanala je {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Audiozapis ima previ\u0161e kanala ({{ channels }}). Najve\u0107i o\u010dekivani broj kanala je {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audiozapis ima previ\u0161e kanala ({{ channels }}). Najve\u0107i o\u010dekivani broj kanala je {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Nije mogu\u0107e odrediti broj audiokanala.",
-                    "state": "needs-review-translation"
+                    "trans": "Nije mogu\u0107e odrediti broj audiokanala."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Audiodatoteka je o\u0161te\u0107ena.",
-                    "state": "needs-review-translation"
+                    "trans": "Audiodatoteka je o\u0161te\u0107ena."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Audiozapis sadr\u017ei vi\u0161e tokova. Dopu\u0161ten je samo jedan tok.",
-                    "state": "needs-review-translation"
+                    "trans": "Audiozapis sadr\u017ei vi\u0161e tokova. Dopu\u0161ten je samo jedan tok."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Nepodr\u017eani audio kodek \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017eani audio kodek \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Nepodr\u017eani audio spremnik \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodr\u017eani audio spremnik \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Datoteka ne sadr\u017ei audiotok.",
-                    "state": "needs-review-translation"
+                    "trans": "Datoteka ne sadr\u017ei audiotok."
                 }
             },
             "hu": {
