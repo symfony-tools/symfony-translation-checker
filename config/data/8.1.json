@@ -30151,88 +30151,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Berkas ini bukan berkas audio yang valid.",
-                    "state": "needs-review-translation"
+                    "trans": "Berkas ini bukan berkas audio yang valid."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Audio terlalu pendek ({{ duration }} detik). Durasi minimum yang diharapkan adalah {{ min_duration }} detik.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio terlalu pendek ({{ duration }} detik). Durasi minimum yang diharapkan adalah {{ min_duration }} detik."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Audio terlalu panjang ({{ duration }} detik). Durasi maksimum yang diizinkan adalah {{ max_duration }} detik.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio terlalu panjang ({{ duration }} detik). Durasi maksimum yang diizinkan adalah {{ max_duration }} detik."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Durasi audio tidak dapat dideteksi.",
-                    "state": "needs-review-translation"
+                    "trans": "Durasi audio tidak dapat dideteksi."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Bitrate audio terlalu rendah ({{ bitrate }} bps). Bitrate minimum yang diharapkan adalah {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitrate audio terlalu rendah ({{ bitrate }} bps). Bitrate minimum yang diharapkan adalah {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Bitrate audio terlalu tinggi ({{ bitrate }} bps). Bitrate maksimum yang diizinkan adalah {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitrate audio terlalu tinggi ({{ bitrate }} bps). Bitrate maksimum yang diizinkan adalah {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Bitrate audio tidak dapat dideteksi.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitrate audio tidak dapat dideteksi."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Laju sampel audio tidak didukung ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Laju sampel audio tidak didukung ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Laju sampel audio tidak dapat dideteksi.",
-                    "state": "needs-review-translation"
+                    "trans": "Laju sampel audio tidak dapat dideteksi."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Audio memiliki terlalu sedikit kanal ({{ channels }}). Jumlah minimum yang diharapkan adalah {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio memiliki terlalu sedikit saluran ({{ channels }}). Jumlah minimum yang diharapkan adalah {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Audio memiliki terlalu banyak kanal ({{ channels }}). Jumlah maksimum yang diharapkan adalah {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio memiliki terlalu banyak saluran ({{ channels }}). Jumlah maksimum yang diharapkan adalah {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Jumlah kanal audio tidak dapat dideteksi.",
-                    "state": "needs-review-translation"
+                    "trans": "Jumlah saluran audio tidak dapat dideteksi."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Berkas audio rusak.",
-                    "state": "needs-review-translation"
+                    "trans": "Berkas audio rusak."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Audio berisi beberapa aliran. Hanya satu aliran yang diizinkan.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio berisi beberapa aliran. Hanya satu aliran yang diizinkan."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Kodek audio tidak didukung \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Kodek audio tidak didukung \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Kontainer audio tidak didukung \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Kontainer audio tidak didukung \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Berkas tidak berisi aliran audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Berkas tidak berisi aliran audio."
                 }
             },
             "it": {
