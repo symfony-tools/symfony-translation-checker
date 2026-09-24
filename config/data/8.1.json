@@ -7770,13 +7770,11 @@
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Ange ett giltigt UUID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ange ett giltigt UUID."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Den undre gr\u00e4nsen f\u00e5r inte vara st\u00f6rre \u00e4n den \u00f6vre gr\u00e4nsen.",
-                    "state": "needs-review-translation"
+                    "trans": "Den nedre gr\u00e4nsen f\u00e5r inte vara st\u00f6rre \u00e4n den \u00f6vre gr\u00e4nsen."
                 }
             },
             "th": {
@@ -45412,31 +45410,31 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Det h\u00e4r v\u00e4rdet \u00e4r f\u00f6r kort. Det ska inneh\u00e5lla minst ett ord.|Det h\u00e4r v\u00e4rdet \u00e4r f\u00f6r kort. Det ska inneh\u00e5lla minst {{ min }} ord."
+                    "trans": "V\u00e4rdet \u00e4r f\u00f6r kort. Det ska inneh\u00e5lla minst ett ord.|Det h\u00e4r v\u00e4rdet \u00e4r f\u00f6r kort. Det ska inneh\u00e5lla minst {{ min }} ord."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Det h\u00e4r v\u00e4rdet \u00e4r f\u00f6r l\u00e5ngt. Det ska inneh\u00e5lla endast ett ord.|Det h\u00e4r v\u00e4rdet \u00e4r f\u00f6r l\u00e5ngt. Det ska inneh\u00e5lla {{ max }} ord eller f\u00e4rre."
+                    "trans": "V\u00e4rdet \u00e4r f\u00f6r l\u00e5ngt. Det ska inneh\u00e5lla endast ett ord.|Det h\u00e4r v\u00e4rdet \u00e4r f\u00f6r l\u00e5ngt. Det ska inneh\u00e5lla {{ max }} ord eller f\u00e4rre."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Det h\u00e4r v\u00e4rdet representerar inte en giltig vecka i ISO 8601-formatet."
+                    "trans": "V\u00e4rdet representerar inte en giltig vecka i ISO 8601-formatet."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Det h\u00e4r v\u00e4rdet \u00e4r inte en giltig vecka."
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig vecka."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Det h\u00e4r v\u00e4rdet b\u00f6r inte vara f\u00f6re vecka \"{{ min }}\"."
+                    "trans": "V\u00e4rdet b\u00f6r inte vara f\u00f6re vecka \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Det h\u00e4r v\u00e4rdet b\u00f6r inte vara efter vecka \"{{ max }}\"."
+                    "trans": "V\u00e4rdet b\u00f6r inte vara efter vecka \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Det h\u00e4r v\u00e4rdet \u00e4r inte en giltig Twig-mall."
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig Twig-mall."
                 },
                 "122": {
                     "id": "122",
@@ -45524,118 +45522,95 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Detta v\u00e4rde \u00e4r inte giltig XML.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rde \u00e4r inte giltig XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Detta v\u00e4rde \u00f6verensst\u00e4mmer inte med det f\u00f6rv\u00e4ntade XSD-schemat.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rde \u00f6verensst\u00e4mmer inte med det f\u00f6rv\u00e4ntade XSD-schemat."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Denna XML-nyttolast \u00e4r f\u00f6r stor ({{ size }} byte): den \u00f6verskrider gr\u00e4nsen p\u00e5 {{ limit }} byte.",
-                    "state": "needs-review-translation"
+                    "trans": "XML-nyttolast \u00e4r f\u00f6r stor ({{ size }} byte): det \u00f6verskrider gr\u00e4nsen p\u00e5 {{ limit }} byte."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Detta v\u00e4rde \u00e4r inte ett giltigt cron-uttryck.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rde \u00e4r inte ett giltigt cron-uttryck."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Den refererade entiteten finns inte.",
-                    "state": "needs-review-translation"
+                    "trans": "Den refererade entiteten finns inte."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "V\u00e4rdet \u00e4r inte en giltig ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig ULID."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Den h\u00e4r filen \u00e4r inte en giltig ljudfil.",
-                    "state": "needs-review-translation"
+                    "trans": "Filen \u00e4r inte en giltig ljudfil."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Ljudet \u00e4r f\u00f6r kort ({{ duration }} sekunder). F\u00f6rv\u00e4ntad minsta l\u00e4ngd \u00e4r {{ min_duration }} sekunder.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudet \u00e4r f\u00f6r kort ({{ duration }} sekunder). Minsta till\u00e5tna l\u00e4ngd \u00e4r {{ min_duration }} sekunder."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Ljudet \u00e4r f\u00f6r l\u00e5ngt ({{ duration }} sekunder). Till\u00e5ten maximal l\u00e4ngd \u00e4r {{ max_duration }} sekunder.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudet \u00e4r f\u00f6r l\u00e5ngt ({{ duration }} sekunder). H\u00f6gsta till\u00e5tna l\u00e4ngd \u00e4r {{ max_duration }} sekunder."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Ljudets l\u00e4ngd kunde inte uppt\u00e4ckas.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudets l\u00e4ngd kunde inte fastst\u00e4llas."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Ljudets bithastighet \u00e4r f\u00f6r l\u00e5g ({{ bitrate }} bps). F\u00f6rv\u00e4ntad minsta bithastighet \u00e4r {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudets bithastighet \u00e4r f\u00f6r l\u00e5g ({{ bitrate }} bps). Minsta till\u00e5tna bithastighet \u00e4r {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Ljudets bithastighet \u00e4r f\u00f6r h\u00f6g ({{ bitrate }} bps). Till\u00e5ten maximal bithastighet \u00e4r {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudets bithastighet \u00e4r f\u00f6r h\u00f6g ({{ bitrate }} bps). H\u00f6gsta till\u00e5tna bithastighet \u00e4r {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Ljudets bithastighet kunde inte uppt\u00e4ckas.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudets bithastighet kunde inte fastst\u00e4llas."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Samplingsfrekvensen f\u00f6r ljudet st\u00f6ds inte ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudets samplingsfrekvens st\u00f6ds inte ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Ljudets samplingsfrekvens kunde inte uppt\u00e4ckas.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudets samplingsfrekvens kunde inte fastst\u00e4llas."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Ljudet har f\u00f6r f\u00e5 kanaler ({{ channels }}). F\u00f6rv\u00e4ntat minsta antal \u00e4r {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudet har f\u00f6r f\u00e5 kanaler ({{ channels }}). Minsta till\u00e5tna antal \u00e4r {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Ljudet har f\u00f6r m\u00e5nga kanaler ({{ channels }}). F\u00f6rv\u00e4ntat maxantal \u00e4r {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudet har f\u00f6r m\u00e5nga kanaler ({{ channels }}). H\u00f6gsta till\u00e5tna antal \u00e4r {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Antalet ljudkanaler kunde inte uppt\u00e4ckas.",
-                    "state": "needs-review-translation"
+                    "trans": "Antalet ljudkanaler kunde inte fastst\u00e4llas."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Ljudfilen \u00e4r skadad.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudfilen \u00e4r skadad."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Ljudet inneh\u00e5ller flera str\u00f6mmar. Endast en str\u00f6m \u00e4r till\u00e5ten.",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudet inneh\u00e5ller flera str\u00f6mmar. Endast en str\u00f6m \u00e4r till\u00e5ten."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Ljudkodek st\u00f6ds inte \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudkodek \"{{ codec }}\" st\u00f6ds inte."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Ljudkontainer st\u00f6ds inte \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ljudkontainer \"{{ container }}\" st\u00f6ds inte."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Filen inneh\u00e5ller ingen ljudstr\u00f6m.",
-                    "state": "needs-review-translation"
+                    "trans": "Filen inneh\u00e5ller ingen ljudstr\u00f6m."
                 }
             },
             "th": {
