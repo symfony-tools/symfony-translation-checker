@@ -7213,7 +7213,7 @@
                 },
                 "29": {
                     "id": "29",
-                    "trans": "Skeda e ngarkuar ishte shum\u00eb e madhe. Ju lutemi provoni t\u00eb ngarkoni nj\u00eb sked\u00eb m\u00eb t\u00eb vog\u00ebl."
+                    "trans": "Skeda e ngarkuar ishte tep\u00ebr e madhe. Ju lutemi provoni t\u00eb ngarkoni nj\u00eb sked\u00eb m\u00eb t\u00eb vog\u00ebl."
                 },
                 "30": {
                     "id": "30",
@@ -7345,8 +7345,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Kufiri i posht\u00ebm nuk duhet t\u00eb jet\u00eb m\u00eb i madh se kufiri i sip\u00ebrm.",
-                    "state": "needs-review-translation"
+                    "trans": "Kufiri i posht\u00ebm nuk duhet t\u00eb jet\u00eb m\u00eb i madh se kufiri i sip\u00ebrm."
                 }
             },
             "sr_Cyrl": {
@@ -14789,88 +14788,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "\u0647\u0630\u0627 \u0627\u0644\u0645\u0644\u0641 \u063a\u064a\u0631 \u0635\u0627\u0644\u062d \u0643\u0645\u0644\u0641 \u0635\u0648\u062a\u064a.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0627 \u0627\u0644\u0645\u0644\u0641 \u063a\u064a\u0631 \u0635\u0627\u0644\u062d \u0643\u0645\u0644\u0641 \u0635\u0648\u062a\u064a."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "\u0627\u0644\u0645\u0642\u0637\u0639 \u0627\u0644\u0635\u0648\u062a\u064a \u0642\u0635\u064a\u0631 \u062c\u062f\u064b\u0627 ({{ duration }} \u062b\u0627\u0646\u064a\u0629). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u062f\u0646\u0649 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0644\u0644\u0645\u062f\u0629 \u0647\u0648 {{ min_duration }} \u062b\u0627\u0646\u064a\u0629.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u0644\u0645\u0642\u0637\u0639 \u0627\u0644\u0635\u0648\u062a\u064a \u0642\u0635\u064a\u0631 \u062c\u062f\u064b\u0627 ({{ duration }} \u062b\u0627\u0646\u064a\u0629). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u062f\u0646\u0649 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0644\u0644\u0645\u062f\u0629 \u0647\u0648 {{ min_duration }} \u062b\u0627\u0646\u064a\u0629."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "\u0627\u0644\u0645\u0642\u0637\u0639 \u0627\u0644\u0635\u0648\u062a\u064a \u0637\u0648\u064a\u0644 \u062c\u062f\u064b\u0627 ({{ duration }} \u062b\u0627\u0646\u064a\u0629). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u0642\u0635\u0649 \u0627\u0644\u0645\u0633\u0645\u0648\u062d \u0644\u0644\u0645\u062f\u0629 \u0647\u0648 {{ max_duration }} \u062b\u0627\u0646\u064a\u0629.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u0644\u0645\u0642\u0637\u0639 \u0627\u0644\u0635\u0648\u062a\u064a \u0637\u0648\u064a\u0644 \u062c\u062f\u064b\u0627 ({{ duration }} \u062b\u0627\u0646\u064a\u0629). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u0642\u0635\u0649 \u0627\u0644\u0645\u0633\u0645\u0648\u062d \u0644\u0644\u0645\u062f\u0629 \u0647\u0648 {{ max_duration }} \u062b\u0627\u0646\u064a\u0629."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "\u062a\u0639\u0630\u0651\u0631 \u062a\u062d\u062f\u064a\u062f \u0645\u062f\u0629 \u0627\u0644\u0645\u0642\u0637\u0639 \u0627\u0644\u0635\u0648\u062a\u064a.",
-                    "state": "needs-review-translation"
+                    "trans": "\u062a\u0639\u0630\u0651\u0631 \u062a\u062d\u062f\u064a\u062f \u0645\u062f\u0629 \u0627\u0644\u0645\u0642\u0637\u0639 \u0627\u0644\u0635\u0648\u062a\u064a."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "\u0645\u0639\u062f\u0644 \u0627\u0644\u0628\u062a \u0644\u0644\u0635\u0648\u062a \u0645\u0646\u062e\u0641\u0636 \u062c\u062f\u064b\u0627 ({{ bitrate }} bps). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u062f\u0646\u0649 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0647\u0648 {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0645\u0639\u062f\u0644 \u0627\u0644\u0628\u062a \u0644\u0644\u0635\u0648\u062a \u0645\u0646\u062e\u0641\u0636 \u062c\u062f\u064b\u0627 ({{ bitrate }} bps). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u062f\u0646\u0649 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0644\u0645\u0639\u062f\u0644 \u0627\u0644\u0628\u062a \u0647\u0648 {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "\u0645\u0639\u062f\u0644 \u0627\u0644\u0628\u062a \u0644\u0644\u0635\u0648\u062a \u0645\u0631\u062a\u0641\u0639 \u062c\u062f\u064b\u0627 ({{ bitrate }} bps). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u0642\u0635\u0649 \u0627\u0644\u0645\u0633\u0645\u0648\u062d \u0647\u0648 {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0645\u0639\u062f\u0644 \u0627\u0644\u0628\u062a \u0644\u0644\u0635\u0648\u062a \u0645\u0631\u062a\u0641\u0639 \u062c\u062f\u064b\u0627 ({{ bitrate }} bps). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u0642\u0635\u0649 \u0627\u0644\u0645\u0633\u0645\u0648\u062d \u0644\u0645\u0639\u062f\u0644 \u0627\u0644\u0628\u062a \u0647\u0648 {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "\u062a\u0639\u0630\u0651\u0631 \u062a\u062d\u062f\u064a\u062f \u0645\u0639\u062f\u0644 \u0627\u0644\u0628\u062a \u0644\u0644\u0635\u0648\u062a.",
-                    "state": "needs-review-translation"
+                    "trans": "\u062a\u0639\u0630\u0651\u0631 \u062a\u062d\u062f\u064a\u062f \u0645\u0639\u062f\u0644 \u0627\u0644\u0628\u062a \u0644\u0644\u0635\u0648\u062a."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "\u0645\u0639\u062f\u0644 \u0627\u0644\u0639\u064a\u0646\u0627\u062a \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u063a\u064a\u0631 \u0645\u062f\u0639\u0648\u0645 ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "\u0645\u0639\u062f\u0644 \u0627\u0644\u0639\u064a\u0646\u0627\u062a \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u063a\u064a\u0631 \u0645\u062f\u0639\u0648\u0645 ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "\u062a\u0639\u0630\u0651\u0631 \u062a\u062d\u062f\u064a\u062f \u0645\u0639\u062f\u0644 \u0627\u0644\u0639\u064a\u0646\u0627\u062a \u0627\u0644\u0635\u0648\u062a\u064a\u0629.",
-                    "state": "needs-review-translation"
+                    "trans": "\u062a\u0639\u0630\u0651\u0631 \u062a\u062d\u062f\u064a\u062f \u0645\u0639\u062f\u0644 \u0627\u0644\u0639\u064a\u0646\u0627\u062a \u0627\u0644\u0635\u0648\u062a\u064a\u0629."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "\u0639\u062f\u062f \u0642\u0646\u0648\u0627\u062a \u0627\u0644\u0635\u0648\u062a \u0642\u0644\u064a\u0644 \u062c\u062f\u064b\u0627 ({{ channels }}). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u062f\u0646\u0649 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0647\u0648 {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0639\u062f\u062f \u0642\u0646\u0648\u0627\u062a \u0627\u0644\u0635\u0648\u062a \u0642\u0644\u064a\u0644 \u062c\u062f\u064b\u0627 ({{ channels }}). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u062f\u0646\u0649 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0647\u0648 {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "\u0639\u062f\u062f \u0642\u0646\u0648\u0627\u062a \u0627\u0644\u0635\u0648\u062a \u0643\u0628\u064a\u0631 \u062c\u062f\u064b\u0627 ({{ channels }}). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u0642\u0635\u0649 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0647\u0648 {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0639\u062f\u062f \u0642\u0646\u0648\u0627\u062a \u0627\u0644\u0635\u0648\u062a \u0643\u0628\u064a\u0631 \u062c\u062f\u064b\u0627 ({{ channels }}). \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u0642\u0635\u0649 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0647\u0648 {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "\u062a\u0639\u0630\u0651\u0631 \u062a\u062d\u062f\u064a\u062f \u0639\u062f\u062f \u0642\u0646\u0648\u0627\u062a \u0627\u0644\u0635\u0648\u062a.",
-                    "state": "needs-review-translation"
+                    "trans": "\u062a\u0639\u0630\u0651\u0631 \u062a\u062d\u062f\u064a\u062f \u0639\u062f\u062f \u0642\u0646\u0648\u0627\u062a \u0627\u0644\u0635\u0648\u062a."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "\u0627\u0644\u0645\u0644\u0641 \u0627\u0644\u0635\u0648\u062a\u064a \u062a\u0627\u0644\u0641.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u0644\u0645\u0644\u0641 \u0627\u0644\u0635\u0648\u062a\u064a \u062a\u0627\u0644\u0641."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "\u0627\u0644\u0645\u0644\u0641 \u0627\u0644\u0635\u0648\u062a\u064a \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0639\u062f\u0629 \u0645\u0633\u0627\u0631\u0627\u062a. \u0645\u0633\u0645\u0648\u062d \u0628\u0645\u0633\u0627\u0631 \u0648\u0627\u062d\u062f \u0641\u0642\u0637.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u0644\u0645\u0642\u0637\u0639 \u0627\u0644\u0635\u0648\u062a\u064a \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0639\u062f\u0629 \u0645\u0633\u0627\u0631\u0627\u062a. \u064a\u064f\u0633\u0645\u062d \u0628\u0645\u0633\u0627\u0631 \u0648\u0627\u062d\u062f \u0641\u0642\u0637."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "\u062a\u0631\u0645\u064a\u0632 \u0627\u0644\u0635\u0648\u062a \u063a\u064a\u0631 \u0645\u062f\u0639\u0648\u0645 \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u062a\u0631\u0645\u064a\u0632 \u0627\u0644\u0635\u0648\u062a \"{{ codec }}\" \u063a\u064a\u0631 \u0645\u062f\u0639\u0648\u0645."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "\u0645\u0644\u0641 \u0627\u0644\u0635\u0648\u062a \u0628\u0635\u064a\u063a\u0629 \u063a\u064a\u0631 \u0645\u062f\u0639\u0648\u0645\u0629 \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u0635\u064a\u063a\u0629 \u0627\u0644\u0645\u0644\u0641 \u0627\u0644\u0635\u0648\u062a\u064a \"{{ container }}\" \u063a\u064a\u0631 \u0645\u062f\u0639\u0648\u0645\u0629."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "\u0627\u0644\u0645\u0644\u0641 \u0644\u0627 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0623\u064a \u0645\u0633\u0627\u0631 \u0635\u0648\u062a\u064a.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0627\u0644\u0645\u0644\u0641 \u0644\u0627 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0623\u064a \u0645\u0633\u0627\u0631 \u0635\u0648\u062a\u064a."
                 }
             },
             "az": {
@@ -42997,19 +42979,19 @@
                 },
                 "14": {
                     "id": "14",
-                    "trans": "Fajli nuk u gjet."
+                    "trans": "Skedari nuk u gjet."
                 },
                 "15": {
                     "id": "15",
-                    "trans": "Fajli nuk \u00ebsht\u00eb e lexueshme."
+                    "trans": "Skedari nuk \u00ebsht\u00eb i lexuesh\u00ebm."
                 },
                 "16": {
                     "id": "16",
-                    "trans": "Fajli \u00ebsht\u00eb shum\u00eb e madhe ({{ size }} {{ suffix }}). Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
+                    "trans": "Skedari \u00ebsht\u00eb tep\u00ebr i madh ({{ size }} {{ suffix }}). Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Lloji \u201cmime\u201d i fajlit \u00ebsht\u00eb i pavlefsh\u00ebm ({{ type }}). Llojet \u201cmime\u201d t\u00eb lejuara jan\u00eb {{ types }}."
+                    "trans": "Lloji \u201cmime\u201d i skedarit \u00ebsht\u00eb i pavlefsh\u00ebm ({{ type }}). Llojet \u201cmime\u201d t\u00eb lejuara jan\u00eb {{ types }}."
                 },
                 "18": {
                     "id": "18",
@@ -43017,7 +42999,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karakter ose m\u00eb pak.|Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karaktere ose m\u00eb pak."
+                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb tep\u00ebr e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karakter ose m\u00eb pak.|Kjo vler\u00eb \u00ebsht\u00eb tep\u00ebr e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karaktere ose m\u00eb pak."
                 },
                 "20": {
                     "id": "20",
@@ -43025,7 +43007,7 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karakter ose m\u00eb shum\u00eb.|Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karaktere ose m\u00eb shum\u00eb."
+                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb tep\u00ebr e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karakter ose m\u00eb shum\u00eb.|Kjo vler\u00eb \u00ebsht\u00eb tep\u00ebr e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ limit }} karaktere ose m\u00eb shum\u00eb."
                 },
                 "22": {
                     "id": "22",
@@ -43057,15 +43039,15 @@
                 },
                 "32": {
                     "id": "32",
-                    "trans": "Ky fajl \u00ebsht\u00eb shum\u00eb i madh\u00eb. Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
+                    "trans": "Ky skedar \u00ebsht\u00eb tep\u00ebr i madh. Madh\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ limit }} {{ suffix }}."
                 },
                 "33": {
                     "id": "33",
-                    "trans": "Ky fajl \u00ebsht\u00eb shum\u00eb i madh\u00eb."
+                    "trans": "Ky skedar \u00ebsht\u00eb tep\u00ebr i madh."
                 },
                 "34": {
                     "id": "34",
-                    "trans": "Ky fajl nuk mund t\u00eb ngarkohet."
+                    "trans": "Ky skedar nuk mund t\u00eb ngarkohet."
                 },
                 "35": {
                     "id": "35",
@@ -43073,7 +43055,7 @@
                 },
                 "36": {
                     "id": "36",
-                    "trans": "Ky fajl nuk \u00ebsht\u00eb nj\u00eb imazh i vlefsh\u00ebm."
+                    "trans": "Ky skedar nuk \u00ebsht\u00eb nj\u00eb imazh i vlefsh\u00ebm."
                 },
                 "37": {
                     "id": "37",
@@ -43101,19 +43083,19 @@
                 },
                 "43": {
                     "id": "43",
-                    "trans": "Gjer\u00ebsia e imazhit \u00ebsht\u00eb shum\u00eb e madhe ({{ width }}px). Gjer\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_width }}px."
+                    "trans": "Gjer\u00ebsia e imazhit \u00ebsht\u00eb tep\u00ebr e madhe ({{ width }}px). Gjer\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_width }}px."
                 },
                 "44": {
                     "id": "44",
-                    "trans": "Gjer\u00ebsia e imazhit \u00ebsht\u00eb shum\u00eb e vog\u00ebl ({{ width }}px). Gjer\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_width }}px."
+                    "trans": "Gjer\u00ebsia e imazhit \u00ebsht\u00eb tep\u00ebr e vog\u00ebl ({{ width }}px). Gjer\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_width }}px."
                 },
                 "45": {
                     "id": "45",
-                    "trans": "Gjat\u00ebsia e imazhit \u00ebsht\u00eb shum\u00eb e madhe ({{ height }}px). Gjat\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_height }}px."
+                    "trans": "Gjat\u00ebsia e imazhit \u00ebsht\u00eb tep\u00ebr e madhe ({{ height }}px). Gjat\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_height }}px."
                 },
                 "46": {
                     "id": "46",
-                    "trans": "Gjat\u00ebsia e imazhit \u00ebsht\u00eb shum\u00eb e vog\u00ebl ({{ height }}px). Gjat\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_height }}px."
+                    "trans": "Gjat\u00ebsia e imazhit \u00ebsht\u00eb tep\u00ebr e vog\u00ebl ({{ height }}px). Gjat\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_height }}px."
                 },
                 "47": {
                     "id": "47",
@@ -43125,11 +43107,11 @@
                 },
                 "49": {
                     "id": "49",
-                    "trans": "Ky fajl \u00ebsht\u00eb ngarkuar pjes\u00ebrisht."
+                    "trans": "Ky skedar \u00ebsht\u00eb ngarkuar pjes\u00ebrisht."
                 },
                 "50": {
                     "id": "50",
-                    "trans": "Nuk \u00ebsht\u00eb ngarkuar ndonj\u00eb fajl."
+                    "trans": "Nuk \u00ebsht\u00eb ngarkuar ndonj\u00eb skedar."
                 },
                 "51": {
                     "id": "51",
@@ -43137,7 +43119,7 @@
                 },
                 "52": {
                     "id": "52",
-                    "trans": "Nuk mund t\u00eb shkruhet fajli e p\u00ebrkohshme n\u00eb disk."
+                    "trans": "Nuk mund t\u00eb shkruhet skedari i p\u00ebrkohsh\u00ebm n\u00eb disk."
                 },
                 "53": {
                     "id": "53",
@@ -43221,11 +43203,11 @@
                 },
                 "73": {
                     "id": "73",
-                    "trans": "Raporti i imazhit \u00ebsht\u00eb shum\u00eb i madh ({{ ratio }}). Raporti maksimal i lejuar \u00ebsht\u00eb {{ max_ratio }}."
+                    "trans": "Raporti i imazhit \u00ebsht\u00eb tep\u00ebr i madh ({{ ratio }}). Raporti maksimal i lejuar \u00ebsht\u00eb {{ max_ratio }}."
                 },
                 "74": {
                     "id": "74",
-                    "trans": "Raporti i imazhit \u00ebsht\u00eb shum\u00eb i vog\u00ebl ({{ ratio }}). Raporti minimal pritet t\u00eb jet\u00eb {{ min_ratio }}."
+                    "trans": "Raporti i imazhit \u00ebsht\u00eb tep\u00ebr i vog\u00ebl ({{ ratio }}). Raporti minimal pritet t\u00eb jet\u00eb {{ min_ratio }}."
                 },
                 "75": {
                     "id": "75",
@@ -43241,7 +43223,7 @@
                 },
                 "78": {
                     "id": "78",
-                    "trans": "Nj\u00eb fajl i zbraz\u00ebt nuk lejohet."
+                    "trans": "Nj\u00eb skedar i zbraz\u00ebt nuk lejohet."
                 },
                 "79": {
                     "id": "79",
@@ -43345,11 +43327,11 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Emri i fajlit \u00ebsht\u00eb shum\u00eb i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karakter ose m\u00eb pak.|Emri i fajlit \u00ebsht\u00eb shum\u00eb i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karaktere ose m\u00eb pak."
+                    "trans": "Emri i skedarit \u00ebsht\u00eb tep\u00ebr i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karakter ose m\u00eb pak.|Emri i skedarit \u00ebsht\u00eb tep\u00ebr i gjat\u00eb. Duhet t\u00eb ket\u00eb maksimumi {{ filename_max_length }} karaktere ose m\u00eb pak."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "Fuqia e fjal\u00ebkalimit \u00ebsht\u00eb shum\u00eb e ul\u00ebt. Ju lutemi p\u00ebrdorni nj\u00eb fjal\u00ebkalim m\u00eb t\u00eb fort\u00eb."
+                    "trans": "Fuqia e fjal\u00ebkalimit \u00ebsht\u00eb tep\u00ebr e ul\u00ebt. Ju lutemi p\u00ebrdorni nj\u00eb fjal\u00ebkalim m\u00eb t\u00eb fort\u00eb."
                 },
                 "106": {
                     "id": "106",
@@ -43369,7 +43351,7 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Shtesa e fajlit \u00ebsht\u00eb e pavlefshme ({{ extension }}). Shtesat e lejuara jan\u00eb {{ extensions }}."
+                    "trans": "Shtesa e skedarit \u00ebsht\u00eb e pavlefshme ({{ extension }}). Shtesat e lejuara jan\u00eb {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
@@ -43385,11 +43367,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb t\u00eb pakt\u00ebn nj\u00eb fjal\u00eb.|Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb t\u00eb pakt\u00ebn {{ min }} fjal\u00eb."
+                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb tep\u00ebr e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb t\u00eb pakt\u00ebn nj\u00eb fjal\u00eb.|Kjo vler\u00eb \u00ebsht\u00eb tep\u00ebr e shkurt\u00ebr. Duhet t\u00eb p\u00ebrmbaj\u00eb t\u00eb pakt\u00ebn {{ min }} fjal\u00eb."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb nj\u00eb fjal\u00eb.|Kjo vler\u00eb \u00ebsht\u00eb shum\u00eb e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ max }} fjal\u00eb ose m\u00eb pak."
+                    "trans": "Kjo vler\u00eb \u00ebsht\u00eb tep\u00ebr e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb nj\u00eb fjal\u00eb.|Kjo vler\u00eb \u00ebsht\u00eb tep\u00ebr e gjat\u00eb. Duhet t\u00eb p\u00ebrmbaj\u00eb {{ max }} fjal\u00eb ose m\u00eb pak."
                 },
                 "116": {
                     "id": "116",
@@ -43413,7 +43395,7 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ky fajl nuk \u00ebsht\u00eb video e vlefshme."
+                    "trans": "Ky skedar nuk \u00ebsht\u00eb video e vlefshme."
                 },
                 "123": {
                     "id": "123",
@@ -43421,23 +43403,23 @@
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Gjer\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e madhe ({{ width }}px). Gjer\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_width }}px."
+                    "trans": "Gjer\u00ebsia e videos \u00ebsht\u00eb tep\u00ebr e madhe ({{ width }}px). Gjer\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Gjer\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e vog\u00ebl ({{ width }}px). Gjer\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_width }}px."
+                    "trans": "Gjer\u00ebsia e videos \u00ebsht\u00eb tep\u00ebr e vog\u00ebl ({{ width }}px). Gjer\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Lart\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e madhe ({{ height }}px). Lart\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_height }}px."
+                    "trans": "Lart\u00ebsia e videos \u00ebsht\u00eb tep\u00ebr e madhe ({{ height }}px). Lart\u00ebsia maksimale e lejuar \u00ebsht\u00eb {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Lart\u00ebsia e videos \u00ebsht\u00eb shum\u00eb e vog\u00ebl ({{ height }}px). Lart\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_height }}px."
+                    "trans": "Lart\u00ebsia e videos \u00ebsht\u00eb tep\u00ebr e vog\u00ebl ({{ height }}px). Lart\u00ebsia minimale e pritur \u00ebsht\u00eb {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Video ka shum\u00eb pak piksel\u00eb ({{ pixels }}). Sasia minimale e pritur \u00ebsht\u00eb {{ min_pixels }}px."
+                    "trans": "Video ka tep\u00ebr pak piksel\u00eb ({{ pixels }}). Sasia minimale e pritur \u00ebsht\u00eb {{ min_pixels }}px."
                 },
                 "129": {
                     "id": "129",
@@ -43445,11 +43427,11 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Raporti i videos \u00ebsht\u00eb shum\u00eb i madh ({{ ratio }}). Raporti maksimal i lejuar \u00ebsht\u00eb {{ max_ratio }}."
+                    "trans": "Raporti i videos \u00ebsht\u00eb tep\u00ebr i madh ({{ ratio }}). Raporti maksimal i lejuar \u00ebsht\u00eb {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Raporti i videos \u00ebsht\u00eb shum\u00eb i vog\u00ebl ({{ ratio }}). Raporti minimal i pritur \u00ebsht\u00eb {{ min_ratio }}."
+                    "trans": "Raporti i videos \u00ebsht\u00eb tep\u00ebr i vog\u00ebl ({{ ratio }}). Raporti minimal i pritur \u00ebsht\u00eb {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
@@ -43465,7 +43447,7 @@
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Fajli i videos \u00ebsht\u00eb i korruptuar."
+                    "trans": "Skedari i videos \u00ebsht\u00eb i korruptuar."
                 },
                 "136": {
                     "id": "136",
@@ -43481,19 +43463,19 @@
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Fajli i imazhit \u00ebsht\u00eb korruptuar."
+                    "trans": "Skedari i imazhit \u00ebsht\u00eb i korruptuar."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Imazhi ka shum\u00eb pak piksel\u00eb ({{ pixels }}). Sasia minimale e pritur \u00ebsht\u00eb {{ min_pixels }}px."
+                    "trans": "Imazhi ka tep\u00ebr pak piksel\u00eb ({{ pixels }}). Sasia minimale e pritur \u00ebsht\u00eb {{ min_pixels }}px."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Imazhi ka shum\u00eb piksel\u00eb ({{ pixels }}). Shuma maksimale e pritur \u00ebsht\u00eb {{ max_pixels }}px."
+                    "trans": "Imazhi ka tep\u00ebr piksel\u00eb ({{ pixels }}). Shuma maksimale e pritur \u00ebsht\u00eb {{ max_pixels }}px."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Ky em\u00ebr fajlit nuk p\u00ebrputhet me grupin e pritur t\u00eb karaktereve."
+                    "trans": "Ky em\u00ebr skedari nuk p\u00ebrputhet me grupin e pritur t\u00eb karaktereve."
                 },
                 "143": {
                     "id": "143",
@@ -43505,7 +43487,7 @@
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Kjo ngarkes\u00eb XML \u00ebsht\u00eb shum\u00eb e madhe ({{ size }} bajt): tejkalon kufirin prej {{ limit }} bajt."
+                    "trans": "Kjo ngarkes\u00eb XML \u00ebsht\u00eb tep\u00ebr e madhe ({{ size }} bajt): tejkalon kufirin prej {{ limit }} bajt."
                 },
                 "146": {
                     "id": "146",
@@ -43521,88 +43503,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Ky fajl nuk \u00ebsht\u00eb fajl audio i vlefsh\u00ebm.",
-                    "state": "needs-review-translation"
+                    "trans": "Ky nuk \u00ebsht\u00eb nj\u00eb skedar i vlefsh\u00ebm audio."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Audioja \u00ebsht\u00eb shum\u00eb e shkurt\u00ebr ({{ duration }} sekonda). Koh\u00ebzgjatja minimale e pritur \u00ebsht\u00eb {{ min_duration }} sekonda.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioja \u00ebsht\u00eb tep\u00ebr e shkurt\u00ebr ({{ duration }} sekonda). Koh\u00ebzgjatja minimale e pritur \u00ebsht\u00eb {{ min_duration }} sekonda."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Audioja \u00ebsht\u00eb shum\u00eb e gjat\u00eb ({{ duration }} sekonda). Koh\u00ebzgjatja maksimale e lejuar \u00ebsht\u00eb {{ max_duration }} sekonda.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioja \u00ebsht\u00eb tep\u00ebr e gjat\u00eb ({{ duration }} sekonda). Koh\u00ebzgjatja maksimale e lejuar \u00ebsht\u00eb {{ max_duration }} sekonda."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Koh\u00ebzgjatja e audios nuk mund t\u00eb zbulohej.",
-                    "state": "needs-review-translation"
+                    "trans": "Koh\u00ebzgjatja e audios nuk mund t\u00eb p\u00ebrcaktohej."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Bitrate-i i audios \u00ebsht\u00eb shum\u00eb i ul\u00ebt ({{ bitrate }} bps). Bitrate-i minimal i pritur \u00ebsht\u00eb {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitrate-i i audios \u00ebsht\u00eb tep\u00ebr i ul\u00ebt ({{ bitrate }} bps). Bitrate-i minimal i pritur \u00ebsht\u00eb {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Bitrate-i i audios \u00ebsht\u00eb shum\u00eb i lart\u00eb ({{ bitrate }} bps). Bitrate-i maksimal i lejuar \u00ebsht\u00eb {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitrate-i i audios \u00ebsht\u00eb tep\u00ebr i lart\u00eb ({{ bitrate }} bps). Bitrate-i maksimal i lejuar \u00ebsht\u00eb {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Bitrate-i i audios nuk mund t\u00eb zbulohej.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitrate-i i audios nuk mund t\u00eb p\u00ebrcaktohej."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Shkall\u00eb e kampionimit audio e pamb\u00ebshtetur ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Shkall\u00eb e kampionimit t\u00eb audios nuk mb\u00ebshtetet ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Shkalla e kampionimit e audios nuk mund t\u00eb zbulohej.",
-                    "state": "needs-review-translation"
+                    "trans": "Shkalla e kampionimit t\u00eb audios nuk mund t\u00eb p\u00ebrcaktohej."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Audioja ka shum\u00eb pak kanale ({{ channels }}). Sasia minimale e pritur \u00ebsht\u00eb {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio ka shum\u00eb pak kanale ({{ channels }}). Sasia minimale e pritur \u00ebsht\u00eb {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Audioja ka tep\u00ebr kanale ({{ channels }}). Sasia maksimale e pritur \u00ebsht\u00eb {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio ka tep\u00ebr kanale ({{ channels }}). Sasia maksimale e pritur \u00ebsht\u00eb {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Numri i kanaleve audio nuk mund t\u00eb zbulohej.",
-                    "state": "needs-review-translation"
+                    "trans": "Numri i kanaleve audio nuk mund t\u00eb p\u00ebrcaktohej."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Fajli i audios \u00ebsht\u00eb i korruptuar.",
-                    "state": "needs-review-translation"
+                    "trans": "Skedari i audios \u00ebsht\u00eb i d\u00ebmtuar."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Audioja p\u00ebrmban disa rrjedha. Lejohet vet\u00ebm nj\u00eb rrjedh\u00eb.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio p\u00ebrmban rryma (streams) t\u00eb shum\u00ebfishta. Vet\u00ebm nj\u00eb rrym\u00eb \u00ebsht\u00eb e lejuar."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Kodeku i audios \u00ebsht\u00eb i pamb\u00ebshtetur \u201e{{ codec }}\u201c.",
-                    "state": "needs-review-translation"
+                    "trans": "Kodek i pamb\u00ebshtetur i audios \u201e{{ codec }}\u201c."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Kontejneri i audios \u00ebsht\u00eb i pamb\u00ebshtetur \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Kontejner i pamb\u00ebshtetur i audios \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Fajli nuk p\u00ebrmban asnj\u00eb rrjedh\u00eb audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Skedari nuk p\u00ebrmban asnj\u00eb rrym\u00eb audio."
                 }
             },
             "sr_Cyrl": {
