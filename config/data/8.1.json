@@ -5817,7 +5817,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Kies een geldig tijdinterval."
+                    "trans": "Kies een geldig tijdsinterval."
                 },
                 "107": {
                     "id": "107",
@@ -5913,8 +5913,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "De ondergrens mag niet groter zijn dan de bovengrens.",
-                    "state": "needs-review-translation"
+                    "trans": "De ondergrens mag niet groter zijn dan de bovengrens."
                 }
             },
             "nn": {
@@ -36838,88 +36837,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Dit bestand is geen geldig audiobestand.",
-                    "state": "needs-review-translation"
+                    "trans": "Dit bestand is geen geldig audiobestand."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "De audio is te kort ({{ duration }} seconden). Verwachte minimumduur is {{ min_duration }} seconden.",
-                    "state": "needs-review-translation"
+                    "trans": "De audio is te kort ({{ duration }} seconden). Verwachte duur is minimaal {{ min_duration }} seconden."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "De audio is te lang ({{ duration }} seconden). Toegestane maximale duur is {{ max_duration }} seconden.",
-                    "state": "needs-review-translation"
+                    "trans": "De audio is te lang ({{ duration }} seconden). Toegestane duur is maximaal {{ max_duration }} seconden."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "De duur van de audio kon niet worden gedetecteerd.",
-                    "state": "needs-review-translation"
+                    "trans": "De duur van de audio kon niet worden gedetecteerd."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "De bitrate van de audio is te laag ({{ bitrate }} bps). Verwachte minimumbitrate is {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "De bitrate van de audio is te laag ({{ bitrate }} bps). Verwachte bitrate is minimaal {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "De bitrate van de audio is te hoog ({{ bitrate }} bps). Toegestane maximale bitrate is {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "De bitrate van de audio is te hoog ({{ bitrate }} bps). Toegestane bitrate is maximaal {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "De bitrate van de audio kon niet worden gedetecteerd.",
-                    "state": "needs-review-translation"
+                    "trans": "De bitrate van de audio kon niet worden gedetecteerd."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Niet-ondersteunde samplerate voor audio ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Niet ondersteunde samplefrequentie voor audio ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "De samplerate van de audio kon niet worden gedetecteerd.",
-                    "state": "needs-review-translation"
+                    "trans": "De samplefrequentie van de audio kon niet worden gedetecteerd."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "De audio heeft te weinig kanalen ({{ channels }}). Verwachte minimumaantal is {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "De audio heeft te weinig kanalen ({{ channels }}). Verwachte minimumaantal is {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "De audio heeft te veel kanalen ({{ channels }}). Het verwachte maximum is {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "De audio heeft te veel kanalen ({{ channels }}). Het verwachte maximumaantal is {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Het aantal audiokanalen kon niet worden gedetecteerd.",
-                    "state": "needs-review-translation"
+                    "trans": "Het aantal audiokanalen kon niet worden gedetecteerd."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Het audiobestand is beschadigd.",
-                    "state": "needs-review-translation"
+                    "trans": "Het audiobestand is beschadigd."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "De audio bevat meerdere streams. Slechts \u00e9\u00e9n stream is toegestaan.",
-                    "state": "needs-review-translation"
+                    "trans": "De audio bevat meerdere streams. Slechts \u00e9\u00e9n stream is toegestaan."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Niet-ondersteunde audiocodec \u2018{{ codec }}\u2019.",
-                    "state": "needs-review-translation"
+                    "trans": "Niet ondersteunde audio codec \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Niet-ondersteunde audiocontainer \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Niet ondersteunde audio container \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Het bestand bevat geen audiostream.",
-                    "state": "needs-review-translation"
+                    "trans": "Het bestand bevat geen audiostream."
                 }
             },
             "nn": {
