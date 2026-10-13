@@ -8050,8 +8050,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Ang mababang hangganan ay hindi dapat mas malaki kaysa sa mataas na hangganan.",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi dapat mas malaki ang ibabang hangganan kaysa sa itaas na hangganan."
                 }
             },
             "tr": {
@@ -46126,7 +46125,7 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "Ang larangang ito ay hindi inaasahan."
+                    "trans": "Ang patlang na ito ay hindi inaasahan."
                 },
                 "10": {
                     "id": "10",
@@ -46154,11 +46153,11 @@
                 },
                 "16": {
                     "id": "16",
-                    "trans": "Ang file na ito ay masyadong malaki ({{ size }} {{ suffix }}). Ang pinakamalaking sukat {{ limit }} {{ suffix }}."
+                    "trans": "Ang file na ito ay masyadong malaki ({{ size }} {{ suffix }}). Ang pinakamalaking sukat ay {{ limit }} {{ suffix }}."
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Ang uri ng file ng mime ay hindi balido ({{ type }}). Ang mga pinapayagang uri ng mime ay ang  {{ types }}."
+                    "trans": "Ang uri ng file ng mime ay hindi balido ({{ type }}). Ang mga pinapayagang uri ng mime ay ang {{ types }}."
                 },
                 "18": {
                     "id": "18",
@@ -46178,11 +46177,11 @@
                 },
                 "22": {
                     "id": "22",
-                    "trans": "Ang halaga na ito ay dapat na may laman."
+                    "trans": "Ang halagang ito ay dapat na may laman."
                 },
                 "23": {
                     "id": "23",
-                    "trans": "Meron dapt itong halaga."
+                    "trans": "Meron dapat itong halaga."
                 },
                 "24": {
                     "id": "24",
@@ -46202,7 +46201,7 @@
                 },
                 "31": {
                     "id": "31",
-                    "trans": "Ang dalwang halaga ay dapat magkapareha."
+                    "trans": "Ang dalawang halaga ay dapat magkapareha."
                 },
                 "32": {
                     "id": "32",
@@ -46218,7 +46217,7 @@
                 },
                 "35": {
                     "id": "35",
-                    "trans": "Ang halaga nito ay dapat na wastong numero."
+                    "trans": "Ang halagang ito ay dapat na wastong numero."
                 },
                 "36": {
                     "id": "36",
@@ -46226,23 +46225,23 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Ang halagang ito ay hindi isang wastong IP address."
+                    "trans": "Ang halagang ito ay hindi wastong IP address."
                 },
                 "38": {
                     "id": "38",
-                    "trans": "Ang halaga na ito ay hindi balidong wika."
+                    "trans": "Ang halagang ito ay hindi balidong wika."
                 },
                 "39": {
                     "id": "39",
-                    "trans": "Ito ay isang hindi wastong locale na halaga."
+                    "trans": "Ang halagang ito ay hindi wastong locale."
                 },
                 "40": {
                     "id": "40",
-                    "trans": "ng halaga na ito ay hindi wastong bansa."
+                    "trans": "Ang halagang ito ay hindi wastong bansa."
                 },
                 "41": {
                     "id": "41",
-                    "trans": "Ang halaga na ito ay ginamit na."
+                    "trans": "Ang halagang ito ay ginamit na."
                 },
                 "42": {
                     "id": "42",
@@ -46250,7 +46249,7 @@
                 },
                 "43": {
                     "id": "43",
-                    "trans": "Ang lapad ng imahe ay masyadong malaki ({{ width }}px). Ang pinapayagang lapay ay {{ max_width }}px."
+                    "trans": "Ang lapad ng imahe ay masyadong malaki ({{ width }}px). Ang pinapayagang lapad ay {{ max_width }}px."
                 },
                 "44": {
                     "id": "44",
@@ -46258,7 +46257,7 @@
                 },
                 "45": {
                     "id": "45",
-                    "trans": "Ang haba ng imahe ay masyadong mataas ({{ height }}px). Ang pinakmataas na haba ay {{ max_height }}px."
+                    "trans": "Ang haba ng imahe ay masyadong mataas ({{ height }}px). Ang pinakamataas na haba ay {{ max_height }}px."
                 },
                 "46": {
                     "id": "46",
@@ -46274,7 +46273,7 @@
                 },
                 "49": {
                     "id": "49",
-                    "trans": "Ang file na ito ay kahalating na upload lamang."
+                    "trans": "Ang file na ito ay kalahating na upload lamang."
                 },
                 "50": {
                     "id": "50",
@@ -46286,7 +46285,7 @@
                 },
                 "52": {
                     "id": "52",
-                    "trans": "Temporaryong hindi  makasulat ng file sa disk."
+                    "trans": "Temporaryong hindi makasulat ng file sa disk."
                 },
                 "53": {
                     "id": "53",
@@ -46318,7 +46317,7 @@
                 },
                 "60": {
                     "id": "60",
-                    "trans": "Ang halagang ito ay hindi balidong SBN-10."
+                    "trans": "Ang halagang ito ay hindi balidong ISBN-10."
                 },
                 "61": {
                     "id": "61",
@@ -46330,7 +46329,7 @@
                 },
                 "63": {
                     "id": "63",
-                    "trans": "Ang halangang ito ay hindi isang balidong ISSN."
+                    "trans": "Ang halagang ito ay hindi isang balidong ISSN."
                 },
                 "64": {
                     "id": "64",
@@ -46342,7 +46341,7 @@
                 },
                 "66": {
                     "id": "66",
-                    "trans": "Ang halagang ito ay dapat tataas sa {{ compared_value }}."
+                    "trans": "Ang halagang ito ay dapat mas mataas sa {{ compared_value }}."
                 },
                 "67": {
                     "id": "67",
@@ -46382,11 +46381,11 @@
                 },
                 "76": {
                     "id": "76",
-                    "trans": "Ang orientasyon ng imahe ay nakalandscape ({{ width }}x{{ height }}px). Ang mga imaheng nakalandscape ang orientasyon ay hindi pwede."
+                    "trans": "Ang oryentasyon ng imahe ay nakalandscape ({{ width }}x{{ height }}px). Ang mga imaheng nakalandscape ang oryentasyon ay hindi pwede."
                 },
                 "77": {
                     "id": "77",
-                    "trans": "Ang orientasyon ng imahe ay nakaportrait ({{ width }}x{{ height }}px). Ang mga imaheng nakaportrait ang orientasyon ay hindi pwede."
+                    "trans": "Ang oryentasyon ng imahe ay nakaportrait ({{ width }}x{{ height }}px). Ang mga imaheng nakaportrait ang oryentasyon ay hindi pwede."
                 },
                 "78": {
                     "id": "78",
@@ -46662,98 +46661,79 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Ang tinutukoy na entidad ay hindi umiiral.",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi umiiral ang tinutukoy na entidad."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Ang halagang ito ay hindi isang wastong ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang halagang ito ay hindi wastong ULID."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Ang file na ito ay hindi wastong audio file.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang file na ito ay hindi wastong audio file."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Masyadong maikli ang audio ({{ duration }} segundo). Ang inaasahang pinakamababang tagal ay {{ min_duration }} segundo.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong maikli ang audio ({{ duration }} segundo). Ang inaasahang pinakamababang tagal ay {{ min_duration }} segundo."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Masyadong mahaba ang audio ({{ duration }} segundo). Ang pinakamahabang pinapayagang tagal ay {{ max_duration }} segundo.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong mahaba ang audio ({{ duration }} segundo). Ang pinapayagang pinakamahabang tagal ay {{ max_duration }} segundo."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Hindi matukoy ang tagal ng audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi matukoy ang tagal ng audio."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Masyadong mababa ang bitrate ng audio ({{ bitrate }} bps). Ang inaasahang pinakamababang bitrate ay {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong mababa ang bitrate ng audio ({{ bitrate }} bps). Ang inaasahang pinakamababang bitrate ay {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Masyadong mataas ang bitrate ng audio ({{ bitrate }} bps). Ang pinakamataas na pinapayagang bitrate ay {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong mataas ang bitrate ng audio ({{ bitrate }} bps). Ang pinapayagang pinakamataas na bitrate ay {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Hindi matukoy ang bitrate ng audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi matukoy ang bitrate ng audio."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Hindi suportadong sample rate ng audio ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi suportado ang audio sample rate ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Hindi matukoy ang sample rate ng audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi matukoy ang audio sample rate."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Masyadong kakaunti ang mga channel ng audio ({{ channels }}). Ang inaasahang pinakamababang bilang ay {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong kakaunti ang mga channel ng audio ({{ channels }}). Ang inaasahang pinakamababang bilang ay {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Masyadong marami ang mga channel ng audio ({{ channels }}). Ang inaasahang pinakamataas na bilang ay {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Masyadong marami ang mga channel ng audio ({{ channels }}). Ang inaasahang pinakamataas na bilang ay {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Hindi matukoy ang bilang ng mga audio channel.",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi matukoy ang bilang ng mga audio channel."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Sira ang audio file.",
-                    "state": "needs-review-translation"
+                    "trans": "Sira ang audio file."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Maraming stream ang audio. Iisang stream lamang ang pinapayagan.",
-                    "state": "needs-review-translation"
+                    "trans": "Maraming stream ang audio. Iisang stream lamang ang pinapayagan."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Hindi suportadong audio codec \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi suportadong audio codec \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Hindi suportadong audio container \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Hindi suportadong audio container \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Walang audio stream ang file.",
-                    "state": "needs-review-translation"
+                    "trans": "Ang file ay walang laman na audio stream."
                 }
             },
             "tr": {
