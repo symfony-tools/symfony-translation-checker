@@ -30691,88 +30691,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Questo file non \u00e8 un file audio valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo file non \u00e8 un file audio valido."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "L'audio \u00e8 troppo corto ({{ duration }} secondi). La durata minima prevista \u00e8 {{ min_duration }} secondi.",
-                    "state": "needs-review-translation"
+                    "trans": "L'audio \u00e8 troppo corto ({{ duration }} secondi). La durata minima prevista \u00e8 {{ min_duration }} secondi."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "L'audio \u00e8 troppo lungo ({{ duration }} secondi). La durata massima consentita \u00e8 {{ max_duration }} secondi.",
-                    "state": "needs-review-translation"
+                    "trans": "L'audio \u00e8 troppo lungo ({{ duration }} secondi). La durata massima consentita \u00e8 {{ max_duration }} secondi."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Non \u00e8 stato possibile rilevare la durata dell'audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Non \u00e8 stato possibile rilevare la durata dell'audio."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Il bitrate dell'audio \u00e8 troppo basso ({{ bitrate }} bps). Il bitrate minimo previsto \u00e8 {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Il bitrate dell'audio \u00e8 troppo basso ({{ bitrate }} bps). Il bitrate minimo previsto \u00e8 {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Il bitrate dell'audio \u00e8 troppo alto ({{ bitrate }} bps). Il bitrate massimo consentito \u00e8 {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Il bitrate dell'audio \u00e8 troppo alto ({{ bitrate }} bps). Il bitrate massimo consentito \u00e8 {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Non \u00e8 stato possibile rilevare il bitrate dell'audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Non \u00e8 stato possibile rilevare il bitrate dell'audio."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Frequenza di campionamento audio non supportata ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Frequenza di campionamento audio non supportata ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Non \u00e8 stato possibile rilevare la frequenza di campionamento dell'audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Non \u00e8 stato possibile rilevare la frequenza di campionamento dell'audio."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "L'audio ha troppo pochi canali ({{ channels }}). La quantit\u00e0 minima prevista \u00e8 {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "L'audio ha troppo pochi canali ({{ channels }}). La quantit\u00e0 minima prevista \u00e8 {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "L'audio ha troppi canali ({{ channels }}). La quantit\u00e0 massima prevista \u00e8 {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "L'audio ha troppi canali ({{ channels }}). La quantit\u00e0 massima prevista \u00e8 {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Non \u00e8 stato possibile rilevare il numero di canali audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Non \u00e8 stato possibile rilevare il numero di canali audio."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Il file audio \u00e8 danneggiato.",
-                    "state": "needs-review-translation"
+                    "trans": "Il file audio \u00e8 danneggiato."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "L'audio contiene pi\u00f9 flussi. \u00c8 consentito un solo flusso.",
-                    "state": "needs-review-translation"
+                    "trans": "L'audio contiene pi\u00f9 flussi. \u00c8 consentito un solo flusso."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Codec audio non supportato \u00ab{{ codec }}\u00bb.",
-                    "state": "needs-review-translation"
+                    "trans": "Codec audio non supportato \u00ab{{ codec }}\u00bb."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Container audio non supportato \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Container audio non supportato \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Il file non contiene alcun flusso audio.",
-                    "state": "needs-review-translation"
+                    "trans": "Il file non contiene alcun flusso audio."
                 }
             },
             "ja": {
