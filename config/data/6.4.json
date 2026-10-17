@@ -6344,15 +6344,15 @@
             "pt": {
                 "28": {
                     "id": "28",
-                    "trans": "Este formul\u00e1rio n\u00e3o deveria possuir mais campos."
+                    "trans": "Este formul\u00e1rio n\u00e3o deve conter campos adicionais."
                 },
                 "29": {
                     "id": "29",
-                    "trans": "O ficheiro enviado \u00e9 muito grande. Por favor, tente enviar um ficheiro menor."
+                    "trans": "O ficheiro carregado \u00e9 demasiado grande. Tente carregar um ficheiro mais pequeno."
                 },
                 "30": {
                     "id": "30",
-                    "trans": "O token CSRF est\u00e1 inv\u00e1lido. Por favor, tente enviar o formul\u00e1rio novamente."
+                    "trans": "O token CSRF \u00e9 inv\u00e1lido. Tente submeter novamente o formul\u00e1rio."
                 },
                 "99": {
                     "id": "99",
@@ -6360,7 +6360,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Por favor, informe uma data de nascimento v\u00e1lida."
+                    "trans": "Por favor, introduza uma data de nascimento v\u00e1lida."
                 },
                 "101": {
                     "id": "101",
@@ -6388,7 +6388,7 @@
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Por favor, informe uma data e hor\u00e1rio v\u00e1lidos."
+                    "trans": "Por favor, introduza uma data e uma hora v\u00e1lidas."
                 },
                 "108": {
                     "id": "108",
@@ -6404,11 +6404,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Por favor, informe um inteiro."
+                    "trans": "Por favor, introduza um n\u00famero inteiro."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Por favor selecione um idioma v\u00e1lido."
+                    "trans": "Por favor, selecione um idioma v\u00e1lido."
                 },
                 "113": {
                     "id": "113",
@@ -6448,19 +6448,19 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Por favor, informe um termo de busca v\u00e1lido."
+                    "trans": "Por favor, Introduza um termo de pesquisa v\u00e1lido."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Por favor, infome um n\u00famero de telefone v\u00e1lido."
+                    "trans": "Por favor, introduza um n\u00famero de telefone v\u00e1lido."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "O checkbox possui um valor inv\u00e1lido."
+                    "trans": "A caixa de verifica\u00e7\u00e3o tem um valor inv\u00e1lido."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Por favor, informe um endere\u00e7o de email v\u00e1lido."
+                    "trans": "Por favor, introduza um endere\u00e7o de correio eletr\u00f3nico v\u00e1lido."
                 },
                 "126": {
                     "id": "126",
@@ -6472,7 +6472,7 @@
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Por favor, selecione uma semana v\u00e1lida."
+                    "trans": "Por favor, introduza uma semana v\u00e1lida."
                 },
                 "129": {
                     "id": "129",
@@ -6481,7 +6481,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "O limite inferior n\u00e3o deve ser maior do que o limite superior.",
+                    "trans": "O limite inferior n\u00e3o pode ser superior ao limite superior.",
                     "state": "needs-review-translation"
                 }
             },
@@ -38880,19 +38880,19 @@
                 },
                 "14": {
                     "id": "14",
-                    "trans": "O arquivo n\u00e3o p\u00f4de ser encontrado."
+                    "trans": "O ficheiro n\u00e3o p\u00f4de ser encontrado."
                 },
                 "15": {
                     "id": "15",
-                    "trans": "O arquivo n\u00e3o p\u00f4de ser lido."
+                    "trans": "O ficheiro n\u00e3o \u00e9 leg\u00edvel."
                 },
                 "16": {
                     "id": "16",
-                    "trans": "O arquivo \u00e9 muito grande ({{ size }} {{ suffix }}). O tamanho m\u00e1ximo permitido \u00e9 de {{ limit }} {{ suffix }}."
+                    "trans": "O ficheiro \u00e9 muito grande ({{ size }} {{ suffix }}). O tamanho m\u00e1ximo permitido \u00e9 de {{ limit }} {{ suffix }}."
                 },
                 "17": {
                     "id": "17",
-                    "trans": "O tipo mime do arquivo \u00e9 inv\u00e1lido ({{ type }}). Os tipos mime permitidos s\u00e3o {{ types }}."
+                    "trans": "O tipo mime do ficheiro \u00e9 inv\u00e1lido ({{ type }}). Os tipos mime permitidos s\u00e3o {{ types }}."
                 },
                 "18": {
                     "id": "18",
@@ -38900,7 +38900,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "O valor \u00e9 muito longo. Deveria ter {{ limit }} caracteres ou menos."
+                    "trans": "O valor \u00e9 demasiado longo. Deve ter {{ limit }} car\u00e1cter ou menos.|O valor \u00e9 demasiado longo. Deve ter {{ limit }} carateres ou menos."
                 },
                 "20": {
                     "id": "20",
@@ -38908,7 +38908,7 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "O valor \u00e9 muito curto. Deveria de ter {{ limit }} caractere ou mais.|O valor \u00e9 muito curto. Deveria de ter {{ limit }} caracteres ou mais."
+                    "trans": "O valor \u00e9 demasiado curto. Deve ter {{ limit }} car\u00e1cter ou mais.|O valor \u00e9 demasiado curto. Deve ter {{ limit }} carateres ou mais."
                 },
                 "22": {
                     "id": "22",
@@ -38940,15 +38940,15 @@
                 },
                 "32": {
                     "id": "32",
-                    "trans": "O arquivo \u00e9 muito grande. O tamanho m\u00e1ximo permitido \u00e9 de {{ limit }} {{ suffix }}."
+                    "trans": "O ficheiro \u00e9 muito grande. O tamanho m\u00e1ximo permitido \u00e9 de {{ limit }} {{ suffix }}."
                 },
                 "33": {
                     "id": "33",
-                    "trans": "O arquivo \u00e9 muito grande."
+                    "trans": "O ficheiro \u00e9 muito grande."
                 },
                 "34": {
                     "id": "34",
-                    "trans": "N\u00e3o foi poss\u00edvel enviar o arquivo."
+                    "trans": "N\u00e3o foi poss\u00edvel enviar o ficheiro."
                 },
                 "35": {
                     "id": "35",
@@ -38956,7 +38956,7 @@
                 },
                 "36": {
                     "id": "36",
-                    "trans": "Este arquivo n\u00e3o \u00e9 uma imagem."
+                    "trans": "Este ficheiro n\u00e3o \u00e9 uma imagem."
                 },
                 "37": {
                     "id": "37",
@@ -38964,7 +38964,7 @@
                 },
                 "38": {
                     "id": "38",
-                    "trans": "Este valor n\u00e3o \u00e9 uma linguagem v\u00e1lida."
+                    "trans": "Este valor n\u00e3o \u00e9 um idioma v\u00e1lido."
                 },
                 "39": {
                     "id": "39",
@@ -39000,7 +39000,7 @@
                 },
                 "47": {
                     "id": "47",
-                    "trans": "Este valor deveria ser a senha atual do usu\u00e1rio."
+                    "trans": "Este valor deveria ser a palvra-passe atual do usu\u00e1rio."
                 },
                 "48": {
                     "id": "48",
@@ -39008,11 +39008,11 @@
                 },
                 "49": {
                     "id": "49",
-                    "trans": "S\u00f3 foi enviada uma parte do arquivo."
+                    "trans": "S\u00f3 foi enviada uma parte do ficheiro."
                 },
                 "50": {
                     "id": "50",
-                    "trans": "Nenhum arquivo foi enviado."
+                    "trans": "Nenhum ficheiro foi enviado."
                 },
                 "51": {
                     "id": "51",
@@ -39020,7 +39020,7 @@
                 },
                 "52": {
                     "id": "52",
-                    "trans": "N\u00e3o foi poss\u00edvel escrever os arquivos tempor\u00e1rios no disco."
+                    "trans": "N\u00e3o foi poss\u00edvel escrever os ficheiros tempor\u00e1rios no disco."
                 },
                 "53": {
                     "id": "53",
@@ -39124,7 +39124,7 @@
                 },
                 "78": {
                     "id": "78",
-                    "trans": "Um arquivo vazio n\u00e3o \u00e9 permitido."
+                    "trans": "Um ficheiro vazio n\u00e3o \u00e9 permitido."
                 },
                 "79": {
                     "id": "79",
@@ -39184,7 +39184,7 @@
                 },
                 "93": {
                     "id": "93",
-                    "trans": "Esta senha foi divulgada durante um vazamento de dados, n\u00e3o deve ser usada de novamente. Por favor usar uma senha outra."
+                    "trans": "Esta palavra-passe foi exposta numa fuga de dados e n\u00e3o deve ser usada novamente. Por favor, utilize outra palavra-passe."
                 },
                 "94": {
                     "id": "94",
@@ -39228,11 +39228,11 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "O nome do arquivo \u00e9 muito grande. Deveria ter {{ filename_max_length }} caractere ou menos.|O nome do arquivo \u00e9 muito grande. Deveria ter {{ filename_max_length }} caracteres ou menos."
+                    "trans": "O nome do ficheiro \u00e9 muito grande. Deveria ter {{ filename_max_length }} caractere ou menos.|O nome do ficheiro \u00e9 muito grande. Deveria ter {{ filename_max_length }} caracteres ou menos."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "A for\u00e7a da senha \u00e9 muito baixa. Por favor utilize uma senha mais forte."
+                    "trans": "A for\u00e7a da palvra-passe \u00e9 muito baixa. Por favor utilize uma palvra-passe mais forte."
                 },
                 "106": {
                     "id": "106",
@@ -39252,7 +39252,7 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "A extens\u00e3o do arquivo \u00e9 inv\u00e1lida ({{ extension }}). As extens\u00f5es permitidas s\u00e3o {{ extensions }}."
+                    "trans": "A extens\u00e3o do ficheiro \u00e9 inv\u00e1lida ({{ extension }}). As extens\u00f5es permitidas s\u00e3o {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
