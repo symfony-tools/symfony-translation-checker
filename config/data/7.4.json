@@ -1043,8 +1043,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062a\u0627\u0631\u064a\u062e \u0645\u064a\u0644\u0627\u062f \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062a\u0627\u0631\u064a\u062e \u0645\u064a\u0644\u0627\u062f \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "101": {
                     "id": "101",
@@ -1056,38 +1055,31 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0644\u0648\u0646\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0644\u0648\u0646\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0628\u0644\u062f\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0628\u0644\u062f\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0645\u0644\u0629 \u0635\u0627\u0644\u062d\u0629.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0645\u0644\u0629 \u0635\u0627\u0644\u062d\u0629."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0641\u0627\u0635\u0644\u0627\u064b \u0632\u0645\u0646\u064a\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0641\u062a\u0631\u0629 \u0632\u0645\u0646\u064a\u0629 \u0635\u0627\u0644\u062d\u0629."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062a\u0627\u0631\u064a\u062e\u064b\u0627 \u0648\u0648\u0642\u062a\u064b\u0627 \u0635\u0627\u0644\u062d\u064a\u0646.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062a\u0627\u0631\u064a\u062e\u064b\u0627 \u0648\u0648\u0642\u062a\u064b\u0627 \u0635\u0627\u0644\u062d\u064a\u0646."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062a\u0627\u0631\u064a\u062e\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062a\u0627\u0631\u064a\u062e\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0645\u0644\u0641\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0645\u0644\u0641\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "110": {
                     "id": "110",
@@ -1095,13 +1087,11 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u062f\u062f\u064b\u0627 \u0635\u062d\u064a\u062d\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u062f\u062f\u064b\u0627 \u0635\u062d\u064a\u062d\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0644\u063a\u0629 \u0635\u0627\u0644\u062d\u0629.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0644\u063a\u0629 \u0635\u0627\u0644\u062d\u0629."
                 },
                 "113": {
                     "id": "113",
@@ -1109,13 +1099,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0645\u0628\u0644\u063a\u064b\u0627 \u0645\u0627\u0644\u064a\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0645\u0628\u0644\u063a\u064b\u0627 \u0645\u0627\u0644\u064a\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0631\u0642\u0645\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u062f\u062f\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "116": {
                     "id": "116",
@@ -1123,8 +1111,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0646\u0633\u0628\u0629 \u0645\u0626\u0648\u064a\u0629 \u0635\u0627\u0644\u062d\u0629.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0646\u0633\u0628\u0629 \u0645\u0626\u0648\u064a\u0629 \u0635\u0627\u0644\u062d\u0629."
                 },
                 "118": {
                     "id": "118",
@@ -1132,28 +1119,23 @@
                 },
                 "119": {
                     "id": "119",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0648\u0642\u062a\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0648\u0642\u062a\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0645\u0646\u0637\u0642\u0629 \u0632\u0645\u0646\u064a\u0629 \u0635\u0627\u0644\u062d\u0629.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0645\u0646\u0637\u0642\u0629 \u0632\u0645\u0646\u064a\u0629 \u0635\u0627\u0644\u062d\u0629."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0646\u0648\u0627\u0646 URL \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0646\u0648\u0627\u0646 URL \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0628\u0627\u0631\u0629 \u0628\u062d\u062b \u0635\u0627\u0644\u062d\u0629.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0639\u0628\u0627\u0631\u0629 \u0628\u062d\u062b \u0635\u0627\u0644\u062d\u0629."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0631\u0642\u0645 \u0647\u0627\u062a\u0641 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0631\u0642\u0645 \u0647\u0627\u062a\u0641 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "124": {
                     "id": "124",
@@ -1161,18 +1143,15 @@
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0628\u0631\u064a\u062f\u064b\u0627 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0628\u0631\u064a\u062f\u064b\u0627 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062e\u064a\u0627\u0631\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u062e\u064a\u0627\u0631\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0646\u0637\u0627\u0642\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0647\u0630\u0647 \u0627\u0644\u0642\u064a\u0645\u0629 \u0644\u064a\u0633\u062a \u0646\u0637\u0627\u0642\u064b\u0627 \u0635\u0627\u0644\u062d\u064b\u0627."
                 },
                 "128": {
                     "id": "128",
@@ -3062,8 +3041,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Este valor no es una fecha de nacimiento v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es una fecha de nacimiento v\u00e1lida."
                 },
                 "101": {
                     "id": "101",
@@ -3075,8 +3053,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Este valor no es un color v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un color v\u00e1lido."
                 },
                 "104": {
                     "id": "104",
@@ -3088,8 +3065,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Este valor no es un intervalo de fechas v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un intervalo de fechas v\u00e1lido."
                 },
                 "107": {
                     "id": "107",
@@ -3101,8 +3077,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Este valor no es un archivo v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un archivo v\u00e1lido."
                 },
                 "110": {
                     "id": "110",
@@ -3110,8 +3085,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Este valor no es un n\u00famero entero v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un n\u00famero entero v\u00e1lido."
                 },
                 "112": {
                     "id": "112",
@@ -3119,18 +3093,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Este valor no es una configuraci\u00f3n regional v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es una configuraci\u00f3n regional v\u00e1lida."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Este valor no es una cantidad de dinero v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es una cantidad de dinero v\u00e1lida."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Este valor no es un n\u00famero v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un n\u00famero v\u00e1lido."
                 },
                 "116": {
                     "id": "116",
@@ -3138,8 +3109,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Este valor no es un porcentaje v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un porcentaje v\u00e1lido."
                 },
                 "118": {
                     "id": "118",
@@ -3159,13 +3129,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Este valor no es un t\u00e9rmino de b\u00fasqueda v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un t\u00e9rmino de b\u00fasqueda v\u00e1lido."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Este valor no es un n\u00famero de tel\u00e9fono v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un n\u00famero de tel\u00e9fono v\u00e1lido."
                 },
                 "124": {
                     "id": "124",
@@ -3177,13 +3145,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Este valor no es una opci\u00f3n v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es una opci\u00f3n v\u00e1lida."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Este valor no es un rango v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor no es un rango v\u00e1lido."
                 },
                 "128": {
                     "id": "128",
@@ -5536,8 +5502,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs dzim\u0161anas datums.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs dzim\u0161anas datums."
                 },
                 "101": {
                     "id": "101",
@@ -5549,8 +5514,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga kr\u0101sa.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga kr\u0101sa."
                 },
                 "104": {
                     "id": "104",
@@ -5562,8 +5526,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs datumu interv\u0101ls.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs datumu interv\u0101ls."
                 },
                 "107": {
                     "id": "107",
@@ -5575,8 +5538,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs fails.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs fails."
                 },
                 "110": {
                     "id": "110",
@@ -5584,8 +5546,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav vesels skaitlis.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav vesels skaitlis."
                 },
                 "112": {
                     "id": "112",
@@ -5597,13 +5558,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs naudas lielums.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga naudas summa."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs skaitlis.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs skaitlis."
                 },
                 "116": {
                     "id": "116",
@@ -5611,8 +5570,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs procentu\u0101lais lielums.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs procentu\u0101lais lielums."
                 },
                 "118": {
                     "id": "118",
@@ -5632,13 +5590,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs mekl\u0113\u0161anas nosac\u012bjums.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs mekl\u0113\u0161anas vaic\u0101jums."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs t\u0101lru\u0146a numurs.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs t\u0101lru\u0146a numurs."
                 },
                 "124": {
                     "id": "124",
@@ -5650,13 +5606,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga opcija.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga izv\u0113le."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs diapazons.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs diapazons."
                 },
                 "128": {
                     "id": "128",
@@ -5668,8 +5622,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Apak\u0161\u0113j\u0101 robe\u017ea nedr\u012bkst b\u016bt liel\u0101ka par aug\u0161\u0113jo robe\u017eu.",
-                    "state": "needs-review-translation"
+                    "trans": "Apak\u0161\u0113j\u0101 robe\u017ea nedr\u012bkst b\u016bt liel\u0101ka par aug\u0161\u0113jo robe\u017eu."
                 }
             },
             "mk": {
@@ -7115,8 +7068,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Este valor n\u00e3o \u00e9 uma data de nascimento v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 uma data de nascimento v\u00e1lida."
                 },
                 "101": {
                     "id": "101",
@@ -7128,8 +7080,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Este valor n\u00e3o \u00e9 uma cor v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 uma cor v\u00e1lida."
                 },
                 "104": {
                     "id": "104",
@@ -7137,13 +7088,11 @@
                 },
                 "105": {
                     "id": "105",
-                    "trans": "Este valor n\u00e3o \u00e9 uma moeda v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 uma moeda v\u00e1lida."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Este valor n\u00e3o \u00e9 um intervalo de datas v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um intervalo de datas v\u00e1lido."
                 },
                 "107": {
                     "id": "107",
@@ -7155,8 +7104,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Este valor n\u00e3o \u00e9 um arquivo v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um arquivo v\u00e1lido."
                 },
                 "110": {
                     "id": "110",
@@ -7164,8 +7112,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Este valor n\u00e3o \u00e9 um n\u00famero inteiro v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um n\u00famero inteiro v\u00e1lido."
                 },
                 "112": {
                     "id": "112",
@@ -7173,18 +7120,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Este valor n\u00e3o \u00e9 uma configura\u00e7\u00e3o regional v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 uma localidade v\u00e1lida."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Este valor n\u00e3o \u00e9 um valor monet\u00e1rio v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um valor monet\u00e1rio v\u00e1lido."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Este valor n\u00e3o \u00e9 um n\u00famero v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um n\u00famero v\u00e1lido."
                 },
                 "116": {
                     "id": "116",
@@ -7192,8 +7136,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Este valor n\u00e3o \u00e9 um valor percentual v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 uma porcentagem v\u00e1lida."
                 },
                 "118": {
                     "id": "118",
@@ -7213,13 +7156,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Este valor n\u00e3o \u00e9 um termo de busca v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um termo de busca v\u00e1lido."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Este valor n\u00e3o \u00e9 um telefone v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um telefone v\u00e1lido."
                 },
                 "124": {
                     "id": "124",
@@ -7231,13 +7172,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Este valor n\u00e3o \u00e9 uma op\u00e7\u00e3o v\u00e1lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 uma op\u00e7\u00e3o v\u00e1lida."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Este valor n\u00e3o \u00e9 um intervalo v\u00e1lido.",
-                    "state": "needs-review-translation"
+                    "trans": "Este valor n\u00e3o \u00e9 um intervalo v\u00e1lido."
                 },
                 "128": {
                     "id": "128",
@@ -8346,8 +8285,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt f\u00f6delsedatum.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt f\u00f6delsedatum."
                 },
                 "101": {
                     "id": "101",
@@ -8359,8 +8297,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "V\u00e4rdet \u00e4r inte en giltig f\u00e4rg.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig f\u00e4rg."
                 },
                 "104": {
                     "id": "104",
@@ -8372,8 +8309,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt datumintervall.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt datumintervall."
                 },
                 "107": {
                     "id": "107",
@@ -8385,8 +8321,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "V\u00e4rdet \u00e4r inte en giltig fil.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig fil."
                 },
                 "110": {
                     "id": "110",
@@ -8394,8 +8329,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt heltal.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt heltal."
                 },
                 "112": {
                     "id": "112",
@@ -8403,18 +8337,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "V\u00e4rdet \u00e4r inte en giltig plats.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig spr\u00e5k- och regionkod."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "V\u00e4rdet \u00e4r inte en giltig summa pengar.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt belopp."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt tal.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt tal."
                 },
                 "116": {
                     "id": "116",
@@ -8422,8 +8353,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt procentuellt v\u00e4rde.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt procenttal."
                 },
                 "118": {
                     "id": "118",
@@ -8443,13 +8373,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt s\u00f6kbegrepp.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt s\u00f6kbegrepp."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt telefonnummer.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt telefonnummer."
                 },
                 "124": {
                     "id": "124",
@@ -8461,13 +8389,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt alternativ.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt alternativ."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt intervall.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt intervall."
                 },
                 "128": {
                     "id": "128",
@@ -34833,118 +34759,95 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs XML.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba neatbilst gaid\u012btajai XSD sh\u0113mai.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba neatbilst sagaid\u0101majai XSD sh\u0113mai."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "\u0160\u012b XML slodze ir p\u0101r\u0101k liela ({{ size }} baiti): t\u0101 p\u0101rsniedz {{ limit }} baitu ierobe\u017eojumu.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160ie XML dati ir p\u0101r\u0101k lieli ({{ size }} baiti): tie p\u0101rsniedz {{ limit }} baitu ierobe\u017eojumu."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga cron izteiksme.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga cron izteiksme."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Nor\u0101d\u012bt\u0101 ent\u012btija neeksist\u0113.",
-                    "state": "needs-review-translation"
+                    "trans": "Nor\u0101d\u012bt\u0101 ent\u012btija nepast\u0101v."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs ULID."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "\u0160\u012b datne nav der\u012bgs audio fails.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b datne nav der\u012bgs audio fails."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Audio ir p\u0101r\u0101k \u012bss ({{ duration }} sekundes). Sagaid\u0101mais minim\u0101lais ilgums ir {{ min_duration }} sekundes.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio ir p\u0101r\u0101k \u012bss ({{ duration }} sekundes). Sagaid\u0101mais minim\u0101lais ilgums ir {{ min_duration }} sekundes."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Audio ir p\u0101r\u0101k gar\u0161 ({{ duration }} sekundes). At\u013cautais maksim\u0101lais ilgums ir {{ max_duration }} sekundes.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio ir p\u0101r\u0101k gar\u0161 ({{ duration }} sekundes). At\u013cautais maksim\u0101lais ilgums ir {{ max_duration }} sekundes."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Neizdev\u0101s noteikt audio ilgumu.",
-                    "state": "needs-review-translation"
+                    "trans": "Neizdev\u0101s noteikt audio ilgumu."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Audio bitu \u0101trums ir p\u0101r\u0101k zems ({{ bitrate }} bps). Sagaid\u0101mais minim\u0101lais bitu \u0101trums ir {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio bitu \u0101trums ir p\u0101r\u0101k zems ({{ bitrate }} bps). Sagaid\u0101mais minim\u0101lais bitu \u0101trums ir {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Audio bitu \u0101trums ir p\u0101r\u0101k augsts ({{ bitrate }} bps). At\u013cautais maksim\u0101lais bitu \u0101trums ir {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio bitu \u0101trums ir p\u0101r\u0101k augsts ({{ bitrate }} bps). At\u013cautais maksim\u0101lais bitu \u0101trums ir {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Neizdev\u0101s noteikt audio bitu \u0101trumu.",
-                    "state": "needs-review-translation"
+                    "trans": "Neizdev\u0101s noteikt audio bitu \u0101trumu."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Neatbalst\u012bta audio iztver\u0161anas frekvence ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Neatbalst\u012bta audio iztver\u0161anas frekvence ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Neizdev\u0101s noteikt audio iztver\u0161anas frekvenci.",
-                    "state": "needs-review-translation"
+                    "trans": "Neizdev\u0101s noteikt audio iztver\u0161anas frekvenci."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Audio ir p\u0101r\u0101k maz kan\u0101lu ({{ channels }}). Sagaid\u0101mais minim\u0101lais daudzums ir {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio ir p\u0101r\u0101k maz kan\u0101lu ({{ channels }}). Sagaid\u0101mais minim\u0101lais daudzums ir {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Audio ir p\u0101r\u0101k daudz kan\u0101lu ({{ channels }}). Paredz\u0113tais maksim\u0101lais daudzums ir {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio ir p\u0101r\u0101k daudz kan\u0101lu ({{ channels }}). Paredz\u0113tais maksim\u0101lais daudzums ir {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Neizdev\u0101s noteikt audio kan\u0101lu skaitu.",
-                    "state": "needs-review-translation"
+                    "trans": "Neizdev\u0101s noteikt audio kan\u0101lu skaitu."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Audio fails ir boj\u0101ts.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio fails ir boj\u0101ts."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Audio satur vair\u0101kus straum\u0113jumus. At\u013cauta ir tikai viena straume.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio satur vair\u0101kas straumes. At\u013cauta ir tikai viena straume."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Neatbalst\u012bts audio kodeks \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Neatbalst\u012bts audio kodeks \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Neatbalst\u012bts audio konteiners \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Neatbalst\u012bts audio konteiners \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Datne nesatur nevienu audio straumi.",
-                    "state": "needs-review-translation"
+                    "trans": "Datne nesatur nevienu audio straumi."
                 }
             },
             "mk": {
