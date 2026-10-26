@@ -5523,8 +5523,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs dzim\u0161anas datums.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs dzim\u0161anas datums."
                 },
                 "101": {
                     "id": "101",
@@ -5536,8 +5535,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga kr\u0101sa.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga kr\u0101sa."
                 },
                 "104": {
                     "id": "104",
@@ -5549,8 +5547,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs datumu interv\u0101ls.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs datumu interv\u0101ls."
                 },
                 "107": {
                     "id": "107",
@@ -5562,8 +5559,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs fails.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs fails."
                 },
                 "110": {
                     "id": "110",
@@ -5571,8 +5567,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav vesels skaitlis.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav vesels skaitlis."
                 },
                 "112": {
                     "id": "112",
@@ -5584,13 +5579,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs naudas lielums.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga naudas summa."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs skaitlis.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs skaitlis."
                 },
                 "116": {
                     "id": "116",
@@ -5598,8 +5591,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs procentu\u0101lais lielums.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs procentu\u0101lais lielums."
                 },
                 "118": {
                     "id": "118",
@@ -5619,13 +5611,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs mekl\u0113\u0161anas nosac\u012bjums.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs mekl\u0113\u0161anas vaic\u0101jums."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs t\u0101lru\u0146a numurs.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs t\u0101lru\u0146a numurs."
                 },
                 "124": {
                     "id": "124",
@@ -5637,13 +5627,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga opcija.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga izv\u0113le."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs diapazons.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs diapazons."
                 },
                 "128": {
                     "id": "128",
@@ -5655,8 +5643,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Apak\u0161\u0113j\u0101 robe\u017ea nedr\u012bkst b\u016bt liel\u0101ka par aug\u0161\u0113jo robe\u017eu.",
-                    "state": "needs-review-translation"
+                    "trans": "Apak\u0161\u0113j\u0101 robe\u017ea nedr\u012bkst b\u016bt liel\u0101ka par aug\u0161\u0113jo robe\u017eu."
                 }
             },
             "mk": {
@@ -8319,8 +8306,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt f\u00f6delsedatum.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt f\u00f6delsedatum."
                 },
                 "101": {
                     "id": "101",
@@ -8332,8 +8318,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "V\u00e4rdet \u00e4r inte en giltig f\u00e4rg.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig f\u00e4rg."
                 },
                 "104": {
                     "id": "104",
@@ -8345,8 +8330,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt datumintervall.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt datumintervall."
                 },
                 "107": {
                     "id": "107",
@@ -8358,8 +8342,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "V\u00e4rdet \u00e4r inte en giltig fil.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig fil."
                 },
                 "110": {
                     "id": "110",
@@ -8367,8 +8350,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt heltal.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt heltal."
                 },
                 "112": {
                     "id": "112",
@@ -8376,18 +8358,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "V\u00e4rdet \u00e4r inte en giltig plats.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte en giltig spr\u00e5k- och regionkod."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "V\u00e4rdet \u00e4r inte en giltig summa pengar.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt belopp."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt tal.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt tal."
                 },
                 "116": {
                     "id": "116",
@@ -8395,8 +8374,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt procentuellt v\u00e4rde.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt procenttal."
                 },
                 "118": {
                     "id": "118",
@@ -8416,13 +8394,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt s\u00f6kbegrepp.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt s\u00f6kbegrepp."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt telefonnummer.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt telefonnummer."
                 },
                 "124": {
                     "id": "124",
@@ -8434,13 +8410,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt alternativ.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt alternativ."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt intervall.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e4rdet \u00e4r inte ett giltigt intervall."
                 },
                 "128": {
                     "id": "128",
@@ -34806,118 +34780,95 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs XML.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba neatbilst gaid\u012btajai XSD sh\u0113mai.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba neatbilst sagaid\u0101majai XSD sh\u0113mai."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "\u0160\u012b XML slodze ir p\u0101r\u0101k liela ({{ size }} baiti): t\u0101 p\u0101rsniedz {{ limit }} baitu ierobe\u017eojumu.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160ie XML dati ir p\u0101r\u0101k lieli ({{ size }} baiti): tie p\u0101rsniedz {{ limit }} baitu ierobe\u017eojumu."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga cron izteiksme.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bga cron izteiksme."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Nor\u0101d\u012bt\u0101 ent\u012btija neeksist\u0113.",
-                    "state": "needs-review-translation"
+                    "trans": "Nor\u0101d\u012bt\u0101 ent\u012btija nepast\u0101v."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b v\u0113rt\u012bba nav der\u012bgs ULID."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "\u0160\u012b datne nav der\u012bgs audio fails.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160\u012b datne nav der\u012bgs audio fails."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Audio ir p\u0101r\u0101k \u012bss ({{ duration }} sekundes). Sagaid\u0101mais minim\u0101lais ilgums ir {{ min_duration }} sekundes.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio ir p\u0101r\u0101k \u012bss ({{ duration }} sekundes). Sagaid\u0101mais minim\u0101lais ilgums ir {{ min_duration }} sekundes."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Audio ir p\u0101r\u0101k gar\u0161 ({{ duration }} sekundes). At\u013cautais maksim\u0101lais ilgums ir {{ max_duration }} sekundes.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio ir p\u0101r\u0101k gar\u0161 ({{ duration }} sekundes). At\u013cautais maksim\u0101lais ilgums ir {{ max_duration }} sekundes."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Neizdev\u0101s noteikt audio ilgumu.",
-                    "state": "needs-review-translation"
+                    "trans": "Neizdev\u0101s noteikt audio ilgumu."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Audio bitu \u0101trums ir p\u0101r\u0101k zems ({{ bitrate }} bps). Sagaid\u0101mais minim\u0101lais bitu \u0101trums ir {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio bitu \u0101trums ir p\u0101r\u0101k zems ({{ bitrate }} bps). Sagaid\u0101mais minim\u0101lais bitu \u0101trums ir {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Audio bitu \u0101trums ir p\u0101r\u0101k augsts ({{ bitrate }} bps). At\u013cautais maksim\u0101lais bitu \u0101trums ir {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio bitu \u0101trums ir p\u0101r\u0101k augsts ({{ bitrate }} bps). At\u013cautais maksim\u0101lais bitu \u0101trums ir {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Neizdev\u0101s noteikt audio bitu \u0101trumu.",
-                    "state": "needs-review-translation"
+                    "trans": "Neizdev\u0101s noteikt audio bitu \u0101trumu."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Neatbalst\u012bta audio iztver\u0161anas frekvence ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Neatbalst\u012bta audio iztver\u0161anas frekvence ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Neizdev\u0101s noteikt audio iztver\u0161anas frekvenci.",
-                    "state": "needs-review-translation"
+                    "trans": "Neizdev\u0101s noteikt audio iztver\u0161anas frekvenci."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Audio ir p\u0101r\u0101k maz kan\u0101lu ({{ channels }}). Sagaid\u0101mais minim\u0101lais daudzums ir {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio ir p\u0101r\u0101k maz kan\u0101lu ({{ channels }}). Sagaid\u0101mais minim\u0101lais daudzums ir {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Audio ir p\u0101r\u0101k daudz kan\u0101lu ({{ channels }}). Paredz\u0113tais maksim\u0101lais daudzums ir {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio ir p\u0101r\u0101k daudz kan\u0101lu ({{ channels }}). Paredz\u0113tais maksim\u0101lais daudzums ir {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Neizdev\u0101s noteikt audio kan\u0101lu skaitu.",
-                    "state": "needs-review-translation"
+                    "trans": "Neizdev\u0101s noteikt audio kan\u0101lu skaitu."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Audio fails ir boj\u0101ts.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio fails ir boj\u0101ts."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Audio satur vair\u0101kus straum\u0113jumus. At\u013cauta ir tikai viena straume.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio satur vair\u0101kas straumes. At\u013cauta ir tikai viena straume."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Neatbalst\u012bts audio kodeks \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Neatbalst\u012bts audio kodeks \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Neatbalst\u012bts audio konteiners \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Neatbalst\u012bts audio konteiners \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Datne nesatur nevienu audio straumi.",
-                    "state": "needs-review-translation"
+                    "trans": "Datne nesatur nevienu audio straumi."
                 }
             },
             "mk": {
