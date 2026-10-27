@@ -4720,92 +4720,83 @@
                 },
                 "30": {
                     "id": "30",
-                    "trans": "CSRF-Token tidak sah. Silahkan coba kirim ulang formulir."
+                    "trans": "CSRF-Token tidak valid. Silahkan coba kirim ulang formulir."
                 },
                 "99": {
                     "id": "99",
-                    "trans": "Nilai ini bukan merupakan HTML5 color yang sah."
+                    "trans": "Nilai ini bukan merupakan HTML5 color yang valid."
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Nilai ini bukan merupakan tanggal lahir yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan tanggal lahir yang valid."
                 },
                 "101": {
                     "id": "101",
-                    "trans": "Pilihan yang dipilih tidak sah."
+                    "trans": "Pilihan yang dipilih tidak valid."
                 },
                 "102": {
                     "id": "102",
-                    "trans": "Koleksi tidak sah."
+                    "trans": "Koleksi tidak valid."
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Nilai ini bukan merupakan warna yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan warna yang valid."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Nilai ini bukan negara yang sah."
+                    "trans": "Nilai ini bukan negara yang valid."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "Nilai ini bukan mata uang yang sah."
+                    "trans": "Nilai ini bukan mata uang yang valid."
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Nilai ini bukan merupakan interval tanggal yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan interval tanggal yang valid."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Nilai ini bukan merupakan tanggal dan waktu yang sah."
+                    "trans": "Nilai ini bukan merupakan tanggal dan waktu yang valid."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Nilai ini bukan merupakan tanggal yang sah."
+                    "trans": "Nilai ini bukan merupakan tanggal yang valid."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Nilai ini bukan merupakan berkas yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan berkas yang valid."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Ruas yang tersembunyi tidak sah."
+                    "trans": "Ruas yang tersembunyi tidak valid."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Nilai ini bukan merupakan bilangan bulat yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan bilangan bulat yang valid."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Nilai ini bukan bahasa yang sah."
+                    "trans": "Nilai ini bukan bahasa yang valid."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Nilai ini bukan merupakan lokal yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan lokal yang valid."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Nilai ini bukan merupakan nilai uang yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan nilai uang yang valid."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Nilai ini bukan merupakan angka yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan angka yang valid."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Kata sandi tidak sah."
+                    "trans": "Kata sandi tidak valid."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Nilai ini bukan merupakan nilai persentase yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan nilai persentase yang valid."
                 },
                 "118": {
                     "id": "118",
@@ -4813,44 +4804,39 @@
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Nilai ini bukan merupakan waktu yang sah."
+                    "trans": "Nilai ini bukan merupakan waktu yang valid."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Nilai ini bukan merupakan zona waktu yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan zona waktu yang valid."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Nilai ini bukan URL yang sah."
+                    "trans": "Nilai ini bukan URL yang valid."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Nilai ini bukan merupakan kata pencarian yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan kata pencarian yang valid."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Nilai ini bukan merupakan nomor telepon yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan nomor telepon yang valid."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Nilai dari checkbox tidak sah."
+                    "trans": "Nilai dari checkbox tidak valid."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Nilai ini bukan alamat surel yang sah."
+                    "trans": "Nilai ini bukan alamat surel yang valid."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Nilai ini bukan merupakan opsi yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan opsi yang valid."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Nilai ini bukan merupakan rentang yang sah.",
-                    "state": "needs-review-translation"
+                    "trans": "Nilai ini bukan rentang yang valid."
                 },
                 "128": {
                     "id": "128",
