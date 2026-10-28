@@ -18,3 +18,5 @@ If the data changes, it will update the website.
 
 Another command is running to look at the data and create/update issues on symfony/symfony
 for the missing translations.
+Some issues stay open for a long time. After 30 days without a comment, the same command
+pings the people who translated that language before. It does this once per issue.
