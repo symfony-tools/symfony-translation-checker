@@ -2587,8 +2587,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Dieser Wert ist kein g\u00fcltiges Geburtsdatum.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist kein g\u00fcltiges Geburtsdatum."
                 },
                 "101": {
                     "id": "101",
@@ -2600,8 +2599,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Dieser Wert ist keine g\u00fcltige Farbe.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist keine g\u00fcltige Farbe."
                 },
                 "104": {
                     "id": "104",
@@ -2613,8 +2611,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Dieser Wert ist kein g\u00fcltiges Datumsintervall.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist kein g\u00fcltiges Datumsintervall."
                 },
                 "107": {
                     "id": "107",
@@ -2626,8 +2623,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Dieser Wert ist keine g\u00fcltige Datei.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist keine g\u00fcltige Datei."
                 },
                 "110": {
                     "id": "110",
@@ -2635,8 +2631,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Dieser Wert ist keine g\u00fcltige Ganzzahl.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist keine g\u00fcltige Ganzzahl."
                 },
                 "112": {
                     "id": "112",
@@ -2648,13 +2643,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Dieser Wert ist kein g\u00fcltiger Geldbetrag.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist kein g\u00fcltiger Geldbetrag."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Dieser Wert ist keine g\u00fcltige Zahl.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist keine g\u00fcltige Zahl."
                 },
                 "116": {
                     "id": "116",
@@ -2662,8 +2655,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Dieser Wert ist kein g\u00fcltiger Prozentwert.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist kein g\u00fcltiger Prozentwert."
                 },
                 "118": {
                     "id": "118",
@@ -2683,13 +2675,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Dieser Wert ist kein g\u00fcltiger Suchbegriff.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist kein g\u00fcltiger Suchbegriff."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Dieser Wert ist keine g\u00fcltige Telefonnummer.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist keine g\u00fcltige Telefonnummer."
                 },
                 "124": {
                     "id": "124",
@@ -2701,13 +2691,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Dieser Wert ist keine g\u00fcltige Option.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist keine g\u00fcltige Option."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Dieser Wert ist kein g\u00fcltiger Bereich.",
-                    "state": "needs-review-translation"
+                    "trans": "Dieser Wert ist kein g\u00fcltiger Bereich."
                 },
                 "128": {
                     "id": "128",
@@ -2719,8 +2707,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Der untere Grenzwert darf nicht gr\u00f6\u00dfer als der obere Grenzwert sein.",
-                    "state": "needs-review-translation"
+                    "trans": "Der untere Grenzwert darf nicht gr\u00f6\u00dfer als der obere Grenzwert sein."
                 }
             },
             "el": {
@@ -8696,8 +8683,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir do\u011fum tarihi de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir do\u011fum tarihi de\u011fildir."
                 },
                 "101": {
                     "id": "101",
@@ -8709,8 +8695,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir renk de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir renk de\u011fildir."
                 },
                 "104": {
                     "id": "104",
@@ -8722,8 +8707,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir tarih aral\u0131\u011f\u0131 de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir tarih aral\u0131\u011f\u0131 de\u011fildir."
                 },
                 "107": {
                     "id": "107",
@@ -8735,8 +8719,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir dosya de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir dosya de\u011fildir."
                 },
                 "110": {
                     "id": "110",
@@ -8744,8 +8727,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir tam say\u0131 de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir tam say\u0131 de\u011fildir."
                 },
                 "112": {
                     "id": "112",
@@ -8753,18 +8735,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir yerel ayar de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir yerel ayar de\u011fildir."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir para tutar\u0131 de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir para tutar\u0131 de\u011fildir."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir say\u0131 de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir say\u0131 de\u011fildir."
                 },
                 "116": {
                     "id": "116",
@@ -8772,8 +8751,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir y\u00fczde de\u011feri de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir y\u00fczde de\u011fildir."
                 },
                 "118": {
                     "id": "118",
@@ -8793,13 +8771,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir arama terimi de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir arama terimi de\u011fildir."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir telefon numaras\u0131 de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir telefon numaras\u0131 de\u011fildir."
                 },
                 "124": {
                     "id": "124",
@@ -8811,13 +8787,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir se\u00e7enek de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir se\u00e7enek de\u011fildir."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Bu de\u011fer, ge\u00e7erli bir aral\u0131k de\u011fil.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu de\u011fer ge\u00e7erli bir aral\u0131k de\u011fildir."
                 },
                 "128": {
                     "id": "128",
@@ -22237,88 +22211,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Diese Datei ist keine g\u00fcltige Audiodatei.",
-                    "state": "needs-review-translation"
+                    "trans": "Diese Datei ist keine g\u00fcltige Audiodatei."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Die Audiodatei ist zu kurz ({{ duration }} Sekunden). Die erwartete Mindestdauer ist {{ min_duration }} Sekunden.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Audiodatei ist zu kurz ({{ duration }} Sekunden). Die erwartete Mindestdauer ist {{ min_duration }} Sekunden."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Die Audiodatei ist zu lang ({{ duration }} Sekunden). Die zul\u00e4ssige maximale Dauer ist {{ max_duration }} Sekunden.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Audiodatei ist zu lang ({{ duration }} Sekunden). Die zul\u00e4ssige maximale Dauer ist {{ max_duration }} Sekunden."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Die Dauer der Audiodatei konnte nicht ermittelt werden.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Dauer der Audiodatei konnte nicht ermittelt werden."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Die Bitrate der Audiodatei ist zu niedrig ({{ bitrate }} bps). Die erwartete Mindestbitrate ist {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Bitrate der Audiodatei ist zu niedrig ({{ bitrate }} bps). Die erwartete Mindestbitrate ist {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Die Bitrate der Audiodatei ist zu hoch ({{ bitrate }} bps). Die zul\u00e4ssige maximale Bitrate ist {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Bitrate der Audiodatei ist zu hoch ({{ bitrate }} bps). Die zul\u00e4ssige maximale Bitrate ist {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Die Bitrate der Audiodatei konnte nicht ermittelt werden.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Bitrate der Audiodatei konnte nicht ermittelt werden."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Nicht unterst\u00fctzte Audio-Abtastrate ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Nicht unterst\u00fctzte Audio-Abtastrate ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Die Abtastrate der Audiodatei konnte nicht ermittelt werden.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Abtastrate der Audiodatei konnte nicht ermittelt werden."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Die Audiodatei hat zu wenige Kan\u00e4le ({{ channels }}). Die erwartete Mindestanzahl ist {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Audiodatei hat zu wenige Kan\u00e4le ({{ channels }}). Die erwartete Mindestanzahl ist {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Die Audiodatei hat zu viele Kan\u00e4le ({{ channels }}). Die erwartete H\u00f6chstanzahl ist {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Audiodatei hat zu viele Kan\u00e4le ({{ channels }}). Die erwartete H\u00f6chstanzahl ist {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Die Anzahl der Audiokan\u00e4le konnte nicht ermittelt werden.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Anzahl der Audiokan\u00e4le konnte nicht ermittelt werden."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Die Audiodatei ist besch\u00e4digt.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Audiodatei ist besch\u00e4digt."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Die Audiodatei enth\u00e4lt mehrere Streams. Es ist nur ein Stream erlaubt.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Audiodatei enth\u00e4lt mehrere Streams. Es ist nur ein Stream erlaubt."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Nicht unterst\u00fctzter Audiocodec \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nicht unterst\u00fctzter Audiocodec \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Nicht unterst\u00fctzter Audiocontainer \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nicht unterst\u00fctzter Audiocontainer \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Die Datei enth\u00e4lt keinen Audio-Stream.",
-                    "state": "needs-review-translation"
+                    "trans": "Die Datei enth\u00e4lt keinen Audio-Stream."
                 }
             },
             "el": {
