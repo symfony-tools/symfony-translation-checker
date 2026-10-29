@@ -2431,8 +2431,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "V\u00e6rdien er ikke en gyldig f\u00f8dselsdato.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke en gyldig f\u00f8dselsdato."
                 },
                 "101": {
                     "id": "101",
@@ -2444,8 +2443,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "V\u00e6rdien er ikke en gyldig farve.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke en gyldig farve."
                 },
                 "104": {
                     "id": "104",
@@ -2457,8 +2455,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "V\u00e6rdien er ikke et gyldigt datointerval.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke et gyldigt datointerval."
                 },
                 "107": {
                     "id": "107",
@@ -2470,8 +2467,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "V\u00e6rdien er ikke en gyldig fil.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke en gyldig fil."
                 },
                 "110": {
                     "id": "110",
@@ -2479,8 +2475,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "V\u00e6rdien er ikke et gyldigt heltal.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke et gyldigt heltal."
                 },
                 "112": {
                     "id": "112",
@@ -2488,18 +2483,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "V\u00e6rdien er ikke en gyldig sprogkode.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke en gyldig sprogkode."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "V\u00e6rdien er ikke et gyldigt bel\u00f8b.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke et gyldigt bel\u00f8b."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "V\u00e6rdien er ikke et gyldigt tal.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke et gyldigt tal."
                 },
                 "116": {
                     "id": "116",
@@ -2507,8 +2499,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "V\u00e6rdien er ikke en gyldig procentv\u00e6rdi.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke en gyldig procentv\u00e6rdi."
                 },
                 "118": {
                     "id": "118",
@@ -2528,13 +2519,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "V\u00e6rdien er ikke et gyldigt s\u00f8geord.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke et gyldigt s\u00f8geord."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "V\u00e6rdien er ikke et gyldigt telefonnummer.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke et gyldigt telefonnummer."
                 },
                 "124": {
                     "id": "124",
@@ -2546,13 +2535,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "V\u00e6rdien er ikke en gyldig mulighed.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke en gyldig mulighed."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "V\u00e6rdien er ikke et gyldigt interval.",
-                    "state": "needs-review-translation"
+                    "trans": "V\u00e6rdien er ikke et gyldigt interval."
                 },
                 "128": {
                     "id": "128",
@@ -2564,8 +2551,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Den nedre gr\u00e6nse m\u00e5 ikke v\u00e6re st\u00f8rre end den \u00f8vre gr\u00e6nse.",
-                    "state": "needs-review-translation"
+                    "trans": "Den nedre gr\u00e6nse m\u00e5 ikke v\u00e6re st\u00f8rre end den \u00f8vre gr\u00e6nse."
                 }
             },
             "de": {
@@ -4844,8 +4830,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Questo valore non \u00e8 una data di nascita valida.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 una data di nascita valida."
                 },
                 "101": {
                     "id": "101",
@@ -4857,8 +4842,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Questo valore non \u00e8 un colore valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un colore valido."
                 },
                 "104": {
                     "id": "104",
@@ -4870,8 +4854,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Questo valore non \u00e8 un intervallo di date valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un intervallo di date valido."
                 },
                 "107": {
                     "id": "107",
@@ -4883,8 +4866,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Questo valore non \u00e8 un file valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un file valido."
                 },
                 "110": {
                     "id": "110",
@@ -4892,8 +4874,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Questo valore non \u00e8 un numero intero valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un numero intero valido."
                 },
                 "112": {
                     "id": "112",
@@ -4905,13 +4886,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Questo valore non \u00e8 un importo valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un importo di denaro valido."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Questo valore non \u00e8 un numero valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un numero valido."
                 },
                 "116": {
                     "id": "116",
@@ -4919,8 +4898,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Questo valore non \u00e8 un valore percentuale valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 una percentuale valida."
                 },
                 "118": {
                     "id": "118",
@@ -4940,13 +4918,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Questo valore non \u00e8 un termine di ricerca valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un termine di ricerca valido."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Questo valore non \u00e8 un numero di telefono valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un numero di telefono valido."
                 },
                 "124": {
                     "id": "124",
@@ -4958,13 +4934,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Questo valore non \u00e8 un'opzione valida.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un'opzione valida."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Questo valore non \u00e8 un intervallo valido.",
-                    "state": "needs-review-translation"
+                    "trans": "Questo valore non \u00e8 un intervallo valido."
                 },
                 "128": {
                     "id": "128",
@@ -5151,8 +5125,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltege Gebuertsdatum.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltege Gebuertsdatum."
                 },
                 "101": {
                     "id": "101",
@@ -5164,8 +5137,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg Faarf.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg Faarf."
                 },
                 "104": {
                     "id": "104",
@@ -5177,8 +5149,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltegen Datumsinterval.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltegen Datumsintervall."
                 },
                 "107": {
                     "id": "107",
@@ -5190,8 +5161,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltege Fichier.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltege Fichier."
                 },
                 "110": {
                     "id": "110",
@@ -5199,8 +5169,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "D\u00ebse W\u00e4ert ass keng ganz Zuel.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass keng ganz Zuel."
                 },
                 "112": {
                     "id": "112",
@@ -5212,13 +5181,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg Geldzomm.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg Geldzomm."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "D\u00ebse W\u00e4ert ass keng Zuel.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg Zuel."
                 },
                 "116": {
                     "id": "116",
@@ -5226,8 +5193,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltege Prozentw\u00e4ert.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltege Prozentw\u00e4ert."
                 },
                 "118": {
                     "id": "118",
@@ -5247,13 +5213,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltege Sichbegr\u00ebff.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltege Sichbegr\u00ebff."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg Telefonsnummer.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg Telefonsnummer."
                 },
                 "124": {
                     "id": "124",
@@ -5265,13 +5229,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg Optioun.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg Optioun."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg Spannbreet.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltege Ber\u00e4ich."
                 },
                 "128": {
                     "id": "128",
@@ -5283,8 +5245,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "D\u00e9i \u00ebnnescht Grenz d\u00e4erf net m\u00e9i grouss si w\u00e9i d\u00e9i iewescht Grenz.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00e9i \u00ebnnescht Grenz d\u00e4erf net m\u00e9i grouss si w\u00e9i d\u00e9i iewescht Grenz."
                 }
             },
             "lt": {
@@ -6248,8 +6209,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Dit is geen geldige geboortedatum.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldige geboortedatum."
                 },
                 "101": {
                     "id": "101",
@@ -6261,8 +6221,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Dit is geen geldige kleur.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldige kleur."
                 },
                 "104": {
                     "id": "104",
@@ -6274,8 +6233,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Dit is geen geldig tijdsinterval.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldig tijdsinterval."
                 },
                 "107": {
                     "id": "107",
@@ -6287,8 +6245,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Dit is geen geldig bestand.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldig bestand."
                 },
                 "110": {
                     "id": "110",
@@ -6296,8 +6253,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Dit is geen geldig geheel getal.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldig geheel getal."
                 },
                 "112": {
                     "id": "112",
@@ -6309,13 +6265,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Dit is geen geldig bedrag.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldig bedrag."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Dit is geen geldig getal.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldig getal."
                 },
                 "116": {
                     "id": "116",
@@ -6323,8 +6277,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Dit is geen geldig percentage.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldig percentage."
                 },
                 "118": {
                     "id": "118",
@@ -6344,13 +6297,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Dit is geen geldige zoekterm.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldige zoekterm."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Dit is geen geldig telefoonnummer.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldig telefoonnummer."
                 },
                 "124": {
                     "id": "124",
@@ -6362,13 +6313,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Dit is geen geldige optie.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldige optie."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Dit is geen geldig bereik.",
-                    "state": "needs-review-translation"
+                    "trans": "Deze waarde is geen geldig bereik."
                 },
                 "128": {
                     "id": "128",
@@ -8825,8 +8774,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u044e \u0434\u0430\u0442\u043e\u044e \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u044e \u0434\u0430\u0442\u043e\u044e \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f."
                 },
                 "101": {
                     "id": "101",
@@ -8838,8 +8786,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u043a\u043e\u043b\u044c\u043e\u0440\u043e\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u043a\u043e\u043b\u044c\u043e\u0440\u043e\u043c."
                 },
                 "104": {
                     "id": "104",
@@ -8851,8 +8798,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0456\u043d\u0442\u0435\u0440\u0432\u0430\u043b\u043e\u043c \u0434\u0430\u0442\u0438.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0456\u043d\u0442\u0435\u0440\u0432\u0430\u043b\u043e\u043c \u0434\u0430\u0442."
                 },
                 "107": {
                     "id": "107",
@@ -8864,8 +8810,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0444\u0430\u0439\u043b\u043e\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0444\u0430\u0439\u043b\u043e\u043c."
                 },
                 "110": {
                     "id": "110",
@@ -8873,8 +8818,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0446\u0456\u043b\u0438\u043c \u0447\u0438\u0441\u043b\u043e\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0446\u0456\u043b\u0438\u043c \u0447\u0438\u0441\u043b\u043e\u043c."
                 },
                 "112": {
                     "id": "112",
@@ -8886,13 +8830,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u044e \u0441\u0443\u043c\u043e\u044e \u0433\u0440\u043e\u0448\u0435\u0439.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u044e \u0441\u0443\u043c\u043e\u044e \u0433\u0440\u043e\u0448\u0435\u0439."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0447\u0438\u0441\u043b\u043e\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0447\u0438\u0441\u043b\u043e\u043c."
                 },
                 "116": {
                     "id": "116",
@@ -8900,8 +8842,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u043f\u0440\u043e\u0446\u0435\u043d\u0442\u043d\u0438\u043c \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u043f\u0440\u043e\u0446\u0435\u043d\u0442\u043d\u0438\u043c \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f\u043c."
                 },
                 "118": {
                     "id": "118",
@@ -8921,13 +8862,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u043f\u043e\u0448\u0443\u043a\u043e\u0432\u0438\u043c \u0442\u0435\u0440\u043c\u0456\u043d\u043e\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u043f\u043e\u0448\u0443\u043a\u043e\u0432\u0438\u043c \u0442\u0435\u0440\u043c\u0456\u043d\u043e\u043c."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443."
                 },
                 "124": {
                     "id": "124",
@@ -8935,18 +8874,15 @@
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u044e \u0430\u0434\u0440\u0435\u0441\u043e\u044e \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0457 \u043f\u043e\u0448\u0442\u0438.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u044e \u0430\u0434\u0440\u0435\u0441\u043e\u044e \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0457 \u043f\u043e\u0448\u0442\u0438."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0432\u0430\u0440\u0456\u0430\u043d\u0442\u043e\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0432\u0430\u0440\u0456\u0430\u043d\u0442\u043e\u043c."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0434\u0456\u0430\u043f\u0430\u0437\u043e\u043d\u043e\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0434\u0456\u0430\u043f\u0430\u0437\u043e\u043d\u043e\u043c."
                 },
                 "128": {
                     "id": "128",
@@ -8958,8 +8894,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "\u041d\u0438\u0436\u043d\u044f \u043c\u0435\u0436\u0430 \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u0430 \u0431\u0443\u0442\u0438 \u0431\u0456\u043b\u044c\u0448\u043e\u044e \u0437\u0430 \u0432\u0435\u0440\u0445\u043d\u044e \u043c\u0435\u0436\u0443.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041d\u0438\u0436\u043d\u044f \u043c\u0435\u0436\u0430 \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u0430 \u0431\u0443\u0442\u0438 \u0431\u0456\u043b\u044c\u0448\u043e\u044e \u0437\u0430 \u0432\u0435\u0440\u0445\u043d\u044e \u043c\u0435\u0436\u0443."
                 }
             },
             "ur": {
@@ -9276,7 +9211,7 @@
             "vi": {
                 "28": {
                     "id": "28",
-                    "trans": "M\u1eabu n\u00e0y kh\u00f4ng n\u00ean ch\u1ee9a tr\u01b0\u1eddng m\u1edf r\u1ed9ng."
+                    "trans": "Bi\u1ec3u m\u1eabu n\u00e0y kh\u00f4ng \u0111\u01b0\u1ee3c ch\u1ee9a tr\u01b0\u1eddng th\u1eeba."
                 },
                 "29": {
                     "id": "29",
@@ -9292,8 +9227,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 ng\u00e0y sinh h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 ng\u00e0y sinh h\u1ee3p l\u1ec7."
                 },
                 "101": {
                     "id": "101",
@@ -9305,8 +9239,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u00e0u h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u00e0u h\u1ee3p l\u1ec7."
                 },
                 "104": {
                     "id": "104",
@@ -9318,13 +9251,11 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 kho\u1ea3ng th\u1eddi gian h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 kho\u1ea3ng th\u1eddi gian h\u1ee3p l\u1ec7."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 ng\u00e0y v\u00e0 th\u1eddi gian h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 ng\u00e0y gi\u1edd h\u1ee3p l\u1ec7."
                 },
                 "108": {
                     "id": "108",
@@ -9332,17 +9263,15 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 t\u1ec7p h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 t\u1ec7p h\u1ee3p l\u1ec7."
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Pha\u0323m vi \u00e2\u0309n kh\u00f4ng h\u01a1\u0323p l\u00ea\u0323."
+                    "trans": "Tr\u01b0\u1eddng \u1ea9n kh\u00f4ng h\u1ee3p l\u1ec7."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 s\u1ed1 nguy\u00ean h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 s\u1ed1 nguy\u00ean h\u1ee3p l\u1ec7."
                 },
                 "112": {
                     "id": "112",
@@ -9350,18 +9279,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 mi\u1ec1n h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u00e3 ng\u00f4n ng\u1eef v\u00e0 khu v\u1ef1c h\u1ee3p l\u1ec7."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 kho\u1ea3n ti\u1ec1n h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 s\u1ed1 ti\u1ec1n h\u1ee3p l\u1ec7."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 s\u1ed1 h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 s\u1ed1 h\u1ee3p l\u1ec7."
                 },
                 "116": {
                     "id": "116",
@@ -9369,8 +9295,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 ph\u1ea7n tr\u0103m h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 t\u1ef7 l\u1ec7 ph\u1ea7n tr\u0103m h\u1ee3p l\u1ec7."
                 },
                 "118": {
                     "id": "118",
@@ -9390,13 +9315,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 chu\u1ed7i t\u00ecm ki\u1ebfm h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 t\u1eeb kh\u00f3a t\u00ecm ki\u1ebfm h\u1ee3p l\u1ec7."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 s\u1ed1 \u0111i\u1ec7n tho\u1ea1i h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 s\u1ed1 \u0111i\u1ec7n tho\u1ea1i h\u1ee3p l\u1ec7."
                 },
                 "124": {
                     "id": "124",
@@ -9404,33 +9327,27 @@
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 email h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 email h\u1ee3p l\u1ec7."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 ph\u01b0\u01a1ng \u00e1n h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 l\u1ef1a ch\u1ecdn h\u1ee3p l\u1ec7."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 ph\u1ea1m vi h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 kho\u1ea3ng gi\u00e1 tr\u1ecb h\u1ee3p l\u1ec7."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 tu\u1ea7n h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 tu\u1ea7n h\u1ee3p l\u1ec7."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 UUID h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 UUID h\u1ee3p l\u1ec7."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Gi\u1edbi h\u1ea1n d\u01b0\u1edbi kh\u00f4ng \u0111\u01b0\u1ee3c l\u1edbn h\u01a1n gi\u1edbi h\u1ea1n tr\u00ean.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u1edbi h\u1ea1n d\u01b0\u1edbi kh\u00f4ng \u0111\u01b0\u1ee3c l\u1edbn h\u01a1n gi\u1edbi h\u1ea1n tr\u00ean."
                 }
             },
             "zh_CN": {
@@ -9607,8 +9524,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u51fa\u751f\u65e5\u671f\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u51fa\u751f\u65e5\u671f\u3002"
                 },
                 "101": {
                     "id": "101",
@@ -9620,8 +9536,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u984f\u8272\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u984f\u8272\u3002"
                 },
                 "104": {
                     "id": "104",
@@ -9633,8 +9548,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u65e5\u671f\u5340\u9593\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u65e5\u671f\u5340\u9593\u3002"
                 },
                 "107": {
                     "id": "107",
@@ -9646,8 +9560,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u6a94\u6848\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u6a94\u6848\u3002"
                 },
                 "110": {
                     "id": "110",
@@ -9655,8 +9568,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u6574\u6578\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u6574\u6578\u3002"
                 },
                 "112": {
                     "id": "112",
@@ -9664,18 +9576,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u8a9e\u7cfb\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u8a9e\u7cfb\u3002"
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u91d1\u984d\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u91d1\u984d\u3002"
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u6578\u5b57\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u6578\u5b57\u3002"
                 },
                 "116": {
                     "id": "116",
@@ -9683,8 +9592,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u767e\u5206\u6bd4\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u767e\u5206\u6bd4\u3002"
                 },
                 "118": {
                     "id": "118",
@@ -9704,13 +9612,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u641c\u5c0b\u95dc\u9375\u5b57\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u641c\u5c0b\u95dc\u9375\u5b57\u3002"
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u96fb\u8a71\u865f\u78bc\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u96fb\u8a71\u865f\u78bc\u3002"
                 },
                 "124": {
                     "id": "124",
@@ -9722,13 +9628,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u9078\u9805\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u9078\u9805\u3002"
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u7bc4\u570d\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u503c\u4e0d\u662f\u6709\u6548\u7684\u7bc4\u570d\u3002"
                 },
                 "128": {
                     "id": "128",
@@ -9740,8 +9644,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "\u4e0b\u9650\u4e0d\u5f97\u5927\u65bc\u4e0a\u9650\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u4e0b\u9650\u4e0d\u5f97\u5927\u65bc\u4e0a\u9650\u3002"
                 }
             }
         },
@@ -14123,7 +14026,7 @@
                 },
                 "17": {
                     "id": "17",
-                    "trans": "\u0110\u0103ng nh\u00e2\u0323p sai qua\u0301 nhi\u00ea\u0300u l\u00e2\u0300n, vui lo\u0300ng th\u01b0\u0309 la\u0323i l\u00e2\u0300n n\u01b0\u0303a."
+                    "trans": "\u0110\u0103ng nh\u1eadp sai qu\u00e1 nhi\u1ec1u l\u1ea7n, vui l\u00f2ng th\u1eed l\u1ea1i sau."
                 },
                 "18": {
                     "id": "18",
@@ -14135,8 +14038,7 @@
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Qu\u00e1 nhi\u1ec1u l\u1ea7n \u0111\u0103ng nh\u1eadp kh\u00f4ng th\u00e0nh c\u00f4ng, vui l\u00f2ng th\u1eed l\u1ea1i sau %minutes% ph\u00fat.|Qu\u00e1 nhi\u1ec1u l\u1ea7n \u0111\u0103ng nh\u1eadp kh\u00f4ng th\u00e0nh c\u00f4ng, vui l\u00f2ng th\u1eed l\u1ea1i sau %minutes% ph\u00fat.",
-                    "state": "needs-review-translation"
+                    "trans": "Qu\u00e1 nhi\u1ec1u l\u1ea7n th\u1eed \u0111\u0103ng nh\u1eadp kh\u00f4ng th\u00e0nh c\u00f4ng, vui l\u00f2ng th\u1eed l\u1ea1i sau %minutes% ph\u00fat."
                 }
             },
             "zh_CN": {
@@ -21538,98 +21440,79 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Den refererede entitet findes ikke.",
-                    "state": "needs-review-translation"
+                    "trans": "Den refererede entitet findes ikke."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Denne v\u00e6rdi er ikke et gyldigt ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne v\u00e6rdi er ikke et gyldigt ULID."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Denne fil er ikke en gyldig lydfil.",
-                    "state": "needs-review-translation"
+                    "trans": "Denne fil er ikke en gyldig lydfil."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Lyden er for kort ({{ duration }} sekunder). Mindste forventede varighed er {{ min_duration }} sekunder.",
-                    "state": "needs-review-translation"
+                    "trans": "Lyden er for kort ({{ duration }} sekunder). Mindste forventede varighed er {{ min_duration }} sekunder."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Lyden er for lang ({{ duration }} sekunder). Tilladt maksimal varighed er {{ max_duration }} sekunder.",
-                    "state": "needs-review-translation"
+                    "trans": "Lyden er for lang ({{ duration }} sekunder). Tilladt maksimal varighed er {{ max_duration }} sekunder."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Lydens varighed kunne ikke registreres.",
-                    "state": "needs-review-translation"
+                    "trans": "Lydens varighed kunne ikke registreres."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Lydens bitrate er for lav ({{ bitrate }} bps). Mindste forventede bitrate er {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Lydens bitrate er for lav ({{ bitrate }} bps). Mindste forventede bitrate er {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Lydens bitrate er for h\u00f8j ({{ bitrate }} bps). Tilladt maksimal bitrate er {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Lydens bitrate er for h\u00f8j ({{ bitrate }} bps). Tilladt maksimal bitrate er {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Lydens bitrate kunne ikke registreres.",
-                    "state": "needs-review-translation"
+                    "trans": "Lydens bitrate kunne ikke registreres."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Ikke-underst\u00f8ttet samplingfrekvens for lyd ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Ikke-underst\u00f8ttet samplingfrekvens for lyd ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Lydens samplingfrekvens kunne ikke registreres.",
-                    "state": "needs-review-translation"
+                    "trans": "Lydens samplingfrekvens kunne ikke registreres."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Lyden har for f\u00e5 kanaler ({{ channels }}). Forventet minimum er {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Lyden har for f\u00e5 kanaler ({{ channels }}). Forventet minimum er {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Lyden har for mange kanaler ({{ channels }}). Forventet maksimumm\u00e6ngde er {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Lyden har for mange kanaler ({{ channels }}). Forventet maksimumm\u00e6ngde er {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Antallet af lydkanaler kunne ikke registreres.",
-                    "state": "needs-review-translation"
+                    "trans": "Antallet af lydkanaler kunne ikke registreres."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Lydfilen er beskadiget.",
-                    "state": "needs-review-translation"
+                    "trans": "Lydfilen er beskadiget."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Lyden indeholder flere streams. Kun \u00e9n stream er tilladt.",
-                    "state": "needs-review-translation"
+                    "trans": "Lyden indeholder flere streams. Kun \u00e9n stream er tilladt."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Ikke-underst\u00f8ttet lydkodek \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ikke-underst\u00f8ttet lydkodek \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Ikke-underst\u00f8ttet lydcontainer \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ikke-underst\u00f8ttet lydcontainer \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Filen indeholder ingen lydstream.",
-                    "state": "needs-review-translation"
+                    "trans": "Filen indeholder ingen lydstream."
                 }
             },
             "de": {
@@ -32959,7 +32842,7 @@
                 },
                 "43": {
                     "id": "43",
-                    "trans": "D'Breet vum Bild ass ze grouss ({{ width }}px). D\u00e9i erlaabte maximal Breet ass {{ max_width }}px."
+                    "trans": "D'Breet vum Bild ass ze grouss ({{ width }}px). D\u00e9i erlaabt maximal Breet ass {{ max_width }}px."
                 },
                 "44": {
                     "id": "44",
@@ -32967,7 +32850,7 @@
                 },
                 "45": {
                     "id": "45",
-                    "trans": "D'H\u00e9icht vum Bild ass ze grouss ({{ height }}px). D\u00e9i erlaabte maximal H\u00e9icht ass {{ max_height }}px."
+                    "trans": "D'H\u00e9icht vum Bild ass ze grouss ({{ height }}px). D\u00e9i erlaabt maximal H\u00e9icht ass {{ max_height }}px."
                 },
                 "46": {
                     "id": "46",
@@ -33203,11 +33086,11 @@
                 },
                 "104": {
                     "id": "104",
-                    "trans": "De Dateinimm ass ze laang. Et sollt {{ filename_max_length }} Zeechen oder manner hunn.|De Dateinimm ass ze laang. Et sollt {{ filename_max_length }} Zeechen oder manner hunn."
+                    "trans": "Den Dateinumm ass ze laang. E sollt {{ filename_max_length }} Zeechen oder manner hunn.|Den Dateinumm ass ze laang. E sollt {{ filename_max_length }} Zeechen oder manner hunn."
                 },
                 "105": {
                     "id": "105",
-                    "trans": "D'Staarf vum Passwuert ass ze schwaach. Benotzt w. e. g. e st\u00e4erker Passwuert."
+                    "trans": "D'St\u00e4erkt vum Passwuert ass ze schwaach. Benotzt w. e. g. e m\u00e9i staarkt Passwuert."
                 },
                 "106": {
                     "id": "106",
@@ -33215,15 +33098,15 @@
                 },
                 "107": {
                     "id": "107",
-                    "trans": "D'Benotzen vu onsiichtbaren Zeechen ass net erlaabt."
+                    "trans": "D'Benotze vun onsiichtbaren Zeechen ass net erlaabt."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "D'M\u00ebsche vu Nummeren aus verschiddenen Skripten ass net erlaabt."
+                    "trans": "D'M\u00ebsche vun Nummeren aus verschiddenen Skripten ass net erlaabt."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "D'Benotzen vu verstoppten Iwwerlagungszeechen ass net erlaabt."
+                    "trans": "D'Benotze vu verstoppten Iwwerlagungszeechen ass net erlaabt."
                 },
                 "110": {
                     "id": "110",
@@ -33271,7 +33154,7 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "D\u00ebs Datei ass kee g\u00ebltegen Video."
+                    "trans": "D\u00ebs Datei ass kee g\u00ebltege Video."
                 },
                 "123": {
                     "id": "123",
@@ -33279,23 +33162,23 @@
                 },
                 "124": {
                     "id": "124",
-                    "trans": "D'Videobreed ass ze grouss ({{ width }}px). Erlaabt maximal Breed ass {{ max_width }}px."
+                    "trans": "D'Videobreet ass ze grouss ({{ width }}px). D\u00e9i erlaabt maximal Breet ass {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "D'Videobreed ass ze kleng ({{ width }}px). Minimal erwaart Breed ass {{ min_width }}px."
+                    "trans": "D'Videobreet ass ze kleng ({{ width }}px). D\u00e9i minimal erwaart Breet ass {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "D'Videoh\u00e9icht ass ze grouss ({{ height }}px). Erlaabt maximal H\u00e9icht ass {{ max_height }}px."
+                    "trans": "D'Videoh\u00e9icht ass ze grouss ({{ height }}px). D\u00e9i erlaabt maximal H\u00e9icht ass {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "D'Videoh\u00e9icht ass ze kleng ({{ height }}px). Erwaart Mindesth\u00e9icht ass {{ min_height }}px."
+                    "trans": "D'Videoh\u00e9icht ass ze kleng ({{ height }}px). D\u00e9i minimal erwaart H\u00e9icht ass {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "De Video huet ze w\u00e9ineg Pixel ({{ pixels }}). Erwaart Minimum ass {{ min_pixels }}."
+                    "trans": "De Video huet ze w\u00e9ineg Pixel ({{ pixels }}). D\u00e9i erwaart minimal Zuel ass {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
@@ -33303,11 +33186,11 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "D'Videoproportioun ass ze grouss ({{ ratio }}). Erlaabt maximal Proportioun ass {{ max_ratio }}."
+                    "trans": "D'Videoproportioun ass ze grouss ({{ ratio }}). D\u00e9i erlaabt maximal Proportioun ass {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "D'Videoratio ass ze kleng ({{ ratio }}). Minimal erwaart Ratio ass {{ min_ratio }}."
+                    "trans": "D'Videoproportioun ass ze kleng ({{ ratio }}). D\u00e9i minimal erwaart Proportioun ass {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
@@ -33315,11 +33198,11 @@
                 },
                 "133": {
                     "id": "133",
-                    "trans": "De Video ass am Landschaftsformat ({{ width }}x{{ height }} px). Landschafts-Videoe sinn net erlaabt."
+                    "trans": "De Video ass am Queeschformat ({{ width }}x{{ height }}px). Videoe am Queeschformat sinn net erlaabt."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "De Video ass am Portraitformat ({{ width }}x{{ height }}px). Portrait-Videoe sinn net erlaabt."
+                    "trans": "De Video ass am H\u00e9ichformat ({{ width }}x{{ height }}px). Videoe am H\u00e9ichformat sinn net erlaabt."
                 },
                 "135": {
                     "id": "135",
@@ -33327,7 +33210,7 @@
                 },
                 "136": {
                     "id": "136",
-                    "trans": "De Video enth\u00e4lt verschidde Str\u00e9imen. N\u00ebmmen ee Stroum ass erlaabt."
+                    "trans": "De Video enth\u00e4lt verschidde Streams. N\u00ebmmen ee Stream ass erlaabt."
                 },
                 "137": {
                     "id": "137",
@@ -33355,118 +33238,95 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "D\u00ebse Wert ass keen valabelt XML.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltegt XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "D\u00ebse Wert entspr\u00e9cht net dem erwaarte XSD-Schema.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert entspr\u00e9cht net dem erwaarten XSD-Schema."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "D\u00ebs XML-Nutzlaascht ass ze grouss ({{ size }} Bytes): si iwwerschreift d'Limitt vu {{ limit }} Bytes.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebs XML-Notzlaascht ass ze grouss ({{ size }} Bytes): si iwwerschreit d'Limitt vun {{ limit }} Bytes."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "D\u00ebse W\u00e4ert ass keen g\u00fcltegen Cron-Ausdrock.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass kee g\u00ebltege Cron-Ausdrock."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "D\u00e9i referenz\u00e9iert Entit\u00e9it exist\u00e9iert net.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00e9i referenz\u00e9iert Entit\u00e9it exist\u00e9iert net."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00fclteg ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebse W\u00e4ert ass keng g\u00eblteg ULID."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "D\u00ebs Datei ass kee g\u00ebltegen Audiofichier.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u00ebs Datei ass kee g\u00ebltegen Audiofichier."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "D'Audio ass ze kuerz ({{ duration }} Sekonnen). Minimal erwaart Dauer ass {{ min_duration }} Sekonnen.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Audiodatei ass ze kuerz ({{ duration }} Sekonnen). D\u00e9i minimal erwaart Dauer ass {{ min_duration }} Sekonnen."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "D'Audio ass ze laang ({{ duration }} Sekonnen). Erlaabt maximal Dauer ass {{ max_duration }} Sekonnen.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Audiodatei ass ze laang ({{ duration }} Sekonnen). D\u00e9i erlaabt maximal Dauer ass {{ max_duration }} Sekonnen."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "D'Dauer vum Audio konnt net erkannt ginn.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Dauer vun der Audiodatei konnt net erkannt ginn."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "D'Bitrate vum Audio ass ze niddreg ({{ bitrate }} bps). Minimal erwaart Bitrate ass {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Bitrate vun der Audiodatei ass ze niddreg ({{ bitrate }} bps). D\u00e9i minimal erwaart Bitrate ass {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "D'Bitrate vum Audio ass ze h\u00e9ich ({{ bitrate }} bps). Erlaabt maximal Bitrate ass {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Bitrate vun der Audiodatei ass ze h\u00e9ich ({{ bitrate }} bps). D\u00e9i erlaabt maximal Bitrate ass {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "D'Bitrate vum Audio konnt net erkannt ginn.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Bitrate vun der Audiodatei konnt net erkannt ginn."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Net \u00ebnnerst\u00ebtzte Audio-Samplingrate ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Net \u00ebnnerst\u00ebtzt Audio-Samplingrate ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "D'Samplingrate vum Audio konnt net erkannt ginn.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Samplingrate vun der Audiodatei konnt net erkannt ginn."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "D'Audio huet ze w\u00e9ineg Kan\u00e4l ({{ channels }}). Erwaart Minimum ass {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Audiodatei huet ze w\u00e9ineg Kan\u00e4l ({{ channels }}). D\u00e9i erwaart minimal Zuel ass {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "D'Audio huet ze vill Kan\u00e4l ({{ channels }}). D\u00e9i erwaart maximal Zuel ass {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Audiodatei huet ze vill Kan\u00e4l ({{ channels }}). D\u00e9i erwaart maximal Zuel ass {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "D'Zuel vun den Audiokan\u00e4l konnt net erkannt ginn.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Zuel vun den Audiokan\u00e4l konnt net erkannt ginn."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "D'Audiodatei ass beschiedegt.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Audiodatei ass beschiedegt."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "D'Audio enth\u00e4lt verschidde Str\u00e9imen. N\u00ebmmen ee Stroum ass erlaabt.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Audiodatei enth\u00e4lt verschidde Streams. N\u00ebmmen ee Stream ass erlaabt."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Net \u00ebnnerst\u00ebtzte Audiocodec \u201e{{ codec }}\u201c.",
-                    "state": "needs-review-translation"
+                    "trans": "Net \u00ebnnerst\u00ebtzten Audiocodec \u201e{{ codec }}\u201c."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Net \u00ebnnerst\u00ebtzte Audio-Container \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Net \u00ebnnerst\u00ebtzten Audio-Container \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "D'Datei enth\u00e4lt keen Audiostroum.",
-                    "state": "needs-review-translation"
+                    "trans": "D'Datei enth\u00e4lt keen Audio-Stream."
                 }
             },
             "lt": {
@@ -49249,98 +49109,79 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "\u0421\u0443\u0442\u043d\u0456\u0441\u0442\u044c, \u043d\u0430 \u044f\u043a\u0443 \u043f\u043e\u0441\u0438\u043b\u0430\u044e\u0442\u044c\u0441\u044f, \u043d\u0435 \u0456\u0441\u043d\u0443\u0454.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0421\u0443\u0442\u043d\u0456\u0441\u0442\u044c, \u043d\u0430 \u044f\u043a\u0443 \u043f\u043e\u0441\u0438\u043b\u0430\u044e\u0442\u044c\u0441\u044f, \u043d\u0435 \u0456\u0441\u043d\u0443\u0454."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043d\u0435 \u0454 \u0434\u0456\u0439\u0441\u043d\u0438\u043c ULID."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "\u0426\u0435\u0439 \u0444\u0430\u0439\u043b \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u043e\u043c.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0426\u0435\u0439 \u0444\u0430\u0439\u043b \u043d\u0435 \u0454 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u043c \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u043e\u043c."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "\u0410\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0439 ({{ duration }} \u0441\u0435\u043a\u0443\u043d\u0434). \u041c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0430 \u0442\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c {{ min_duration }} \u0441\u0435\u043a\u0443\u043d\u0434.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0410\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0439 ({{ duration }} \u0441\u0435\u043a\u0443\u043d\u0434). \u041c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0430 \u0442\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c {{ min_duration }} \u0441\u0435\u043a\u0443\u043d\u0434."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "\u0410\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0434\u043e\u0432\u0433\u0438\u0439 ({{ duration }} \u0441\u0435\u043a\u0443\u043d\u0434). \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0430 \u0442\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c {{ max_duration }} \u0441\u0435\u043a\u0443\u043d\u0434.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0410\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0434\u043e\u0432\u0433\u0438\u0439 ({{ duration }} \u0441\u0435\u043a\u0443\u043d\u0434). \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0430 \u0442\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c {{ max_duration }} \u0441\u0435\u043a\u0443\u043d\u0434."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "\u041d\u0435 \u0432\u0434\u0430\u043b\u043e\u0441\u044f \u0432\u0438\u0437\u043d\u0430\u0447\u0438\u0442\u0438 \u0442\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0443.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041d\u0435 \u0432\u0434\u0430\u043b\u043e\u0441\u044f \u0432\u0438\u0437\u043d\u0430\u0447\u0438\u0442\u0438 \u0442\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0443."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "\u0411\u0456\u0442\u0440\u0435\u0439\u0442 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0443 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043d\u0438\u0437\u044c\u043a\u0438\u0439 ({{ bitrate }} bps). \u041c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u0439 \u0431\u0456\u0442\u0440\u0435\u0439\u0442 {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0411\u0456\u0442\u0440\u0435\u0439\u0442 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0443 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043d\u0438\u0437\u044c\u043a\u0438\u0439 ({{ bitrate }} bps). \u041c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u0439 \u0431\u0456\u0442\u0440\u0435\u0439\u0442 {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "\u0411\u0456\u0442\u0440\u0435\u0439\u0442 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0443 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0432\u0438\u0441\u043e\u043a\u0438\u0439 ({{ bitrate }} bps). \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u0439 \u0431\u0456\u0442\u0440\u0435\u0439\u0442 {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0411\u0456\u0442\u0440\u0435\u0439\u0442 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0443 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0432\u0438\u0441\u043e\u043a\u0438\u0439 ({{ bitrate }} bps). \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0438\u0439 \u0431\u0456\u0442\u0440\u0435\u0439\u0442 {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "\u041d\u0435 \u0432\u0434\u0430\u043b\u043e\u0441\u044f \u0432\u0438\u0437\u043d\u0430\u0447\u0438\u0442\u0438 \u0431\u0456\u0442\u0440\u0435\u0439\u0442 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0443.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041d\u0435 \u0432\u0434\u0430\u043b\u043e\u0441\u044f \u0432\u0438\u0437\u043d\u0430\u0447\u0438\u0442\u0438 \u0431\u0456\u0442\u0440\u0435\u0439\u0442 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0443."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "\u041d\u0435\u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u043d\u0430 \u0447\u0430\u0441\u0442\u043e\u0442\u0430 \u0434\u0438\u0441\u043a\u0440\u0435\u0442\u0438\u0437\u0430\u0446\u0456\u0457 \u0430\u0443\u0434\u0456\u043e ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "\u041d\u0435\u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u043d\u0430 \u0447\u0430\u0441\u0442\u043e\u0442\u0430 \u0434\u0438\u0441\u043a\u0440\u0435\u0442\u0438\u0437\u0430\u0446\u0456\u0457 \u0430\u0443\u0434\u0456\u043e ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "\u041d\u0435 \u0432\u0434\u0430\u043b\u043e\u0441\u044f \u0432\u0438\u0437\u043d\u0430\u0447\u0438\u0442\u0438 \u0447\u0430\u0441\u0442\u043e\u0442\u0443 \u0434\u0438\u0441\u043a\u0440\u0435\u0442\u0438\u0437\u0430\u0446\u0456\u0457 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0443.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041d\u0435 \u0432\u0434\u0430\u043b\u043e\u0441\u044f \u0432\u0438\u0437\u043d\u0430\u0447\u0438\u0442\u0438 \u0447\u0430\u0441\u0442\u043e\u0442\u0443 \u0434\u0438\u0441\u043a\u0440\u0435\u0442\u0438\u0437\u0430\u0446\u0456\u0457 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0443."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "\u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u043a\u0430\u043d\u0430\u043b\u0456\u0432 \u0432 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0456 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043c\u0430\u043b\u0430 ({{ channels }}). \u041c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u043a\u0430\u043d\u0430\u043b\u0456\u0432 \u0432 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0456 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u043c\u0430\u043b\u0430 ({{ channels }}). \u041c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "\u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u043a\u0430\u043d\u0430\u043b\u0456\u0432 \u0432 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0456 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0432\u0435\u043b\u0438\u043a\u0430 ({{ channels }}). \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u043a\u0430\u043d\u0430\u043b\u0456\u0432 \u0432 \u0430\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b\u0456 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0432\u0435\u043b\u0438\u043a\u0430 ({{ channels }}). \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "\u041d\u0435 \u0432\u0434\u0430\u043b\u043e\u0441\u044f \u0432\u0438\u0437\u043d\u0430\u0447\u0438\u0442\u0438 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0430\u0443\u0434\u0456\u043e\u043a\u0430\u043d\u0430\u043b\u0456\u0432.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041d\u0435 \u0432\u0434\u0430\u043b\u043e\u0441\u044f \u0432\u0438\u0437\u043d\u0430\u0447\u0438\u0442\u0438 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0430\u0443\u0434\u0456\u043e\u043a\u0430\u043d\u0430\u043b\u0456\u0432."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "\u0410\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b \u043f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u043e.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0410\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b \u043f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u043e."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "\u0410\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b \u043c\u0456\u0441\u0442\u0438\u0442\u044c \u043a\u0456\u043b\u044c\u043a\u0430 \u043f\u043e\u0442\u043e\u043a\u0456\u0432. \u0414\u043e\u0437\u0432\u043e\u043b\u0435\u043d\u043e \u043b\u0438\u0448\u0435 \u043e\u0434\u0438\u043d \u043f\u043e\u0442\u0456\u043a.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0410\u0443\u0434\u0456\u043e\u0444\u0430\u0439\u043b \u043c\u0456\u0441\u0442\u0438\u0442\u044c \u043a\u0456\u043b\u044c\u043a\u0430 \u043f\u043e\u0442\u043e\u043a\u0456\u0432. \u0414\u043e\u0437\u0432\u043e\u043b\u0435\u043d\u043e \u043b\u0438\u0448\u0435 \u043e\u0434\u0438\u043d \u043f\u043e\u0442\u0456\u043a."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "\u041d\u0435\u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u043d\u0438\u0439 \u0430\u0443\u0434\u0456\u043e\u043a\u043e\u0434\u0435\u043a \u00ab{{ codec }}\u00bb.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041d\u0435\u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u043d\u0438\u0439 \u0430\u0443\u0434\u0456\u043e\u043a\u043e\u0434\u0435\u043a \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "\u041d\u0435\u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u043d\u0438\u0439 \u0430\u0443\u0434\u0456\u043e\u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u041d\u0435\u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u043d\u0438\u0439 \u0430\u0443\u0434\u0456\u043e\u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "\u0424\u0430\u0439\u043b \u043d\u0435 \u043c\u0456\u0441\u0442\u0438\u0442\u044c \u0430\u0443\u0434\u0456\u043e\u043f\u043e\u0442\u043e\u043a\u0443.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0424\u0430\u0439\u043b \u043d\u0435 \u043c\u0456\u0441\u0442\u0438\u0442\u044c \u0430\u0443\u0434\u0456\u043e\u043f\u043e\u0442\u043e\u043a\u0443."
                 }
             },
             "ur": {
@@ -50682,7 +50523,7 @@
                 },
                 "3": {
                     "id": "3",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y ph\u1ea3i l\u00e0 ki\u1ec3u  {{ type }}."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y ph\u1ea3i l\u00e0 ki\u1ec3u {{ type }}."
                 },
                 "4": {
                     "id": "4",
@@ -50698,7 +50539,7 @@
                 },
                 "7": {
                     "id": "7",
-                    "trans": "B\u1ea1n ph\u1ea3i ch\u1ecdn nhi\u1ec1u nh\u1ea5t {{ limit }} l\u1ef1a ch\u1ecdn.|B\u1ea1n ph\u1ea3i ch\u1ecdn nhi\u1ec1u  nh\u1ea5t {{ limit }} l\u1ef1a ch\u1ecdn."
+                    "trans": "B\u1ea1n ph\u1ea3i ch\u1ecdn nhi\u1ec1u nh\u1ea5t {{ limit }} l\u1ef1a ch\u1ecdn.|B\u1ea1n ph\u1ea3i ch\u1ecdn nhi\u1ec1u nh\u1ea5t {{ limit }} l\u1ef1a ch\u1ecdn."
                 },
                 "8": {
                     "id": "8",
@@ -50706,11 +50547,11 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "L\u0129nh v\u1ef1c n\u00e0y kh\u00f4ng \u0111\u01b0\u1ee3c d\u1ef1 ki\u1ebfn."
+                    "trans": "Tr\u01b0\u1eddng n\u00e0y kh\u00f4ng \u0111\u01b0\u1ee3c ch\u1ea5p nh\u1eadn."
                 },
                 "10": {
                     "id": "10",
-                    "trans": "L\u0129nh v\u1ef1c n\u00e0y b\u1ecb thi\u1ebfu."
+                    "trans": "Tr\u01b0\u1eddng n\u00e0y b\u1ecb thi\u1ebfu."
                 },
                 "11": {
                     "id": "11",
@@ -50798,7 +50639,7 @@
                 },
                 "35": {
                     "id": "35",
-                    "trans": "Gi\u00e1 tr\u1ecb ph\u1ea3i l\u00e0 con s\u1ed1."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y ph\u1ea3i l\u00e0 s\u1ed1 h\u1ee3p l\u1ec7."
                 },
                 "36": {
                     "id": "36",
@@ -50806,8 +50647,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 IP h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 IP h\u1ee3p l\u1ec7."
                 },
                 "38": {
                     "id": "38",
@@ -50815,7 +50655,7 @@
                 },
                 "39": {
                     "id": "39",
-                    "trans": "Gi\u00e1 tr\u1ecb kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t b\u1ea3n \u0111\u1ecba \u0111\u1ecba ph\u01b0\u01a1ng h\u1ee3p l\u1ec7."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u00e3 ng\u00f4n ng\u1eef v\u00e0 khu v\u1ef1c h\u1ee3p l\u1ec7."
                 },
                 "40": {
                     "id": "40",
@@ -50863,8 +50703,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Kh\u00f4ng c\u00f3 th\u01b0 m\u1ee5c t\u1ea1m \u0111\u01b0\u1ee3c c\u1ea5u h\u00ecnh trong php.ini, ho\u1eb7c th\u01b0 m\u1ee5c \u0111\u00e3 c\u1ea5u h\u00ecnh kh\u00f4ng t\u1ed3n t\u1ea1i.",
-                    "state": "needs-review-translation"
+                    "trans": "Ch\u01b0a c\u1ea5u h\u00ecnh th\u01b0 m\u1ee5c t\u1ea1m trong php.ini, ho\u1eb7c th\u01b0 m\u1ee5c \u0111\u00e3 c\u1ea5u h\u00ecnh kh\u00f4ng t\u1ed3n t\u1ea1i."
                 },
                 "52": {
                     "id": "52",
@@ -50896,8 +50735,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 S\u1ed1 T\u00e0i Kho\u1ea3n Ng\u00e2n H\u00e0ng Qu\u1ed1c T\u1ebf (IBAN) h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 s\u1ed1 t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng qu\u1ed1c t\u1ebf (IBAN) h\u1ee3p l\u1ec7."
                 },
                 "60": {
                     "id": "60",
@@ -50933,7 +50771,7 @@
                 },
                 "68": {
                     "id": "68",
-                    "trans": "Gi\u00e1 tr\u1ecb ph\u1ea3i gi\u1ed1ng  {{ compared_value_type }} {{ compared_value }}."
+                    "trans": "Gi\u00e1 tr\u1ecb ph\u1ea3i gi\u1ed1ng {{ compared_value_type }} {{ compared_value }}."
                 },
                 "69": {
                     "id": "69",
@@ -50985,8 +50823,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 M\u00e3 \u0110\u1ecbnh Danh Doanh Nghi\u1ec7p (BIC) h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u00e3 \u0111\u1ecbnh danh doanh nghi\u1ec7p (BIC) h\u1ee3p l\u1ec7."
                 },
                 "82": {
                     "id": "82",
@@ -50994,8 +50831,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 UUID h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 UUID h\u1ee3p l\u1ec7."
                 },
                 "84": {
                     "id": "84",
@@ -51015,19 +50851,19 @@
                 },
                 "88": {
                     "id": "88",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y c\u00f3 th\u1ec3 th\u1ef1c hi\u1ec7n \u0111\u01b0\u1ee3c."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y ph\u1ea3i l\u00e0 s\u1ed1 d\u01b0\u01a1ng."
                 },
                 "89": {
                     "id": "89",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y c\u00f3 th\u1ec3 th\u1ef1c hi\u1ec7n \u0111\u01b0\u1ee3c ho\u1eb7c b\u1eb1ng kh\u00f4ng."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y ph\u1ea3i l\u00e0 s\u1ed1 d\u01b0\u01a1ng ho\u1eb7c b\u1eb1ng kh\u00f4ng."
                 },
                 "90": {
                     "id": "90",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y n\u00ean b\u1ecb t\u1eeb ch\u1ed1i."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y ph\u1ea3i l\u00e0 s\u1ed1 \u00e2m."
                 },
                 "91": {
                     "id": "91",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y n\u00ean b\u1ecb t\u1eeb ch\u1ed1i ho\u1eb7c b\u1eb1ng kh\u00f4ng."
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y ph\u1ea3i l\u00e0 s\u1ed1 \u00e2m ho\u1eb7c b\u1eb1ng kh\u00f4ng."
                 },
                 "92": {
                     "id": "92",
@@ -51095,7 +50931,7 @@
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Kh\u00f4ng \u0111\u01b0\u1ee3c ph\u00e9p tr\u1ed9n c\u00e1c s\u1ed1 t\u1eeb c\u00e1c t\u1eadp l\u1ec7nh kh\u00e1c nhau."
+                    "trans": "Kh\u00f4ng \u0111\u01b0\u1ee3c ph\u00e9p tr\u1ed9n ch\u1eef s\u1ed1 t\u1eeb c\u00e1c h\u1ec7 ch\u1eef vi\u1ebft kh\u00e1c nhau."
                 },
                 "109": {
                     "id": "109",
@@ -51107,273 +50943,219 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "M\u00e3 h\u00f3a k\u00fd t\u1ef1 \u0111\u01b0\u1ee3c ph\u00e1t hi\u1ec7n l\u00e0 kh\u00f4ng h\u1ee3p l\u1ec7 ({{ detected }}). C\u00e1c m\u00e3 h\u00f3a \u0111\u01b0\u1ee3c ph\u00e9p l\u00e0 {{ encodings }}.",
-                    "state": "needs-review-translation"
+                    "trans": "B\u1ea3ng m\u00e3 k\u00fd t\u1ef1 ph\u00e1t hi\u1ec7n \u0111\u01b0\u1ee3c kh\u00f4ng h\u1ee3p l\u1ec7 ({{ detected }}). C\u00e1c b\u1ea3ng m\u00e3 cho ph\u00e9p l\u00e0 {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 MAC h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ecba ch\u1ec9 MAC h\u1ee3p l\u1ec7."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "URL n\u00e0y thi\u1ebfu mi\u1ec1n c\u1ea5p cao.",
-                    "state": "needs-review-translation"
+                    "trans": "URL n\u00e0y thi\u1ebfu t\u00ean mi\u1ec1n c\u1ea5p cao nh\u1ea5t."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y qu\u00e1 ng\u1eafn. N\u00f3 ph\u1ea3i ch\u1ee9a \u00edt nh\u1ea5t m\u1ed9t t\u1eeb.|Gi\u00e1 tr\u1ecb n\u00e0y qu\u00e1 ng\u1eafn. N\u00f3 ph\u1ea3i ch\u1ee9a \u00edt nh\u1ea5t {{ min }} t\u1eeb.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y qu\u00e1 ng\u1eafn. Gi\u00e1 tr\u1ecb ph\u1ea3i ch\u1ee9a \u00edt nh\u1ea5t {{ min }} t\u1eeb."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y qu\u00e1 d\u00e0i. N\u00f3 ch\u1ec9 n\u00ean ch\u1ee9a m\u1ed9t t\u1eeb.|Gi\u00e1 tr\u1ecb n\u00e0y qu\u00e1 d\u00e0i. N\u00f3 ch\u1ec9 n\u00ean ch\u1ee9a {{ max }} t\u1eeb ho\u1eb7c \u00edt h\u01a1n.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y qu\u00e1 d\u00e0i. Gi\u00e1 tr\u1ecb ch\u1ec9 \u0111\u01b0\u1ee3c ch\u1ee9a t\u1ed1i \u0111a {{ max }} t\u1eeb."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng \u0111\u1ea1i di\u1ec7n cho m\u1ed9t tu\u1ea7n h\u1ee3p l\u1ec7 theo \u0111\u1ecbnh d\u1ea1ng ISO 8601.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 tu\u1ea7n h\u1ee3p l\u1ec7 theo \u0111\u1ecbnh d\u1ea1ng ISO 8601."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t tu\u1ea7n h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t tu\u1ea7n h\u1ee3p l\u1ec7."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng n\u00ean tr\u01b0\u1edbc tu\u1ea7n \"{{ min }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng \u0111\u01b0\u1ee3c tr\u01b0\u1edbc tu\u1ea7n \"{{ min }}\"."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng n\u00ean sau tu\u1ea7n \"{{ max }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng \u0111\u01b0\u1ee3c sau tu\u1ea7n \"{{ max }}\"."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t m\u1eabu Twig h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t m\u1eabu Twig h\u1ee3p l\u1ec7."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "T\u1ec7p n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 video h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u1ec7p n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 video h\u1ee3p l\u1ec7."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Kh\u00f4ng th\u1ec3 ph\u00e1t hi\u1ec7n k\u00edch th\u01b0\u1edbc c\u1ee7a video.",
-                    "state": "needs-review-translation"
+                    "trans": "Kh\u00f4ng th\u1ec3 x\u00e1c \u0111\u1ecbnh k\u00edch th\u01b0\u1edbc c\u1ee7a video."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Chi\u1ec1u r\u1ed9ng video qu\u00e1 l\u1edbn ({{ width }}px). Chi\u1ec1u r\u1ed9ng t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Chi\u1ec1u r\u1ed9ng video qu\u00e1 l\u1edbn ({{ width }}px). Chi\u1ec1u r\u1ed9ng t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_width }}px."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Chi\u1ec1u r\u1ed9ng video qu\u00e1 nh\u1ecf ({{ width }}px). Chi\u1ec1u r\u1ed9ng t\u1ed1i thi\u1ec3u mong \u0111\u1ee3i l\u00e0 {{ min_width }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Chi\u1ec1u r\u1ed9ng video qu\u00e1 nh\u1ecf ({{ width }}px). Chi\u1ec1u r\u1ed9ng t\u1ed1i thi\u1ec3u y\u00eau c\u1ea7u l\u00e0 {{ min_width }}px."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Chi\u1ec1u cao video qu\u00e1 l\u1edbn ({{ height }}px). Chi\u1ec1u cao t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Chi\u1ec1u cao video qu\u00e1 l\u1edbn ({{ height }}px). Chi\u1ec1u cao t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_height }}px."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Chi\u1ec1u cao video qu\u00e1 nh\u1ecf ({{ height }}px). Chi\u1ec1u cao t\u1ed1i thi\u1ec3u d\u1ef1 ki\u1ebfn l\u00e0 {{ min_height }}px.",
-                    "state": "needs-review-translation"
+                    "trans": "Chi\u1ec1u cao video qu\u00e1 nh\u1ecf ({{ height }}px). Chi\u1ec1u cao t\u1ed1i thi\u1ec3u y\u00eau c\u1ea7u l\u00e0 {{ min_height }}px."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Video c\u00f3 qu\u00e1 \u00edt \u0111i\u1ec3m \u1ea3nh ({{ pixels }}). L\u01b0\u1ee3ng t\u1ed1i thi\u1ec3u mong \u0111\u1ee3i l\u00e0 {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video c\u00f3 qu\u00e1 \u00edt \u0111i\u1ec3m \u1ea3nh ({{ pixels }} \u0111i\u1ec3m \u1ea3nh). S\u1ed1 \u0111i\u1ec3m \u1ea3nh t\u1ed1i thi\u1ec3u y\u00eau c\u1ea7u l\u00e0 {{ min_pixels }}."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Video c\u00f3 qu\u00e1 nhi\u1ec1u \u0111i\u1ec3m \u1ea3nh ({{ pixels }}). S\u1ed1 l\u01b0\u1ee3ng t\u1ed1i \u0111a d\u1ef1 ki\u1ebfn l\u00e0 {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Video c\u00f3 qu\u00e1 nhi\u1ec1u \u0111i\u1ec3m \u1ea3nh ({{ pixels }} \u0111i\u1ec3m \u1ea3nh). S\u1ed1 \u0111i\u1ec3m \u1ea3nh t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_pixels }}."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "T\u1ec9 l\u1ec7 video qu\u00e1 l\u1edbn ({{ ratio }}). T\u1ec9 l\u1ec7 t\u1ed1i \u0111a \u0111\u01b0\u1ee3c ph\u00e9p l\u00e0 {{ max_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u1ef7 l\u1ec7 khung h\u00ecnh video qu\u00e1 l\u1edbn ({{ ratio }}). T\u1ef7 l\u1ec7 t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_ratio }}."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "T\u1ec9 l\u1ec7 video qu\u00e1 nh\u1ecf ({{ ratio }}). T\u1ec9 l\u1ec7 t\u1ed1i thi\u1ec3u d\u1ef1 ki\u1ebfn l\u00e0 {{ min_ratio }}.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u1ef7 l\u1ec7 khung h\u00ecnh video qu\u00e1 nh\u1ecf ({{ ratio }}). T\u1ef7 l\u1ec7 t\u1ed1i thi\u1ec3u y\u00eau c\u1ea7u l\u00e0 {{ min_ratio }}."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Video c\u00f3 d\u1ea1ng h\u00ecnh vu\u00f4ng ({{ width }}x{{ height }}px). Kh\u00f4ng cho ph\u00e9p video h\u00ecnh vu\u00f4ng.",
-                    "state": "needs-review-translation"
+                    "trans": "Video c\u00f3 d\u1ea1ng h\u00ecnh vu\u00f4ng ({{ width }}x{{ height }}px). Kh\u00f4ng cho ph\u00e9p video h\u00ecnh vu\u00f4ng."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Video c\u00f3 h\u01b0\u1edbng ngang ({{ width }}x{{ height }} px). Kh\u00f4ng cho ph\u00e9p video ngang.",
-                    "state": "needs-review-translation"
+                    "trans": "Video c\u00f3 h\u01b0\u1edbng ngang ({{ width }}x{{ height }}px). Kh\u00f4ng cho ph\u00e9p video h\u01b0\u1edbng ngang."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Video c\u00f3 h\u01b0\u1edbng d\u1ecdc ({{ width }}x{{ height }}px). Kh\u00f4ng cho ph\u00e9p video h\u01b0\u1edbng d\u1ecdc.",
-                    "state": "needs-review-translation"
+                    "trans": "Video c\u00f3 h\u01b0\u1edbng d\u1ecdc ({{ width }}x{{ height }}px). Kh\u00f4ng cho ph\u00e9p video h\u01b0\u1edbng d\u1ecdc."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "T\u1ec7p video b\u1ecb h\u1ecfng.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u1ec7p video b\u1ecb h\u1ecfng."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Video ch\u1ee9a nhi\u1ec1u lu\u1ed3ng. Ch\u1ec9 cho ph\u00e9p m\u1ed9t lu\u1ed3ng.",
-                    "state": "needs-review-translation"
+                    "trans": "Video ch\u1ee9a nhi\u1ec1u lu\u1ed3ng. Ch\u1ec9 cho ph\u00e9p m\u1ed9t lu\u1ed3ng."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "B\u1ed9 m\u00e3 h\u00f3a video kh\u00f4ng \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3 \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Kh\u00f4ng h\u1ed7 tr\u1ee3 codec video \"{{ codec }}\"."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "B\u1ed9 ch\u1ee9a video kh\u00f4ng \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3 \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Kh\u00f4ng h\u1ed7 tr\u1ee3 \u0111\u1ecbnh d\u1ea1ng ch\u1ee9a video \"{{ container }}\"."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "T\u1ec7p h\u00ecnh \u1ea3nh b\u1ecb h\u1ecfng.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u1ec7p h\u00ecnh \u1ea3nh b\u1ecb h\u1ecfng."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "H\u00ecnh \u1ea3nh c\u00f3 qu\u00e1 \u00edt \u0111i\u1ec3m \u1ea3nh ({{ pixels }}). S\u1ed1 l\u01b0\u1ee3ng t\u1ed1i thi\u1ec3u d\u1ef1 ki\u1ebfn l\u00e0 {{ min_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "H\u00ecnh \u1ea3nh c\u00f3 qu\u00e1 \u00edt \u0111i\u1ec3m \u1ea3nh ({{ pixels }} \u0111i\u1ec3m \u1ea3nh). S\u1ed1 \u0111i\u1ec3m \u1ea3nh t\u1ed1i thi\u1ec3u y\u00eau c\u1ea7u l\u00e0 {{ min_pixels }}."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "H\u00ecnh \u1ea3nh c\u00f3 qu\u00e1 nhi\u1ec1u \u0111i\u1ec3m \u1ea3nh ({{ pixels }}). L\u01b0\u1ee3ng t\u1ed1i \u0111a d\u1ef1 ki\u1ebfn l\u00e0 {{ max_pixels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "H\u00ecnh \u1ea3nh c\u00f3 qu\u00e1 nhi\u1ec1u \u0111i\u1ec3m \u1ea3nh ({{ pixels }} \u0111i\u1ec3m \u1ea3nh). S\u1ed1 \u0111i\u1ec3m \u1ea3nh t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_pixels }}."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "T\u00ean t\u1ec7p n\u00e0y kh\u00f4ng kh\u1edbp v\u1edbi b\u1ed9 k\u00fd t\u1ef1 mong \u0111\u1ee3i.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u00ean t\u1ec7p n\u00e0y kh\u00f4ng kh\u1edbp v\u1edbi b\u1ea3ng m\u00e3 k\u00fd t\u1ef1 y\u00eau c\u1ea7u."
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 XML h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 XML h\u1ee3p l\u1ec7."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng tu\u00e2n theo l\u01b0\u1ee3c \u0111\u1ed3 XSD mong \u0111\u1ee3i.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng tu\u00e2n theo l\u01b0\u1ee3c \u0111\u1ed3 XSD y\u00eau c\u1ea7u."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "T\u1ea3i tr\u1ecdng XML n\u00e0y qu\u00e1 l\u1edbn ({{ size }} byte): v\u01b0\u1ee3t qu\u00e1 gi\u1edbi h\u1ea1n {{ limit }} byte.",
-                    "state": "needs-review-translation"
+                    "trans": "D\u1eef li\u1ec7u XML n\u00e0y qu\u00e1 l\u1edbn ({{ size }} byte): v\u01b0\u1ee3t qu\u00e1 gi\u1edbi h\u1ea1n {{ limit }} byte."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t bi\u1ec3u th\u1ee9c cron h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t bi\u1ec3u th\u1ee9c cron h\u1ee3p l\u1ec7."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Th\u1ef1c th\u1ec3 \u0111\u01b0\u1ee3c tham chi\u1ebfu kh\u00f4ng t\u1ed3n t\u1ea1i.",
-                    "state": "needs-review-translation"
+                    "trans": "Th\u1ef1c th\u1ec3 \u0111\u01b0\u1ee3c tham chi\u1ebfu kh\u00f4ng t\u1ed3n t\u1ea1i."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 ULID h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "Gi\u00e1 tr\u1ecb n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 ULID h\u1ee3p l\u1ec7."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "T\u1ec7p n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 t\u1ec7p \u00e2m thanh h\u1ee3p l\u1ec7.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u1ec7p n\u00e0y kh\u00f4ng ph\u1ea3i l\u00e0 t\u1ec7p \u00e2m thanh h\u1ee3p l\u1ec7."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "\u00c2m thanh qu\u00e1 ng\u1eafn ({{ duration }} gi\u00e2y). Th\u1eddi l\u01b0\u1ee3ng t\u1ed1i thi\u1ec3u mong \u0111\u1ee3i l\u00e0 {{ min_duration }} gi\u00e2y.",
-                    "state": "needs-review-translation"
+                    "trans": "\u00c2m thanh qu\u00e1 ng\u1eafn ({{ duration }} gi\u00e2y). Th\u1eddi l\u01b0\u1ee3ng t\u1ed1i thi\u1ec3u y\u00eau c\u1ea7u l\u00e0 {{ min_duration }} gi\u00e2y."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "\u00c2m thanh qu\u00e1 d\u00e0i ({{ duration }} gi\u00e2y). Th\u1eddi l\u01b0\u1ee3ng t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_duration }} gi\u00e2y.",
-                    "state": "needs-review-translation"
+                    "trans": "\u00c2m thanh qu\u00e1 d\u00e0i ({{ duration }} gi\u00e2y). Th\u1eddi l\u01b0\u1ee3ng t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_duration }} gi\u00e2y."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Kh\u00f4ng th\u1ec3 ph\u00e1t hi\u1ec7n th\u1eddi l\u01b0\u1ee3ng c\u1ee7a \u00e2m thanh.",
-                    "state": "needs-review-translation"
+                    "trans": "Kh\u00f4ng th\u1ec3 x\u00e1c \u0111\u1ecbnh th\u1eddi l\u01b0\u1ee3ng c\u1ee7a \u00e2m thanh."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Bitrate c\u1ee7a \u00e2m thanh qu\u00e1 th\u1ea5p ({{ bitrate }} bps). Bitrate t\u1ed1i thi\u1ec3u mong \u0111\u1ee3i l\u00e0 {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitrate c\u1ee7a \u00e2m thanh qu\u00e1 th\u1ea5p ({{ bitrate }} bps). Bitrate t\u1ed1i thi\u1ec3u y\u00eau c\u1ea7u l\u00e0 {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Bitrate c\u1ee7a \u00e2m thanh qu\u00e1 cao ({{ bitrate }} bps). Bitrate t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitrate c\u1ee7a \u00e2m thanh qu\u00e1 cao ({{ bitrate }} bps). Bitrate t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Kh\u00f4ng th\u1ec3 ph\u00e1t hi\u1ec7n bitrate c\u1ee7a \u00e2m thanh.",
-                    "state": "needs-review-translation"
+                    "trans": "Kh\u00f4ng th\u1ec3 x\u00e1c \u0111\u1ecbnh bitrate c\u1ee7a \u00e2m thanh."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "T\u1ea7n s\u1ed1 l\u1ea5y m\u1eabu \u00e2m thanh kh\u00f4ng \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3 ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Kh\u00f4ng h\u1ed7 tr\u1ee3 t\u1ea7n s\u1ed1 l\u1ea5y m\u1eabu \u00e2m thanh ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Kh\u00f4ng th\u1ec3 ph\u00e1t hi\u1ec7n t\u1ea7n s\u1ed1 l\u1ea5y m\u1eabu c\u1ee7a \u00e2m thanh.",
-                    "state": "needs-review-translation"
+                    "trans": "Kh\u00f4ng th\u1ec3 x\u00e1c \u0111\u1ecbnh t\u1ea7n s\u1ed1 l\u1ea5y m\u1eabu c\u1ee7a \u00e2m thanh."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "\u00c2m thanh c\u00f3 qu\u00e1 \u00edt k\u00eanh ({{ channels }}). L\u01b0\u1ee3ng t\u1ed1i thi\u1ec3u mong \u0111\u1ee3i l\u00e0 {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u00c2m thanh c\u00f3 qu\u00e1 \u00edt k\u00eanh ({{ channels }}). S\u1ed1 k\u00eanh t\u1ed1i thi\u1ec3u y\u00eau c\u1ea7u l\u00e0 {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "\u00c2m thanh c\u00f3 qu\u00e1 nhi\u1ec1u k\u00eanh ({{ channels }}). S\u1ed1 l\u01b0\u1ee3ng t\u1ed1i \u0111a d\u1ef1 ki\u1ebfn l\u00e0 {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u00c2m thanh c\u00f3 qu\u00e1 nhi\u1ec1u k\u00eanh ({{ channels }}). S\u1ed1 k\u00eanh t\u1ed1i \u0111a cho ph\u00e9p l\u00e0 {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Kh\u00f4ng th\u1ec3 ph\u00e1t hi\u1ec7n s\u1ed1 k\u00eanh \u00e2m thanh.",
-                    "state": "needs-review-translation"
+                    "trans": "Kh\u00f4ng th\u1ec3 x\u00e1c \u0111\u1ecbnh s\u1ed1 k\u00eanh \u00e2m thanh."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "T\u1ec7p \u00e2m thanh b\u1ecb h\u1ecfng.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u1ec7p \u00e2m thanh b\u1ecb h\u1ecfng."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "\u00c2m thanh ch\u1ee9a nhi\u1ec1u lu\u1ed3ng. Ch\u1ec9 cho ph\u00e9p m\u1ed9t lu\u1ed3ng.",
-                    "state": "needs-review-translation"
+                    "trans": "\u00c2m thanh ch\u1ee9a nhi\u1ec1u lu\u1ed3ng. Ch\u1ec9 cho ph\u00e9p m\u1ed9t lu\u1ed3ng."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "B\u1ed9 m\u00e3 h\u00f3a \u00e2m thanh kh\u00f4ng \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3 \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Kh\u00f4ng h\u1ed7 tr\u1ee3 codec \u00e2m thanh \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "B\u1ed9 ch\u1ee9a \u00e2m thanh kh\u00f4ng \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3 \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Kh\u00f4ng h\u1ed7 tr\u1ee3 \u0111\u1ecbnh d\u1ea1ng ch\u1ee9a \u00e2m thanh \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "T\u1ec7p kh\u00f4ng ch\u1ee9a lu\u1ed3ng \u00e2m thanh n\u00e0o.",
-                    "state": "needs-review-translation"
+                    "trans": "T\u1ec7p kh\u00f4ng ch\u1ee9a lu\u1ed3ng \u00e2m thanh n\u00e0o."
                 }
             },
             "zh_CN": {
@@ -52204,19 +51986,19 @@
                 },
                 "43": {
                     "id": "43",
-                    "trans": "\u5716\u7247\u5bec\u5ea6\u904e\u5927 ({{ width }}px)\u3002\u5141\u8a31\u7684\u6700\u5927\u5bec\u5ea6\u70ba {{ max_width }}px\u3002"
+                    "trans": "\u5716\u7247\u5bec\u5ea6\u904e\u5927\uff08{{ width }}px\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u5bec\u5ea6\u70ba {{ max_width }}px\u3002"
                 },
                 "44": {
                     "id": "44",
-                    "trans": "\u5716\u7247\u5bec\u5ea6\u904e\u5c0f ({{ width }}px)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u5bec\u5ea6\u70ba {{ min_width }}px\u3002"
+                    "trans": "\u5716\u7247\u5bec\u5ea6\u904e\u5c0f\uff08{{ width }}px\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u5bec\u5ea6\u70ba {{ min_width }}px\u3002"
                 },
                 "45": {
                     "id": "45",
-                    "trans": "\u5716\u7247\u9ad8\u5ea6\u904e\u5927 ({{ height }}px)\u3002\u5141\u8a31\u7684\u6700\u5927\u9577\u5ea6\u70ba {{ max_height }}px\u3002"
+                    "trans": "\u5716\u7247\u9ad8\u5ea6\u904e\u5927\uff08{{ height }}px\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u9577\u5ea6\u70ba {{ max_height }}px\u3002"
                 },
                 "46": {
                     "id": "46",
-                    "trans": "\u5716\u7247\u9ad8\u5ea6\u904e\u5c0f ({{ height }}px)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u9ad8\u5ea6\u70ba {{ min_height }}px\u3002"
+                    "trans": "\u5716\u7247\u9ad8\u5ea6\u904e\u5c0f\uff08{{ height }}px\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u9ad8\u5ea6\u70ba {{ min_height }}px\u3002"
                 },
                 "47": {
                     "id": "47",
@@ -52324,23 +52106,23 @@
                 },
                 "73": {
                     "id": "73",
-                    "trans": "\u5716\u7247\u7684\u6bd4\u4f8b\u904e\u5927 ({{ ratio }})\u3002\u5141\u8a31\u7684\u6700\u5927\u6bd4\u4f8b\u70ba {{ max_ratio }}\u3002"
+                    "trans": "\u5716\u7247\u7684\u6bd4\u4f8b\u904e\u5927\uff08{{ ratio }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u6bd4\u4f8b\u70ba {{ max_ratio }}\u3002"
                 },
                 "74": {
                     "id": "74",
-                    "trans": "\u5716\u7247\u7684\u6bd4\u4f8b\u904e\u5c0f ({{ ratio }})\u3002\u5141\u8a31\u7684\u6700\u5c0f\u6bd4\u4f8b\u70ba {{ min_ratio }}\u3002"
+                    "trans": "\u5716\u7247\u7684\u6bd4\u4f8b\u904e\u5c0f\uff08{{ ratio }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u6bd4\u4f8b\u70ba {{ min_ratio }}\u3002"
                 },
                 "75": {
                     "id": "75",
-                    "trans": "\u5716\u7247\u70ba\u6b63\u65b9\u5f62 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6b63\u65b9\u5f62\u5716\u7247\u3002"
+                    "trans": "\u5716\u7247\u70ba\u6b63\u65b9\u5f62\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6b63\u65b9\u5f62\u5716\u7247\u3002"
                 },
                 "76": {
                     "id": "76",
-                    "trans": "\u5716\u7247\u70ba\u6a6b\u5411 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6a6b\u5411\u5716\u7247\u3002"
+                    "trans": "\u5716\u7247\u70ba\u6a6b\u5411\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6a6b\u5411\u5716\u7247\u3002"
                 },
                 "77": {
                     "id": "77",
-                    "trans": "\u5716\u7247\u70ba\u7e31\u5411 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u7e31\u5411\u5716\u7247\u3002"
+                    "trans": "\u5716\u7247\u70ba\u7e31\u5411\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u7e31\u5411\u5716\u7247\u3002"
                 },
                 "78": {
                     "id": "78",
@@ -52524,47 +52306,47 @@
                 },
                 "124": {
                     "id": "124",
-                    "trans": "\u5f71\u7247\u5bec\u5ea6\u904e\u5927 ({{ width }}px)\u3002\u5141\u8a31\u7684\u6700\u5927\u5bec\u5ea6\u70ba {{ max_width }}px\u3002"
+                    "trans": "\u5f71\u7247\u5bec\u5ea6\u904e\u5927\uff08{{ width }}px\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u5bec\u5ea6\u70ba {{ max_width }}px\u3002"
                 },
                 "125": {
                     "id": "125",
-                    "trans": "\u5f71\u7247\u5bec\u5ea6\u904e\u5c0f ({{ width }}p)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u5bec\u5ea6\u70ba {{ min_width }}px\u3002"
+                    "trans": "\u5f71\u7247\u5bec\u5ea6\u904e\u5c0f\uff08{{ width }}px\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u5bec\u5ea6\u70ba {{ min_width }}px\u3002"
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u5f71\u7247\u9ad8\u5ea6\u904e\u5927 ({{ height }}px)\u3002\u5141\u8a31\u7684\u6700\u5927\u9ad8\u5ea6\u70ba {{ max_height }}px\u3002"
+                    "trans": "\u5f71\u7247\u9ad8\u5ea6\u904e\u5927\uff08{{ height }}px\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u9ad8\u5ea6\u70ba {{ max_height }}px\u3002"
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u5f71\u7247\u9ad8\u5ea6\u904e\u5c0f ({{ height }}px)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u9ad8\u5ea6\u70ba {{ min_height }}px\u3002"
+                    "trans": "\u5f71\u7247\u9ad8\u5ea6\u904e\u5c0f\uff08{{ height }}px\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u9ad8\u5ea6\u70ba {{ min_height }}px\u3002"
                 },
                 "128": {
                     "id": "128",
-                    "trans": "\u5f71\u7247\u7684\u50cf\u7d20\u904e\u5c11 ({{ pixels }} \u50cf\u7d20). \u5141\u8a31\u7684\u6700\u5c0f\u503c\u70ba {{ min_pixels }} \u50cf\u7d20\u3002"
+                    "trans": "\u5f71\u7247\u7684\u50cf\u7d20\u904e\u5c11\uff08{{ pixels }} \u50cf\u7d20\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u503c\u70ba {{ min_pixels }} \u50cf\u7d20\u3002"
                 },
                 "129": {
                     "id": "129",
-                    "trans": "\u5f71\u7247\u7684\u50cf\u7d20\u904e\u591a ({{ pixels }} \u50cf\u7d20)\u3002\u5141\u8a31\u7684\u6700\u5927\u503c\u70ba {{ max_pixels }} \u50cf\u7d20\u3002"
+                    "trans": "\u5f71\u7247\u7684\u50cf\u7d20\u904e\u591a\uff08{{ pixels }} \u50cf\u7d20\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u503c\u70ba {{ max_pixels }} \u50cf\u7d20\u3002"
                 },
                 "130": {
                     "id": "130",
-                    "trans": "\u5f71\u7247\u7684\u6bd4\u4f8b\u904e\u5927 ({{ ratio }})\u3002\u5141\u8a31\u7684\u6700\u5927\u6bd4\u4f8b\u70ba {{ max_ratio }}\u3002"
+                    "trans": "\u5f71\u7247\u7684\u6bd4\u4f8b\u904e\u5927\uff08{{ ratio }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u6bd4\u4f8b\u70ba {{ max_ratio }}\u3002"
                 },
                 "131": {
                     "id": "131",
-                    "trans": "\u5f71\u7247\u7684\u6bd4\u4f8b\u904e\u5c0f ({{ ratio }})\u3002\u5141\u8a31\u7684\u6700\u5c0f\u6bd4\u4f8b\u70ba {{ min_ratio }}\u3002"
+                    "trans": "\u5f71\u7247\u7684\u6bd4\u4f8b\u904e\u5c0f\uff08{{ ratio }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u6bd4\u4f8b\u70ba {{ min_ratio }}\u3002"
                 },
                 "132": {
                     "id": "132",
-                    "trans": "\u5f71\u7247\u70ba\u6b63\u65b9\u5f62 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6b63\u65b9\u5f62\u5f71\u7247\u3002"
+                    "trans": "\u5f71\u7247\u70ba\u6b63\u65b9\u5f62\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6b63\u65b9\u5f62\u5f71\u7247\u3002"
                 },
                 "133": {
                     "id": "133",
-                    "trans": "\u5f71\u7247\u70ba\u6a6b\u5411 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6a6b\u5411\u5f71\u7247\u3002"
+                    "trans": "\u5f71\u7247\u70ba\u6a6b\u5411\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u6a6b\u5411\u5f71\u7247\u3002"
                 },
                 "134": {
                     "id": "134",
-                    "trans": "\u5f71\u7247\u70ba\u7e31\u5411 ({{ width }}x{{ height }}px)\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u7e31\u5411\u5f71\u7247\u3002"
+                    "trans": "\u5f71\u7247\u70ba\u7e31\u5411\uff08{{ width }}x{{ height }}px\uff09\u3002\u4e0d\u5141\u8a31\u4f7f\u7528\u7e31\u5411\u5f71\u7247\u3002"
                 },
                 "135": {
                     "id": "135",
@@ -52576,11 +52358,11 @@
                 },
                 "137": {
                     "id": "137",
-                    "trans": "\u4e0d\u652f\u63f4\u7684\u5f71\u7247\u7de8\u89e3\u78bc\u5668: {{ codec }}\u3002"
+                    "trans": "\u4e0d\u652f\u63f4\u7684\u5f71\u7247\u7de8\u89e3\u78bc\u5668\uff1a{{ codec }}\u3002"
                 },
                 "138": {
                     "id": "138",
-                    "trans": "\u4e0d\u652f\u63f4\u7684\u5f71\u7247\u5bb9\u5668\u683c\u5f0f: {{ container }}\u3002"
+                    "trans": "\u4e0d\u652f\u63f4\u7684\u5f71\u7247\u5bb9\u5668\u683c\u5f0f\uff1a{{ container }}\u3002"
                 },
                 "139": {
                     "id": "139",
@@ -52588,11 +52370,11 @@
                 },
                 "140": {
                     "id": "140",
-                    "trans": "\u5716\u7247\u7684\u50cf\u7d20\u904e\u5c11 ({{ pixels }} \u50cf\u7d20)\u3002\u5141\u8a31\u7684\u6700\u5c0f\u503c\u70ba {{ min_pixels }} \u50cf\u7d20\u3002"
+                    "trans": "\u5716\u7247\u7684\u50cf\u7d20\u904e\u5c11\uff08{{ pixels }} \u50cf\u7d20\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u503c\u70ba {{ min_pixels }} \u50cf\u7d20\u3002"
                 },
                 "141": {
                     "id": "141",
-                    "trans": "\u5716\u7247\u7684\u50cf\u7d20\u904e\u591a ({{ pixels }} \u50cf\u7d20)\u3002\u5141\u8a31\u7684\u6700\u5927\u503c\u70ba {{ max_pixels }} \u50cf\u7d20\u3002"
+                    "trans": "\u5716\u7247\u7684\u50cf\u7d20\u904e\u591a\uff08{{ pixels }} \u50cf\u7d20\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u503c\u70ba {{ max_pixels }} \u50cf\u7d20\u3002"
                 },
                 "142": {
                     "id": "142",
@@ -52624,88 +52406,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "\u9019\u500b\u6a94\u6848\u4e0d\u662f\u6709\u6548\u7684\u97f3\u8a0a\u6a94\u6848\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u9019\u500b\u6a94\u6848\u4e0d\u662f\u6709\u6548\u7684\u97f3\u8a0a\u6a94\u6848\u3002"
                 },
                 "150": {
                     "id": "150",
-                    "trans": "\u97f3\u8a0a\u9577\u5ea6\u904e\u77ed\uff08{{ duration }} \u79d2\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u9577\u5ea6\u70ba {{ min_duration }} \u79d2\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u97f3\u8a0a\u9577\u5ea6\u904e\u77ed\uff08{{ duration }} \u79d2\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u9577\u5ea6\u70ba {{ min_duration }} \u79d2\u3002"
                 },
                 "151": {
                     "id": "151",
-                    "trans": "\u97f3\u8a0a\u9577\u5ea6\u904e\u9577\uff08{{ duration }} \u79d2\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u9577\u5ea6\u70ba {{ max_duration }} \u79d2\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u97f3\u8a0a\u9577\u5ea6\u904e\u9577\uff08{{ duration }} \u79d2\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u9577\u5ea6\u70ba {{ max_duration }} \u79d2\u3002"
                 },
                 "152": {
                     "id": "152",
-                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u97f3\u8a0a\u7684\u9577\u5ea6\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u97f3\u8a0a\u7684\u9577\u5ea6\u3002"
                 },
                 "153": {
                     "id": "153",
-                    "trans": "\u97f3\u8a0a\u4f4d\u5143\u7387\u904e\u4f4e\uff08{{ bitrate }} bps\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u4f4d\u5143\u7387\u70ba {{ min_bitrate }} bps\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u97f3\u8a0a\u4f4d\u5143\u7387\u904e\u4f4e\uff08{{ bitrate }} bps\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u4f4d\u5143\u7387\u70ba {{ min_bitrate }} bps\u3002"
                 },
                 "154": {
                     "id": "154",
-                    "trans": "\u97f3\u8a0a\u4f4d\u5143\u7387\u904e\u9ad8\uff08{{ bitrate }} bps\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u4f4d\u5143\u7387\u70ba {{ max_bitrate }} bps\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u97f3\u8a0a\u4f4d\u5143\u7387\u904e\u9ad8\uff08{{ bitrate }} bps\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u4f4d\u5143\u7387\u70ba {{ max_bitrate }} bps\u3002"
                 },
                 "155": {
                     "id": "155",
-                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u97f3\u8a0a\u7684\u4f4d\u5143\u7387\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u97f3\u8a0a\u7684\u4f4d\u5143\u7387\u3002"
                 },
                 "156": {
                     "id": "156",
-                    "trans": "\u4e0d\u652f\u63f4\u7684\u97f3\u8a0a\u53d6\u6a23\u7387\uff08{{ sample_rate }} Hz\uff09\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u4e0d\u652f\u63f4\u7684\u97f3\u8a0a\u53d6\u6a23\u7387\uff08{{ sample_rate }} Hz\uff09\u3002"
                 },
                 "157": {
                     "id": "157",
-                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u97f3\u8a0a\u7684\u53d6\u6a23\u7387\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u97f3\u8a0a\u7684\u53d6\u6a23\u7387\u3002"
                 },
                 "158": {
                     "id": "158",
-                    "trans": "\u97f3\u8a0a\u7684\u8072\u9053\u904e\u5c11\uff08{{ channels }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u503c\u70ba {{ min_channels }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u97f3\u8a0a\u7684\u8072\u9053\u904e\u5c11\uff08{{ channels }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5c0f\u503c\u70ba {{ min_channels }}\u3002"
                 },
                 "159": {
                     "id": "159",
-                    "trans": "\u97f3\u8a0a\u7684\u8072\u9053\u904e\u591a\uff08{{ channels }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u503c\u70ba {{ max_channels }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u97f3\u8a0a\u7684\u8072\u9053\u904e\u591a\uff08{{ channels }}\uff09\u3002\u5141\u8a31\u7684\u6700\u5927\u503c\u70ba {{ max_channels }}\u3002"
                 },
                 "160": {
                     "id": "160",
-                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u97f3\u8a0a\u8072\u9053\u7684\u6578\u91cf\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u7121\u6cd5\u5075\u6e2c\u5230\u97f3\u8a0a\u8072\u9053\u7684\u6578\u91cf\u3002"
                 },
                 "161": {
                     "id": "161",
-                    "trans": "\u97f3\u8a0a\u6a94\u6848\u5df2\u640d\u58de\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u97f3\u8a0a\u6a94\u6848\u5df2\u640d\u58de\u3002"
                 },
                 "162": {
                     "id": "162",
-                    "trans": "\u97f3\u8a0a\u5305\u542b\u591a\u500b\u4e32\u6d41\u3002\u53ea\u5141\u8a31\u55ae\u500b\u4e32\u6d41\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u97f3\u8a0a\u5305\u542b\u591a\u500b\u4e32\u6d41\u3002\u53ea\u5141\u8a31\u55ae\u500b\u4e32\u6d41\u3002"
                 },
                 "163": {
                     "id": "163",
-                    "trans": "\u4e0d\u652f\u63f4\u7684\u97f3\u8a0a\u7de8\u89e3\u78bc\u5668: {{ codec }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u4e0d\u652f\u63f4\u7684\u97f3\u8a0a\u7de8\u89e3\u78bc\u5668\uff1a{{ codec }}\u3002"
                 },
                 "164": {
                     "id": "164",
-                    "trans": "\u4e0d\u652f\u63f4\u7684\u97f3\u8a0a\u5bb9\u5668\u683c\u5f0f: {{ container }}\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u4e0d\u652f\u63f4\u7684\u97f3\u8a0a\u5bb9\u5668\u683c\u5f0f\uff1a{{ container }}\u3002"
                 },
                 "165": {
                     "id": "165",
-                    "trans": "\u6a94\u6848\u4e0d\u5305\u542b\u97f3\u8a0a\u4e32\u6d41\u3002",
-                    "state": "needs-review-translation"
+                    "trans": "\u6a94\u6848\u4e0d\u5305\u542b\u97f3\u8a0a\u4e32\u6d41\u3002"
                 }
             }
         }
