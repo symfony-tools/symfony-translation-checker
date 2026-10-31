@@ -6641,8 +6641,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 dat\u0105 urodzenia.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 dat\u0105 urodzenia."
                 },
                 "101": {
                     "id": "101",
@@ -6654,8 +6653,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym kolorem.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym kolorem."
                 },
                 "104": {
                     "id": "104",
@@ -6667,8 +6665,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym przedzia\u0142em czasowym.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym przedzia\u0142em czasowym."
                 },
                 "107": {
                     "id": "107",
@@ -6680,8 +6677,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym plikiem.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym plikiem."
                 },
                 "110": {
                     "id": "110",
@@ -6689,8 +6685,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 liczb\u0105 ca\u0142kowit\u0105.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 liczb\u0105 ca\u0142kowit\u0105."
                 },
                 "112": {
                     "id": "112",
@@ -6702,13 +6697,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 kwot\u0105 pieni\u0119\u017cn\u0105.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 kwot\u0105 pieni\u0119\u017cn\u0105."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 liczb\u0105.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 liczb\u0105."
                 },
                 "116": {
                     "id": "116",
@@ -6716,8 +6709,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 warto\u015bci\u0105 procentow\u0105.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 warto\u015bci\u0105 procentow\u0105."
                 },
                 "118": {
                     "id": "118",
@@ -6737,13 +6729,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym terminem wyszukiwania.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym terminem wyszukiwania."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym numerem telefonu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym numerem telefonu."
                 },
                 "124": {
                     "id": "124",
@@ -6755,13 +6745,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 opcj\u0105.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142ow\u0105 opcj\u0105."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym zakresem.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta warto\u015b\u0107 nie jest prawid\u0142owym zakresem."
                 },
                 "128": {
                     "id": "128",
@@ -7534,8 +7522,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Ta vrednost ni veljaven rojstni datum.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven rojstni datum."
                 },
                 "101": {
                     "id": "101",
@@ -7547,8 +7534,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Ta vrednost ni veljavna barva.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljavna barva."
                 },
                 "104": {
                     "id": "104",
@@ -7560,8 +7546,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Ta vrednost ni veljaven datumski interval.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven datumski interval."
                 },
                 "107": {
                     "id": "107",
@@ -7573,8 +7558,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Ta vrednost ni veljavna datoteka.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljavna datoteka."
                 },
                 "110": {
                     "id": "110",
@@ -7582,8 +7566,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Ta vrednost ni veljavno celo \u0161tevilo.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljavno celo \u0161tevilo."
                 },
                 "112": {
                     "id": "112",
@@ -7591,18 +7574,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Ta vrednost ni veljavna podro\u010dna nastavitev.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljavna podro\u010dna nastavitev."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ta vrednost ni veljaven denarni znesek.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven denarni znesek."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ta vrednost ni veljavna \u0161tevilka.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljavna \u0161tevilka."
                 },
                 "116": {
                     "id": "116",
@@ -7610,8 +7590,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ta vrednost ni veljavna odstotna vrednost.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven odstotek."
                 },
                 "118": {
                     "id": "118",
@@ -7631,13 +7610,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ta vrednost ni veljaven iskalni izraz.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven iskalni izraz."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Ta vrednost ni veljavna telefonska \u0161tevilka.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljavna telefonska \u0161tevilka."
                 },
                 "124": {
                     "id": "124",
@@ -7649,13 +7626,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Ta vrednost ni veljavna mo\u017enost.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljavna mo\u017enost."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Ta vrednost ni veljaven obseg.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven razpon."
                 },
                 "128": {
                     "id": "128",
@@ -7667,8 +7642,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Spodnja meja ne sme biti ve\u010dja od zgornje meje.",
-                    "state": "needs-review-translation"
+                    "trans": "Spodnja meja ne sme biti ve\u010dja od zgornje meje."
                 }
             },
             "sq": {
@@ -7846,8 +7820,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0434\u0430\u0442\u0443\u043c \u0440\u043e\u0452\u0435\u045a\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0434\u0430\u0442\u0443\u043c \u0440\u043e\u0452\u0435\u045a\u0430."
                 },
                 "101": {
                     "id": "101",
@@ -7859,8 +7832,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 \u0431\u043e\u0458\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 \u0431\u043e\u0458\u0430."
                 },
                 "104": {
                     "id": "104",
@@ -7872,8 +7844,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0434\u0430\u0442\u0443\u043c\u0441\u043a\u0438 \u0438\u043d\u0442\u0435\u0440\u0432\u0430\u043b.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0434\u0430\u0442\u0443\u043c\u0441\u043a\u0438 \u0438\u043d\u0442\u0435\u0440\u0432\u0430\u043b."
                 },
                 "107": {
                     "id": "107",
@@ -7885,8 +7856,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 \u0434\u0430\u0442\u043e\u0442\u0435\u043a\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 \u0434\u0430\u0442\u043e\u0442\u0435\u043a\u0430."
                 },
                 "110": {
                     "id": "110",
@@ -7894,8 +7864,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0446\u0435\u043e \u0431\u0440\u043e\u0458.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0446\u0435\u043e \u0431\u0440\u043e\u0458."
                 },
                 "112": {
                     "id": "112",
@@ -7907,13 +7876,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 \u043a\u043e\u043b\u0438\u0447\u0438\u043d\u0430 \u043d\u043e\u0432\u0446\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 \u043a\u043e\u043b\u0438\u0447\u0438\u043d\u0430 \u043d\u043e\u0432\u0446\u0430."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0431\u0440\u043e\u0458.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0431\u0440\u043e\u0458."
                 },
                 "116": {
                     "id": "116",
@@ -7921,8 +7888,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u043f\u0440\u043e\u0446\u0435\u043d\u0430\u0442.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u043f\u0440\u043e\u0446\u0435\u043d\u0430\u0442."
                 },
                 "118": {
                     "id": "118",
@@ -7942,13 +7908,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0442\u0435\u0440\u043c\u0438\u043d \u0437\u0430 \u043f\u0440\u0435\u0442\u0440\u0430\u0433\u0443.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0442\u0435\u0440\u043c\u0438\u043d \u0437\u0430 \u043f\u0440\u0435\u0442\u0440\u0430\u0433\u0443."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0431\u0440\u043e\u0458 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u0431\u0440\u043e\u0458 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430."
                 },
                 "124": {
                     "id": "124",
@@ -7960,13 +7924,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 \u043e\u043f\u0446\u0438\u0458\u0430.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043d\u0430 \u043e\u043f\u0446\u0438\u0458\u0430."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u043e\u043f\u0441\u0435\u0433.",
-                    "state": "needs-review-translation"
+                    "trans": "\u041e\u0432\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442 \u043d\u0438\u0458\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0430\u043d \u043e\u043f\u0441\u0435\u0433."
                 },
                 "128": {
                     "id": "128",
@@ -8000,8 +7962,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Ova vrednost nije ispravan datum ro\u0111enja.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravan datum ro\u0111enja."
                 },
                 "101": {
                     "id": "101",
@@ -8013,8 +7974,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Ova vrednost nije ispravna boja.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravna boja."
                 },
                 "104": {
                     "id": "104",
@@ -8026,8 +7986,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Ova vrednost nije ispravan datumski interval.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravan datumski interval."
                 },
                 "107": {
                     "id": "107",
@@ -8039,8 +7998,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Ova vrednost nije ispravna datoteka.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravna datoteka."
                 },
                 "110": {
                     "id": "110",
@@ -8048,8 +8006,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Ova vrednost nije ispravan ceo broj.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravan ceo broj."
                 },
                 "112": {
                     "id": "112",
@@ -8061,13 +8018,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ova vrednost nije ispravna koli\u010dina novca.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravna koli\u010dina novca."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ova vrednost nije ispravan broj.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravan broj."
                 },
                 "116": {
                     "id": "116",
@@ -8075,8 +8030,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ova vrednost nije ispravan procenat.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravan procenat."
                 },
                 "118": {
                     "id": "118",
@@ -8096,13 +8050,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ova vrednost nije ispravan termin za pretragu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravan termin za pretragu."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Ova vrednost nije ispravan broj telefona.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravan broj telefona."
                 },
                 "124": {
                     "id": "124",
@@ -8114,13 +8066,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Ova vrednost nije ispravna opcija.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravna opcija."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Ova vrednost nije ispravan opseg.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrednost nije ispravan opseg."
                 },
                 "128": {
                     "id": "128",
@@ -43449,7 +43399,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "V php.ini ni bila nastavljena za\u010dasna mapa, ali pa nastavljena mapa ne obstaja."
+                    "trans": "V php.ini ni bila nastavljena za\u010dasna mapa ali pa nastavljena mapa ne obstaja."
                 },
                 "52": {
                     "id": "52",
@@ -43617,7 +43567,7 @@
                 },
                 "93": {
                     "id": "93",
-                    "trans": "To geslo je u\u0161lo pri kr\u0161itvi varnosti podatkov in ga ne smete uporabljati. Prosimo, uporabite drugo geslo."
+                    "trans": "To geslo je bilo razkrito v varnostnem incidentu in se ne sme uporabiti. Prosimo, uporabite drugo geslo."
                 },
                 "94": {
                     "id": "94",
@@ -43813,118 +43763,95 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Ta vrednost ni veljaven XML.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven XML."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Ta vrednost ni skladna s pri\u010dakovano shemo XSD.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni skladna s pri\u010dakovano shemo XSD."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "Ta vsebina XML je prevelika ({{ size }} bajtov): presega omejitev {{ limit }} bajtov.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vsebina XML je prevelika ({{ size }} bajtov): presega omejitev {{ limit }} bajtov."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Ta vrednost ni veljaven izraz cron.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven cron izraz."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Referencirana entiteta ne obstaja.",
-                    "state": "needs-review-translation"
+                    "trans": "Referencirana entiteta ne obstaja."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Ta vrednost ni veljaven ULID.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta vrednost ni veljaven ULID."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Ta datoteka ni veljavna zvo\u010dna datoteka.",
-                    "state": "needs-review-translation"
+                    "trans": "Ta datoteka ni veljavna zvo\u010dna datoteka."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Zvo\u010dni posnetek je prekratek ({{ duration }} sekund). Najmanj\u0161e pri\u010dakovano trajanje je {{ min_duration }} sekund.",
-                    "state": "needs-review-translation"
+                    "trans": "Zvo\u010dni posnetek je prekratek ({{ duration }} sekund). Najmanj\u0161e pri\u010dakovano trajanje je {{ min_duration }} sekund."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Zvo\u010dni posnetek je predolg ({{ duration }} sekund). Najve\u010dje dovoljeno trajanje je {{ max_duration }} sekund.",
-                    "state": "needs-review-translation"
+                    "trans": "Zvo\u010dni posnetek je predolg ({{ duration }} sekund). Najve\u010dje dovoljeno trajanje je {{ max_duration }} sekund."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Trajanja zvo\u010dnega posnetka ni bilo mogo\u010de dolo\u010diti.",
-                    "state": "needs-review-translation"
+                    "trans": "Trajanja zvo\u010dnega posnetka ni bilo mogo\u010de dolo\u010diti."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Bitna hitrost zvo\u010dnega posnetka je prenizka ({{ bitrate }} bps). Najmanj\u0161a pri\u010dakovana bitna hitrost je {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitna hitrost zvo\u010dnega posnetka je prenizka ({{ bitrate }} bps). Najmanj\u0161a pri\u010dakovana bitna hitrost je {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Bitna hitrost zvo\u010dnega posnetka je previsoka ({{ bitrate }} bps). Najve\u010dja dovoljena bitna hitrost je {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitna hitrost zvo\u010dnega posnetka je previsoka ({{ bitrate }} bps). Najve\u010dja dovoljena bitna hitrost je {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Bitne hitrosti zvo\u010dnega posnetka ni bilo mogo\u010de dolo\u010diti.",
-                    "state": "needs-review-translation"
+                    "trans": "Bitne hitrosti zvo\u010dnega posnetka ni bilo mogo\u010de zaznati."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Nepodprta frekvenca vzor\u010denja zvoka ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodprta frekvenca vzor\u010denja zvoka ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Frekvence vzor\u010denja zvo\u010dnega posnetka ni bilo mogo\u010de dolo\u010diti.",
-                    "state": "needs-review-translation"
+                    "trans": "Hitrosti vzor\u010denja zvo\u010dnega posnetka ni bilo mogo\u010de zaznati."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Zvo\u010dni posnetek ima premalo kanalov ({{ channels }}). Najmanj\u0161e pri\u010dakovano \u0161tevilo je {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Zvo\u010dni posnetek ima premalo kanalov ({{ channels }}). Najmanj\u0161e pri\u010dakovano \u0161tevilo je {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Zvo\u010dni posnetek ima preve\u010d kanalov ({{ channels }}). Najve\u010dje pri\u010dakovano \u0161tevilo je {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Zvo\u010dni posnetek ima preve\u010d kanalov ({{ channels }}). Najve\u010dje pri\u010dakovano \u0161tevilo je {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "\u0160tevila zvo\u010dnih kanalov ni bilo mogo\u010de dolo\u010diti.",
-                    "state": "needs-review-translation"
+                    "trans": "\u0160tevila zvo\u010dnih kanalov ni bilo mogo\u010de zaznati."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Zvo\u010dna datoteka je po\u0161kodovana.",
-                    "state": "needs-review-translation"
+                    "trans": "Zvo\u010dna datoteka je po\u0161kodovana."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Zvo\u010dni posnetek vsebuje ve\u010d tokov. Dovoljen je le en tok.",
-                    "state": "needs-review-translation"
+                    "trans": "Zvo\u010dni posnetek vsebuje ve\u010d tokov. Dovoljen je le en tok."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Nepodprt zvo\u010dni kodek \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodprt zvo\u010dni kodek \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Nepodprt zvo\u010dni vsebnik \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nepodprt zvo\u010dni vsebnik \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Datoteka ne vsebuje nobenega zvo\u010dnega toka.",
-                    "state": "needs-review-translation"
+                    "trans": "Datoteka ne vsebuje nobenega zvo\u010dnega toka."
                 }
             },
             "sq": {
