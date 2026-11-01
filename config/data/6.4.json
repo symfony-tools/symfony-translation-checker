@@ -4208,8 +4208,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Ova vrijednost nije valjan datum ro\u0111enja.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani datum ro\u0111enja."
                 },
                 "101": {
                     "id": "101",
@@ -4221,8 +4220,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Ova vrijednost nije valjana boja.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjana boja."
                 },
                 "104": {
                     "id": "104",
@@ -4234,8 +4232,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Ova vrijednost nije valjan vremenski interval.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani vremenski interval."
                 },
                 "107": {
                     "id": "107",
@@ -4247,8 +4244,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Ova vrijednost nije valjana datoteka.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjana datoteka."
                 },
                 "110": {
                     "id": "110",
@@ -4256,8 +4252,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Ova vrijednost nije valjan cijeli broj.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani cijeli broj."
                 },
                 "112": {
                     "id": "112",
@@ -4269,13 +4264,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ova vrijednost nije valjan nov\u010dani iznos.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani nov\u010dani iznos."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ova vrijednost nije valjan broj.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani broj."
                 },
                 "116": {
                     "id": "116",
@@ -4283,8 +4276,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ova vrijednost nije valjana postotna vrijednost.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani postotak."
                 },
                 "118": {
                     "id": "118",
@@ -4304,13 +4296,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ova vrijednost nije valjan pojam za pretra\u017eivanje.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani pojam za pretra\u017eivanje."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Ova vrijednost nije valjan telefonski broj.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani telefonski broj."
                 },
                 "124": {
                     "id": "124",
@@ -4322,13 +4312,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Ova vrijednost nije valjana opcija.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjana opcija."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Ova vrijednost nije valjan raspon.",
-                    "state": "needs-review-translation"
+                    "trans": "Ova vrijednost nije valjani raspon."
                 },
                 "128": {
                     "id": "128",
