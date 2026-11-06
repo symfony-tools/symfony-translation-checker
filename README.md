@@ -20,3 +20,9 @@ Another command is running to look at the data and create/update issues on symfo
 for the missing translations.
 Some issues stay open for a long time. After 30 days without a comment, the same command
 pings the people who translated that language before. It does this once per issue.
+
+The same two commands also run for symfony/ux, through their `--project=ux`
+option. The UX data comes from the `3.x` branch (set in `Project::fromName()` and
+in `.github/workflows/website.yml`) and is saved in `config/data/ux/`. Issues are
+opened on symfony/ux. The website shows it on a second page, `ux.html`, linked
+from the navbar.

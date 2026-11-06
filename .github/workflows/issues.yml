@@ -26,3 +26,8 @@ jobs:
         env:
           CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
         run: bin/console app:open-issues
+
+      - name: Open issues on Symfony UX
+        env:
+          CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+        run: bin/console app:open-issues --project=ux
