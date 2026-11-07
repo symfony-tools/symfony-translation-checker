@@ -4,23 +4,25 @@ declare(strict_types=1);
 
 namespace App\Command;
 
+use Sensiolabs\MinifyBundle\Minifier\MinifierInterface;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Filesystem\Filesystem;
-use voku\helper\HtmlMin;
 
 #[AsCommand(name: 'app:build-website')]
 final class BuildWebsiteCommand extends Command
 {
+    public function __construct(
+        private MinifierInterface $minifier,
+    ) {
+        parent::__construct();
+    }
+
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $outputDir = 'build';
-        $parser = \WyriHaximus\HtmlCompress\Factory::constructSmallest();
-        $htmlMin = new HtmlMin();
-        $htmlMin->doSortHtmlAttributes(false);
-        $parser = $parser->withHtmlMin($htmlMin);
 
         (new Filesystem())->remove('var/cache/prod');
         $kernel = new \App\Kernel('prod', false);
@@ -40,7 +42,7 @@ final class BuildWebsiteCommand extends Command
                 return Command::FAILURE;
             }
 
-            $compressedHtml = $parser->compress($response->getContent());
+            $compressedHtml = $this->minifier->minify($response->getContent(), MinifierInterface::TYPE_HTML);
             file_put_contents($outputDir.'/'.$file, $compressedHtml);
         }
 

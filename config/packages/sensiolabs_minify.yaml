@@ -1,0 +1,5 @@
+sensiolabs_minify:
+    asset_mapper: false
+    minify:
+        download_binary: true
+        version: 'v2.24.25'
