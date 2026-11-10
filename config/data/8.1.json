@@ -1795,8 +1795,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Aquest valor no \u00e9s una data de naixement v\u00e0lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s una data de naixement v\u00e0lida."
                 },
                 "101": {
                     "id": "101",
@@ -1808,8 +1807,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Aquest valor no \u00e9s un color v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un color v\u00e0lid."
                 },
                 "104": {
                     "id": "104",
@@ -1821,8 +1819,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Aquest valor no \u00e9s un interval de dates v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un interval de dates v\u00e0lid."
                 },
                 "107": {
                     "id": "107",
@@ -1834,8 +1831,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Aquest valor no \u00e9s un fitxer v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un fitxer v\u00e0lid."
                 },
                 "110": {
                     "id": "110",
@@ -1843,8 +1839,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Aquest valor no \u00e9s un enter v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un enter v\u00e0lid."
                 },
                 "112": {
                     "id": "112",
@@ -1852,18 +1847,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Aquest valor no \u00e9s una configuraci\u00f3 regional v\u00e0lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s una configuraci\u00f3 regional v\u00e0lida."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Aquest valor no \u00e9s una quantitat de diners v\u00e0lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s una quantitat de diners v\u00e0lida."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Aquest valor no \u00e9s un n\u00famero v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un n\u00famero v\u00e0lid."
                 },
                 "116": {
                     "id": "116",
@@ -1871,8 +1863,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Aquest valor no \u00e9s un valor percentual v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un valor percentual v\u00e0lid."
                 },
                 "118": {
                     "id": "118",
@@ -1892,17 +1883,15 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Aquest valor no \u00e9s un terme de cerca v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un terme de cerca v\u00e0lid."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Aquest valor no \u00e9s un n\u00famero de tel\u00e8fon v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un n\u00famero de tel\u00e8fon v\u00e0lid."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "La casella de selecci\u00f3 te un valor no v\u00e0lid."
+                    "trans": "La casella de selecci\u00f3 t\u00e9 un valor no v\u00e0lid."
                 },
                 "125": {
                     "id": "125",
@@ -1910,13 +1899,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Aquest valor no \u00e9s una opci\u00f3 v\u00e0lida.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s una opci\u00f3 v\u00e0lida."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Aquest valor no \u00e9s un rang v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest valor no \u00e9s un rang v\u00e0lid."
                 },
                 "128": {
                     "id": "128",
@@ -1928,8 +1915,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "El l\u00edmit inferior no ha de ser superior al l\u00edmit superior.",
-                    "state": "needs-review-translation"
+                    "trans": "El l\u00edmit inferior no ha de ser superior al l\u00edmit superior."
                 }
             },
             "ckb": {
@@ -18586,88 +18572,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Aquest fitxer no \u00e9s un fitxer d'\u00e0udio v\u00e0lid.",
-                    "state": "needs-review-translation"
+                    "trans": "Aquest fitxer no \u00e9s un fitxer d'\u00e0udio v\u00e0lid."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "L'\u00e0udio \u00e9s massa curt ({{ duration }} segons). La durada m\u00ednima esperada \u00e9s {{ min_duration }} segons.",
-                    "state": "needs-review-translation"
+                    "trans": "L'\u00e0udio \u00e9s massa curt ({{ duration }} segons). La durada m\u00ednima esperada \u00e9s {{ min_duration }} segons."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "L'\u00e0udio \u00e9s massa llarg ({{ duration }} segons). La durada m\u00e0xima permesa \u00e9s {{ max_duration }} segons.",
-                    "state": "needs-review-translation"
+                    "trans": "L'\u00e0udio \u00e9s massa llarg ({{ duration }} segons). La durada m\u00e0xima permesa \u00e9s {{ max_duration }} segons."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "No s'ha pogut detectar la durada de l'\u00e0udio.",
-                    "state": "needs-review-translation"
+                    "trans": "No s'ha pogut detectar la durada de l'\u00e0udio."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "La taxa de bits de l'\u00e0udio \u00e9s massa baixa ({{ bitrate }} bps). La taxa de bits m\u00ednima esperada \u00e9s {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "La taxa de bits de l'\u00e0udio \u00e9s massa baixa ({{ bitrate }} bps). La taxa de bits m\u00ednima esperada \u00e9s {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "La taxa de bits de l'\u00e0udio \u00e9s massa alta ({{ bitrate }} bps). La taxa de bits m\u00e0xima permesa \u00e9s {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "La taxa de bits de l'\u00e0udio \u00e9s massa alta ({{ bitrate }} bps). La taxa de bits m\u00e0xima permesa \u00e9s {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "No s'ha pogut detectar la taxa de bits de l'\u00e0udio.",
-                    "state": "needs-review-translation"
+                    "trans": "No s'ha pogut detectar la taxa de bits de l'\u00e0udio."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Freq\u00fc\u00e8ncia de mostreig d'\u00e0udio incompatible ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Freq\u00fc\u00e8ncia de mostreig d'\u00e0udio incompatible ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "No s'ha pogut detectar la freq\u00fc\u00e8ncia de mostreig de l'\u00e0udio.",
-                    "state": "needs-review-translation"
+                    "trans": "No s'ha pogut detectar la freq\u00fc\u00e8ncia de mostreig de l'\u00e0udio."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "L'\u00e0udio no t\u00e9 suficients canals ({{ channels }}). La quantitat m\u00ednima esperada \u00e9s {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "L'\u00e0udio no t\u00e9 suficients canals ({{ channels }}). La quantitat m\u00ednima esperada \u00e9s {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "L'\u00e0udio t\u00e9 massa canals ({{ channels }}). La quantitat m\u00e0xima prevista \u00e9s {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "L'\u00e0udio t\u00e9 massa canals ({{ channels }}). La quantitat m\u00e0xima prevista \u00e9s {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "No s'ha pogut detectar el nombre de canals d'\u00e0udio.",
-                    "state": "needs-review-translation"
+                    "trans": "No s'ha pogut detectar el nombre de canals d'\u00e0udio."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "El fitxer d'\u00e0udio est\u00e0 espatllat.",
-                    "state": "needs-review-translation"
+                    "trans": "El fitxer d'\u00e0udio est\u00e0 malm\u00e8s."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "L'\u00e0udio cont\u00e9 diversos fluxos. Nom\u00e9s es permet un sol flux.",
-                    "state": "needs-review-translation"
+                    "trans": "L'\u00e0udio cont\u00e9 diversos fluxos. Nom\u00e9s se'n permet un."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "C\u00f2dec d'\u00e0udio incompatible \u00ab{{ codec }}\u00bb.",
-                    "state": "needs-review-translation"
+                    "trans": "C\u00f2dec d'\u00e0udio no compatible \u00ab{{ codec }}\u00bb."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Contenidor d'\u00e0udio incompatible \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Contenidor d'\u00e0udio no compatible \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "El fitxer no cont\u00e9 cap flux d'\u00e0udio.",
-                    "state": "needs-review-translation"
+                    "trans": "El fitxer no cont\u00e9 cap flux d'\u00e0udio."
                 }
             },
             "ckb": {
