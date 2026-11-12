@@ -4309,8 +4309,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes sz\u00fclet\u00e9si d\u00e1tum.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes sz\u00fclet\u00e9si d\u00e1tum."
                 },
                 "101": {
                     "id": "101",
@@ -4322,8 +4321,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes sz\u00edn.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes sz\u00edn."
                 },
                 "104": {
                     "id": "104",
@@ -4335,8 +4333,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes d\u00e1tumintervallum.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes d\u00e1tumintervallum."
                 },
                 "107": {
                     "id": "107",
@@ -4348,8 +4345,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes f\u00e1jl.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes f\u00e1jl."
                 },
                 "110": {
                     "id": "110",
@@ -4357,8 +4353,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes eg\u00e9sz sz\u00e1m.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes eg\u00e9sz sz\u00e1m."
                 },
                 "112": {
                     "id": "112",
@@ -4370,13 +4365,11 @@
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes p\u00e9nz\u00f6sszeg.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes p\u00e9nz\u00f6sszeg."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes sz\u00e1m.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes sz\u00e1m."
                 },
                 "116": {
                     "id": "116",
@@ -4384,8 +4377,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes sz\u00e1zal\u00e9kos \u00e9rt\u00e9k.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes sz\u00e1zal\u00e9k."
                 },
                 "118": {
                     "id": "118",
@@ -4405,13 +4397,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes keres\u00e9si kifejez\u00e9s.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes keres\u00e9si kifejez\u00e9s."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes telefonsz\u00e1m.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes telefonsz\u00e1m."
                 },
                 "124": {
                     "id": "124",
@@ -4423,13 +4413,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes opci\u00f3.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes opci\u00f3."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes tartom\u00e1ny.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez az \u00e9rt\u00e9k nem \u00e9rv\u00e9nyes tartom\u00e1ny."
                 },
                 "128": {
                     "id": "128",
@@ -4441,8 +4429,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Az als\u00f3 hat\u00e1r\u00e9rt\u00e9k nem lehet nagyobb a fels\u0151 hat\u00e1r\u00e9rt\u00e9kn\u00e9l.",
-                    "state": "needs-review-translation"
+                    "trans": "Az als\u00f3 hat\u00e1r\u00e9rt\u00e9k nem lehet nagyobb a fels\u0151 hat\u00e1r\u00e9rt\u00e9kn\u00e9l."
                 }
             },
             "hy": {
@@ -29662,7 +29649,7 @@
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Ez a \u00e9rt\u00e9k \u00e9rv\u00e9nytelen hetet jelent az ISO 8601 form\u00e1tumban."
+                    "trans": "Ez az \u00e9rt\u00e9k \u00e9rv\u00e9nytelen hetet jelent az ISO 8601 form\u00e1tumban."
                 },
                 "117": {
                     "id": "117",
@@ -29670,11 +29657,11 @@
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Ez az \u00e9rt\u00e9k nem lehet a \"{{ min }}\". h\u00e9tn\u00e9l kor\u00e1bbi."
+                    "trans": "Ez az \u00e9rt\u00e9k nem lehet kor\u00e1bbi a k\u00f6vetkez\u0151 h\u00e9tn\u00e9l: {{ min }}."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Ez az \u00e9rt\u00e9k nem lehet a \"{{ max }}\". h\u00e9tn\u00e9l k\u00e9s\u0151bbi."
+                    "trans": "Ez az \u00e9rt\u00e9k nem lehet k\u00e9s\u0151bbi a k\u00f6vetkez\u0151 h\u00e9tn\u00e9l: {{ max }}."
                 },
                 "121": {
                     "id": "121",
@@ -29742,11 +29729,11 @@
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Nem t\u00e1mogatott vide\u00f3kodek \u201e{{ codec }}\"."
+                    "trans": "Nem t\u00e1mogatott vide\u00f3kodek \u201e{{ codec }}\u201d."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Nem t\u00e1mogatott vide\u00f3kont\u00e9ner \u201e{{ container }}\"."
+                    "trans": "Nem t\u00e1mogatott vide\u00f3kont\u00e9ner \u201e{{ container }}\u201d."
                 },
                 "139": {
                     "id": "139",
@@ -29790,88 +29777,71 @@
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Ez a f\u00e1jl nem \u00e9rv\u00e9nyes hangf\u00e1jl.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez a f\u00e1jl nem \u00e9rv\u00e9nyes hangf\u00e1jl."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "A hang t\u00fal r\u00f6vid ({{ duration }} m\u00e1sodperc). Az elv\u00e1rt legr\u00f6videbb hossz {{ min_duration }} m\u00e1sodperc.",
-                    "state": "needs-review-translation"
+                    "trans": "A hanganyag t\u00fal r\u00f6vid ({{ duration }} m\u00e1sodperc). Az elv\u00e1rt legr\u00f6videbb id\u0151tartam {{ min_duration }} m\u00e1sodperc."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "A hang t\u00fal hossz\u00fa ({{ duration }} m\u00e1sodperc). A megengedett leghosszabb hossz {{ max_duration }} m\u00e1sodperc.",
-                    "state": "needs-review-translation"
+                    "trans": "A hanganyag t\u00fal hossz\u00fa ({{ duration }} m\u00e1sodperc). A megengedett leghosszabb id\u0151tartam {{ max_duration }} m\u00e1sodperc."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "A hang hossz\u00e1t nem siker\u00fclt meg\u00e1llap\u00edtani.",
-                    "state": "needs-review-translation"
+                    "trans": "A hanganyag id\u0151tartam\u00e1t nem siker\u00fclt meg\u00e1llap\u00edtani."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "A hang bitr\u00e1t\u00e1ja t\u00fal alacsony ({{ bitrate }} bps). Az elv\u00e1rt legkisebb bitr\u00e1ta {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "A hanganyag bitr\u00e1t\u00e1ja t\u00fal alacsony ({{ bitrate }} bps). Az elv\u00e1rt legkisebb bitr\u00e1ta {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "A hang bitr\u00e1t\u00e1ja t\u00fal magas ({{ bitrate }} bps). A megengedett legnagyobb bitr\u00e1ta {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "A hanganyag bitr\u00e1t\u00e1ja t\u00fal magas ({{ bitrate }} bps). A megengedett legnagyobb bitr\u00e1ta {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "A hang bitr\u00e1t\u00e1j\u00e1t nem siker\u00fclt meg\u00e1llap\u00edtani.",
-                    "state": "needs-review-translation"
+                    "trans": "A hanganyag bitr\u00e1t\u00e1j\u00e1t nem siker\u00fclt meg\u00e1llap\u00edtani."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Nem t\u00e1mogatott hangmintav\u00e9teli frekvencia ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Nem t\u00e1mogatott hangmintav\u00e9teli frekvencia ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "A hang mintav\u00e9teli frekvenci\u00e1j\u00e1t nem siker\u00fclt meg\u00e1llap\u00edtani.",
-                    "state": "needs-review-translation"
+                    "trans": "A hanganyag mintav\u00e9teli frekvenci\u00e1j\u00e1t nem siker\u00fclt meg\u00e1llap\u00edtani."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "A hangban t\u00fal kev\u00e9s a csatorna ({{ channels }}). Az elv\u00e1rt legkisebb mennyis\u00e9g {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A hanganyagban t\u00fal kev\u00e9s a csatorna ({{ channels }}). Az elv\u00e1rt legkisebb mennyis\u00e9g {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "A hangban t\u00fal sok a csatorna ({{ channels }}). A megengedett legnagyobb mennyis\u00e9g {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "A hanganyagban t\u00fal sok a csatorna ({{ channels }}). A megengedett legnagyobb mennyis\u00e9g {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "A hangcsatorn\u00e1k sz\u00e1m\u00e1t nem siker\u00fclt meg\u00e1llap\u00edtani.",
-                    "state": "needs-review-translation"
+                    "trans": "A hangcsatorn\u00e1k sz\u00e1m\u00e1t nem siker\u00fclt meg\u00e1llap\u00edtani."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "A hangf\u00e1jl s\u00e9r\u00fclt.",
-                    "state": "needs-review-translation"
+                    "trans": "A hangf\u00e1jl s\u00e9r\u00fclt."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "A hang t\u00f6bb adatfolyamot tartalmaz. Csak egy adatfolyam enged\u00e9lyezett.",
-                    "state": "needs-review-translation"
+                    "trans": "A hanganyag t\u00f6bb adatfolyamot tartalmaz. Csak egy adatfolyam enged\u00e9lyezett."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Nem t\u00e1mogatott hangkodek \u201e{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nem t\u00e1mogatott hangkodek \u201e{{ codec }}\u201d."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Nem t\u00e1mogatott hangkont\u00e9ner \u201e{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Nem t\u00e1mogatott hangkont\u00e9ner \u201e{{ container }}\u201d."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "A f\u00e1jl nem tartalmaz hang adatfolyamot.",
-                    "state": "needs-review-translation"
+                    "trans": "A f\u00e1jl nem tartalmaz hangadatfolyamot."
                 }
             },
             "hy": {
