@@ -3,6 +3,11 @@ index:
     controller: App\Controller\StartpageController::index
     methods: GET
 
+ux:
+    path: /ux.html
+    controller: App\Controller\StartpageController::ux
+    methods: GET
+
 controllers:
     resource:
         path: ../src/Controller/

@@ -4,11 +4,13 @@ declare(strict_types=1);
 
 namespace App\Command;
 
+use App\Model\Project;
 use App\Service\PathProvider;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\Translation\Loader\XliffFileLoader;
@@ -24,19 +26,26 @@ final class TranslationStatsCommand extends Command
 
     protected function configure()
     {
-        $this->addArgument('path', InputArgument::REQUIRED, 'Path to Symfony src');
+        $this->addArgument('path', InputArgument::REQUIRED, 'Path to the symfony/symfony or symfony/ux checkout');
+        $this->addOption('project', null, InputOption::VALUE_REQUIRED, 'Project to collect the data of: "symfony" or "ux"', 'symfony');
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $paths = $this->pathProvider->getComponentPaths();
-        $sourceNames = $this->pathProvider->getSourceNames();
+        /** @var string $rootPath */
+        $rootPath = $input->getArgument('path');
+
+        $files = null;
+        if ('symfony' === Project::fromName($input->getOption('project'))->name) {
+            $paths = $this->pathProvider->getComponentPaths();
+            $sourceNames = $this->pathProvider->getSourceNames();
+        } else {
+            [$paths, $sourceNames, $files] = $this->findUxCatalogues($rootPath);
+        }
 
         $validIds = [];
         $definedIds = [];
 
-        /** @var string $rootPath */
-        $rootPath = $input->getArgument('path');
         $loader = new XliffFileLoader();
         foreach ($paths as $name => $path) {
             $validIds[$name] = [];
@@ -73,8 +82,40 @@ final class TranslationStatsCommand extends Command
         ksort($validIds);
         ksort($definedIds);
 
-        $output->writeln(json_encode(['available' => $validIds, 'defined' => $definedIds], \JSON_PRETTY_PRINT));
+        $data = ['available' => $validIds, 'defined' => $definedIds];
+        if (null !== $files) {
+            $data['files'] = $files;
+        }
+
+        $output->writeln(json_encode($data, \JSON_PRETTY_PRINT));
 
         return Command::SUCCESS;
+    }
+
+    /**
+     * Symfony UX packages keep their catalogues in src/<Package>/translations/<domain>.<locale>.xlf.
+     *
+     * @return array{array<string, string>, array<string, string>, array<string, string>} the paths, the English file names and the file patterns, by package
+     */
+    private function findUxCatalogues(string $rootPath): array
+    {
+        $englishFiles = glob($rootPath.'/src/*/translations/*.en.xlf');
+        if (!$englishFiles) {
+            throw new \RuntimeException(sprintf('No "src/*/translations/*.en.xlf" file found in "%s".', $rootPath));
+        }
+
+        $paths = $sourceNames = $files = [];
+        foreach ($englishFiles as $englishFile) {
+            $package = basename(\dirname($englishFile, 2));
+            if (isset($paths[$package])) {
+                throw new \LogicException(sprintf('The "%s" package has more than one English catalogue.', $package));
+            }
+
+            $paths[$package] = sprintf('src/%s/translations', $package);
+            $sourceNames[$package] = basename($englishFile);
+            $files[$package] = sprintf('%s/%s.%%s.xlf', $paths[$package], basename($englishFile, '.en.xlf'));
+        }
+
+        return [$paths, $sourceNames, $files];
     }
 }
