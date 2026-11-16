@@ -8877,7 +8877,7 @@
                 },
                 "29": {
                     "id": "29",
-                    "trans": "Yuklab olingan fayl juda katta. Iltimos, kichikroq faylni yuklashga harakat qiling."
+                    "trans": "Yuklangan fayl juda katta. Iltimos, kichikroq faylni yuklashga harakat qiling."
                 },
                 "30": {
                     "id": "30",
@@ -8889,8 +8889,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Qiymat noto'g'ri, tug'ilgan kun emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, yaroqli tug'ilgan sanani kiriting."
                 },
                 "101": {
                     "id": "101",
@@ -8902,8 +8901,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Qiymat noto'g'ri, rang emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, yaroqli rangni tanlang."
                 },
                 "104": {
                     "id": "104",
@@ -8915,8 +8913,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Qiymat noto'g'ri, sana oralig'i emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, yaroqli sana oralig'ini tanlang."
                 },
                 "107": {
                     "id": "107",
@@ -8928,8 +8925,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Qiymat noto'g'ri, fayl emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, yaroqli faylni tanlang."
                 },
                 "110": {
                     "id": "110",
@@ -8937,8 +8933,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Qiymat noto'g'ri, butun son emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, butun son kiriting."
                 },
                 "112": {
                     "id": "112",
@@ -8946,18 +8941,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Qiymat noto'g'ri, lokal emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, yaroqli lokalni tanlang."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Qiymat noto'g'ri, pul miqdori emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, yaroqli pul miqdorini kiriting."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Qiymat noto'g'ri, raqam emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, son kiriting."
                 },
                 "116": {
                     "id": "116",
@@ -8965,8 +8957,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Qiymat noto'g'ri, foiz emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, foiz qiymatini kiriting."
                 },
                 "118": {
                     "id": "118",
@@ -8986,13 +8977,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Qiymat noto'g'ri, qidiruv so'zi emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, yaroqli qidiruv so'zini kiriting."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Qiymat noto'g'ri, telefon raqami emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, yaroqli telefon raqamini kiriting."
                 },
                 "124": {
                     "id": "124",
@@ -9004,13 +8993,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Qiymat noto'g'ri, variant emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, yaroqli variantni tanlang."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Qiymat noto'g'ri, oraliq emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Iltimos, yaroqli oraliqni tanlang."
                 },
                 "128": {
                     "id": "128",
@@ -9022,8 +9009,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Quyi chegara yuqori chegaradan katta bo'lmasligi kerak.",
-                    "state": "needs-review-translation"
+                    "trans": "Quyi chegara yuqori chegaradan katta bo'lmasligi kerak."
                 }
             },
             "vi": {
@@ -49586,7 +49572,7 @@
                 },
                 "7": {
                     "id": "7",
-                    "trans": "Siz {{ limit }} ta qiymatni tanlashingiz kerak.|Siz {{ limit }} dan ortiq qiymat tanlashingiz kerak."
+                    "trans": "Siz ko'pi bilan {{ limit }} ta qiymat tanlashingiz kerak.|Siz ko'pi bilan {{ limit }} ta qiymat tanlashingiz kerak."
                 },
                 "8": {
                     "id": "8",
@@ -49598,7 +49584,7 @@
                 },
                 "10": {
                     "id": "10",
-                    "trans": "Bu maydon majvud emas."
+                    "trans": "Bu maydon mavjud emas."
                 },
                 "11": {
                     "id": "11",
@@ -49622,7 +49608,7 @@
                 },
                 "16": {
                     "id": "16",
-                    "trans": "Fayl hajmi katta ({{ size }} {{ suffix }}). Maksimal ruxsat etilgan hajim {{ limit }} {{ suffix }}."
+                    "trans": "Fayl hajmi katta ({{ size }} {{ suffix }}). Maksimal ruxsat etilgan hajm {{ limit }} {{ suffix }}."
                 },
                 "17": {
                     "id": "17",
@@ -49646,7 +49632,7 @@
                 },
                 "22": {
                     "id": "22",
-                    "trans": "Qiymatni bo'sh kirtish mumkin emas."
+                    "trans": "Qiymatni bo'sh kiritish mumkin emas."
                 },
                 "23": {
                     "id": "23",
@@ -49674,7 +49660,7 @@
                 },
                 "32": {
                     "id": "32",
-                    "trans": "Fayl hajmi katta. Maksimal ruxsat berilgan hajim {{ limit }} {{ suffix }}."
+                    "trans": "Fayl hajmi katta. Maksimal ruxsat berilgan hajm {{ limit }} {{ suffix }}."
                 },
                 "33": {
                     "id": "33",
@@ -49774,7 +49760,7 @@
                 },
                 "57": {
                     "id": "57",
-                    "trans": "Kata raqami noto'g'ri."
+                    "trans": "Karta raqami noto'g'ri."
                 },
                 "58": {
                     "id": "58",
@@ -49818,11 +49804,11 @@
                 },
                 "68": {
                     "id": "68",
-                    "trans": "\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u044b\u043c {{ compared_value_type }} {{ compared_value }}."
+                    "trans": "Qiymat {{ compared_value_type }} {{ compared_value }} bilan bir xil bo'lishi shart."
                 },
                 "69": {
                     "id": "69",
-                    "trans": "Qiymat bir xil bo'lishi kerak {{ compared_value }}."
+                    "trans": "Qiymat {{ compared_value }} dan kichik bo'lishi shart."
                 },
                 "70": {
                     "id": "70",
@@ -49834,7 +49820,7 @@
                 },
                 "72": {
                     "id": "72",
-                    "trans": "Qiymat bir xil bo'lishi kerak emas {{ compared_value_type }} {{ compared_value }}."
+                    "trans": "Qiymat {{ compared_value_type }} {{ compared_value }} bilan bir xil bo'lmasligi kerak."
                 },
                 "73": {
                     "id": "73",
@@ -49862,7 +49848,7 @@
                 },
                 "79": {
                     "id": "79",
-                    "trans": "Xost nomini nomiga ruxsat berilmagan."
+                    "trans": "Xost nomini aniqlab bo'lmadi."
                 },
                 "80": {
                     "id": "80",
@@ -49886,7 +49872,7 @@
                 },
                 "85": {
                     "id": "85",
-                    "trans": "Ushbu BIC IBAN {{ iban }} bilan bog'liq emas.."
+                    "trans": "Ushbu BIC IBAN {{ iban }} bilan bog'liq emas."
                 },
                 "86": {
                     "id": "86",
@@ -49930,7 +49916,7 @@
                 },
                 "96": {
                     "id": "96",
-                    "trans": "Ushbu to'plamdagi narsalar soni {{ compared_value }} dan ko'p bo'lishi kerak."
+                    "trans": "Ushbu to'plamdagi narsalar soni {{ compared_value }} ning ko'paytmasi bo'lishi kerak."
                 },
                 "97": {
                     "id": "97",
@@ -50130,98 +50116,79 @@
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Havola qilingan obyekt mavjud emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Havola qilingan obyekt mavjud emas."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Bu qiymat haqiqiy ULID emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Bu qiymat haqiqiy ULID emas."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Ushbu fayl yaroqli audio fayl emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Ushbu fayl yaroqli audio fayl emas."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Audio juda qisqa ({{ duration }} sekund). Kutilgan minimal davomiylik {{ min_duration }} sekund.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio juda qisqa ({{ duration }} soniya). Kutilayotgan minimal davomiylik {{ min_duration }} soniya."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Audio juda uzun ({{ duration }} sekund). Ruxsat etilgan maksimal davomiylik {{ max_duration }} sekund.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio juda uzun ({{ duration }} soniya). Ruxsat etilgan maksimal davomiylik {{ max_duration }} soniya."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Audioning davomiyligini aniqlab bo\u2018lmadi.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioning davomiyligini aniqlab bo'lmadi."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Audio bitreyti juda past ({{ bitrate }} bps). Kutilayotgan minimal bitreyt {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio bitreyti juda past ({{ bitrate }} bps). Kutilayotgan minimal bitreyt {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Audio bitreyti juda yuqori ({{ bitrate }} bps). Ruxsat etilgan maksimal bitreyt {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio bitreyti juda yuqori ({{ bitrate }} bps). Ruxsat etilgan maksimal bitreyt {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Audioning bitreytini aniqlab bo\u2018lmadi.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioning bitreytini aniqlab bo'lmadi."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Qo\u2018llab-quvvatlanmaydigan audio namuna olish chastotasi ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Qo'llab-quvvatlanmaydigan audio namuna olish chastotasi ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Audioning namuna olish chastotasini aniqlab bo\u2018lmadi.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioning namuna olish chastotasini aniqlab bo'lmadi."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Audioda kanallar soni juda kam ({{ channels }}). Kutilgan minimal miqdor {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioda kanallar soni juda kam ({{ channels }}). Kutilayotgan minimal miqdor {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Audioda juda ko\u2018p kanal bor ({{ channels }}). Kutilayotgan maksimal miqdor {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioda kanallar soni juda ko'p ({{ channels }}). Ruxsat etilgan maksimal miqdor {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Audio kanallari sonini aniqlab bo\u2018lmadi.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio kanallari sonini aniqlab bo'lmadi."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Audio fayli buzilgan.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio fayli buzilgan."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Audioda bir nechta oqim mavjud. Faqat bitta oqimga ruxsat beriladi.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioda bir nechta oqim mavjud. Faqat bitta oqimga ruxsat beriladi."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Qo\u2018llab-quvvatlanmaydigan audio kodek \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Qo'llab-quvvatlanmaydigan audio kodek \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Qo'llab-quvvatlanmaydigan audio konteyner \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Qo'llab-quvvatlanmaydigan audio konteyner \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Faylda audio oqim mavjud emas.",
-                    "state": "needs-review-translation"
+                    "trans": "Faylda audio oqim mavjud emas."
                 }
             },
             "vi": {
