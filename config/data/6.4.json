@@ -3249,21 +3249,19 @@
                 },
                 "30": {
                     "id": "30",
-                    "trans": "CSRF tokena baliogabea da. Mesedez, saiatu berriro formularioa bidaltzen.",
-                    "state": "needs-review-translation"
+                    "trans": "CSRF tokena baliogabea da. Mesedez, saiatu berriro formularioa bidaltzen."
                 },
                 "99": {
                     "id": "99",
-                    "trans": "Balio hori ez da HTML5 kolore onargarria."
+                    "trans": "Balio hau ez da HTML5 kolore onargarria."
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Balio hori ez da urtebetetze-egun baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da jaiotze-data onargarri bat."
                 },
                 "101": {
                     "id": "101",
-                    "trans": "Hautatutako aukera ez da egokia."
+                    "trans": "Hautatutako aukera ez da onargarria."
                 },
                 "102": {
                     "id": "102",
@@ -3271,12 +3269,11 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "Balio hori ez da kolore baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da kolore onargarri bat."
                 },
                 "104": {
                     "id": "104",
-                    "trans": "Balio hau ez da herrialde egoki bat."
+                    "trans": "Balio hau ez da herrialde onargarri bat."
                 },
                 "105": {
                     "id": "105",
@@ -3284,21 +3281,19 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "Balio hori ez da data-tarte baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da data-tarte onargarri bat."
                 },
                 "107": {
                     "id": "107",
-                    "trans": "Balio hau ez da data-ordu egoki bat."
+                    "trans": "Balio hau ez da data-ordu onargarri bat."
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Balio hau ez da data egoki bat."
+                    "trans": "Balio hau ez da data onargarri bat."
                 },
                 "109": {
                     "id": "109",
-                    "trans": "Balio hori ez da fitxategi baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da fitxategi onargarri bat."
                 },
                 "110": {
                     "id": "110",
@@ -3306,27 +3301,23 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Balio hori ez da zenbaki oso baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da baliozko zenbaki osoa."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Balio hau ez da hizkuntza egoki bat."
+                    "trans": "Balio hau ez da hizkuntza onargarri bat."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "Balio hori ez da eskualde-konfigurazio baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da lokalizazio onargarri bat."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Balio hori ez da diru-kopuru baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da diru-kopuru onargarri bat."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Balio hori ez da zenbaki baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da zenbaki onargarri bat."
                 },
                 "116": {
                     "id": "116",
@@ -3334,8 +3325,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Balio hori ez da portzentaje baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da ehuneko onargarri bat."
                 },
                 "118": {
                     "id": "118",
@@ -3343,25 +3333,23 @@
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Balio hau ez da ordu egoki bat."
+                    "trans": "Balio hau ez da ordu onargarri bat."
                 },
                 "120": {
                     "id": "120",
-                    "trans": "Balio hori ez da baliozko ordu-eremua."
+                    "trans": "Balio hau ez da baliozko ordu-eremua."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Balio hau ez da baliabideen kokatzaile uniforme (URL) egoki bat."
+                    "trans": "Balio hau ez da URL onargarri bat."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Balio hori ez da bilaketa-termino baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da bilaketa-termino onargarri bat."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Balio hori ez da telefono-zenbaki baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da telefono-zenbaki onargarri bat."
                 },
                 "124": {
                     "id": "124",
@@ -3369,32 +3357,27 @@
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Balio hau ez da posta elektroniko egoki bat."
+                    "trans": "Balio hau ez da posta elektroniko onargarri bat."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Balio hori ez da aukera baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da aukera onargarri bat."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Balio hori ez da tarte baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da tarte onargarri bat."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Balio hori ez da aste baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da aste onargarri bat."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Balio hori ez da UUID baliozkoa.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da UUID onargarri bat."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Beheko muga ezin da goiko muga baino handiagoa izan.",
-                    "state": "needs-review-translation"
+                    "trans": "Beheko muga ezin da goiko muga baino handiagoa izan."
                 }
             },
             "fa": {
@@ -4011,8 +3994,7 @@
                 },
                 "100": {
                     "id": "100",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d0\u05e8\u05d9\u05da \u05dc\u05d9\u05d3\u05d4 \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d0\u05e8\u05d9\u05da \u05dc\u05d9\u05d3\u05d4 \u05d7\u05d5\u05e7\u05d9."
                 },
                 "101": {
                     "id": "101",
@@ -4024,8 +4006,7 @@
                 },
                 "103": {
                     "id": "103",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e6\u05d1\u05e2 \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e6\u05d1\u05e2 \u05d7\u05d5\u05e7\u05d9."
                 },
                 "104": {
                     "id": "104",
@@ -4037,8 +4018,7 @@
                 },
                 "106": {
                     "id": "106",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05e8\u05d5\u05d5\u05d7 \u05ea\u05d0\u05e8\u05d9\u05db\u05d9\u05dd \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05e8\u05d5\u05d5\u05d7 \u05d6\u05de\u05df \u05d7\u05d5\u05e7\u05d9."
                 },
                 "107": {
                     "id": "107",
@@ -4050,8 +4030,7 @@
                 },
                 "109": {
                     "id": "109",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e7\u05d5\u05d1\u05e5 \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e7\u05d5\u05d1\u05e5 \u05d7\u05d5\u05e7\u05d9."
                 },
                 "110": {
                     "id": "110",
@@ -4059,8 +4038,7 @@
                 },
                 "111": {
                     "id": "111",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05e1\u05e4\u05e8 \u05e9\u05dc\u05dd \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05e1\u05e4\u05e8 \u05e9\u05dc\u05dd \u05d7\u05d5\u05e7\u05d9."
                 },
                 "112": {
                     "id": "112",
@@ -4068,18 +4046,15 @@
                 },
                 "113": {
                     "id": "113",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e9\u05e4\u05d4 \u05de\u05e7\u05d5\u05de\u05d9\u05ea \u05d7\u05d5\u05e7\u05d9\u05ea.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d0\u05d6\u05d5\u05e8 \u05d7\u05d5\u05e7\u05d9."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e1\u05db\u05d5\u05dd \u05db\u05e1\u05e3 \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e1\u05db\u05d5\u05dd \u05db\u05e1\u05e3 \u05d7\u05d5\u05e7\u05d9."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05e1\u05e4\u05e8 \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05e1\u05e4\u05e8 \u05d7\u05d5\u05e7\u05d9."
                 },
                 "116": {
                     "id": "116",
@@ -4087,8 +4062,7 @@
                 },
                 "117": {
                     "id": "117",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e2\u05e8\u05da \u05d1\u05d0\u05d7\u05d5\u05d6\u05d9\u05dd \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d0\u05d7\u05d5\u05d6 \u05d7\u05d5\u05e7\u05d9."
                 },
                 "118": {
                     "id": "118",
@@ -4108,13 +4082,11 @@
                 },
                 "122": {
                     "id": "122",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05d5\u05e0\u05d7 \u05d7\u05d9\u05e4\u05d5\u05e9 \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05d5\u05e0\u05d7 \u05d7\u05d9\u05e4\u05d5\u05e9 \u05d7\u05d5\u05e7\u05d9."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05e1\u05e4\u05e8 \u05d8\u05dc\u05e4\u05d5\u05df \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05e1\u05e4\u05e8 \u05d8\u05dc\u05e4\u05d5\u05df \u05d7\u05d5\u05e7\u05d9."
                 },
                 "124": {
                     "id": "124",
@@ -4126,13 +4098,11 @@
                 },
                 "126": {
                     "id": "126",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05d7\u05d5\u05e7\u05d9\u05ea.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05d7\u05d5\u05e7\u05d9\u05ea."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d8\u05d5\u05d5\u05d7 \u05d7\u05d5\u05e7\u05d9.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d8\u05d5\u05d5\u05d7 \u05d7\u05d5\u05e7\u05d9."
                 },
                 "128": {
                     "id": "128",
@@ -4144,8 +4114,7 @@
                 },
                 "130": {
                     "id": "130",
-                    "trans": "\u05d4\u05d2\u05d1\u05d5\u05dc \u05d4\u05ea\u05d7\u05ea\u05d5\u05df \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc \u05dc\u05d4\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc \u05de\u05d4\u05d2\u05d1\u05d5\u05dc \u05d4\u05e2\u05dc\u05d9\u05d5\u05df.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d4\u05d2\u05d1\u05d5\u05dc \u05d4\u05ea\u05d7\u05ea\u05d5\u05df \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc \u05dc\u05d4\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc \u05de\u05d4\u05d2\u05d1\u05d5\u05dc \u05d4\u05e2\u05dc\u05d9\u05d5\u05df."
                 }
             },
             "hr": {
@@ -10755,7 +10724,7 @@
                 },
                 "17": {
                     "id": "17",
-                    "trans": "Saioa hasteko saio huts gehiegi, saiatu berriro geroago."
+                    "trans": "Saioa hasteko saiakera huts gehiegi, saiatu berriro geroago."
                 },
                 "18": {
                     "id": "18",
@@ -10763,12 +10732,11 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "Saioa hasteko huts gehiegi egin dira, saiatu berriro minutu %minutes% geroago."
+                    "trans": "Saioa hasteko huts gehiegi egin dira, saiatu berriro %minutes% minutu geroago."
                 },
                 "20": {
                     "id": "20",
-                    "trans": "Saioa hasteko saiakera huts gehiegi, saiatu berriro %minutes% minututan.",
-                    "state": "needs-review-translation"
+                    "trans": "Saioa hasteko huts gehiegi egin dira, saiatu berriro %minutes% minutu geroago."
                 }
             },
             "fa": {
@@ -24611,7 +24579,7 @@
                 },
                 "27": {
                     "id": "27",
-                    "trans": "Balio hau ez da baliabideen kokatzaile uniforme (URL) egoki bat."
+                    "trans": "Balio hau ez da URL onargarri bat."
                 },
                 "31": {
                     "id": "31",
@@ -24639,8 +24607,7 @@
                 },
                 "37": {
                     "id": "37",
-                    "trans": "Balio hau ez da IP helbide baliozko bat.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da IP helbide egoki bat."
                 },
                 "38": {
                     "id": "38",
@@ -24648,7 +24615,7 @@
                 },
                 "39": {
                     "id": "39",
-                    "trans": "Balio hau ez da kokapen egoki bat."
+                    "trans": "Balio hau ez da lokalizazio onargarri bat."
                 },
                 "40": {
                     "id": "40",
@@ -24696,8 +24663,7 @@
                 },
                 "51": {
                     "id": "51",
-                    "trans": "Ez da aldi baterako karpetarik konfiguratu php.ini-n, edo konfiguratutako karpeta ez da existitzen.",
-                    "state": "needs-review-translation"
+                    "trans": "Ez da aldi baterako karpetarik konfiguratu php.ini-n, edo konfiguratutako karpeta ez da existitzen."
                 },
                 "52": {
                     "id": "52",
@@ -24729,8 +24695,7 @@
                 },
                 "59": {
                     "id": "59",
-                    "trans": "Balio hau ez da Nazioarteko Banku Kontu Zenbaki (IBAN) baliozko bat.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da banku-kontuaren nazioarteko zenbaki (IBAN) egoki bat."
                 },
                 "60": {
                     "id": "60",
@@ -24786,7 +24751,7 @@
                 },
                 "73": {
                     "id": "73",
-                    "trans": "Irudiaren proportzioa oso handia da ({{ ratio }}). Onartutako proportzio handienda {{ max_ratio }} da."
+                    "trans": "Irudiaren proportzioa oso handia da ({{ ratio }}). Onartutako proportzio handiena {{ max_ratio }} da."
                 },
                 "74": {
                     "id": "74",
@@ -24818,8 +24783,7 @@
                 },
                 "81": {
                     "id": "81",
-                    "trans": "Balio hau ez da Negozioaren Identifikazio Kode (BIC) baliozko bat.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da banku-identifikazioko kode (BIC) egoki bat."
                 },
                 "82": {
                     "id": "82",
@@ -24827,8 +24791,7 @@
                 },
                 "83": {
                     "id": "83",
-                    "trans": "Balio hau ez da UUID baliozko bat.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da UUID egoki bat."
                 },
                 "84": {
                     "id": "84",
@@ -24864,11 +24827,11 @@
                 },
                 "92": {
                     "id": "92",
-                    "trans": "Balio hori ez da baliozko ordu-eremua."
+                    "trans": "Balio hau ez da baliozko ordu-eremua."
                 },
                 "93": {
                     "id": "93",
-                    "trans": "Pasahitz hori ezin da erabili, beste gune eta aplikazio batzuetako segurtasun-akatsei esker lortutako pasahitz publikoen zerrendan sartuta dagoelako. Mesedez, erabili beste pasahitz bat."
+                    "trans": "Pasahitz hau datu-urratze batean agerian geratu da, ez da erabili behar. Mesedez, erabili beste pasahitz bat."
                 },
                 "94": {
                     "id": "94",
@@ -24876,7 +24839,7 @@
                 },
                 "95": {
                     "id": "95",
-                    "trans": "Balio hori ez da ostalari-izen onargarria."
+                    "trans": "Balio hau ez da ostalari-izen onargarria."
                 },
                 "96": {
                     "id": "96",
@@ -24892,19 +24855,19 @@
                 },
                 "99": {
                     "id": "99",
-                    "trans": "Balio hori ez da baliozko baloreen nazioarteko identifikazio-zenbaki bat (ISIN)."
+                    "trans": "Balio hau ez da baliozko baloreen nazioarteko identifikazio-zenbaki bat (ISIN)."
                 },
                 "100": {
                     "id": "100",
-                    "trans": "Balio hori baliozko adierazpena izan beharko litzateke."
+                    "trans": "Balio hau baliozko adierazpena izan beharko litzateke."
                 },
                 "101": {
                     "id": "101",
-                    "trans": "Balio hori ez da baliozko CSS kolorea."
+                    "trans": "Balio hau ez da baliozko CSS kolorea."
                 },
                 "102": {
                     "id": "102",
-                    "trans": "Balio hori ez da baliozko CIDR notazioa."
+                    "trans": "Balio hau ez da baliozko CIDR notazioa."
                 },
                 "103": {
                     "id": "103",
@@ -24928,7 +24891,7 @@
                 },
                 "108": {
                     "id": "108",
-                    "trans": "Ez da onartzen script ezberdinetako zenbakiak nahastea"
+                    "trans": "Ez da onartzen script ezberdinetako zenbakiak nahastea."
                 },
                 "109": {
                     "id": "109",
@@ -24936,278 +24899,223 @@
                 },
                 "110": {
                     "id": "110",
-                    "trans": "Fitxategiaren luzapena ez da zuzena ({{ extension }}). Baimendutako luzapenak hauek dira: {{ extensions }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Fitxategiaren luzapena ez da egokia ({{ extension }}). Hauek dira baimendutako luzapenak: {{ extensions }}."
                 },
                 "111": {
                     "id": "111",
-                    "trans": "Detektatutako karaktere-kodetzea ez da zuzena ({{ detected }}). Baimendutako kodetzeak hauek dira: {{ encodings }}.",
-                    "state": "needs-review-translation"
+                    "trans": "Detektatutako karaktere-kodeketa ez da egokia ({{ detected }}). Hauek dira baimendutako kodeketak: {{ encodings }}."
                 },
                 "112": {
                     "id": "112",
-                    "trans": "Balio hau ez da MAC helbide baliozko bat.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da MAC helbide egoki bat."
                 },
                 "113": {
                     "id": "113",
-                    "trans": "URL honek ez du goi-mailako domeinurik.",
-                    "state": "needs-review-translation"
+                    "trans": "URL honek ez du goi-mailako domeinurik."
                 },
                 "114": {
                     "id": "114",
-                    "trans": "Balio hau oso laburra da. Gutxienez hitz bat izan behar du.|Balio hau oso laburra da. Gutxienez {{ min }} hitz izan behar ditu.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau motzegia da. Gutxienez hitz bat eduki beharko luke.|Balio hau motzegia da. Gutxienez {{ min }} hitz eduki beharko lituzke."
                 },
                 "115": {
                     "id": "115",
-                    "trans": "Balio hau oso luzea da. Hitz bat bakarrik izan behar du.|Balio hau oso luzea da. {{ max }} hitz edo gutxiago izan behar ditu.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau luzeegia da. Hitz bakarra eduki beharko luke.|Balio hau luzeegia da. Gehienez {{ max }} hitz eduki beharko lituzke."
                 },
                 "116": {
                     "id": "116",
-                    "trans": "Balio honek ez du ISO 8601 formatuan aste baliozko bat adierazten.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio honek ez du ISO 8601 formatuko aste egoki bat adierazten."
                 },
                 "117": {
                     "id": "117",
-                    "trans": "Balio hau ez da aste balioduna.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da aste egoki bat."
                 },
                 "118": {
                     "id": "118",
-                    "trans": "Balio hau ez luke aste \"{{ min }}\" baino lehenagokoa izan behar.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez litzateke \"{{ min }}\" astea baino lehenagokoa izan behar."
                 },
                 "119": {
                     "id": "119",
-                    "trans": "Balio hau ez luke astearen \"{{ max }}\" ondoren egon behar.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez litzateke \"{{ max }}\" astea baino geroagokoa izan behar."
                 },
                 "121": {
                     "id": "121",
-                    "trans": "Balio hau ez da Twig txantiloi baliozko bat.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da Twig txantiloi egoki bat."
                 },
                 "122": {
                     "id": "122",
-                    "trans": "Fitxategi hau ez da baliozko bideo bat.",
-                    "state": "needs-review-translation"
+                    "trans": "Fitxategi hau ez da bideo egoki bat."
                 },
                 "123": {
                     "id": "123",
-                    "trans": "Ezin izan da bideoaren tamaina detektatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ezin izan da bideoaren tamaina detektatu."
                 },
                 "124": {
                     "id": "124",
-                    "trans": "Bideoaren zabalera handiegia da ({{ width }}px). Baimendutako gehieneko zabalera {{ max_width }}px da.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoaren zabalera handiegia da ({{ width }}px). Onartutako gehienezko zabalera {{ max_width }}px da."
                 },
                 "125": {
                     "id": "125",
-                    "trans": "Bideoaren zabalera txikiegia da ({{ width }}px). Gutxieneko espero den zabalera {{ min_width }}px da.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoaren zabalera txikiegia da ({{ width }}px). Espero den gutxieneko zabalera {{ min_width }}px da."
                 },
                 "126": {
                     "id": "126",
-                    "trans": "Bideoaren altuera handiegia da ({{ height }}px). Onartutako gehienezko altuera {{ max_height }}px da.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoaren altuera handiegia da ({{ height }}px). Onartutako gehienezko altuera {{ max_height }}px da."
                 },
                 "127": {
                     "id": "127",
-                    "trans": "Bideoaren altuera txikiegia da ({{ height }}px). Espero den gutxieneko altuera {{ min_height }}px da.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoaren altuera txikiegia da ({{ height }}px). Espero den gutxieneko altuera {{ min_height }}px da."
                 },
                 "128": {
                     "id": "128",
-                    "trans": "Bideoak pixel gutiegi ditu ({{ pixels }}). Gutxieneko espero den kopurua {{ min_pixels }} da.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoak pixel gutxiegi ditu ({{ pixels }} pixel). Espero den gutxieneko kopurua {{ min_pixels }} pixel da."
                 },
                 "129": {
                     "id": "129",
-                    "trans": "Bideoak pixel gehiegi ditu ({{ pixels }}). Espero den gehieneko kopurua {{ max_pixels }} da.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoak pixel gehiegi ditu ({{ pixels }} pixel). Espero den gehienezko kopurua {{ max_pixels }} pixel da."
                 },
                 "130": {
                     "id": "130",
-                    "trans": "Bideoaren erlazioa handiegia da ({{ ratio }}). Onartutako gehieneko erlazioa {{ max_ratio }} da.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoaren proportzioa handiegia da ({{ ratio }}). Onartutako gehienezko proportzioa {{ max_ratio }} da."
                 },
                 "131": {
                     "id": "131",
-                    "trans": "Bideoaren erlazioa txikiegia da ({{ ratio }}). Espero den gutxieneko erlazioa {{ min_ratio }} da.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoaren proportzioa txikiegia da ({{ ratio }}). Espero den gutxieneko proportzioa {{ min_ratio }} da."
                 },
                 "132": {
                     "id": "132",
-                    "trans": "Bideoa karratua da ({{ width }}x{{ height }}px). Bideo karratuak ez dira onartzen.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoa karratua da ({{ width }}x{{ height }}px). Bideo karratuak ez dira onartzen."
                 },
                 "133": {
                     "id": "133",
-                    "trans": "Bideoa paisaia orientazioan dago ({{ width }}x{{ height }} px). Paisaia-orientazioko bideoak ez daude baimenduta.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoa horizontalki orientatuta dago ({{ width }}x{{ height }}px). Horizontalki orientatutako bideoak ez dira onartzen."
                 },
                 "134": {
                     "id": "134",
-                    "trans": "Bideoa bertikal orientatuta dago ({{ width }}x{{ height }} px). Orientazio bertikaleko bideoak ez dira onartzen.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoa bertikalki orientatuta dago ({{ width }}x{{ height }}px). Bertikalki orientatutako bideoak ez dira onartzen."
                 },
                 "135": {
                     "id": "135",
-                    "trans": "Bideo fitxategia hondatuta dago.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideo-fitxategia hondatuta dago."
                 },
                 "136": {
                     "id": "136",
-                    "trans": "Bideoak korronte anitz ditu. Korronte bakarra onartzen da.",
-                    "state": "needs-review-translation"
+                    "trans": "Bideoak korronte bat baino gehiago ditu. Korronte bakarra onartzen da."
                 },
                 "137": {
                     "id": "137",
-                    "trans": "Bideo kodek onartugabea \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ez da onartzen \"{{ codec }}\" bideo-kodeka."
                 },
                 "138": {
                     "id": "138",
-                    "trans": "Onartzen ez den bideo edukiontzia \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ez da onartzen \"{{ container }}\" bideo-edukiontzia."
                 },
                 "139": {
                     "id": "139",
-                    "trans": "Irudi fitxategia hondatuta dago.",
-                    "state": "needs-review-translation"
+                    "trans": "Irudi-fitxategia hondatuta dago."
                 },
                 "140": {
                     "id": "140",
-                    "trans": "Irudiak pixelen kopuru gutiegi du ({{ pixels }}). Espero den gutxienekoa {{ min_pixels }} da.",
-                    "state": "needs-review-translation"
+                    "trans": "Irudiak pixel gutxiegi ditu ({{ pixels }} pixel). Espero den gutxieneko kopurua {{ min_pixels }} pixel da."
                 },
                 "141": {
                     "id": "141",
-                    "trans": "Irudiak pixel gehiegi ditu ({{ pixels }}). Espero den gehienezko kopurua {{ max_pixels }} da.",
-                    "state": "needs-review-translation"
+                    "trans": "Irudiak pixel gehiegi ditu ({{ pixels }} pixel). Espero den gehienezko kopurua {{ max_pixels }} pixel da."
                 },
                 "142": {
                     "id": "142",
-                    "trans": "Fitxategi-izen honek ez du espero zen karaktere multzoarekin bat egiten.",
-                    "state": "needs-review-translation"
+                    "trans": "Fitxategi-izen hau ez dator bat espero den karaktere-multzoarekin."
                 },
                 "143": {
                     "id": "143",
-                    "trans": "Balio hau ez da baliozko XML bat.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da XML egoki bat."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "Balio hau ez dator bat espero den XSD eskemarekin.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez dator bat espero den XSD eskemarekin."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "XML karga hau handiegia da ({{ size }} byte): {{ limit }} byteko muga gainditzen du.",
-                    "state": "needs-review-translation"
+                    "trans": "XML karga hau handiegia da ({{ size }} byte): {{ limit }} byteko muga gainditzen du."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "Balio hau ez da baliozko cron adierazpena.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da cron adierazpen egoki bat."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "Erreferentziatutako entitatea ez da existitzen.",
-                    "state": "needs-review-translation"
+                    "trans": "Erreferentziatutako entitatea ez da existitzen."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "Balio hau ez da ULID baliozko bat.",
-                    "state": "needs-review-translation"
+                    "trans": "Balio hau ez da ULID egoki bat."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "Fitxategi hau ez da baliozko audio fitxategi bat.",
-                    "state": "needs-review-translation"
+                    "trans": "Fitxategi hau ez da audio-fitxategi egoki bat."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "Audioa laburregia da ({{ duration }} segundo). Gutxieneko espero den iraupena {{ min_duration }} segundo da.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioa laburregia da ({{ duration }} segundo). Espero den gutxieneko iraupena {{ min_duration }} segundo da."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "Audioa luzeegia da ({{ duration }} segundo). Baimendutako gehieneko iraupena {{ max_duration }} segundo da.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioa luzeegia da ({{ duration }} segundo). Onartutako gehienezko iraupena {{ max_duration }} segundo da."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "Ezin izan da audioaren iraupena detektatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ezin izan da audioaren iraupena detektatu."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "Audioaren bit-emaria baxuegia da ({{ bitrate }} bps). Gutxieneko espero den bit-emaria {{ min_bitrate }} bps da.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioaren bit-emaria baxuegia da ({{ bitrate }} bps). Espero den gutxieneko bit-emaria {{ min_bitrate }} bps da."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "Audioaren bit-emaria altuegia da ({{ bitrate }} bps). Baimendutako gehieneko bit-emaria {{ max_bitrate }} bps da.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioaren bit-emaria altuegia da ({{ bitrate }} bps). Onartutako gehienezko bit-emaria {{ max_bitrate }} bps da."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "Ezin izan da audioaren bit-emaria detektatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ezin izan da audioaren bit-emaria detektatu."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "Onartzen ez den audioaren lagin-maiztasuna ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "Audioaren lagin-maiztasuna ez da onartzen ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "Ezin izan da audioaren lagin-maiztasuna detektatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ezin izan da audioaren lagin-maiztasuna detektatu."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "Audioak kanal gutxiegi ditu ({{ channels }}). Gutxieneko espero den kopurua {{ min_channels }} da.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioak kanal gutxiegi ditu ({{ channels }}). Espero den gutxieneko kopurua {{ min_channels }} da."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "Audioak kanal gehiegi ditu ({{ channels }}). Espero den gehieneko kopurua {{ max_channels }} da.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioak kanal gehiegi ditu ({{ channels }}). Espero den gehienezko kopurua {{ max_channels }} da."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "Ezin izan da audio kanalen kopurua detektatu.",
-                    "state": "needs-review-translation"
+                    "trans": "Ezin izan da audio-kanalen kopurua detektatu."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "Audio fitxategia hondatuta dago.",
-                    "state": "needs-review-translation"
+                    "trans": "Audio-fitxategia hondatuta dago."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "Audioak korronte anitz ditu. Korronte bakarra onartzen da.",
-                    "state": "needs-review-translation"
+                    "trans": "Audioak korronte bat baino gehiago ditu. Korronte bakarra onartzen da."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "Audio kodek onartugabea \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ez da onartzen \"{{ codec }}\" audio-kodeka."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "Onartzen ez den audio edukiontzia \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "Ez da onartzen \"{{ container }}\" audio-edukiontzia."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "Fitxategiak ez du audio korronterik.",
-                    "state": "needs-review-translation"
+                    "trans": "Fitxategiak ez du audio korronterik."
                 }
             },
             "fa": {
@@ -27875,7 +27783,7 @@
                 },
                 "9": {
                     "id": "9",
-                    "trans": "\u05e9\u05d3\u05d4 \u05d6\u05d4 \u05dc\u05d0 \u05d4\u05d9\u05d4 \u05e6\u05e4\u05d5\u05d9"
+                    "trans": "\u05e9\u05d3\u05d4 \u05d6\u05d4 \u05dc\u05d0 \u05d4\u05d9\u05d4 \u05e6\u05e4\u05d5\u05d9."
                 },
                 "10": {
                     "id": "10",
@@ -27915,7 +27823,7 @@
                 },
                 "19": {
                     "id": "19",
-                    "trans": "\u05d4\u05e2\u05e8\u05da \u05d0\u05e8\u05d5\u05da \u05de\u05d9\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc {{ limit }} \u05ea\u05d5\u05d5\u05d9\u05dd \u05dc\u05db\u05dc \u05d4\u05d9\u05d5\u05ea\u05e8.|\u05d4\u05e2\u05e8\u05da \u05d0\u05e8\u05d5\u05da \u05de\u05d9\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc {{ limit }} \u05ea\u05d5\u05d5\u05d9\u05dd \u05dc\u05db\u05dc \u05d4\u05d9\u05d5\u05ea\u05e8."
+                    "trans": "\u05d4\u05e2\u05e8\u05da \u05d0\u05e8\u05d5\u05da \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc {{ limit }} \u05ea\u05d5\u05d5\u05d9\u05dd \u05dc\u05db\u05dc \u05d4\u05d9\u05d5\u05ea\u05e8.|\u05d4\u05e2\u05e8\u05da \u05d0\u05e8\u05d5\u05da \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc {{ limit }} \u05ea\u05d5\u05d5\u05d9\u05dd \u05dc\u05db\u05dc \u05d4\u05d9\u05d5\u05ea\u05e8."
                 },
                 "20": {
                     "id": "20",
@@ -27923,7 +27831,7 @@
                 },
                 "21": {
                     "id": "21",
-                    "trans": "\u05d4\u05e2\u05e8\u05da \u05e7\u05e6\u05e8 \u05de\u05d9\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc {{ limit }} \u05ea\u05d5\u05d5\u05d9\u05dd \u05dc\u05e4\u05d7\u05d5\u05ea.|\u05d4\u05e2\u05e8\u05da \u05e7\u05e6\u05e8 \u05de\u05d9\u05d3\u05d9. \u05d4\u05e2\u05e8\u05da \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc {{ limit }} \u05ea\u05d5\u05d5\u05d9\u05dd \u05dc\u05e4\u05d7\u05d5\u05ea."
+                    "trans": "\u05d4\u05e2\u05e8\u05da \u05e7\u05e6\u05e8 \u05de\u05d3\u05d9. \u05d4\u05d5\u05d0 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc {{ limit }} \u05ea\u05d5\u05d5\u05d9\u05dd \u05dc\u05e4\u05d7\u05d5\u05ea.|\u05d4\u05e2\u05e8\u05da \u05e7\u05e6\u05e8 \u05de\u05d3\u05d9. \u05d4\u05e2\u05e8\u05da \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05db\u05d9\u05dc {{ limit }} \u05ea\u05d5\u05d5\u05d9\u05dd \u05dc\u05e4\u05d7\u05d5\u05ea."
                 },
                 "22": {
                     "id": "22",
@@ -27963,7 +27871,7 @@
                 },
                 "34": {
                     "id": "34",
-                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05dc\u05e2\u05dc\u05d5\u05ea \u05d0\u05ea \u05d4\u05e7\u05d5\u05d1\u05e5."
+                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05e2\u05dc\u05d5\u05ea \u05d0\u05ea \u05d4\u05e7\u05d5\u05d1\u05e5."
                 },
                 "35": {
                     "id": "35",
@@ -28211,7 +28119,7 @@
                 },
                 "96": {
                     "id": "96",
-                    "trans": "\u05de\u05e1\u05e4\u05e8 \u05d4\u05d0\u05dc\u05de\u05e0\u05d8\u05d9\u05dd \u05d1\u05d0\u05d5\u05e1\u05e3 \u05d6\u05d4 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05d9\u05d5\u05ea \u05de\u05db\u05e4\u05d9\u05dc \u05e9\u05dc {{ compared_value }}."
+                    "trans": "\u05de\u05e1\u05e4\u05e8 \u05d4\u05d0\u05dc\u05de\u05e0\u05d8\u05d9\u05dd \u05d1\u05d0\u05d5\u05e1\u05e3 \u05d6\u05d4 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05d9\u05d5\u05ea \u05db\u05e4\u05d5\u05dc\u05d4 \u05e9\u05dc {{ compared_value }}."
                 },
                 "97": {
                     "id": "97",
@@ -28395,118 +28303,95 @@
                 },
                 "143": {
                     "id": "143",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 XML \u05ea\u05e7\u05d9\u05df.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 XML \u05ea\u05e7\u05d9\u05df."
                 },
                 "144": {
                     "id": "144",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d5\u05d0\u05dd \u05dc\u05e1\u05db\u05de\u05ea \u05d4-XSD \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d5\u05d0\u05dd \u05dc\u05e1\u05db\u05de\u05ea \u05d4-XSD \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4."
                 },
                 "145": {
                     "id": "145",
-                    "trans": "\u05de\u05d8\u05e2\u05df \u05d4-XML \u05d4\u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05de\u05d3\u05d9 ({{ size }} \u05d1\u05ea\u05d9\u05dd): \u05d4\u05d5\u05d0 \u05d7\u05d5\u05e8\u05d2 \u05de\u05d4\u05de\u05d2\u05d1\u05dc\u05d4 \u05e9\u05dc {{ limit }} \u05d1\u05ea\u05d9\u05dd.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05ea\u05d5\u05db\u05df \u05d4-XML \u05d4\u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05de\u05d3\u05d9 ({{ size }} \u05d1\u05ea\u05d9\u05dd): \u05d4\u05d5\u05d0 \u05d7\u05d5\u05e8\u05d2 \u05de\u05d4\u05de\u05d2\u05d1\u05dc\u05d4 \u05e9\u05dc {{ limit }} \u05d1\u05ea\u05d9\u05dd."
                 },
                 "146": {
                     "id": "146",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d1\u05d9\u05d8\u05d5\u05d9 cron \u05ea\u05e7\u05d9\u05df.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05d1\u05d9\u05d8\u05d5\u05d9 cron \u05ea\u05e7\u05d9\u05df."
                 },
                 "147": {
                     "id": "147",
-                    "trans": "\u05d4\u05d9\u05e9\u05d5\u05ea \u05e9\u05d0\u05dc\u05d9\u05d4 \u05de\u05e4\u05e0\u05d9\u05dd \u05d0\u05d9\u05e0\u05d4 \u05e7\u05d9\u05d9\u05de\u05ea.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d4\u05d9\u05e9\u05d5\u05ea \u05e9\u05d0\u05dc\u05d9\u05d4 \u05de\u05e4\u05e0\u05d9\u05dd \u05d0\u05d9\u05e0\u05d4 \u05e7\u05d9\u05d9\u05de\u05ea."
                 },
                 "148": {
                     "id": "148",
-                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 ULID \u05ea\u05e7\u05e3.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e2\u05e8\u05da \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 ULID \u05ea\u05e7\u05e3."
                 },
                 "149": {
                     "id": "149",
-                    "trans": "\u05e7\u05d5\u05d1\u05e5 \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e7\u05d5\u05d1\u05e5 \u05d0\u05d5\u05d3\u05d9\u05d5 \u05ea\u05e7\u05d9\u05df.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e7\u05d5\u05d1\u05e5 \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05e7\u05d5\u05d1\u05e5 \u05d0\u05d5\u05d3\u05d9\u05d5 \u05ea\u05e7\u05d9\u05df."
                 },
                 "150": {
                     "id": "150",
-                    "trans": "\u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05e7\u05e6\u05e8 \u05de\u05d3\u05d9 ({{ duration }} \u05e9\u05e0\u05d9\u05d5\u05ea). \u05de\u05e9\u05da \u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05e6\u05e4\u05d5\u05d9 \u05d4\u05d5\u05d0 {{ min_duration }} \u05e9\u05e0\u05d9\u05d5\u05ea.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05e7\u05e6\u05e8 \u05de\u05d3\u05d9 ({{ duration }} \u05e9\u05e0\u05d9\u05d5\u05ea). \u05de\u05e9\u05da \u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05e6\u05e4\u05d5\u05d9 \u05d4\u05d5\u05d0 {{ min_duration }} \u05e9\u05e0\u05d9\u05d5\u05ea."
                 },
                 "151": {
                     "id": "151",
-                    "trans": "\u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05d0\u05e8\u05d5\u05da \u05de\u05d3\u05d9 ({{ duration }} \u05e9\u05e0\u05d9\u05d5\u05ea). \u05de\u05e9\u05da \u05de\u05e8\u05d1\u05d9 \u05de\u05d5\u05ea\u05e8 \u05d4\u05d5\u05d0 {{ max_duration }} \u05e9\u05e0\u05d9\u05d5\u05ea.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05d0\u05e8\u05d5\u05da \u05de\u05d3\u05d9 ({{ duration }} \u05e9\u05e0\u05d9\u05d5\u05ea). \u05de\u05e9\u05da \u05de\u05e8\u05d1\u05d9 \u05de\u05d5\u05ea\u05e8 \u05d4\u05d5\u05d0 {{ max_duration }} \u05e9\u05e0\u05d9\u05d5\u05ea."
                 },
                 "152": {
                     "id": "152",
-                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05ea \u05de\u05e9\u05da \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05ea \u05de\u05e9\u05da \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5."
                 },
                 "153": {
                     "id": "153",
-                    "trans": "\u05e7\u05e6\u05d1 \u05d4\u05e1\u05d9\u05d1\u05d9\u05d5\u05ea \u05e9\u05dc \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05e0\u05de\u05d5\u05da \u05de\u05d3\u05d9 ({{ bitrate }} bps). \u05e7\u05e6\u05d1 \u05e1\u05d9\u05d1\u05d9\u05d5\u05ea \u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05e6\u05e4\u05d5\u05d9 \u05d4\u05d5\u05d0 {{ min_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e7\u05e6\u05d1 \u05d4\u05e1\u05d9\u05d1\u05d9\u05d5\u05ea \u05e9\u05dc \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05e0\u05de\u05d5\u05da \u05de\u05d3\u05d9 ({{ bitrate }} bps). \u05e7\u05e6\u05d1 \u05e1\u05d9\u05d1\u05d9\u05d5\u05ea \u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05e6\u05e4\u05d5\u05d9 \u05d4\u05d5\u05d0 {{ min_bitrate }} bps."
                 },
                 "154": {
                     "id": "154",
-                    "trans": "\u05e7\u05e6\u05d1 \u05d4\u05e1\u05d9\u05d1\u05d9\u05d5\u05ea \u05e9\u05dc \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05d2\u05d1\u05d5\u05d4 \u05de\u05d3\u05d9 ({{ bitrate }} bps). \u05e7\u05e6\u05d1 \u05e1\u05d9\u05d1\u05d9\u05d5\u05ea \u05de\u05e8\u05d1\u05d9 \u05de\u05d5\u05ea\u05e8 \u05d4\u05d5\u05d0 {{ max_bitrate }} bps.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e7\u05e6\u05d1 \u05d4\u05e1\u05d9\u05d1\u05d9\u05d5\u05ea \u05e9\u05dc \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05d2\u05d1\u05d5\u05d4 \u05de\u05d3\u05d9 ({{ bitrate }} bps). \u05e7\u05e6\u05d1 \u05e1\u05d9\u05d1\u05d9\u05d5\u05ea \u05de\u05e8\u05d1\u05d9 \u05de\u05d5\u05ea\u05e8 \u05d4\u05d5\u05d0 {{ max_bitrate }} bps."
                 },
                 "155": {
                     "id": "155",
-                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05ea \u05e7\u05e6\u05d1 \u05d4\u05e1\u05d9\u05d1\u05d9\u05d5\u05ea \u05e9\u05dc \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05ea \u05e7\u05e6\u05d1 \u05d4\u05e1\u05d9\u05d1\u05d9\u05d5\u05ea \u05e9\u05dc \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5."
                 },
                 "156": {
                     "id": "156",
-                    "trans": "\u05e7\u05e6\u05d1 \u05d3\u05d2\u05d9\u05de\u05ea \u05d0\u05d5\u05d3\u05d9\u05d5 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05e0\u05ea\u05de\u05da ({{ sample_rate }} Hz).",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e7\u05e6\u05d1 \u05d3\u05d2\u05d9\u05de\u05ea \u05d0\u05d5\u05d3\u05d9\u05d5 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05e0\u05ea\u05de\u05da ({{ sample_rate }} Hz)."
                 },
                 "157": {
                     "id": "157",
-                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05ea \u05e7\u05e6\u05d1 \u05d4\u05d3\u05d2\u05d9\u05de\u05d4 \u05e9\u05dc \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05ea \u05e7\u05e6\u05d1 \u05d4\u05d3\u05d2\u05d9\u05de\u05d4 \u05e9\u05dc \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5."
                 },
                 "158": {
                     "id": "158",
-                    "trans": "\u05dc\u05d0\u05d5\u05d3\u05d9\u05d5 \u05d9\u05e9 \u05de\u05e2\u05d8 \u05de\u05d3\u05d9 \u05e2\u05e8\u05d5\u05e6\u05d9\u05dd ({{ channels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ min_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05d0\u05d5\u05d3\u05d9\u05d5 \u05d9\u05e9 \u05de\u05e2\u05d8 \u05de\u05d3\u05d9 \u05e2\u05e8\u05d5\u05e6\u05d9\u05dd ({{ channels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ min_channels }}."
                 },
                 "159": {
                     "id": "159",
-                    "trans": "\u05dc\u05d0\u05d5\u05d3\u05d9\u05d5 \u05d9\u05e9 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e2\u05e8\u05d5\u05e6\u05d9\u05dd ({{ channels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05e8\u05d1\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ max_channels }}.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05d0\u05d5\u05d3\u05d9\u05d5 \u05d9\u05e9 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05e2\u05e8\u05d5\u05e6\u05d9\u05dd ({{ channels }}). \u05d4\u05db\u05de\u05d5\u05ea \u05d4\u05de\u05e8\u05d1\u05d9\u05ea \u05d4\u05e6\u05e4\u05d5\u05d9\u05d4 \u05d4\u05d9\u05d0 {{ max_channels }}."
                 },
                 "160": {
                     "id": "160",
-                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05ea \u05de\u05e1\u05e4\u05e8 \u05e2\u05e8\u05d5\u05e6\u05d9 \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05ea \u05de\u05e1\u05e4\u05e8 \u05e2\u05e8\u05d5\u05e6\u05d9 \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5."
                 },
                 "161": {
                     "id": "161",
-                    "trans": "\u05e7\u05d5\u05d1\u05e5 \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05e4\u05d2\u05d5\u05dd.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05e7\u05d5\u05d1\u05e5 \u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05e4\u05d2\u05d5\u05dd."
                 },
                 "162": {
                     "id": "162",
-                    "trans": "\u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05de\u05db\u05d9\u05dc \u05de\u05e1\u05e4\u05e8 \u05d6\u05e8\u05de\u05d9\u05dd. \u05de\u05d5\u05ea\u05e8 \u05d6\u05e8\u05dd \u05d0\u05d7\u05d3 \u05d1\u05dc\u05d1\u05d3.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d4\u05d0\u05d5\u05d3\u05d9\u05d5 \u05de\u05db\u05d9\u05dc \u05de\u05e1\u05e4\u05e8 \u05d6\u05e8\u05de\u05d9\u05dd. \u05de\u05d5\u05ea\u05e8 \u05d6\u05e8\u05dd \u05d0\u05d7\u05d3 \u05d1\u05dc\u05d1\u05d3."
                 },
                 "163": {
                     "id": "163",
-                    "trans": "\u05de\u05e7\u05d5\u05d3\u05d3 \u05d0\u05d5\u05d3\u05d9\u05d5 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05e0\u05ea\u05de\u05da \"{{ codec }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u05de\u05e7\u05d5\u05d3\u05d3 \u05d0\u05d5\u05d3\u05d9\u05d5 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05e0\u05ea\u05de\u05da \"{{ codec }}\"."
                 },
                 "164": {
                     "id": "164",
-                    "trans": "\u05de\u05d9\u05db\u05dc \u05d0\u05d5\u05d3\u05d9\u05d5 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05e0\u05ea\u05de\u05da \"{{ container }}\".",
-                    "state": "needs-review-translation"
+                    "trans": "\u05de\u05d9\u05db\u05dc \u05d0\u05d5\u05d3\u05d9\u05d5 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05e0\u05ea\u05de\u05da \"{{ container }}\"."
                 },
                 "165": {
                     "id": "165",
-                    "trans": "\u05d4\u05e7\u05d5\u05d1\u05e5 \u05d0\u05d9\u05e0\u05d5 \u05de\u05db\u05d9\u05dc \u05d6\u05e8\u05dd \u05d0\u05d5\u05d3\u05d9\u05d5.",
-                    "state": "needs-review-translation"
+                    "trans": "\u05d4\u05e7\u05d5\u05d1\u05e5 \u05d0\u05d9\u05e0\u05d5 \u05de\u05db\u05d9\u05dc \u05d6\u05e8\u05dd \u05d0\u05d5\u05d3\u05d9\u05d5."
                 }
             },
             "hr": {
