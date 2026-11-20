@@ -1,21 +1,29 @@
 {% extends 'base.html.twig' %}
 
+{% block title %}{{ title }} Translation status{% endblock %}
+
 {% block body %}
     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-        <a class="navbar-brand" href="#">Symfony Translation status</a>
+        <a class="navbar-brand" href="#">{{ title }} Translation status</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse"
                 data-target="#navbarsExampleDefault"
                 aria-controls="navbarsExampleDefault" aria-expanded="false"
                 aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav">
+                <li class="nav-item{% if project.name == 'symfony' %} active{% endif %}"><a class="nav-link" href="/">Symfony</a></li>
+                <li class="nav-item{% if project.name == 'ux' %} active{% endif %}"><a class="nav-link" href="/ux.html">Symfony UX</a></li>
+            </ul>
+        </div>
     </nav>
 
     <main role="main" class="container">
 
-        <h1>Symfony Translation status</h1>
+        <h1>{{ title }} Translation status</h1>
         <p class="lead">
-            This page shows you an overview over missing translations in Symfony.<br>
+            This page shows you an overview over missing translations in {{ title }}.<br>
             If you speak a language with missing translations, I would LOVE if you
             made a pull request.
         </p>
@@ -70,8 +78,8 @@
 
         <p>
             Before you begin, make a comment on the related issue to tell others
-            that you started working on it. Now, check out branch <b>{{ version }}</b>,
-            that is the lowest supported branch.
+            that you started working on it. Now, check out branch <b>{{ version }}</b>{% if project.branch is null %},
+            that is the lowest supported branch{% endif %}.
             All new translations should always go to that branch.
             Then, for each missing translation in your language, copy the translations
             from English. Then translate the &lt;target&gt;.

@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Controller;
 
 use App\Exception\InvalidVersionException;
+use App\Model\Project;
 use App\Service\DataProvider;
 use App\Service\PathProvider;
 use App\Service\VersionProvider;
@@ -22,19 +23,37 @@ final class StartpageController extends AbstractController
 
     public function index(): Response
     {
-        $version = $this->versionProvider->getLowestSupportedVersion();
+        return $this->renderProject(Project::fromName('symfony'));
+    }
+
+    public function ux(): Response
+    {
+        return $this->renderProject(Project::fromName('ux'));
+    }
+
+    private function renderProject(Project $project): Response
+    {
+        $version = $project->branch ?? $this->versionProvider->getLowestSupportedVersion();
         try {
-            $data = $this->dataProvider->getData($version);
+            $data = $this->dataProvider->getData($version, $project);
         } catch (InvalidVersionException) {
             return new Response('Not Found', 404);
         }
 
         $componentPaths = [];
-        foreach ($this->pathProvider->getComponentPaths() as $code => $path) {
-            $componentPaths[$this->pathProvider->getComponentName($code)] = $path;
+        if ('symfony' === $project->name) {
+            foreach ($this->pathProvider->getComponentPaths() as $code => $path) {
+                $componentPaths[$this->pathProvider->getComponentName($code)] = $path;
+            }
+        } else {
+            foreach ($data['English (en)'] ?? [] as $missingTranslation) {
+                $componentPaths[$missingTranslation->getComponentName()] = \dirname($missingTranslation->getFile());
+            }
         }
 
         return $this->render('startpage.html.twig', [
+            'project' => $project,
+            'title' => $project->title,
             'version' => $version,
             'data' => $data,
             'availableVersions' => $this->dataProvider->getAvailableVersions(),

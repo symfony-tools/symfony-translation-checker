@@ -9,6 +9,7 @@ use App\Exception\InvalidVersionException;
 use App\Model\ComponentCollection;
 use App\Model\GithubIssue;
 use App\Model\MissingTranslation;
+use App\Model\Project;
 use Github\Client;
 use Symfony\Component\Intl\Languages;
 
@@ -24,15 +25,24 @@ final class DataProvider
     /**
      * @return array<string, ComponentCollection>
      */
-    public function getData(string $version): array
+    public function getData(string $version, Project $project): array
     {
-        if (!in_array($version, $this->getAvailableVersions())) {
-            throw new InvalidVersionException();
+        if ('symfony' === $project->name) {
+            if (!in_array($version, $this->getAvailableVersions())) {
+                throw new InvalidVersionException();
+            }
+
+            $file = $this->dataPath.sprintf('/%s.json', $version);
+        } else {
+            $file = sprintf('%s/%s/%s.json', $this->dataPath, $project->name, $version);
+            if (!is_file($file)) {
+                throw new InvalidVersionException(sprintf('The data file "%s" does not exist.', $file));
+            }
         }
 
-        $data = $this->prepareData($version);
+        $data = $this->prepareData($file);
         $paginator = new \Github\ResultPager($this->github);
-        $issues = $paginator->fetchAll($this->github->search(), 'issues', [sprintf('repo:%s/%s "%s" is:open', OpenIssuesCommand::REPO_ORG, OpenIssuesCommand::REPO_NAME, OpenIssuesCommand::getIssueTitle())]);
+        $issues = $paginator->fetchAll($this->github->search(), 'issues', [sprintf('repo:%s/%s "%s" is:open', $project->org, $project->repo, OpenIssuesCommand::getIssueTitle())]);
         foreach ($issues as $issue) {
             foreach ($data as $componentCollection) {
                 if ($issue['title'] === sprintf('Missing translations for %s', $componentCollection->getLanguage())) {
@@ -47,9 +57,8 @@ final class DataProvider
     /**
      * @return array<string, ComponentCollection>
      */
-    private function prepareData(string $version): array
+    private function prepareData(string $file): array
     {
-        $file = $this->dataPath.sprintf('/%s.json', $version);
         $data = json_decode(file_get_contents($file), true, 512, \JSON_THROW_ON_ERROR);
 
         $missing = [];
@@ -97,10 +106,11 @@ final class DataProvider
             $language = $this->getLanguageName($locale);
             $collectionData = [];
             foreach ($components as $componentCode => $rows) {
+                // Symfony UX data files list their own catalogues
                 $collectionData[] = new MissingTranslation(
-                    $this->pathProvider->getPath($componentCode, $locale),
+                    isset($data['files']) ? sprintf($data['files'][$componentCode], $locale) : $this->pathProvider->getPath($componentCode, $locale),
                     $rows,
-                    $this->pathProvider->getComponentName($componentCode),
+                    isset($data['files']) ? $componentCode : $this->pathProvider->getComponentName($componentCode),
                     $locale,
                     $language,
                     count($available[$componentCode]),

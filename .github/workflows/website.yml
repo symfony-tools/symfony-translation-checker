@@ -40,6 +40,12 @@ jobs:
               cd $WORKDIR/source && php bin/console app:trans-stats $WORKDIR/symfony > config/data/$version.json
           done
 
+      - name: Generate Symfony UX data file
+        run: |
+          git clone --depth 1 --branch 3.x https://github.com/symfony/ux ux
+          mkdir -p source/config/data/ux
+          cd source && php bin/console app:trans-stats --project=ux ../ux > config/data/ux/3.x.json
+
       - name: Commit & push the new files
         id: commit_push
         run: |

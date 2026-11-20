@@ -29,6 +29,7 @@ final class BuildWebsiteCommand extends Command
 
         $pages = [
             'index.html' => '',
+            'ux.html' => '/ux.html',
         ];
 
         foreach ($pages as $file => $url) {
